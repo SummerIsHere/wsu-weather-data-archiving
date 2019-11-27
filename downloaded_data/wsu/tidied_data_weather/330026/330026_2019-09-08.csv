@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, 2<sup>nd</sup> Air Temp °F, Dew Point °F, Rel Hum %, Leaf Wet u., Wind Dir @ Speed mph, Wind Gust mph, 8 in. Soil Tmp °F, Tot Prec in, Solar Rad W/m²,Location,Station ID,Station Name,Download Timestamp
+2019-09-08,00:15,60.1,60.4,59.3,97.1,0.82,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,00:30,60.0,60.3,59.2,97.1,0.82,S@0.0,1.4,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,00:45,59.9,60.2,59.1,97.2,0.82,S@0.7,3.5,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,01:00,59.7,60.1,58.9,97.1,0.83,S@0.4,3.5,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,01:15,59.4,59.9,58.6,97.0,0.83,S@1.0,4.6,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,01:30,59.4,59.8,58.5,96.8,0.83,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,01:45,59.4,59.8,58.6,96.8,0.83,NE@0.0,1.4,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,02:00,59.3,59.7,58.4,96.9,0.83,E@0.1,1.7,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,02:15,59.0,59.4,58.1,96.8,0.83,S@0.1,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,02:30,58.8,59.2,57.9,96.7,0.83,SE@0.0,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,02:45,58.7,59.1,57.8,96.6,0.84,SW@0.0,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,03:00,58.8,59.1,57.9,96.7,0.84,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,03:15,58.8,59.2,57.9,96.7,0.84,S@0.0,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,03:30,58.8,59.2,57.9,96.8,0.84,S@0.2,2.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,03:45,58.8,59.2,57.9,96.8,0.84,SW@0.3,3.9,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,04:00,58.7,59.2,57.8,96.7,0.84,S@0.8,3.5,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,04:15,58.6,59.1,57.7,96.5,0.85,S@0.1,2.1,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,04:30,58.5,59.0,57.5,96.5,0.85,S@0.1,1.7,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,04:45,58.6,59.0,57.6,96.4,0.86,S@0.5,3.5,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,05:00,58.6,59.0,57.6,96.4,0.86,S@0.2,3.1,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,05:15,58.4,58.8,57.4,96.4,0.87,S@0.7,4.2,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,05:30,58.3,58.7,57.3,96.5,0.86,E@0.4,3.1,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,05:45,58.3,58.6,57.4,96.7,0.85,S@0.4,4.2,61.9,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,06:00,58.3,58.6,57.4,96.8,0.84,SE@0.1,3.1,61.9,0.01,2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,06:15,58.2,58.6,57.4,97.0,0.82,S@0.4,3.9,61.9,0.01,3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,06:30,58.2,58.6,57.4,97.0,0.8,S@0.4,5.3,61.9,0.0,6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,06:45,58.2,58.6,57.5,97.1,0.8,S@0.7,5.3,61.9,0.01,11,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,07:00,58.3,58.7,57.6,97.2,0.8,S@0.9,4.2,61.9,0.0,15,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,07:15,58.4,58.8,57.6,97.2,0.81,S@0.7,6.0,61.9,0.0,21,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,07:30,58.5,58.8,57.7,97.3,0.79,S@1.1,4.2,61.8,0.01,31,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,07:45,58.7,59.1,58.0,97.3,0.79,S@0.7,4.9,61.8,0.0,50,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,08:00,58.9,59.3,58.2,97.3,0.79,S@1.0,4.6,61.8,0.0,52,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,08:15,58.9,59.3,58.1,97.3,0.79,S@2.0,8.2,61.8,0.0,62,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,08:30,59.1,59.5,58.3,97.2,0.8,S@1.7,6.7,61.8,0.0,84,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,08:45,59.3,59.7,58.5,97.0,0.81,S@2.3,6.4,61.8,0.0,80,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,09:00,59.4,59.8,58.5,96.9,0.81,S@1.8,5.7,61.8,0.0,74,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,09:15,59.9,60.3,59.0,96.9,0.82,S@1.5,6.7,61.8,0.0,119,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,09:30,60.2,60.7,59.3,96.7,0.81,S@2.8,6.4,61.7,0.0,163,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,09:45,60.7,61.2,59.7,96.3,0.81,S@2.9,6.7,61.7,0.0,211,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,10:00,61.4,61.8,60.3,96.1,0.83,S@1.9,7.1,61.7,0.0,276,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,10:15,61.6,62.1,60.4,95.8,0.83,S@1.8,5.3,61.7,0.01,196,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,10:30,61.6,62.1,60.4,95.6,0.82,S@1.9,3.9,61.7,0.0,180,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,10:45,61.9,62.4,60.5,95.2,0.83,S@1.8,4.9,61.7,0.0,151,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,11:00,62.5,63.1,60.9,94.2,0.82,S@2.2,5.3,61.7,0.0,255,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,11:15,63.4,64.0,61.1,92.1,0.78,S@2.3,5.7,61.7,0.0,245,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,11:30,64.3,64.9,61.4,90.3,0.67,S@1.7,6.0,61.7,0.0,273,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,11:45,64.9,65.5,61.2,87.8,0.4,S@0.6,4.6,61.6,0.0,282,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,12:00,65.6,66.1,61.2,85.7,0.05,S@2.1,4.9,61.6,0.0,344,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,12:15,66.1,66.7,61.5,84.8,0.0,S@1.6,4.9,61.6,0.0,329,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,12:30,66.5,67.1,61.0,82.3,0.0,S@0.6,3.9,61.6,0.0,358,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,12:45,66.8,67.4,60.6,80.2,0.0,SE@1.2,4.6,61.6,0.0,322,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,13:00,67.4,67.8,60.4,78.2,0.0,NE@0.6,4.9,61.6,0.0,292,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,13:15,67.4,67.7,60.2,77.9,0.0,E@1.2,3.9,61.6,0.0,210,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,13:30,67.6,68.0,61.0,79.1,0.0,E@2.9,4.9,61.6,0.0,339,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,13:45,68.2,68.6,61.2,78.0,0.0,E@3.0,5.3,61.6,0.0,395,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,14:00,67.6,67.9,60.3,77.5,0.0,E@2.0,5.3,61.6,0.0,198,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,14:15,67.3,67.5,60.8,79.5,0.58,N @0.0,0.0,61.6,0.01,132,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,14:30,66.2,66.5,61.5,84.6,0.82,N @0.0,0.0,61.7,0.0,82,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,14:45,64.8,65.0,61.2,87.9,0.82,NW@2.7,7.8,61.7,0.08,29,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,15:00,63.4,63.5,61.1,92.3,0.73,N@2.6,5.7,61.7,0.05,58,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,15:15,63.3,63.6,61.4,93.4,0.72,N @2.7,6.0,61.7,0.01,176,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,15:30,64.7,65.1,62.2,91.5,0.72,NE@2.5,4.9,61.8,0.0,512,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,15:45,65.5,65.8,61.7,87.6,0.73,NE@3.2,6.4,61.8,0.0,378,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,16:00,64.9,65.2,61.0,87.0,0.68,E@1.7,4.6,61.8,0.0,213,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,16:15,65.7,66.0,61.1,84.9,0.57,N@0.3,3.1,61.8,0.0,298,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,16:30,65.8,66.0,61.0,84.5,0.39,E@0.5,3.9,61.8,0.0,158,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,16:45,64.7,65.1,61.1,87.9,0.23,E@0.1,2.1,61.8,0.0,83,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,17:00,64.5,64.8,61.4,89.6,0.12,N @0.0,0.0,61.9,0.0,78,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,17:15,64.2,64.6,61.1,89.7,0.06,S@0.3,2.8,61.9,0.0,78,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,17:30,63.9,64.2,60.9,90.0,0.03,E@0.1,1.4,61.9,0.0,52,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,17:45,63.4,63.7,61.0,91.8,0.02,N @0.0,0.0,62.0,0.0,32,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,18:00,63.0,63.3,60.8,92.7,0.02,N @0.0,0.0,62.0,0.0,22,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,18:15,62.6,62.9,60.6,93.1,0.02,N @0.0,0.0,62.0,0.0,15,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,18:30,62.3,62.5,60.5,93.9,0.03,E@0.1,2.4,62.0,0.0,6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,18:45,61.7,62.0,60.2,94.7,0.05,E@0.3,2.4,62.1,0.0,2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,19:00,60.8,61.1,59.4,94.9,0.07,S@0.1,2.1,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,19:15,60.2,60.5,58.9,95.3,0.11,E@0.2,3.1,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,19:30,60.1,60.3,58.8,95.6,0.15,E@0.4,2.8,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,19:45,59.9,60.2,58.7,95.8,0.18,SW@0.1,1.7,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,20:00,60.0,60.3,58.9,96.0,0.21,E@0.4,2.1,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,20:15,59.9,60.1,58.8,96.2,0.23,S@0.2,2.4,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,20:30,59.9,60.1,58.9,96.4,0.25,SW@0.0,1.4,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,20:45,60.0,60.2,59.0,96.6,0.26,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,21:00,59.9,60.1,58.9,96.7,0.29,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,21:15,60.1,60.3,59.2,96.8,0.33,NE@0.0,1.4,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,21:30,59.9,60.1,59.0,96.8,0.45,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,21:45,59.8,60.0,58.9,96.9,0.69,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,22:00,59.9,60.2,59.1,97.0,0.81,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,22:15,59.8,60.0,59.0,97.1,0.81,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,22:30,59.9,60.2,59.1,97.2,0.79,N @0.9,3.5,62.2,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,22:45,60.2,60.5,59.5,97.3,0.76,E@0.7,3.1,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-08,23:00,60.1,60.4,59.4,97.4,0.76,W@0.0,1.4,62.2,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,23:15,60.1,60.3,59.4,97.4,0.76,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,23:30,59.9,60.1,59.2,97.5,0.77,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,23:45,59.8,60.1,59.1,97.5,0.77,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,24:00,59.8,60.0,59.1,97.6,0.77,SW@0.1,1.7,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,00:15,59.8,60.0,59.1,97.7,0.78,SW@0.0,1.4,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,00:30,59.8,60.1,59.2,97.7,0.78,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,00:45,59.7,60.0,59.1,97.7,0.78,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,01:00,59.7,59.9,59.0,97.8,0.79,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,01:15,59.7,60.0,59.1,97.8,0.78,N @0.0,0.0,62.2,0.05,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,01:30,59.8,60.1,59.3,97.9,0.72,S@0.7,3.5,62.2,0.17,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,01:45,59.8,60.1,59.2,98.0,0.66,E@0.8,3.5,62.2,0.04,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,02:00,59.8,60.1,59.2,98.0,0.67,E@1.4,4.9,62.2,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,02:15,59.6,60.1,59.1,98.0,0.65,SE@2.1,5.7,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,02:30,59.6,60.0,59.0,97.9,0.66,SE@0.0,2.4,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,02:45,59.5,59.9,59.0,97.9,0.66,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,03:00,59.7,60.0,59.1,97.9,0.69,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,03:15,59.7,60.0,59.1,97.9,0.7,N @0.0,0.0,62.1,0.04,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,03:30,59.7,60.0,59.1,97.9,0.67,N@0.0,1.4,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,03:45,59.8,60.1,59.2,97.9,0.66,S@1.0,4.6,62.1,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,04:00,59.8,60.1,59.2,97.9,0.66,E@0.1,2.8,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,04:15,59.6,59.9,59.0,97.9,0.67,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,04:30,59.6,59.9,59.0,97.9,0.69,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,04:45,59.6,59.9,59.0,97.9,0.68,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,05:00,59.5,59.8,58.9,97.9,0.68,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,05:15,59.4,59.7,58.8,97.9,0.69,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,05:30,59.5,59.8,58.9,97.9,0.7,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,05:45,59.5,59.8,58.9,98.0,0.7,N @0.0,0.0,62.0,0.0,1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,06:00,59.6,60.0,59.1,98.0,0.7,SW@0.3,4.9,62.0,0.0,3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,06:15,59.6,60.1,59.1,97.9,0.72,SW@0.2,2.4,62.0,0.0,3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,06:30,59.9,60.2,59.3,97.8,0.71,S@0.6,3.5,62.0,0.0,20,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,06:45,60.3,60.8,59.7,97.7,0.71,S@1.4,5.3,62.0,0.0,73,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,07:00,60.5,61.0,59.8,97.5,0.71,S@0.8,5.3,62.0,0.0,46,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,07:15,60.4,60.8,59.7,97.3,0.72,E@0.9,5.7,61.9,0.06,19,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,07:30,60.3,60.7,59.6,97.3,0.69,SE@0.1,1.4,61.9,0.0,60,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,07:45,61.1,61.4,60.3,97.2,0.7,S@0.7,4.6,61.9,0.01,148,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,08:00,61.2,61.8,60.2,96.7,0.69,S@2.4,6.0,61.9,0.0,158,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,08:15,60.7,61.4,59.5,95.6,0.69,S@3.6,8.5,61.9,0.0,106,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,08:30,60.3,60.7,58.9,95.1,0.7,S@1.1,5.3,61.9,0.0,67,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,08:45,60.7,60.9,59.4,95.4,0.71,E@0.4,5.3,61.9,0.0,146,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,09:00,61.8,62.2,60.5,95.2,0.72,S@1.3,6.7,61.9,0.0,254,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,09:15,62.4,62.8,60.7,94.2,0.72,E@1.3,5.7,61.9,0.0,202,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,09:30,62.2,62.7,60.2,92.8,0.69,S@1.5,4.6,61.8,0.0,180,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,09:45,62.4,62.8,60.2,92.2,0.62,S@1.5,4.2,61.8,0.0,167,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,10:00,62.2,62.6,59.9,92.1,0.7,S@1.8,4.9,61.8,0.02,120,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,10:15,62.1,62.4,60.0,93.0,0.76,SE@1.5,6.0,61.8,0.01,142,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,10:30,62.7,63.0,60.7,93.0,0.74,SE@1.8,6.7,61.8,0.01,347,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,10:45,62.7,63.1,60.5,92.3,0.75,S@2.7,8.9,61.8,0.0,133,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,11:00,61.0,61.4,59.1,93.4,0.76,S@4.3,7.8,61.8,0.05,91,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,11:15,61.1,61.3,59.7,95.1,0.73,S@1.7,4.6,61.8,0.03,207,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,11:30,62.4,62.7,61.1,95.5,0.71,SE@1.5,4.6,61.8,0.0,314,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,11:45,61.9,62.5,60.4,94.6,0.72,S@3.1,7.1,61.8,0.0,203,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,12:00,61.3,61.6,59.7,94.4,0.76,S@2.3,5.7,61.8,0.0,179,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,12:15,62.5,62.8,61.0,94.5,0.74,S@2.3,5.7,61.8,0.0,349,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,12:30,63.1,63.6,61.2,93.3,0.75,SE@2.5,7.1,61.8,0.0,359,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,12:45,64.8,65.3,62.2,91.3,0.71,S@2.7,6.7,61.8,0.0,359,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,13:00,63.6,64.1,60.0,88.0,0.59,S@2.9,6.4,61.8,0.0,194,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,13:15,61.7,62.0,58.8,90.3,0.66,S@4.0,7.8,61.8,0.01,153,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,13:30,62.2,62.5,59.8,91.9,0.63,E@2.0,4.6,61.9,0.0,322,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,13:45,62.7,63.1,59.6,89.6,0.42,E@2.3,4.6,61.9,0.0,221,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,14:00,62.3,62.6,59.1,89.2,0.66,E@1.6,4.2,61.9,0.0,98,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,14:15,62.7,63.0,59.6,89.6,0.66,SE@0.8,3.1,61.9,0.0,157,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,14:30,63.3,63.6,60.5,90.3,0.54,E@0.8,4.2,61.9,0.0,166,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,14:45,64.1,64.5,60.8,89.1,0.31,E@1.5,4.2,61.9,0.0,226,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,15:00,64.8,65.3,59.6,83.2,0.05,S@0.9,3.5,61.9,0.0,217,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,15:15,65.9,66.3,59.5,79.7,0.0,S@0.6,2.4,61.9,0.0,236,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,15:30,66.4,66.8,58.8,76.3,0.0,N@0.8,2.8,61.9,0.0,269,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,15:45,67.3,67.6,59.9,77.0,0.0,E@1.0,4.6,61.9,0.0,346,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,16:00,67.2,67.5,59.3,75.7,0.0,NE@3.5,6.4,62.0,0.0,329,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,16:15,66.3,66.6,58.6,76.2,0.0,S@2.3,8.5,62.0,0.0,98,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,16:30,62.8,63.0,58.9,87.0,0.42,SE@3.2,8.9,62.0,0.07,11,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,16:45,60.5,60.6,58.5,93.0,0.61,SE@2.3,5.3,62.0,0.19,38,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,17:00,60.7,60.9,59.1,94.4,0.61,S@1.2,4.2,62.0,0.01,130,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,17:15,61.9,62.1,60.3,94.5,0.64,S@1.2,3.1,62.1,0.0,164,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,17:30,61.2,61.6,59.6,94.5,0.69,S@1.8,4.6,62.1,0.02,71,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,17:45,60.6,61.0,59.2,94.9,0.68,SE@0.7,3.1,62.1,0.02,28,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,18:00,60.2,60.5,58.9,95.3,0.66,SE@0.1,2.1,62.1,0.02,15,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,18:15,59.8,60.2,58.6,95.4,0.63,SW@0.0,1.4,62.1,0.03,7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,18:30,59.6,59.8,58.3,95.6,0.61,SW@0.1,1.7,62.2,0.0,5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,18:45,59.3,59.6,58.2,95.9,0.61,N @0.0,0.0,62.2,0.0,2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,19:00,58.8,59.1,57.8,96.1,0.61,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,19:15,58.4,58.6,57.4,96.3,0.62,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,19:30,58.0,58.2,57.1,96.6,0.62,E@0.0,1.4,62.2,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,19:45,57.7,58.0,56.9,96.8,0.63,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,20:00,57.1,57.3,56.3,96.9,0.63,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,20:15,56.7,56.9,55.9,97.1,0.63,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,20:30,56.1,56.3,55.3,97.2,0.64,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,20:45,55.4,55.6,54.7,97.3,0.64,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,21:00,55.1,55.3,54.4,97.4,0.64,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,21:15,55.2,55.3,54.5,97.6,0.65,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,21:30,55.2,55.4,54.6,97.7,0.65,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,21:45,55.8,56.0,55.2,97.9,0.65,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,22:00,55.5,55.8,55.0,97.9,0.65,SW@0.1,1.7,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,22:15,55.1,55.3,54.6,98.0,0.66,N @0.0,0.0,62.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,22:30,56.0,56.3,55.5,98.1,0.66,E@0.4,2.8,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,22:45,55.7,55.9,55.1,98.1,0.66,SW@0.0,1.4,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-09,23:00,55.6,55.9,55.2,98.2,0.66,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,23:15,55.8,56.1,55.3,98.2,0.66,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,23:30,55.2,55.4,54.7,98.2,0.67,N @0.0,0.0,62.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,23:45,54.9,55.1,54.4,98.3,0.67,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,24:00,54.9,55.1,54.4,98.3,0.67,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,00:15,54.7,54.8,54.2,98.3,0.67,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,00:30,55.4,55.5,54.9,98.4,0.68,N @0.0,0.0,62.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,00:45,55.1,55.3,54.7,98.4,0.67,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,01:00,54.4,54.6,54.0,98.4,0.67,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,01:15,54.7,55.0,54.3,98.5,0.68,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,01:30,54.6,54.8,54.2,98.5,0.68,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,01:45,54.8,55.1,54.4,98.6,0.68,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,02:00,54.8,55.1,54.5,98.6,0.68,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,02:15,55.3,55.5,54.9,98.6,0.69,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,02:30,55.8,56.1,55.4,98.6,0.69,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,02:45,55.9,56.2,55.6,98.7,0.69,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,03:00,56.3,56.5,55.9,98.7,0.69,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,03:15,56.2,56.5,55.9,98.7,0.69,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,03:30,56.2,56.5,55.9,98.7,0.69,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,03:45,56.4,56.6,56.0,98.7,0.69,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,04:00,56.5,56.7,56.1,98.7,0.69,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,04:15,56.6,56.8,56.3,98.7,0.7,N @0.0,0.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,04:30,56.6,56.9,56.3,98.7,0.7,N @0.0,0.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,04:45,56.5,56.8,56.2,98.7,0.7,N@0.1,1.7,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,05:00,56.7,57.0,56.4,98.7,0.71,N@0.0,1.4,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,05:15,56.8,57.1,56.5,98.8,0.71,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,05:30,56.9,57.2,56.6,98.8,0.71,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,05:45,57.0,57.3,56.7,98.8,0.71,N @0.0,0.0,61.5,0.0,1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,06:00,57.2,57.4,56.8,98.8,0.71,E@0.0,1.4,61.5,0.0,5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,06:15,57.3,57.6,57.0,98.8,0.72,N @0.0,0.0,61.4,0.0,13,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,06:30,57.5,57.7,57.1,98.8,0.73,N @0.0,0.0,61.4,0.0,18,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,06:45,57.7,58.0,57.4,98.8,0.72,N @0.0,0.0,61.4,0.0,27,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,07:00,57.8,58.1,57.5,98.8,0.74,N @0.0,0.0,61.4,0.0,25,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,07:15,57.8,58.1,57.5,98.7,0.74,N @0.0,0.0,61.4,0.0,53,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,07:30,58.4,58.7,58.1,98.7,0.73,SW@0.0,1.4,61.3,0.0,100,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,07:45,59.0,59.3,58.7,98.7,0.73,SW@0.1,1.4,61.3,0.0,128,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,08:00,59.7,60.0,59.3,98.6,0.74,S@0.4,3.1,61.3,0.0,164,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,08:15,60.2,60.7,59.9,98.5,0.74,S@0.9,2.8,61.3,0.0,169,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,08:30,60.7,61.1,60.2,98.4,0.75,S@0.5,3.1,61.3,0.0,198,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,08:45,60.8,61.4,60.3,98.2,0.75,SE@0.9,4.2,61.3,0.0,228,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,09:00,61.3,61.9,60.7,97.9,0.74,E@0.1,2.8,61.2,0.0,184,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,09:15,61.1,61.8,60.5,97.6,0.7,S@0.2,2.8,61.2,0.0,142,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,09:30,61.4,62.0,60.6,97.1,0.78,N @0.0,0.0,61.2,0.0,215,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,09:45,62.1,62.8,61.0,96.3,0.77,N @0.0,0.0,61.2,0.0,240,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,10:00,62.3,63.0,60.8,94.9,0.71,S@0.1,2.4,61.2,0.0,180,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,10:15,62.3,63.1,60.1,92.3,0.6,SW@0.2,4.2,61.2,0.0,238,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,10:30,63.0,63.6,59.8,89.2,0.37,SW@1.3,4.2,61.2,0.0,338,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,10:45,63.7,64.1,59.6,86.4,0.06,SW@1.3,4.2,61.2,0.0,339,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,11:00,64.3,64.8,59.4,83.9,0.0,S@1.8,5.7,61.2,0.0,374,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,11:15,66.2,66.6,60.1,80.5,0.0,S@2.7,6.4,61.2,0.0,676,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,11:30,66.9,67.3,59.1,76.2,0.0,NW@2.7,6.7,61.2,0.0,358,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,11:45,65.5,65.8,58.4,77.7,0.0,SW@1.8,5.3,61.1,0.0,291,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,12:00,66.2,66.5,58.8,77.1,0.0,W@1.7,3.9,61.1,0.0,251,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,12:15,66.5,66.8,58.7,75.8,0.0,SW@1.8,4.6,61.2,0.0,303,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,12:30,67.1,67.4,58.5,73.9,0.0,SW@1.5,5.3,61.2,0.0,410,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,12:45,69.9,70.1,59.3,68.9,0.0,SW@3.1,6.4,61.2,0.0,812,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,13:00,70.9,71.0,59.3,66.6,0.0,SW@3.0,5.3,61.2,0.0,840,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,13:15,71.1,71.2,58.5,64.3,0.0,SW@3.7,7.1,61.2,0.0,813,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,13:30,68.8,69.1,57.0,66.0,0.0,W@2.9,6.4,61.2,0.0,270,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,13:45,68.3,68.5,57.2,67.6,0.0,NW@2.5,4.6,61.2,0.0,329,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,14:00,68.4,68.7,56.5,65.6,0.0,NW@1.5,5.3,61.2,0.0,258,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,14:15,68.7,68.9,55.8,63.4,0.0,N@0.9,4.9,61.2,0.0,313,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,14:30,70.6,70.7,56.5,61.0,0.0,NW@2.1,6.4,61.3,0.0,416,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,14:45,69.5,69.7,55.4,60.7,0.0,NW@0.4,3.5,61.3,0.0,207,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,15:00,71.8,71.9,56.2,57.9,0.0,S@0.6,4.2,61.3,0.0,582,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,15:15,72.9,73.1,55.7,54.7,0.0,S@2.5,6.4,61.3,0.0,628,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,15:30,72.2,72.4,55.4,55.5,0.0,S@2.8,6.7,61.3,0.0,502,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,15:45,73.5,73.5,55.3,52.9,0.0,S@1.7,4.6,61.3,0.0,527,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,16:00,73.4,73.5,54.8,52.0,0.0,SW@2.3,4.6,61.4,0.0,516,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,16:15,73.5,73.6,54.5,51.4,0.0,W@1.0,5.3,61.4,0.0,483,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,16:30,73.4,73.3,55.3,53.1,0.0,NW@3.0,7.4,61.4,0.0,452,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,16:45,72.0,72.1,54.8,54.7,0.0,N@4.8,8.5,61.4,0.0,380,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,17:00,71.6,71.7,54.9,55.5,0.0,NW@3.6,7.1,61.5,0.0,337,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,17:15,71.6,71.6,54.7,55.2,0.0,W@2.8,5.3,61.5,0.0,305,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,17:30,71.1,71.2,54.3,55.4,0.0,W@2.5,6.0,61.5,0.0,242,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,17:45,70.2,70.3,55.6,59.8,0.0,NW@2.4,5.7,61.6,0.0,162,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,18:00,68.8,69.1,57.0,65.9,0.0,NE@1.6,4.6,61.6,0.0,123,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,18:15,67.8,68.1,55.7,65.1,0.0,N @0.6,4.2,61.6,0.0,75,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,18:30,66.7,67.0,55.3,66.7,0.0,NW@0.7,4.6,61.7,0.0,25,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,18:45,65.5,65.8,55.2,69.3,0.0,N@0.9,6.0,61.7,0.0,4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,19:00,63.8,64.1,55.5,74.3,0.0,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,19:15,61.9,62.1,56.0,81.1,0.01,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,19:30,61.1,61.3,56.4,84.4,0.01,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,19:45,60.2,60.4,56.5,87.5,0.02,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,20:00,59.0,59.2,56.1,89.9,0.03,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,20:15,57.9,58.0,55.5,91.8,0.07,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,20:30,57.8,57.9,55.9,93.4,0.15,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,20:45,56.9,57.1,55.3,94.2,0.25,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,21:00,56.4,56.5,55.0,94.9,0.38,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,21:15,56.1,56.1,54.8,95.6,0.5,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,21:30,55.6,55.7,54.5,96.0,0.6,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,21:45,55.1,55.2,54.1,96.4,0.68,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,22:00,55.4,55.6,54.5,96.8,0.74,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,22:15,54.7,54.8,53.8,96.9,0.77,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,22:30,54.2,54.3,53.4,97.1,0.8,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,22:45,54.4,54.5,53.7,97.3,0.82,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-10,23:00,53.3,53.5,52.6,97.4,0.82,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,23:15,52.7,52.8,52.0,97.5,0.83,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,23:30,52.6,52.7,51.9,97.6,0.84,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,23:45,52.8,53.0,52.2,97.8,0.85,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,24:00,52.5,52.6,51.9,97.9,0.85,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,00:15,51.9,52.1,51.4,97.9,0.86,N @0.5,3.1,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,00:30,51.6,51.9,51.0,98.0,0.86,SW@0.4,3.1,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,00:45,51.8,52.0,51.3,98.1,0.86,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,01:00,51.3,51.4,50.8,98.2,0.86,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,01:15,50.7,50.9,50.3,98.2,0.86,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,01:30,50.9,51.1,50.5,98.3,0.86,N @0.0,0.0,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,01:45,50.9,51.1,50.4,98.3,0.87,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,02:00,50.6,50.9,50.2,98.4,0.86,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,02:15,50.1,50.3,49.7,98.4,0.86,N @0.0,0.0,61.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,02:30,50.4,50.5,50.0,98.5,0.86,N @0.0,0.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,02:45,50.3,50.6,49.9,98.5,0.86,N @0.0,0.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,03:00,50.6,50.9,50.2,98.6,0.86,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,03:15,51.2,51.5,50.8,98.6,0.86,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,03:30,52.0,52.2,51.7,98.7,0.86,SW@0.1,1.7,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,03:45,51.9,52.2,51.6,98.7,0.86,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,04:00,52.8,53.1,52.5,98.7,0.86,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,04:15,53.2,53.5,52.9,98.8,0.85,E@0.0,1.4,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,04:30,53.8,54.0,53.5,98.8,0.85,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,04:45,54.2,54.4,53.8,98.8,0.85,N @0.0,0.0,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,05:00,54.5,54.8,54.2,98.8,0.85,N @0.0,0.0,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,05:15,55.0,55.2,54.7,98.8,0.85,N @0.0,0.0,61.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,05:30,55.7,56.0,55.4,98.8,0.85,E@0.2,2.4,61.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,05:45,56.0,56.3,55.7,98.8,0.85,S@0.2,2.4,61.0,0.0,2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,06:00,56.4,56.7,56.1,98.8,0.85,S@0.2,2.8,61.0,0.0,4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,06:15,56.9,57.2,56.6,98.8,0.85,SE@0.2,2.4,61.0,0.0,14,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,06:30,57.3,57.5,56.9,98.8,0.85,E@0.1,2.1,60.9,0.0,33,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,06:45,57.7,58.0,57.4,98.7,0.85,S@0.2,2.8,60.9,0.0,63,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,07:00,58.0,58.4,57.7,98.7,0.86,S@0.1,2.4,60.9,0.0,70,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,07:15,58.7,59.1,58.3,98.6,0.86,E@0.2,2.4,60.8,0.0,106,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,07:30,59.1,59.5,58.7,98.4,0.87,E@0.4,3.1,60.8,0.0,140,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,07:45,59.2,59.8,58.7,98.2,0.87,S@1.5,5.3,60.8,0.0,103,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,08:00,58.6,59.5,57.9,97.3,0.86,S@3.4,7.4,60.7,0.0,70,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,08:15,59.1,59.9,57.6,94.6,0.85,S@2.7,6.4,60.7,0.0,95,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,08:30,59.5,60.0,56.9,91.1,0.81,S@2.7,7.1,60.7,0.0,58,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,08:45,60.0,60.4,57.0,89.8,0.77,S@0.9,4.2,60.7,0.0,77,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,09:00,60.6,61.0,56.9,87.5,0.7,S@1.2,4.2,60.7,0.0,154,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,09:15,63.6,64.0,57.4,80.3,0.41,SE@1.2,4.6,60.6,0.0,400,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,09:30,65.6,65.9,57.0,73.7,0.02,SE@1.2,4.9,60.6,0.0,394,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,09:45,64.2,64.6,56.2,75.1,0.0,SE@1.8,4.9,60.6,0.0,198,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,10:00,64.2,64.5,55.8,74.2,0.0,S@1.7,4.9,60.6,0.0,232,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,10:15,65.2,65.7,55.7,71.4,0.0,S@1.9,6.0,60.6,0.0,263,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,10:30,66.1,66.4,55.8,69.2,0.0,S@1.5,6.4,60.6,0.0,399,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,10:45,66.8,67.0,55.7,67.5,0.0,SE@0.9,3.5,60.6,0.0,384,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,11:00,67.5,67.9,55.5,65.3,0.0,S@1.9,5.3,60.6,0.0,449,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,11:15,68.3,68.6,56.0,64.7,0.0,SE@1.1,6.4,60.5,0.0,453,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,11:30,68.3,68.6,55.1,62.7,0.0,SE@2.3,6.7,60.5,0.0,537,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,11:45,69.2,69.4,55.3,61.2,0.0,E@1.9,4.9,60.5,0.0,586,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,12:00,69.1,69.4,54.9,60.7,0.0,E@0.7,3.5,60.5,0.0,375,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,12:15,68.8,69.0,55.1,61.5,0.0,N@1.7,4.9,60.5,0.0,394,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,12:30,71.0,71.2,55.4,57.8,0.0,S@3.1,8.5,60.6,0.0,694,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,12:45,72.4,72.7,55.4,55.0,0.0,S@2.4,4.9,60.6,0.0,714,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,13:00,72.6,72.8,55.4,54.9,0.0,SW@3.6,8.9,60.6,0.0,674,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,13:15,72.8,73.0,55.4,54.3,0.0,S@3.2,7.1,60.6,0.0,667,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,13:30,72.3,72.5,55.0,54.6,0.0,S@3.6,8.2,60.6,0.0,560,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,13:45,72.5,72.8,54.8,53.7,0.0,SW@3.1,7.4,60.6,0.0,561,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,14:00,72.3,72.4,55.2,54.9,0.0,SW@3.0,5.3,60.6,0.0,516,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,14:15,72.1,72.3,54.1,53.0,0.0,SW@3.5,7.4,60.7,0.0,515,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,14:30,71.9,72.1,53.3,51.9,0.0,SW@3.7,6.7,60.7,0.0,454,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,14:45,71.3,71.6,52.9,52.1,0.0,SW@3.7,7.1,60.7,0.0,408,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,15:00,71.7,71.9,52.8,51.3,0.0,SW@3.3,6.7,60.7,0.0,378,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,15:15,71.6,71.8,52.4,50.7,0.0,SW@3.3,5.7,60.8,0.0,378,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,15:30,71.9,72.1,53.0,51.3,0.0,W@2.5,4.6,60.8,0.0,314,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,15:45,72.4,72.5,53.6,51.6,0.0,SW@2.2,4.9,60.8,0.0,338,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,16:00,72.8,73.0,53.5,50.8,0.0,S@2.5,5.7,60.8,0.0,328,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,16:15,73.1,73.2,52.4,48.1,0.0,S@1.2,3.5,60.9,0.0,316,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,16:30,72.1,72.3,52.3,49.7,0.0,S@0.6,4.6,60.9,0.0,192,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,16:45,72.4,72.4,53.4,51.3,0.0,SW@0.6,3.5,60.9,0.0,225,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,17:00,72.0,72.2,52.6,50.3,0.0,W@0.0,2.1,61.0,0.0,146,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,17:15,69.9,70.3,53.0,54.9,0.0,N @0.0,0.0,61.0,0.0,63,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,17:30,67.5,67.7,54.9,64.1,0.0,N @0.0,0.0,61.1,0.0,51,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,17:45,65.3,65.6,55.8,71.3,0.0,N @0.0,0.0,61.1,0.0,34,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,18:00,64.3,64.5,57.3,77.8,0.0,N @0.0,0.0,61.1,0.0,22,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,18:15,63.6,63.8,58.0,81.9,0.0,N @0.0,0.0,61.2,0.0,12,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,18:30,62.9,63.2,58.0,83.9,0.01,N @0.0,0.0,61.2,0.0,6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,18:45,62.0,62.3,57.6,85.5,0.01,N @0.0,0.0,61.3,0.0,1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,19:00,60.4,60.7,56.8,87.8,0.03,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,19:15,59.2,59.3,56.2,89.7,0.06,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,19:30,58.4,58.3,55.9,91.3,0.13,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,19:45,57.5,57.5,55.4,92.8,0.23,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,20:00,56.8,56.9,55.0,93.7,0.36,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,20:15,56.1,56.2,54.5,94.5,0.47,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,20:30,55.7,55.9,54.3,95.1,0.57,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,20:45,55.1,55.4,53.9,95.3,0.66,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,21:00,54.6,54.8,53.4,95.7,0.75,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,21:15,54.3,54.4,53.2,96.0,0.8,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,21:30,53.8,53.8,52.8,96.3,0.83,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,21:45,53.9,53.8,52.9,96.6,0.85,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,22:00,53.6,53.7,52.8,96.8,0.87,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,22:15,52.9,53.1,52.1,96.9,0.88,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,22:30,53.1,53.3,52.3,97.1,0.89,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,22:45,53.7,53.8,53.0,97.2,0.89,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-11,23:00,53.9,53.9,53.2,97.4,0.89,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,23:15,54.0,54.2,53.3,97.5,0.9,N @0.0,0.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,23:30,53.9,54.1,53.3,97.5,0.9,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,23:45,53.8,53.9,53.1,97.6,0.9,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,24:00,53.9,54.1,53.2,97.7,0.9,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,00:15,53.9,54.2,53.3,97.8,0.9,N @0.0,0.0,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,00:30,54.1,54.3,53.5,97.8,0.9,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,00:45,53.7,53.9,53.2,97.9,0.9,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,01:00,53.8,54.0,53.2,97.9,0.9,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,01:15,53.2,53.4,52.6,98.0,0.91,N @0.0,0.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,01:30,53.0,53.2,52.5,98.0,0.91,N @0.0,0.0,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,01:45,52.5,52.6,51.9,98.1,0.91,N @0.0,0.0,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,02:00,52.5,52.7,52.0,98.1,0.91,N @0.0,0.0,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,02:15,52.1,52.2,51.6,98.2,0.91,N @0.0,0.0,61.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,02:30,52.0,52.2,51.5,98.2,0.91,N @0.0,0.0,61.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,02:45,51.7,52.0,51.3,98.3,0.91,N @0.0,0.0,61.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,03:00,51.5,51.8,51.1,98.3,0.91,N @0.0,0.0,61.1,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,03:15,51.6,51.8,51.2,98.4,0.91,N @0.0,0.0,61.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,03:30,50.8,51.0,50.4,98.4,0.91,N @0.0,0.0,61.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,03:45,51.1,51.4,50.7,98.5,0.91,N @0.0,0.0,61.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,04:00,50.8,51.0,50.4,98.5,0.91,N @0.0,0.0,60.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,04:15,50.8,51.0,50.5,98.6,0.91,N @0.0,0.0,60.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,04:30,51.2,51.4,50.8,98.6,0.9,N @0.0,0.0,60.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,04:45,51.3,51.5,51.0,98.7,0.9,N @0.0,0.0,60.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,05:00,51.4,51.7,51.1,98.7,0.9,N @0.0,0.0,60.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,05:15,51.9,52.2,51.6,98.7,0.9,N @0.0,0.0,60.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,05:30,51.7,51.9,51.4,98.7,0.9,N @0.0,0.0,60.7,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,05:45,52.0,52.3,51.7,98.8,0.9,N @0.0,0.0,60.7,0.0,3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,06:00,52.7,52.9,52.4,98.8,0.9,N @0.0,0.0,60.6,0.0,6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,06:15,52.7,52.9,52.4,98.8,0.9,N @0.0,0.0,60.6,0.0,15,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,06:30,52.8,53.1,52.5,98.8,0.9,N @0.0,0.0,60.6,0.0,32,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,06:45,53.3,53.6,53.0,98.8,0.9,N @0.0,0.0,60.5,0.0,65,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,07:00,54.7,55.0,54.4,98.8,0.9,N @0.0,0.0,60.5,0.0,65,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,07:15,55.8,56.1,55.4,98.7,0.9,N @0.0,0.0,60.4,0.0,92,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,07:30,57.3,57.7,57.0,98.6,0.9,N @0.0,0.0,60.4,0.0,209,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,07:45,58.9,59.3,58.5,98.4,0.9,N @0.0,0.0,60.3,0.0,224,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,08:00,59.7,60.3,59.2,98.1,0.9,E@0.0,1.4,60.3,0.0,244,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,08:15,60.2,61.5,59.4,97.1,0.9,S@0.2,2.8,60.3,0.0,211,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,08:30,62.0,63.8,59.6,91.8,0.9,S@1.0,3.1,60.2,0.0,377,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,08:45,65.0,66.1,58.2,78.7,0.86,SE@1.1,4.2,60.2,0.0,426,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,09:00,67.2,67.9,56.6,68.7,0.67,SE@1.3,4.6,60.2,0.0,484,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,09:15,68.7,69.2,56.7,65.5,0.08,E@2.1,4.6,60.1,0.0,480,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,09:30,70.1,70.5,57.2,63.5,0.0,SE@2.0,4.9,60.1,0.0,528,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,09:45,71.2,71.7,56.8,60.3,0.0,S@2.1,5.3,60.1,0.0,546,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,10:00,72.2,72.7,56.8,58.2,0.0,S@2.2,6.0,60.0,0.0,593,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,10:15,73.4,73.7,56.8,56.1,0.0,SE@2.7,8.2,60.0,0.0,583,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,10:30,74.4,74.8,55.6,51.9,0.0,S@2.9,6.4,60.0,0.0,609,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,10:45,75.3,75.5,55.8,50.6,0.0,S@3.6,7.4,60.0,0.0,666,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,11:00,75.6,76.1,54.5,47.8,0.0,S@3.7,8.9,60.0,0.0,643,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,11:15,75.4,75.6,54.6,48.4,0.0,SW@4.1,7.8,60.0,0.0,648,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,11:30,76.3,76.8,54.6,46.9,0.0,S@4.6,9.6,60.0,0.0,711,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,11:45,76.2,76.4,54.6,47.1,0.0,S@4.8,9.6,60.0,0.0,760,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,12:00,75.6,75.9,54.3,47.6,0.0,SW@4.0,8.2,60.0,0.0,668,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,12:15,76.2,76.4,54.5,47.0,0.0,SW@3.5,7.4,60.0,0.0,636,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,12:30,76.7,77.0,54.1,45.4,0.0,S@4.4,9.2,60.0,0.0,722,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,12:45,77.2,77.3,54.0,44.5,0.0,SW@3.9,9.2,60.0,0.0,615,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,13:00,76.4,76.6,53.2,44.5,0.0,SW@4.1,8.9,60.0,0.0,583,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,13:15,78.5,78.7,53.5,41.9,0.0,SW@4.2,8.9,60.0,0.0,759,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,13:30,77.9,78.1,51.4,39.5,0.0,SW@4.6,12.8,60.1,0.0,666,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,13:45,77.4,77.6,51.0,39.6,0.0,SW@5.4,12.8,60.1,0.0,555,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,14:00,77.5,77.6,52.0,41.0,0.0,SW@3.7,7.8,60.1,0.0,608,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,14:15,78.7,78.8,52.2,39.7,0.0,SW@4.2,8.2,60.1,0.0,616,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,14:30,78.9,79.0,52.1,39.3,0.0,SW@4.6,8.9,60.2,0.0,592,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,14:45,78.7,79.0,51.0,38.0,0.0,S@5.4,13.2,60.2,0.0,477,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,15:00,77.7,77.9,51.7,40.3,0.0,SW@4.0,7.8,60.2,0.0,409,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,15:15,78.8,79.0,50.8,37.7,0.0,S@4.2,11.0,60.3,0.0,421,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,15:30,77.5,77.8,50.2,38.3,0.0,S@4.2,10.7,60.3,0.0,251,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,15:45,75.5,75.7,51.1,42.4,0.0,SW@2.1,5.7,60.4,0.0,114,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,16:00,75.0,75.2,51.8,44.3,0.0,SW@1.5,7.1,60.4,0.0,103,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,16:15,74.3,74.6,54.5,50.0,0.0,S@1.0,4.2,60.5,0.0,78,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,16:30,74.2,74.5,54.9,50.8,0.0,N @0.0,0.0,60.5,0.0,102,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,16:45,74.5,74.8,55.6,51.7,0.0,SE@0.3,3.1,60.6,0.0,120,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,17:00,74.5,74.9,55.9,52.3,0.0,SE@2.2,5.7,60.6,0.0,119,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,17:15,73.7,74.0,56.0,53.9,0.0,S@1.7,4.6,60.6,0.0,48,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,17:30,73.3,73.6,55.8,54.3,0.0,S@1.5,6.0,60.7,0.0,39,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,17:45,73.2,73.5,55.3,53.5,0.0,S@2.9,8.5,60.7,0.0,21,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,18:00,72.2,72.5,55.7,56.1,0.0,SE@0.3,3.1,60.8,0.0,10,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,18:15,70.3,70.7,56.4,61.1,0.0,N @0.0,0.0,60.8,0.0,4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,18:30,69.2,69.5,56.5,64.0,0.0,N @0.0,0.0,60.9,0.0,2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,18:45,68.8,69.1,56.7,65.2,0.0,N @0.0,0.0,60.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,19:00,70.6,70.9,53.7,55.1,0.0,SW@2.1,6.7,61.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,19:15,70.9,71.2,53.5,54.0,0.0,S@0.4,3.5,61.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,19:30,69.7,70.0,53.8,57.1,0.12,W@1.2,5.7,61.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,19:45,66.6,66.7,58.1,74.2,0.84,SE@2.3,5.3,61.1,0.04,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,20:00,63.3,63.4,60.1,89.1,0.8,SE@2.0,5.3,61.1,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,20:15,62.7,62.9,60.5,92.5,0.78,N@1.9,5.3,61.2,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,20:30,62.6,63.0,60.3,92.2,0.77,SE@2.4,5.3,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,20:45,62.2,62.6,59.8,91.8,0.79,E@1.5,3.9,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,21:00,61.7,62.0,59.5,92.5,0.78,SE@0.8,3.1,61.2,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,21:15,61.5,61.9,59.4,92.6,0.8,E@1.6,6.0,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,21:30,61.8,62.2,59.4,91.7,0.79,S@3.5,7.8,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,21:45,62.0,62.4,59.6,92.0,0.8,S@2.8,7.4,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,22:00,62.1,62.4,59.8,92.3,0.81,S@3.3,7.4,61.3,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,22:15,62.2,62.5,60.2,93.1,0.82,S@3.7,8.2,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,22:30,62.0,62.3,60.2,93.7,0.81,S@1.5,4.2,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,22:45,62.1,62.4,60.4,94.1,0.81,S@0.6,3.5,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-12,23:00,62.1,62.4,60.5,94.5,0.82,S@0.2,2.8,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,23:15,62.1,62.4,60.6,94.7,0.82,SW@0.1,2.1,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,23:30,62.2,62.6,60.7,94.9,0.82,SE@1.6,5.7,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,23:45,62.3,62.8,60.7,94.4,0.82,S@2.6,8.2,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,24:00,62.6,63.0,60.5,92.6,0.82,S@3.4,7.1,61.4,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,00:15,62.6,63.0,60.3,92.2,0.82,S@3.0,7.4,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,00:30,62.5,62.9,60.3,92.5,0.82,S@2.2,5.7,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,00:45,62.4,62.7,60.2,92.6,0.82,S@1.1,4.9,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,01:00,62.2,62.5,60.1,92.7,0.82,S@1.3,4.6,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,01:15,62.1,62.5,59.9,92.5,0.82,S@2.2,6.7,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,01:30,62.1,62.5,59.7,91.7,0.81,S@1.7,4.6,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,01:45,61.9,62.3,59.6,91.9,0.8,S@2.0,4.9,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,02:00,61.9,62.2,59.4,91.6,0.79,S@1.8,4.2,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,02:15,61.6,62.0,59.2,91.6,0.78,S@2.4,6.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,02:30,61.5,61.8,59.0,91.5,0.78,S@0.8,3.9,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,02:45,61.6,61.9,59.1,91.6,0.78,S@2.1,6.0,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,03:00,61.4,61.7,58.8,91.3,0.76,S@0.9,3.5,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,03:15,61.3,61.7,58.7,91.2,0.75,S@0.7,3.5,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,03:30,61.2,61.6,58.6,91.1,0.74,S@1.3,6.4,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,03:45,61.5,61.9,58.4,89.4,0.71,S@2.5,6.4,61.5,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,04:00,61.4,61.8,58.3,89.4,0.66,S@2.8,6.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,04:15,61.3,61.7,58.3,89.7,0.62,S@2.4,6.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,04:30,61.1,61.5,58.4,90.5,0.59,S@2.3,4.9,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,04:45,60.8,61.2,58.1,90.7,0.55,S@2.3,4.9,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,05:00,60.8,61.2,58.0,90.5,0.49,S@1.6,6.0,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,05:15,60.8,61.2,57.9,90.0,0.4,S@1.9,6.4,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,05:30,60.9,61.2,57.8,89.5,0.3,S@2.0,4.6,61.6,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,05:45,60.8,61.1,57.8,89.9,0.21,S@0.8,4.2,61.6,0.0,1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,06:00,60.7,61.1,57.8,90.0,0.15,N @0.0,0.0,61.6,0.0,4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,06:15,60.8,61.1,58.0,90.3,0.11,N @0.0,0.0,61.6,0.0,6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,06:30,61.0,61.3,58.0,90.1,0.06,S@0.2,3.1,61.6,0.0,9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,06:45,61.2,61.6,58.0,89.0,0.02,S@1.7,5.3,61.6,0.0,23,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,07:00,61.4,61.8,57.9,88.1,0.01,S@2.4,5.7,61.6,0.0,25,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,07:15,61.7,62.0,57.8,87.2,0.0,S@3.5,7.4,61.5,0.0,27,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,07:30,61.8,62.2,58.1,87.4,0.0,S@1.8,5.3,61.5,0.0,36,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,07:45,62.2,62.6,58.3,87.0,0.0,S@2.6,6.0,61.5,0.0,87,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,08:00,62.5,62.9,58.3,86.0,0.0,S@2.7,5.7,61.5,0.0,70,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,08:15,62.3,62.7,58.3,86.6,0.01,S@1.5,4.6,61.5,0.0,59,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,08:30,62.9,63.3,58.9,86.6,0.0,S@1.5,5.7,61.5,0.0,119,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,08:45,63.3,63.7,58.8,85.0,0.0,S@1.7,6.4,61.5,0.0,88,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,09:00,63.1,63.4,58.6,85.1,0.0,S@1.2,6.4,61.5,0.0,99,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,09:15,64.4,64.8,59.0,82.5,0.0,S@2.7,6.0,61.5,0.0,243,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,09:30,65.0,65.4,58.7,80.2,0.0,S@2.8,7.4,61.5,0.0,198,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,09:45,65.3,65.7,58.7,79.0,0.0,S@2.7,5.7,61.5,0.0,217,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,10:00,65.8,66.2,58.5,77.4,0.0,S@3.6,7.4,61.5,0.0,251,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,10:15,65.7,66.0,58.4,77.3,0.0,S@3.2,7.4,61.5,0.0,203,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,10:30,66.7,67.1,58.6,75.1,0.0,S@3.5,8.9,61.5,0.0,301,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,10:45,66.6,66.9,58.4,75.0,0.0,S@3.1,8.2,61.5,0.0,180,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,11:00,66.5,66.8,58.3,74.8,0.0,S@2.9,6.0,61.5,0.0,181,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,11:15,66.2,66.5,57.9,74.7,0.0,S@2.7,6.7,61.5,0.0,120,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,11:30,66.5,66.8,57.6,73.2,0.0,S@2.7,6.4,61.5,0.0,127,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,11:45,66.5,66.9,57.5,72.5,0.0,S@2.5,6.0,61.5,0.0,120,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,12:00,66.6,67.0,57.2,71.7,0.0,S@2.9,7.8,61.5,0.0,107,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,12:15,66.7,67.0,57.1,71.2,0.0,S@3.4,7.1,61.5,0.0,143,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,12:30,68.2,68.6,58.0,69.8,0.0,S@3.0,6.7,61.5,0.0,299,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,12:45,68.6,69.0,57.8,68.2,0.0,S@3.5,7.8,61.5,0.0,259,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,13:00,70.3,70.6,58.6,66.4,0.0,S@2.6,6.7,61.5,0.0,487,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,13:15,70.7,71.1,57.9,63.9,0.0,S@3.3,8.2,61.5,0.0,270,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,13:30,69.1,69.5,57.3,65.9,0.0,S@4.0,9.2,61.5,0.0,218,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,13:45,69.6,69.9,57.5,65.4,0.0,SW@4.0,11.4,61.5,0.0,294,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,14:00,70.0,70.3,57.5,64.5,0.0,S@4.1,8.9,61.5,0.0,318,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,14:15,70.0,70.3,58.0,65.8,0.0,S@3.2,7.8,61.5,0.0,255,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,14:30,69.6,69.9,57.5,65.4,0.0,S@4.7,12.8,61.5,0.0,254,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,14:45,70.2,70.5,57.8,64.7,0.0,S@4.3,11.7,61.5,0.0,363,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,15:00,70.0,70.4,57.4,64.3,0.0,S@4.4,9.6,61.6,0.0,326,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,15:15,70.6,70.8,57.5,63.4,0.0,S@4.4,10.3,61.6,0.0,358,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,15:30,70.7,71.0,57.1,61.9,0.0,S@5.2,9.9,61.6,0.0,416,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,15:45,70.5,70.8,57.2,62.6,0.0,S@4.3,9.9,61.6,0.0,292,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,16:00,69.4,69.7,57.0,64.6,0.0,S@4.0,9.2,61.6,0.0,203,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,16:15,69.0,69.4,57.3,66.0,0.0,S@3.2,7.1,61.6,0.0,162,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,16:30,68.7,69.1,56.9,65.8,0.0,S@3.6,9.2,61.6,0.0,138,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,16:45,68.7,69.1,57.1,66.3,0.0,S@1.7,5.3,61.7,0.0,117,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,17:00,68.5,68.8,57.5,67.9,0.0,S@1.7,5.7,61.7,0.0,85,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,17:15,67.8,68.2,57.1,68.6,0.0,S@3.2,7.4,61.7,0.0,42,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,17:30,67.3,67.7,56.9,69.0,0.0,S@3.0,6.0,61.7,0.0,37,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,17:45,67.1,67.5,56.9,69.6,0.0,S@2.5,6.0,61.7,0.0,23,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,18:00,66.4,66.7,57.7,73.5,0.0,S@1.2,5.7,61.8,0.0,12,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,18:15,66.0,66.4,57.7,74.6,0.0,S@0.9,4.9,61.8,0.0,6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,18:30,65.7,66.1,57.4,74.5,0.0,S@1.7,4.9,61.8,0.0,2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,18:45,65.7,66.1,57.0,73.5,0.0,S@2.9,6.7,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,19:00,65.5,65.9,57.0,73.9,0.0,S@2.1,5.7,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,19:15,65.3,65.7,57.0,74.4,0.0,S@2.9,6.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,19:30,65.2,65.6,57.0,74.6,0.0,S@2.9,6.7,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,19:45,65.2,65.6,56.8,74.2,0.0,S@3.2,6.4,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,20:00,65.2,65.6,56.4,73.3,0.0,S@2.4,5.3,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,20:15,64.7,65.1,56.6,74.8,0.0,S@2.6,7.8,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,20:30,64.2,64.6,56.5,76.1,0.0,S@1.3,4.6,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,20:45,64.1,64.4,56.4,76.1,0.01,S@2.7,4.9,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,21:00,63.4,63.7,56.7,78.6,0.27,S@1.7,4.6,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,21:15,63.0,63.4,56.7,79.7,0.11,S@1.6,5.3,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,21:30,63.0,63.2,56.7,80.0,0.01,S@2.1,7.8,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,21:45,63.3,63.6,56.5,78.6,0.0,S@3.0,7.1,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,22:00,63.5,63.9,56.4,77.5,0.0,S@3.6,8.5,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,22:15,63.6,63.9,56.2,76.9,0.0,S@3.6,8.5,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,22:30,63.1,63.5,56.2,78.0,0.0,S@3.4,6.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,22:45,63.1,63.4,56.3,78.2,0.0,S@2.4,6.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-13,23:00,62.9,63.2,56.4,79.1,0.0,S@1.5,3.9,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,23:15,62.6,62.9,56.4,80.2,0.0,S@2.5,5.3,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,23:30,63.0,63.4,56.3,78.6,0.0,S@3.0,6.7,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,23:45,62.9,63.2,56.4,79.2,0.0,S@0.8,3.1,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,24:00,62.5,62.8,56.8,81.4,0.0,E@1.0,3.1,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,00:15,62.3,62.6,57.3,83.4,0.0,SE@0.6,3.5,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,00:30,62.2,62.6,57.4,84.3,0.0,S@1.6,4.9,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,00:45,62.3,62.7,57.4,83.8,0.0,S@1.6,4.9,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,01:00,62.4,62.8,57.1,82.7,0.0,S@1.7,4.9,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,01:15,62.2,62.5,56.8,82.5,0.0,S@1.1,5.3,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,01:30,61.5,61.9,56.6,83.9,0.0,S@0.1,1.7,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,01:45,61.2,61.6,56.7,84.9,0.0,S@0.6,2.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,02:00,61.0,61.4,56.8,85.7,0.0,S@0.3,2.8,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,02:15,60.8,61.1,56.7,86.3,0.0,SW@0.0,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,02:30,60.5,60.8,56.7,87.3,0.0,E@0.0,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,02:45,60.2,60.4,56.6,88.1,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,03:00,59.5,59.7,56.5,89.5,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,03:15,59.4,59.7,56.7,90.5,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,03:30,59.3,59.5,56.7,91.3,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,03:45,59.2,59.4,56.9,92.0,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,04:00,59.2,59.5,57.0,92.2,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,04:15,59.3,59.6,57.1,92.4,0.01,S@0.0,1.4,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,04:30,59.3,59.7,57.0,92.0,0.01,S@0.2,2.8,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,04:45,59.2,59.5,56.9,92.0,0.01,S@0.1,1.7,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,05:00,59.1,59.4,56.9,92.3,0.01,N @0.0,0.0,62.0,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,05:15,59.1,59.4,56.9,92.4,0.02,E@0.0,1.7,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,05:30,59.0,59.3,56.9,92.5,0.02,E@0.1,2.8,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,05:45,58.9,59.2,56.8,92.6,0.02,N @0.0,0.0,61.9,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,06:00,59.0,59.3,57.0,92.9,0.02,E@0.1,2.4,61.9,0.0,3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,06:15,59.4,59.7,57.2,92.5,0.01,S@0.1,2.1,61.9,0.0,7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,06:30,59.9,60.3,57.4,91.1,0.01,S@0.6,3.1,61.9,0.0,16,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,06:45,60.5,60.9,57.4,89.3,0.0,S@0.5,2.8,61.9,0.0,22,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,07:00,61.4,61.8,56.9,85.3,0.0,S@3.2,8.5,61.9,0.0,35,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,07:15,61.9,62.2,56.6,82.8,0.03,S@3.8,8.2,61.9,0.0,40,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,07:30,62.0,62.4,56.6,82.3,0.0,S@4.6,9.2,61.8,0.0,46,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,07:45,62.2,62.6,56.5,81.4,0.0,S@4.2,8.2,61.8,0.0,47,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,08:00,62.3,62.7,56.4,81.0,0.0,S@3.8,8.2,61.8,0.0,41,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,08:15,62.4,62.8,56.5,80.9,0.0,S@3.1,5.7,61.8,0.0,46,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,08:30,62.4,62.7,56.7,81.7,0.22,S@2.2,5.7,61.8,0.0,54,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,08:45,62.3,62.7,57.0,82.7,0.21,S@3.1,6.0,61.8,0.0,71,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,09:00,62.6,63.0,57.1,82.1,0.01,S@2.5,5.3,61.8,0.0,77,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,09:15,62.9,63.3,56.9,80.5,0.0,S@2.4,5.7,61.8,0.0,87,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,09:30,63.1,63.5,56.8,79.7,0.0,S@3.6,7.1,61.8,0.0,88,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,09:45,63.4,63.8,57.1,79.8,0.0,S@2.4,5.3,61.7,0.0,100,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,10:00,64.1,64.5,57.4,78.8,0.0,S@2.1,4.2,61.7,0.0,123,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,10:15,64.3,64.7,57.2,77.6,0.0,S@3.2,7.1,61.7,0.0,148,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,10:30,64.4,64.8,57.0,76.9,0.0,S@3.6,7.8,61.7,0.0,145,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,10:45,64.3,64.7,56.9,76.7,0.0,S@3.2,6.7,61.7,0.0,124,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,11:00,64.4,64.8,56.9,76.5,0.0,S@2.4,7.1,61.7,0.0,130,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,11:15,64.5,64.9,56.9,76.1,0.0,S@2.9,6.7,61.7,0.0,124,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,11:30,64.8,65.1,56.7,75.0,0.0,S@2.5,6.4,61.7,0.0,145,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,11:45,64.5,64.9,56.4,75.0,0.0,S@3.7,6.7,61.7,0.0,100,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,12:00,64.4,64.7,56.3,75.1,0.0,S@3.5,7.4,61.7,0.0,104,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,12:15,65.0,65.3,56.7,74.6,0.0,S@3.1,6.7,61.7,0.0,151,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,12:30,65.0,65.4,56.3,73.3,0.0,S@3.8,6.7,61.7,0.0,121,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,12:45,65.1,65.5,56.5,73.7,0.0,S@3.1,8.5,61.7,0.0,150,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,13:00,65.6,66.0,56.6,72.5,0.0,S@3.6,8.2,61.7,0.0,169,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,13:15,65.7,66.1,56.2,71.4,0.0,S@3.1,7.1,61.7,0.0,153,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,13:30,65.5,65.9,56.0,71.3,0.0,S@3.8,7.1,61.7,0.0,106,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,13:45,65.5,65.9,56.0,71.3,0.0,S@3.5,7.4,61.7,0.0,116,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,14:00,65.4,65.8,56.0,71.6,0.01,S@3.1,8.5,61.7,0.0,102,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,14:15,65.5,65.9,55.9,70.9,0.0,S@3.0,8.9,61.7,0.0,123,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,14:30,66.1,66.5,55.7,69.0,0.0,S@3.2,7.1,61.7,0.0,130,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,14:45,65.9,66.3,55.7,69.6,0.0,S@3.0,6.4,61.7,0.0,104,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,15:00,66.1,66.4,56.5,71.1,0.0,S@0.4,3.1,61.7,0.0,118,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,15:15,66.3,66.7,56.4,70.4,0.0,S@1.4,5.3,61.7,0.0,105,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,15:30,66.2,66.6,57.0,72.1,0.0,S@0.8,3.1,61.7,0.0,99,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,15:45,66.2,66.6,56.9,71.9,0.0,S@2.7,6.7,61.7,0.0,112,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,16:00,65.9,66.3,57.1,73.2,0.0,S@1.0,4.9,61.7,0.0,74,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,16:15,65.4,65.7,56.8,73.6,0.0,S@1.6,3.9,61.7,0.0,39,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,16:30,65.0,65.4,56.8,74.6,0.0,S@1.5,5.3,61.7,0.0,44,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,16:45,65.0,65.4,57.3,76.2,0.0,SE@0.3,2.8,61.7,0.0,29,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,17:00,64.5,64.9,57.4,77.6,0.0,SE@0.8,3.5,61.7,0.0,32,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,17:15,64.8,65.2,56.7,74.9,0.0,S@2.6,4.9,61.7,0.0,27,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,17:30,65.0,65.4,56.2,72.9,0.0,S@4.0,9.9,61.7,0.0,17,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,17:45,64.9,65.3,55.9,72.5,0.0,S@3.6,7.8,61.7,0.0,13,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,18:00,64.5,64.9,55.9,73.6,0.0,S@2.0,4.6,61.7,0.0,8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,18:15,64.0,64.3,55.7,74.3,0.0,SW@1.4,4.2,61.7,0.0,4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,18:30,64.2,64.5,55.6,73.7,0.0,S@2.2,4.9,61.7,0.0,1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,18:45,64.0,64.4,55.7,74.3,0.0,S@1.1,4.2,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,19:00,64.4,64.8,55.5,72.9,0.0,SE@2.2,8.2,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,19:15,64.3,64.6,55.7,73.7,0.0,S@1.3,4.6,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,19:30,63.9,64.2,56.0,75.6,0.0,SE@1.7,9.9,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,19:45,63.7,64.1,55.0,73.3,0.01,S@3.7,7.1,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,20:00,63.3,63.6,55.0,74.4,0.0,S@2.9,6.4,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,20:15,62.7,63.1,55.3,76.7,0.02,S@3.4,7.1,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,20:30,61.1,61.5,56.4,84.3,0.61,S@3.3,8.9,61.8,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,20:45,60.0,60.2,57.0,90.0,0.87,S@1.8,4.6,61.8,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,21:00,59.5,59.8,57.4,92.4,0.87,S@1.8,3.5,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,21:15,59.4,59.7,57.6,93.5,0.88,S@1.5,4.6,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,21:30,59.4,59.7,57.7,94.2,0.89,S@0.6,3.9,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,21:45,59.2,59.5,57.8,94.7,0.87,SE@0.6,4.6,61.8,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,22:00,59.1,59.4,57.7,95.1,0.85,S@0.7,2.8,61.8,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,22:15,59.1,59.4,57.8,95.4,0.83,S@1.0,3.5,61.8,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,22:30,59.1,59.3,57.9,95.8,0.82,E@0.0,2.1,61.8,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,22:45,58.9,59.3,57.9,96.1,0.8,E@0.3,3.5,61.8,0.02,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-14,23:00,58.8,59.1,57.7,96.2,0.77,E@0.5,4.6,61.8,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-15,23:15,58.7,59.1,57.7,96.2,0.77,S@0.1,2.1,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-15,23:30,58.8,59.1,57.8,96.4,0.78,S@0.2,3.5,61.8,0.01,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-15,23:45,58.9,59.1,57.9,96.5,0.77,S@0.1,3.1,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
+2019-09-15,24:00,58.9,59.2,58.0,96.7,0.78,S@0.7,3.5,61.8,0.0,0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2019-11-27 07:36:34.239617
