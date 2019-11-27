@@ -1,0 +1,47 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+#------------------------------------------------- ERROR ---------------------------------------------
+# Stations do not exist  535:WA:SNTL
+#------------------------------------------------------------------------------------------------------
+# 
+# Data for the following site(s) are contained in this file:
+#
+# 
+# Data items provided in this file:
+#
+# Element Name  Value Type  Function Type  Function Duration  Base Data  Measurement Units  Sensor Depth  Element Code  Description  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# As of: Sep 9, 2019 7:50:34 PM GMT-08:00
+#
