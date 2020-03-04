@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Soil VWC %, Atm. Press. inHg, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-10-25,00:15,46.1,36.1,67.8,0.0,N @0.0,0.0,0.0,0,55.7,58.0,14.9,30.24,45.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,00:30,45.3,36.7,71.7,0.0,N @0.0,0.0,0.0,0,55.5,58.0,14.9,30.23,44.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,00:45,44.4,36.1,72.5,0.0,N @0.0,0.0,0.0,0,55.4,57.9,14.9,30.22,44.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,01:00,43.6,36.9,77.0,0.0,N @0.0,0.0,0.0,0,55.2,57.9,14.9,30.22,43.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,01:15,42.4,36.6,79.9,0.0,N @0.0,0.0,0.0,0,55.0,57.9,14.9,30.22,42.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,01:30,41.7,36.3,81.0,0.0,N @0.0,0.0,0.0,0,54.8,57.8,14.9,30.22,41.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,01:45,43.4,36.2,75.5,0.0,N @0.0,0.0,0.0,0,54.7,57.8,14.9,30.21,42.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,02:00,42.9,35.9,76.2,0.0,N @0.0,0.0,0.0,0,54.5,57.8,14.9,30.21,42.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,02:15,42.6,36.1,77.5,0.0,N @0.0,0.0,0.0,0,54.3,57.7,14.9,30.2,42.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,02:30,43.6,36.0,74.5,0.0,N @0.0,0.0,0.0,0,54.1,57.7,14.9,30.19,43.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,02:45,43.1,36.3,76.5,0.0,N @0.0,0.0,0.0,0,54.0,57.6,14.9,30.19,42.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,03:00,42.2,37.1,82.2,0.0,N @0.0,0.0,0.0,0,53.8,57.6,14.9,30.18,41.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,03:15,41.2,35.6,80.4,0.0,N @0.0,0.0,0.01,0,53.6,57.5,14.9,30.18,40.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,03:30,40.5,35.7,82.9,0.0,N @0.0,0.0,0.01,0,53.5,57.5,15.0,30.17,40.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,03:45,40.3,35.6,83.1,0.0,N @0.0,0.0,0.06,0,53.3,57.4,15.0,30.17,39.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,04:00,39.4,35.3,85.1,0.0,N @0.0,0.0,0.08,0,53.1,57.4,14.9,30.16,38.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,04:15,38.8,35.2,86.8,0.0,N @0.0,0.0,0.11,0,53.0,57.3,14.9,30.16,38.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,04:30,38.3,34.9,87.4,0.0,N @0.0,0.0,0.12,0,52.8,57.3,14.9,30.15,37.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,04:45,38.4,34.9,87.1,0.0,N @0.0,0.0,0.1,0,52.7,57.2,14.9,30.15,37.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,05:00,38.3,34.6,86.1,0.0,N @0.0,0.0,0.1,0,52.5,57.2,14.9,30.14,37.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,05:15,38.7,34.9,86.1,0.0,N @0.0,0.0,0.12,0,52.3,57.1,14.9,30.14,38.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,05:30,38.5,34.9,86.8,0.0,N @0.0,0.0,0.14,0,52.1,57.1,14.9,30.13,38.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,05:45,37.9,34.3,86.6,0.0,N @0.0,0.0,0.09,0,52.0,57.0,14.9,30.12,37.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,06:00,37.9,34.3,86.6,0.0,N @0.0,0.0,0.09,0,51.8,56.9,14.9,30.12,37.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,06:15,38.0,34.5,87.0,0.0,N @0.0,0.0,0.09,1,51.7,56.9,14.9,30.12,37.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,06:30,38.3,34.8,87.1,0.0,N @0.0,0.0,0.11,3,51.5,56.8,14.9,30.12,37.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,06:45,37.9,34.7,87.8,0.0,N @0.0,0.0,0.15,9,51.4,56.7,14.9,30.11,37.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,07:00,38.0,35.0,88.8,0.0,N @0.0,0.0,0.16,16,51.2,56.7,14.9,30.11,37.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,07:15,39.6,35.7,85.9,0.0,N @0.0,0.0,0.05,58,51.1,56.6,14.8,30.12,39.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,07:30,42.1,36.3,79.4,0.0,N @0.0,0.0,0.0,103,51.0,56.6,14.8,30.12,41.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,07:45,44.4,37.0,75.0,0.0,N @0.0,0.0,0.0,137,50.9,56.5,14.8,30.13,43.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,08:00,44.5,37.9,77.5,0.0,N @0.0,0.0,0.0,172,50.8,56.4,14.8,30.12,43.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,08:15,45.9,38.1,74.1,0.0,N @0.0,0.0,0.0,206,50.8,56.3,14.8,30.12,45.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,08:30,49.1,39.8,69.9,0.0,N @0.0,0.0,0.0,241,50.9,56.3,14.8,30.12,48.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,08:45,50.3,41.9,72.5,0.0,N @0.0,0.0,0.0,275,51.1,56.2,14.8,30.12,49.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,09:00,50.9,41.6,70.3,0.0,N @0.0,0.0,0.0,308,51.4,56.1,14.8,30.12,49.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,09:15,52.0,42.4,69.6,0.0,N @0.0,0.0,0.0,340,51.7,56.0,14.8,30.11,50.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,09:30,52.3,42.6,69.4,0.0,N @0.0,0.0,0.0,372,52.1,56.0,14.8,30.1,51.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,09:45,57.3,45.1,63.6,0.0,N @0.0,0.0,0.0,402,52.6,55.9,14.8,30.1,56.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,10:00,63.2,48.9,59.4,0.0,SW@9.5,17.8,0.0,457,53.1,55.8,14.8,30.08,62.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,10:15,65.0,50.8,59.9,0.0,SW@14.3,20.3,0.0,534,53.6,55.8,14.8,30.07,63.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,10:30,64.4,51.1,61.9,0.0,S@16.9,22.5,0.0,350,54.3,55.7,14.8,30.06,63.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,10:45,65.8,51.9,60.7,0.0,SW@11.4,21.8,0.0,454,54.9,55.6,14.8,30.06,64.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,11:00,69.8,51.6,52.3,0.0,W@12.1,22.5,0.0,362,55.5,55.6,14.8,30.05,69.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,11:15,70.4,51.5,51.1,0.0,W@11.4,20.7,0.0,434,56.0,55.6,14.8,30.05,69.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,11:30,71.3,51.3,49.1,0.0,W@16.1,24.3,0.0,274,56.6,55.5,14.8,30.04,70.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,11:45,71.0,51.1,49.4,0.0,W@18.5,26.0,0.0,255,57.2,55.5,14.8,30.03,70.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,12:00,70.9,50.9,49.3,0.0,W@17.4,24.6,0.0,216,57.6,55.5,14.8,30.02,70.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,12:15,70.3,51.4,51.1,0.0,SW@17.4,25.7,0.0,193,58.1,55.5,14.8,30.01,69.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,12:30,70.2,51.3,51.1,0.0,SW@19.0,26.0,0.0,216,58.4,55.5,14.8,30.0,69.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,12:45,71.1,51.5,50.0,0.0,SW@22.7,32.1,0.0,505,58.7,55.5,14.9,30.0,70.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,13:00,71.1,51.8,50.4,0.0,SW@22.7,32.1,0.0,451,58.9,55.6,14.9,30.0,70.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,13:15,71.5,50.4,47.2,0.0,SW@24.0,33.6,0.0,326,59.3,55.6,14.9,30.0,70.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,13:30,71.3,49.6,46.1,0.0,SW@25.1,34.6,0.0,416,59.7,55.6,14.9,29.99,70.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,13:45,71.1,49.5,46.3,0.0,SW@23.7,32.8,0.0,410,60.0,55.7,14.9,29.99,70.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,14:00,70.8,48.5,45.1,0.0,W@25.8,37.1,0.0,383,60.3,55.8,14.9,29.99,70.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,14:15,70.2,48.7,46.4,0.0,SW@25.9,35.0,0.0,336,60.6,55.9,14.9,29.99,69.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,14:30,69.8,49.4,48.2,0.0,SW@24.7,33.6,0.0,311,60.9,55.9,14.9,29.98,68.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,14:45,69.1,49.7,50.0,0.0,SW@26.3,32.8,0.0,298,61.1,56.0,14.9,29.98,68.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,15:00,69.0,49.6,49.9,0.0,SW@25.8,36.8,0.0,263,61.3,56.1,15.0,29.98,68.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,15:15,68.4,49.5,50.8,0.0,SW@26.0,41.4,0.0,233,61.5,56.2,15.0,29.99,67.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,15:30,68.0,49.3,51.2,0.0,W@23.5,35.0,0.0,199,61.6,56.3,15.0,30.0,67.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,15:45,67.2,49.2,52.3,0.0,W@22.9,33.6,0.0,166,61.7,56.4,14.9,30.0,66.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,16:00,66.7,49.2,53.3,0.0,SW@20.5,30.3,0.0,133,61.7,56.5,14.9,30.01,65.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,16:15,66.1,49.2,54.4,0.0,SW@21.2,28.9,0.0,100,61.7,56.6,14.9,30.01,65.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,16:30,65.2,49.1,55.9,0.0,SW@20.7,28.6,0.0,68,61.7,56.7,14.9,30.01,64.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,16:45,64.3,48.9,57.1,0.0,SW@19.6,27.5,0.0,27,61.6,56.8,14.9,30.02,63.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,17:00,63.3,48.7,59.0,0.0,SW@20.6,29.3,0.0,8,61.5,56.9,14.9,30.01,62.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,17:15,62.7,48.1,58.8,0.0,SW@21.8,28.2,0.0,3,61.4,57.0,14.9,30.01,61.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,17:30,62.0,47.7,59.5,0.0,SW@14.9,24.6,0.0,1,61.2,57.1,15.0,30.01,61.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,17:45,60.6,48.1,63.2,0.0,SW@13.1,20.0,0.0,0,61.0,57.2,15.0,30.03,59.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,18:00,59.9,46.6,61.3,0.0,SW@12.4,19.2,0.0,0,60.8,57.3,15.0,30.03,59.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,18:15,59.2,44.5,57.9,0.0,W@11.1,20.0,0.0,0,60.6,57.3,15.0,30.03,58.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,18:30,58.9,36.7,43.4,0.0,NW@1.0,12.1,0.0,0,60.4,57.4,15.0,30.07,58.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,18:45,57.7,31.7,37.0,0.0,N @0.0,0.0,0.0,0,60.2,57.5,15.0,30.08,56.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,19:00,56.6,35.0,44.1,0.0,NW@0.8,9.9,0.0,0,59.9,57.6,15.0,30.1,55.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,19:15,55.3,35.2,46.5,0.0,NW@0.5,6.0,0.0,0,59.7,57.6,15.0,30.11,54.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,19:30,54.4,34.8,47.4,0.0,N @0.0,0.0,0.0,0,59.4,57.7,15.0,30.12,53.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,19:45,52.1,34.5,51.0,0.0,N @0.0,0.0,0.0,0,59.1,57.8,15.0,30.12,51.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,20:00,52.1,33.9,49.8,0.0,N @0.0,0.0,0.0,0,58.8,57.8,15.0,30.13,51.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,20:15,51.1,34.8,53.4,0.0,N @0.0,0.0,0.0,0,58.5,57.9,15.0,30.14,50.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,20:30,51.1,34.6,52.9,0.0,N @0.0,0.0,0.0,0,58.2,57.9,15.0,30.15,50.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,20:45,53.4,34.5,48.5,0.0,W@0.5,8.5,0.0,0,58.0,57.9,15.0,30.16,53.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,21:00,50.7,34.2,53.0,0.0,SW@4.9,11.0,0.0,0,57.7,58.0,15.0,30.17,50.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,21:15,47.2,32.6,56.7,0.0,W@1.4,11.4,0.0,0,57.4,58.0,15.0,30.18,46.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,21:30,47.1,31.8,55.0,0.0,W@4.4,11.0,0.0,0,57.2,58.0,14.9,30.18,46.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,21:45,46.8,31.4,54.8,0.0,SW@4.7,12.4,0.0,0,56.9,58.0,14.9,30.19,46.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,22:00,46.9,31.9,55.5,0.0,W@5.2,11.0,0.0,0,56.7,58.0,14.9,30.19,46.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,22:15,47.2,32.5,56.5,0.0,W@3.1,10.7,0.0,0,56.4,58.0,14.9,30.2,46.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,22:30,45.7,32.9,60.6,0.0,W@4.9,9.9,0.0,0,56.2,58.0,14.9,30.2,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,22:45,45.1,33.2,62.9,0.0,SW@2.9,10.7,0.0,0,56.0,58.0,14.9,30.2,44.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,23:00,45.1,32.8,62.0,0.0,SW@2.4,10.3,0.0,0,55.7,58.0,14.9,30.2,44.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,23:15,44.8,32.3,61.4,0.0,N @0.0,0.0,0.0,0,55.5,57.9,14.9,30.21,44.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,23:30,45.0,32.4,60.8,0.0,N @0.0,0.0,0.0,0,55.3,57.9,14.9,30.21,44.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,23:45,45.2,32.2,60.0,0.0,N @0.0,0.0,0.0,0,55.0,57.9,14.9,30.22,44.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-25,24:00,44.8,32.1,60.8,0.0,W@0.3,5.7,0.0,0,54.8,57.9,14.9,30.22,44.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,00:15,43.9,32.5,63.8,0.0,N @0.0,0.0,0.0,0,54.6,57.8,14.9,30.22,43.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,00:30,44.5,32.5,62.5,0.0,W@0.3,6.7,0.0,0,54.4,57.8,14.9,30.22,44.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,00:45,44.7,32.6,62.1,0.0,W@0.0,2.4,0.0,0,54.2,57.8,14.9,30.22,44.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,01:00,44.6,32.8,63.0,0.0,N @0.0,0.0,0.0,0,54.0,57.7,14.9,30.22,44.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,01:15,45.0,33.0,62.6,0.0,W@0.0,1.7,0.0,0,53.8,57.7,14.9,30.22,44.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,01:30,45.1,33.4,63.2,0.0,SW@1.5,10.7,0.0,0,53.7,57.6,14.9,30.22,44.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,01:45,46.0,33.1,60.4,0.0,W@1.6,11.4,0.0,0,53.6,57.6,14.9,30.22,45.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,02:00,46.4,32.8,58.9,0.0,SW@5.2,16.0,0.0,0,53.5,57.5,14.9,30.21,46.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,02:15,46.4,32.3,57.7,0.0,W@2.9,14.2,0.0,0,53.4,57.4,14.9,30.21,46.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,02:30,45.7,32.9,60.7,0.0,SW@1.7,10.3,0.0,0,53.3,57.4,14.9,30.22,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,02:45,45.2,33.2,62.6,0.0,N @0.0,0.0,0.0,0,53.2,57.3,14.9,30.22,44.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,03:00,45.7,33.6,62.2,0.0,SW@1.7,6.7,0.0,0,53.2,57.3,14.9,30.22,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,03:15,46.1,33.2,60.4,0.0,SW@0.5,9.2,0.0,0,53.1,57.2,14.9,30.22,45.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,03:30,46.3,33.4,60.4,0.0,N @0.0,0.0,0.0,0,53.0,57.2,14.9,30.22,45.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,03:45,45.8,34.3,63.8,0.0,N @0.0,0.0,0.0,0,53.0,57.1,14.9,30.22,45.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,04:00,45.9,35.0,65.4,0.0,SW@0.0,1.4,0.0,0,52.9,57.0,14.9,30.22,45.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,04:15,46.7,33.7,60.5,0.0,N @0.0,0.0,0.0,0,52.8,57.0,14.9,30.23,46.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,04:30,46.2,34.5,63.3,0.0,N @0.0,0.0,0.0,0,52.8,56.9,14.8,30.23,45.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,04:45,45.0,35.1,68.2,0.0,N @0.0,0.0,0.0,0,52.7,56.9,14.8,30.22,44.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,05:00,44.4,34.8,68.8,0.0,N @0.0,0.0,0.0,0,52.6,56.8,14.8,30.23,43.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,05:15,44.2,34.6,68.6,0.0,N @0.0,0.0,0.0,0,52.6,56.8,14.8,30.23,43.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,05:30,44.9,33.3,63.6,0.0,N @0.0,0.0,0.0,0,52.4,56.7,14.8,30.23,44.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,05:45,45.7,32.5,59.7,0.0,W@0.0,1.4,0.0,0,52.3,56.7,14.8,30.23,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,06:00,45.0,32.8,61.9,0.0,SW@1.5,12.4,0.0,0,52.2,56.6,14.8,30.23,44.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,06:15,44.2,32.5,63.1,0.0,SW@1.9,11.4,0.0,0,52.1,56.6,14.8,30.23,43.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,06:30,42.9,32.5,66.4,0.0,SW@1.2,9.2,0.0,2,52.0,56.5,14.8,30.23,42.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,06:45,42.3,32.0,66.7,0.0,W@1.8,7.8,0.0,6,51.9,56.5,14.8,30.23,41.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,07:00,42.9,32.0,64.9,0.0,SW@0.2,4.9,0.0,13,51.8,56.4,14.8,30.23,42.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,07:15,43.9,31.9,62.4,0.0,N @0.0,0.0,0.0,22,51.6,56.4,14.8,30.24,43.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,07:30,44.1,31.9,62.0,0.0,N @0.0,0.0,0.0,33,51.5,56.3,14.8,30.24,43.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,07:45,45.5,32.3,59.7,0.0,S@0.0,1.7,0.0,40,51.4,56.3,14.8,30.25,45.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,08:00,45.3,32.9,61.6,0.0,N @0.0,0.0,0.0,51,51.2,56.2,14.8,30.25,44.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,08:15,46.2,32.9,59.5,0.0,N @0.0,0.0,0.0,70,51.1,56.2,14.8,30.26,45.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,08:30,48.4,32.1,53.0,0.0,N @0.0,0.0,0.0,64,51.1,56.1,14.8,30.26,48.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,08:45,45.7,33.9,63.2,0.0,N @0.0,0.0,0.0,83,51.0,56.1,14.8,30.26,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,09:00,46.8,34.3,61.5,0.0,N @0.0,0.0,0.0,106,51.0,56.0,14.8,30.26,46.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,09:15,49.8,34.2,54.8,0.0,N @0.0,0.0,0.0,332,51.0,56.0,14.8,30.26,49.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,09:30,53.0,33.6,47.5,0.0,N @0.0,0.0,0.0,354,51.1,55.9,14.8,30.26,52.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,09:45,54.6,33.2,44.1,0.0,SE@0.0,1.4,0.0,399,51.3,55.9,14.8,30.26,53.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,10:00,55.5,32.9,42.2,0.0,N @0.0,0.0,0.0,484,51.7,55.8,14.8,30.26,54.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,10:15,55.5,33.4,43.1,0.0,SE@0.0,1.4,0.0,338,52.2,55.7,14.8,30.26,54.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,10:30,55.2,34.2,44.9,0.0,SE@0.0,2.1,0.0,322,52.8,55.7,14.8,30.26,54.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,10:45,54.5,34.1,46.0,0.0,N @0.0,0.0,0.0,227,53.4,55.6,14.8,30.26,53.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,11:00,53.8,35.0,48.7,0.0,N @0.0,0.0,0.0,150,54.0,55.6,14.8,30.26,53.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,11:15,53.9,35.7,50.0,0.0,SE@0.0,1.4,0.0,165,54.4,55.5,14.8,30.26,53.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,11:30,54.2,35.7,49.4,0.0,N @0.0,0.0,0.0,219,54.8,55.5,14.8,30.26,53.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,11:45,55.4,33.9,44.1,0.0,N @0.0,0.0,0.0,450,55.1,55.4,14.8,30.26,54.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,12:00,56.3,33.0,41.0,0.0,N @0.0,0.0,0.0,318,55.4,55.4,14.8,30.26,55.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,12:15,56.4,30.2,36.6,0.0,N @3.3,11.4,0.0,232,55.7,55.4,14.8,30.26,55.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,12:30,56.7,29.1,34.6,0.0,N @3.0,10.3,0.0,296,56.1,55.4,14.8,30.26,55.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,12:45,56.8,28.1,33.2,0.0,N @3.6,11.0,0.0,324,56.5,55.4,14.8,30.25,55.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,13:00,58.9,26.0,28.2,0.0,N @6.6,17.5,0.0,487,56.8,55.5,14.8,30.25,57.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,13:15,59.2,23.8,25.4,0.0,N @8.1,17.1,0.0,468,57.1,55.5,14.8,30.24,58.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,13:30,57.5,22.8,25.9,0.0,N @10.6,16.4,0.0,166,57.4,55.5,14.8,30.24,56.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,13:45,57.8,22.5,25.3,0.0,N @9.8,19.6,0.0,275,57.7,55.6,14.8,30.24,57.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,14:00,56.9,22.2,25.9,0.0,N @10.2,17.5,0.0,246,57.9,55.6,14.8,30.24,56.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,14:15,57.9,22.7,25.4,0.0,N @11.5,22.1,0.0,311,58.0,55.6,14.8,30.24,57.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,14:30,57.7,24.2,27.3,0.0,N @12.2,20.0,0.0,321,58.1,55.7,14.8,30.24,56.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,14:45,56.7,26.2,30.6,0.0,N @12.1,19.6,0.0,265,58.1,55.8,14.8,30.25,55.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,15:00,56.8,26.9,31.5,0.0,N @6.3,17.5,0.0,272,58.2,55.8,14.8,30.26,56.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,15:15,56.5,26.4,31.2,0.0,N @11.5,19.2,0.0,244,58.2,55.9,14.8,30.26,55.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,15:30,56.4,26.5,31.5,0.0,N @11.0,17.5,0.0,221,58.2,56.0,14.8,30.26,55.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,15:45,55.6,25.8,31.4,0.0,N @10.7,19.6,0.0,176,58.2,56.0,14.9,30.27,54.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,16:00,55.3,26.7,33.1,0.0,N @8.8,16.0,0.0,130,58.2,56.1,14.9,30.28,54.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,16:15,54.7,27.0,34.2,0.0,N @8.5,15.7,0.0,85,58.1,56.2,14.9,30.28,53.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,16:30,54.1,27.2,35.3,0.0,N @8.8,16.0,0.0,57,58.0,56.2,14.9,30.29,53.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,16:45,53.4,27.3,36.3,0.0,N@6.7,14.2,0.0,30,57.9,56.3,14.9,30.29,52.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,17:00,52.6,27.5,37.7,0.0,N @8.8,14.6,0.0,9,57.8,56.4,14.9,30.3,52.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,17:15,52.1,27.5,38.4,0.0,N @8.1,13.5,0.0,2,57.6,56.4,14.9,30.3,51.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,17:30,51.0,28.1,40.8,0.0,N @7.8,12.4,0.0,0,57.4,56.5,14.9,30.31,50.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,17:45,49.7,28.2,43.0,0.0,N @5.7,10.3,0.0,0,57.2,56.6,14.9,30.32,49.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,18:00,48.9,27.8,43.8,0.0,N@5.1,8.5,0.0,0,57.0,56.6,14.9,30.33,48.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,18:15,48.2,27.5,44.4,0.0,N@5.1,9.6,0.0,0,56.7,56.7,14.9,30.33,47.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,18:30,47.6,26.8,44.1,0.0,N@4.0,8.2,0.0,0,56.4,56.7,14.9,30.34,47.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,18:45,46.3,26.9,46.5,0.0,N @0.0,0.0,0.0,0,56.2,56.7,14.9,30.35,45.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,19:00,43.7,28.2,54.0,0.0,N @0.0,0.0,0.0,0,55.9,56.8,14.9,30.35,43.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,19:15,43.8,28.0,53.6,0.0,N @0.0,0.0,0.0,0,55.6,56.8,14.9,30.36,43.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,19:30,44.9,28.0,51.1,0.0,N @0.0,0.0,0.0,0,55.4,56.8,14.9,30.36,44.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,19:45,43.6,27.5,52.7,0.0,N @0.0,0.0,0.0,0,55.1,56.8,14.9,30.37,43.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,20:00,43.6,27.4,52.5,0.0,N @0.0,0.0,0.0,0,54.8,56.9,14.9,30.37,43.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,20:15,43.4,27.1,52.4,0.0,N @0.0,0.0,0.0,0,54.5,56.9,14.8,30.37,42.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,20:30,44.6,27.2,50.2,0.0,N @0.0,0.0,0.0,0,54.2,56.9,14.8,30.37,43.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,20:45,43.0,28.2,55.4,0.0,N @0.0,0.0,0.0,0,54.0,56.9,14.8,30.37,42.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,21:00,46.2,28.2,49.3,0.0,N @0.0,0.0,0.0,0,53.7,56.8,14.8,30.38,45.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,21:15,46.5,27.8,47.7,0.0,N @0.0,0.0,0.0,0,53.5,56.8,14.8,30.38,46.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,21:30,45.4,27.6,49.3,0.0,N @0.0,0.0,0.0,0,53.3,56.8,14.8,30.39,44.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,21:45,44.6,27.5,50.9,0.0,N @0.0,0.0,0.0,0,53.1,56.8,14.8,30.39,44.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,22:00,44.5,27.5,51.0,0.0,N @0.0,0.0,0.0,0,52.9,56.7,14.8,30.4,43.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,22:15,44.1,27.4,51.4,0.0,N @0.0,0.0,0.0,0,52.7,56.7,14.8,30.4,43.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,22:30,43.7,27.1,51.8,0.0,N @0.0,0.0,0.0,0,52.5,56.7,14.8,30.4,43.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,22:45,41.6,27.1,56.0,0.0,N @0.0,0.0,0.0,0,52.4,56.6,14.8,30.4,41.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,23:00,40.4,27.1,58.7,0.0,N @0.0,0.0,0.0,0,52.2,56.6,14.8,30.4,39.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,23:15,39.2,27.4,62.1,0.0,N @0.0,0.0,0.0,0,52.0,56.5,14.8,30.4,38.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,23:30,37.3,29.5,73.2,0.0,N @0.0,0.0,0.0,0,51.8,56.5,14.8,30.4,36.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,23:45,40.1,28.6,63.1,0.0,N @0.0,0.0,0.0,0,51.6,56.4,14.8,30.41,39.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-26,24:00,41.3,28.7,60.6,0.0,N @0.0,0.0,0.0,0,51.4,56.4,14.8,30.41,40.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,00:15,41.7,28.5,58.9,0.0,N @0.0,0.0,0.0,0,51.2,56.3,14.8,30.4,41.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,00:30,42.9,28.1,55.5,0.0,N @0.0,0.0,0.0,0,51.0,56.3,14.8,30.41,42.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,00:45,40.5,27.0,58.2,0.0,N @0.0,0.0,0.0,0,50.8,56.2,14.8,30.42,40.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,01:00,42.0,26.8,54.4,0.0,N @2.9,11.7,0.0,0,50.6,56.2,14.8,30.42,41.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,01:15,44.9,26.2,47.6,0.0,NE@5.5,13.2,0.0,0,50.4,56.1,14.8,30.42,44.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,01:30,44.1,26.0,48.7,0.0,N @2.7,10.7,0.0,0,50.2,56.0,14.8,30.43,43.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,01:45,42.3,25.4,50.9,0.0,N@0.2,3.9,0.0,0,50.0,56.0,14.8,30.43,41.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,02:00,41.9,25.0,50.6,0.0,N @0.0,0.0,0.0,0,49.9,55.9,14.8,30.43,41.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,02:15,40.4,25.3,54.5,0.0,N @0.0,0.0,0.0,0,49.7,55.8,14.7,30.43,40.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,02:30,40.0,24.9,54.6,0.0,N @0.0,0.0,0.0,0,49.6,55.8,14.7,30.43,39.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,02:45,38.4,24.9,57.8,0.0,N @0.0,0.0,0.0,0,49.4,55.7,14.7,30.43,37.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,03:00,38.8,24.4,55.7,0.0,N @0.0,0.0,0.0,0,49.3,55.6,14.7,30.43,38.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,03:15,41.3,24.1,50.0,0.0,N @0.0,0.0,0.0,0,49.1,55.5,14.7,30.44,40.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,03:30,42.2,23.7,47.6,0.0,N @0.0,0.0,0.0,0,48.9,55.5,14.7,30.44,41.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,03:45,40.6,23.8,50.8,0.0,N @0.0,0.0,0.0,0,48.8,55.4,14.7,30.44,40.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,04:00,39.5,24.1,53.9,0.0,N @0.5,3.9,0.0,0,48.6,55.3,14.7,30.44,39.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,04:15,38.6,24.9,57.5,0.0,N @0.1,2.1,0.0,0,48.4,55.3,14.7,30.44,38.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,04:30,35.6,26.3,68.5,0.0,SW@0.3,4.6,0.0,0,48.3,55.2,14.7,30.45,35.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,04:45,37.4,24.5,59.3,0.0,W@0.1,4.9,0.0,0,48.1,55.1,14.7,30.45,37.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,05:00,36.2,24.8,62.9,0.0,N @0.0,0.0,0.0,0,48.0,55.0,14.7,30.45,35.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,05:15,35.9,25.2,64.7,0.0,N@0.0,2.8,0.0,0,47.8,55.0,14.6,30.45,35.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,05:30,38.1,24.8,58.4,0.0,N @0.2,5.7,0.0,0,47.6,54.9,14.7,30.46,37.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,05:45,35.5,24.9,65.1,0.0,N @0.0,0.0,0.0,0,47.5,54.8,14.7,30.46,35.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,06:00,31.5,24.4,75.5,0.0,N @0.0,0.0,0.0,0,47.3,54.7,14.7,30.46,31.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,06:15,30.5,24.2,78.5,0.0,N @0.0,0.0,0.0,0,47.1,54.7,14.7,30.46,29.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,06:30,30.7,24.5,78.5,0.0,N @0.0,0.0,0.0,2,47.0,54.6,14.7,30.47,30.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,06:45,31.0,25.2,79.5,0.0,N @0.0,0.0,0.0,8,46.8,54.5,14.7,30.47,30.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,07:00,31.3,27.9,87.9,0.0,N @0.0,0.0,0.07,16,46.6,54.4,14.7,30.48,30.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,07:15,31.7,29.1,90.3,0.0,N @0.0,0.0,0.14,67,46.4,54.4,14.7,30.48,31.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,07:30,33.1,29.5,86.3,0.0,N @0.0,0.0,0.1,103,46.3,54.3,14.7,30.49,33.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,07:45,34.9,29.6,80.7,0.0,N @0.0,0.0,0.0,137,46.1,54.2,14.6,30.5,34.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,08:00,35.8,30.4,80.7,0.0,N @0.0,0.0,0.0,173,46.0,54.1,14.6,30.51,35.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,08:15,36.4,31.0,80.4,0.0,N @0.1,3.5,0.0,208,45.9,54.0,14.6,30.51,36.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,08:30,37.1,31.0,78.4,0.0,N @0.0,0.0,0.0,256,45.9,53.9,14.6,30.51,37.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,08:45,39.2,31.2,72.9,0.0,N @0.0,0.0,0.0,261,46.1,53.9,14.6,30.52,38.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,09:00,39.8,31.9,73.0,0.0,N @0.0,0.0,0.0,307,46.3,53.8,14.6,30.52,39.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,09:15,40.7,32.2,71.4,0.0,N @0.0,0.0,0.0,338,46.6,53.7,14.6,30.52,39.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,09:30,41.6,32.1,68.7,0.0,E@0.1,3.5,0.0,366,46.9,53.6,14.6,30.52,40.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,09:45,43.4,32.2,64.2,0.0,N @0.0,0.0,0.0,392,47.3,53.5,14.6,30.51,42.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,10:00,44.1,32.9,64.5,0.0,SE@0.2,3.5,0.0,415,47.8,53.4,14.6,30.52,43.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,10:15,44.5,32.3,61.9,0.0,SE@0.0,1.7,0.0,436,48.3,53.3,14.6,30.51,43.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,10:30,45.3,32.1,59.6,0.0,SE@0.4,4.6,0.0,454,48.9,53.2,14.6,30.51,44.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,10:45,46.3,30.4,53.5,0.0,SE@0.1,3.5,0.0,469,49.5,53.2,14.6,30.51,45.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,11:00,46.7,30.1,52.0,0.0,SE@0.1,2.4,0.0,480,50.1,53.1,14.6,30.5,45.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,11:15,47.4,30.5,51.6,0.0,SE@0.1,4.6,0.0,490,50.8,53.0,14.6,30.5,46.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,11:30,48.5,30.8,50.1,0.0,N @0.0,0.0,0.0,496,51.5,53.0,14.6,30.5,47.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,11:45,49.0,30.3,48.4,0.0,N @0.0,0.0,0.0,499,52.2,53.0,14.6,30.49,47.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,12:00,49.6,29.5,45.6,0.0,N @0.0,0.0,0.0,500,52.8,52.9,14.6,30.48,48.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,12:15,50.8,27.8,40.7,0.0,S@0.1,3.9,0.0,497,53.5,52.9,14.6,30.48,49.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,12:30,50.8,27.1,39.6,0.0,NE@1.1,6.0,0.0,490,54.1,52.9,14.6,30.47,49.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,12:45,51.3,27.2,39.0,0.0,E@0.9,6.0,0.0,476,54.7,52.9,14.6,30.46,50.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,13:00,51.4,25.2,35.7,0.0,N @0.0,0.0,0.0,469,55.3,52.9,14.6,30.45,50.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,13:15,51.5,25.1,35.5,0.0,N @0.0,0.0,0.0,454,55.9,52.9,14.7,30.45,50.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,13:30,52.2,23.8,32.8,0.0,N @0.0,0.0,0.0,437,56.4,53.0,14.7,30.44,51.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,13:45,52.5,20.3,28.0,0.0,N @0.0,0.0,0.0,416,56.9,53.0,14.7,30.44,51.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,14:00,53.1,20.0,26.9,0.0,N @0.0,0.0,0.0,381,57.3,53.1,14.7,30.43,52.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,14:15,53.0,17.0,23.8,0.0,N @0.0,0.0,0.0,363,57.7,53.2,14.7,30.43,52.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,14:30,52.9,22.2,29.8,0.0,N @0.0,0.0,0.0,336,58.0,53.3,14.7,30.42,52.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,14:45,53.2,20.5,27.5,0.0,N @0.0,0.0,0.0,305,58.3,53.4,14.7,30.42,52.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,15:00,53.8,19.3,25.6,0.0,N @0.0,0.0,0.0,273,58.5,53.5,14.7,30.42,53.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,15:15,53.7,18.4,24.6,0.0,N @0.0,0.0,0.0,239,58.7,53.6,14.7,30.41,52.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,15:30,53.3,17.4,23.9,0.0,N @0.0,0.0,0.0,205,58.8,53.7,14.7,30.41,52.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,15:45,53.7,17.1,23.3,0.0,N @0.0,0.0,0.0,169,58.9,53.8,14.7,30.4,52.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,16:00,52.5,18.9,26.3,0.0,N @0.0,0.0,0.0,134,58.9,53.9,14.7,30.4,51.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,16:15,52.0,19.5,27.5,0.0,N @0.0,0.0,0.0,100,58.8,54.1,14.7,30.39,51.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,16:30,51.5,21.4,30.4,0.0,N @0.0,0.0,0.0,67,58.7,54.2,14.8,30.39,50.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,16:45,47.6,23.2,37.9,0.0,N @0.0,0.0,0.0,19,58.6,54.3,14.8,30.39,47.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,17:00,43.5,23.7,45.2,0.0,N @0.0,0.0,0.0,5,58.4,54.5,14.8,30.39,42.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,17:15,40.8,23.4,49.5,0.0,N @0.0,0.0,0.0,2,58.2,54.6,14.8,30.38,40.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,17:30,41.0,22.0,46.4,0.0,N @0.0,0.0,0.0,0,57.9,54.7,14.8,30.38,40.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,17:45,40.5,21.3,46.0,0.0,N @0.0,0.0,0.0,0,57.5,54.8,14.8,30.38,39.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,18:00,39.3,20.6,46.5,0.0,N @0.0,0.0,0.0,0,57.2,55.0,14.8,30.38,38.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,18:15,40.1,20.0,44.1,0.0,N @0.0,0.0,0.0,0,56.8,55.1,14.8,30.38,39.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,18:30,39.0,18.4,43.0,0.0,N @0.0,0.0,0.0,0,56.4,55.2,14.8,30.37,38.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,18:45,37.8,18.3,44.9,0.0,N @0.0,0.0,0.0,0,56.0,55.3,14.8,30.37,37.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,19:00,36.9,18.2,46.3,0.0,N @0.0,0.0,0.0,0,55.6,55.3,14.8,30.37,36.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,19:15,37.1,17.6,44.8,0.0,N @0.0,0.0,0.0,0,55.2,55.4,14.8,30.37,36.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,19:30,36.8,17.9,45.8,0.0,N @0.0,0.0,0.0,0,54.8,55.5,14.8,30.36,36.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,19:45,36.2,18.4,48.0,0.0,N @0.0,0.0,0.0,0,54.4,55.5,14.8,30.36,35.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,20:00,36.0,19.3,50.4,0.0,N @0.0,0.0,0.0,0,54.0,55.5,14.8,30.36,35.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,20:15,34.0,22.5,62.3,0.0,N @0.0,0.0,0.0,0,53.6,55.6,14.8,30.36,33.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,20:30,34.7,19.5,53.5,0.0,N @0.0,0.0,0.0,0,53.3,55.6,14.8,30.36,34.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,20:45,32.0,20.9,63.0,0.0,N @0.0,0.0,0.0,0,52.9,55.6,14.8,30.36,31.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,21:00,31.3,18.7,59.5,0.0,N @0.0,0.0,0.0,0,52.6,55.6,14.7,30.36,30.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,21:15,33.3,19.2,55.6,0.0,N @0.0,0.0,0.0,0,52.3,55.6,14.7,30.36,32.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,21:30,31.0,19.9,63.9,0.0,N @0.0,0.0,0.0,0,52.0,55.6,14.7,30.36,30.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,21:45,30.5,19.1,63.0,0.0,N @0.0,0.0,0.0,0,51.6,55.5,14.7,30.36,30.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,22:00,32.3,18.8,57.0,0.0,N @0.0,0.0,0.0,0,51.3,55.5,14.7,30.35,32.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,22:15,35.7,16.9,45.9,0.0,N @0.0,0.0,0.0,0,51.0,55.5,14.7,30.34,35.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,22:30,33.3,18.0,52.9,0.0,N @0.0,0.0,0.0,0,50.7,55.4,14.7,30.34,33.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,22:45,32.1,19.7,59.9,0.0,N @0.0,0.0,0.0,0,50.5,55.4,14.7,30.33,31.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,23:00,33.8,17.1,50.0,0.0,N @0.0,0.0,0.0,0,50.2,55.3,14.7,30.33,33.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,23:15,30.5,17.8,59.7,0.0,N @0.0,0.0,0.0,0,49.9,55.3,14.7,30.32,30.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,23:30,29.0,19.4,68.7,0.0,N @0.0,0.0,0.0,0,49.7,55.2,14.7,30.32,28.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,23:45,27.2,19.4,74.3,0.0,N @0.0,0.0,0.0,0,49.4,55.2,14.6,30.31,26.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-27,24:00,26.0,17.1,71.4,0.0,N @0.0,0.0,0.0,0,49.2,55.1,14.6,30.32,25.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,00:15,26.0,16.3,69.0,0.0,N @0.0,0.0,0.0,0,48.9,55.0,14.6,30.32,25.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,00:30,26.5,17.1,69.6,0.0,N @0.0,0.0,0.0,0,48.7,55.0,14.6,30.31,26.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,00:45,26.6,17.3,70.0,0.0,N @0.0,0.0,0.0,0,48.4,54.9,14.6,30.3,26.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,01:00,26.3,18.1,73.5,0.0,N @0.0,0.0,0.0,0,48.1,54.8,14.6,30.29,26.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,01:15,26.3,18.2,73.6,0.0,N @0.0,0.0,0.0,0,47.9,54.7,14.6,30.28,26.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,01:30,27.0,19.2,74.5,0.0,N @0.0,0.0,0.0,0,47.7,54.7,14.7,30.28,26.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,01:45,28.2,20.2,73.5,0.0,N @0.0,0.0,0.0,0,47.5,54.6,14.6,30.28,28.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,02:00,28.3,19.4,70.7,0.0,N @0.0,0.0,0.0,0,47.3,54.5,14.6,30.27,28.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,02:15,28.1,19.0,70.2,0.0,N @0.0,0.0,0.0,0,47.1,54.4,14.6,30.27,28.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,02:30,28.5,19.5,70.5,0.0,N @0.0,0.0,0.0,0,47.0,54.3,14.6,30.26,28.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,02:45,29.0,20.3,71.1,0.0,N @0.0,0.0,0.0,0,46.9,54.2,14.6,30.26,28.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,03:00,29.6,21.2,72.2,0.0,N @0.0,0.0,0.0,0,46.8,54.2,14.6,30.25,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,03:15,29.5,21.2,72.3,0.0,N @0.0,0.0,0.0,0,46.7,54.1,14.6,30.25,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,03:30,29.4,21.6,73.6,0.0,N @0.0,0.0,0.0,0,46.6,54.0,14.6,30.24,29.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,03:45,29.6,22.0,74.5,0.0,N @0.0,0.0,0.0,0,46.5,53.9,14.6,30.24,29.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,04:00,29.4,22.8,77.8,0.0,N @0.0,0.0,0.0,0,46.4,53.8,14.6,30.24,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,04:15,29.8,23.5,78.5,0.0,N @0.0,0.0,0.0,0,46.3,53.7,14.5,30.24,29.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,04:30,29.8,23.6,78.8,0.0,N @0.0,0.0,0.0,0,46.2,53.6,14.5,30.24,29.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,04:45,29.4,23.6,80.5,0.0,N @0.0,0.0,0.0,0,46.2,53.5,14.5,30.22,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,05:00,29.7,23.9,80.0,0.0,N @0.0,0.0,0.0,0,46.1,53.4,14.5,30.22,29.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,05:15,29.8,23.8,79.6,0.0,N @0.0,0.0,0.0,0,46.0,53.4,14.5,30.21,29.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,05:30,29.4,24.1,81.9,0.0,N @0.0,0.0,0.0,0,45.9,53.3,14.5,30.21,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,05:45,29.3,23.7,81.2,0.0,N @0.0,0.0,0.0,0,45.8,53.2,14.5,30.21,29.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,06:00,28.9,23.9,83.2,0.0,N @0.0,0.0,0.0,0,45.7,53.1,14.5,30.2,28.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,06:15,29.4,24.3,82.7,0.0,N @0.0,0.0,0.0,0,45.6,53.0,14.5,30.2,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,06:30,29.7,24.7,82.9,0.0,N @0.0,0.0,0.0,1,45.5,53.0,14.5,30.19,29.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,06:45,29.9,24.6,81.7,0.0,N @0.0,0.0,0.0,2,45.4,52.9,14.5,30.19,29.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,07:00,30.1,24.7,81.3,0.0,N @0.0,0.0,0.0,8,45.4,52.8,14.5,30.19,29.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,07:15,30.7,25.0,80.1,0.0,N @0.0,0.0,0.0,15,45.3,52.7,14.6,30.19,30.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,07:30,31.3,25.1,78.4,0.0,N @0.0,0.0,0.0,22,45.2,52.6,14.5,30.19,31.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,07:45,31.7,25.4,77.6,0.0,N @0.0,0.0,0.0,31,45.2,52.6,14.5,30.18,31.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,08:00,32.3,25.8,76.6,0.0,N @0.0,0.0,0.0,66,45.2,52.5,14.5,30.18,32.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,08:15,33.1,26.0,75.0,0.0,N @0.0,0.0,0.0,99,45.2,52.4,14.5,30.18,32.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,08:30,33.4,26.0,74.0,0.0,N @0.0,0.0,0.0,71,45.2,52.4,14.5,30.17,33.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,08:45,33.7,26.2,73.9,0.0,N @0.0,0.0,0.0,105,45.3,52.3,14.5,30.17,33.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,09:00,34.6,26.3,71.6,0.0,N @0.0,0.0,0.0,144,45.4,52.2,14.5,30.16,34.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,09:15,34.9,26.9,72.5,0.0,N @0.0,0.0,0.0,149,45.5,52.2,14.5,30.15,34.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,09:30,35.9,27.2,70.3,0.0,N @0.0,0.0,0.0,200,45.7,52.1,14.5,30.15,35.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,09:45,37.2,27.9,68.8,0.0,N @0.0,0.0,0.0,212,45.8,52.0,14.5,30.14,36.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,10:00,39.5,28.6,64.5,0.0,N @0.0,0.0,0.0,229,46.1,52.0,14.5,30.14,39.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,10:15,42.3,27.3,55.0,0.0,SW@3.1,9.6,0.0,227,46.3,51.9,14.5,30.14,42.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,10:30,43.1,26.9,52.6,0.0,SW@6.5,10.3,0.0,221,46.7,51.8,14.5,30.14,42.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,10:45,44.0,26.5,49.7,0.0,SW@2.9,7.8,0.0,244,47.0,51.8,14.5,30.14,43.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,11:00,46.0,26.2,45.6,0.0,SW@2.6,7.8,0.0,510,47.3,51.7,14.5,30.14,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,11:15,46.9,24.9,41.8,0.0,SW@3.0,10.3,0.0,487,47.6,51.7,14.5,30.13,46.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,11:30,48.3,23.8,38.0,0.0,W@1.4,7.4,0.0,488,48.1,51.6,14.5,30.12,47.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,11:45,50.1,25.4,37.9,0.0,NE@0.7,6.4,0.0,492,48.7,51.6,14.5,30.12,49.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,12:00,49.1,27.9,43.6,0.0,NE@2.2,8.2,0.0,452,49.4,51.6,14.5,30.12,48.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,12:15,49.1,26.4,41.0,0.0,NE@0.5,7.1,0.0,381,50.1,51.5,14.5,30.12,48.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,12:30,49.7,25.9,39.2,0.0,SE@0.0,1.4,0.0,446,50.8,51.5,14.5,30.11,48.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,12:45,50.3,26.7,39.7,0.0,SE@0.0,1.7,0.0,416,51.5,51.5,14.5,30.1,49.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,13:00,51.2,27.1,39.0,0.0,SE@0.0,2.1,0.0,429,52.0,51.5,14.5,30.09,50.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,13:15,52.0,26.1,36.3,0.0,SE@0.0,1.4,0.0,443,52.6,51.5,14.5,30.08,51.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,13:30,52.5,25.2,34.3,0.0,N @0.0,0.0,0.0,443,53.1,51.5,14.6,30.07,52.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,13:45,53.0,24.5,32.8,0.0,SE@0.1,3.9,0.0,396,53.7,51.6,14.6,30.07,52.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,14:00,53.6,23.6,30.8,0.0,E@0.0,1.7,0.0,350,54.2,51.6,14.6,30.07,53.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,14:15,54.5,24.2,30.6,0.0,E@0.0,1.4,0.0,360,54.6,51.7,14.6,30.07,53.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,14:30,54.7,23.9,30.0,0.0,E@0.0,1.4,0.0,331,55.0,51.7,14.5,30.07,54.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,14:45,54.8,25.3,31.6,0.0,SE@0.0,2.1,0.0,297,55.4,51.8,14.5,30.07,54.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,15:00,54.9,24.7,30.8,0.0,E@0.0,1.7,0.0,264,55.7,51.9,14.5,30.07,54.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,15:15,55.1,25.4,31.4,0.0,N @0.0,0.0,0.0,230,55.9,52.0,14.6,30.07,54.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,15:30,54.2,26.4,33.9,0.0,E@0.9,6.7,0.0,201,56.1,52.1,14.6,30.07,53.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,15:45,53.4,27.2,36.1,0.0,E@0.0,1.4,0.0,109,56.3,52.2,14.6,30.08,52.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,16:00,52.0,30.0,42.6,0.0,N @0.0,0.0,0.0,48,56.3,52.3,14.6,30.08,51.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,16:15,51.2,29.0,42.0,0.0,N @0.0,0.0,0.0,51,56.3,52.4,14.6,30.09,50.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,16:30,49.9,29.6,45.3,0.0,N @0.0,0.0,0.0,57,56.2,52.5,14.6,30.09,49.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,16:45,48.0,27.4,44.5,0.0,N @0.0,0.0,0.0,15,56.1,52.7,14.6,30.1,47.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,17:00,44.1,28.0,53.0,0.0,N @0.0,0.0,0.0,6,55.9,52.8,14.6,30.11,43.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,17:15,43.1,27.8,54.5,0.0,N @0.0,0.0,0.0,2,55.7,52.9,14.7,30.11,42.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,17:30,44.1,27.1,51.0,0.0,NW@0.0,1.7,0.0,0,55.4,53.0,14.7,30.11,43.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,17:45,44.4,26.1,48.3,0.0,NW@0.1,1.7,0.0,0,55.1,53.2,14.7,30.13,43.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,18:00,44.8,26.0,47.4,0.0,NW@0.0,1.4,0.0,0,54.8,53.3,14.7,30.13,44.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,18:15,45.7,26.7,47.1,0.0,N@0.0,1.7,0.0,0,54.5,53.4,14.7,30.14,45.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,18:30,48.4,24.3,38.5,0.0,N @3.8,12.4,0.0,0,54.3,53.5,14.6,30.15,48.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,18:45,50.8,18.9,28.0,0.0,N @7.6,13.5,0.0,0,54.1,53.5,14.6,30.16,50.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,19:00,50.6,18.5,27.8,0.0,N @5.1,11.0,0.0,0,53.9,53.6,14.6,30.17,50.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,19:15,50.5,19.0,28.4,0.0,N @12.7,23.9,0.0,0,53.7,53.7,14.6,30.18,50.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,19:30,45.8,27.6,48.7,0.0,NE@15.9,27.1,0.0,0,53.5,53.7,14.6,30.21,45.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,19:45,42.3,27.4,55.3,0.0,NE@14.1,23.2,0.0,0,53.4,53.8,14.6,30.23,41.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,20:00,41.0,26.3,55.4,0.0,NE@8.2,23.2,0.0,0,53.2,53.8,14.6,30.26,40.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,20:15,40.1,25.1,54.7,0.0,NE@6.9,18.5,0.0,0,53.0,53.8,14.6,30.28,39.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,20:30,39.3,24.4,54.8,0.0,N @3.3,15.3,0.0,0,52.8,53.9,14.6,30.3,39.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,20:45,38.7,23.5,54.1,0.0,NE@9.7,18.9,0.0,0,52.6,53.9,14.6,30.32,38.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,21:00,38.1,22.8,53.7,0.0,NE@10.4,17.5,0.0,0,52.3,53.9,14.6,30.33,37.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,21:15,37.6,22.1,53.1,0.0,N @5.7,15.7,0.0,0,52.1,53.9,14.6,30.35,37.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,21:30,37.4,21.2,51.5,0.0,N @7.4,14.2,0.0,0,51.8,53.9,14.6,30.37,37.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,21:45,37.0,19.9,49.6,0.0,NE@7.7,15.7,0.0,0,51.6,54.0,14.6,30.37,36.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,22:00,36.5,19.4,49.5,0.0,NE@7.0,14.6,0.0,0,51.3,54.0,14.6,30.39,36.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,22:15,36.1,17.8,47.0,0.0,NE@8.3,13.2,0.0,0,51.1,54.0,14.6,30.4,35.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,22:30,35.4,16.6,45.9,0.0,N @3.8,9.6,0.0,0,50.9,54.0,14.6,30.42,35.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,22:45,35.1,15.4,44.0,0.0,N@0.7,8.9,0.0,0,50.6,53.9,14.6,30.43,35.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,23:00,35.1,13.8,41.1,0.0,N@2.9,9.2,0.0,0,50.3,53.9,14.6,30.44,34.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,23:15,34.9,11.9,38.1,0.0,N@2.7,12.1,0.0,0,50.1,53.9,14.6,30.46,34.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,23:30,34.9,10.6,35.9,0.0,N @3.2,13.9,0.0,0,49.8,53.9,14.6,30.47,34.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,23:45,34.8,7.4,31.3,0.0,N @9.9,17.8,0.0,0,49.6,53.9,14.6,30.48,34.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-28,24:00,34.3,3.3,26.5,0.0,N @12.3,20.7,0.0,0,49.4,53.8,14.6,30.49,34.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,00:15,33.8,3.6,27.4,0.0,NE@13.4,25.3,0.0,0,49.1,53.8,14.6,30.5,33.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,00:30,33.2,4.2,28.7,0.0,NE@11.0,21.0,0.0,0,48.9,53.8,14.6,30.5,33.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,00:45,32.5,3.9,29.1,0.0,NE@13.8,22.1,0.0,0,48.6,53.7,14.6,30.51,32.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,01:00,32.1,3.5,29.1,0.0,NE@9.7,18.2,0.0,0,48.3,53.7,14.6,30.52,31.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,01:15,31.7,4.4,31.0,0.0,NE@8.3,15.7,0.0,0,48.1,53.6,14.5,30.53,31.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,01:30,31.3,5.3,33.0,0.0,N @7.8,13.9,0.0,0,47.8,53.6,14.5,30.54,31.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,01:45,30.9,4.8,32.7,0.0,N @6.9,13.9,0.0,0,47.5,53.5,14.5,30.55,30.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,02:00,30.4,3.8,32.2,0.0,N @7.5,15.7,0.0,0,47.3,53.5,14.5,30.55,30.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,02:15,30.6,1.6,28.6,0.0,N @13.1,21.0,0.0,0,47.0,53.4,14.5,30.54,30.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,02:30,30.0,1.6,29.5,0.0,N @12.4,18.5,0.0,0,46.8,53.4,14.5,30.54,29.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,02:45,30.1,1.3,28.9,0.0,N @9.7,20.3,0.0,0,46.5,53.3,14.5,30.54,29.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,03:00,30.1,1.6,29.4,0.0,NE@10.0,15.3,0.0,0,46.2,53.3,14.5,30.57,29.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,03:15,29.5,1.8,30.6,0.0,N @9.4,15.3,0.0,0,46.0,53.2,14.5,30.58,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,03:30,28.9,1.0,30.2,0.0,N @8.0,13.9,0.0,0,45.7,53.1,14.5,30.58,28.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,03:45,28.5,1.2,31.2,0.0,N @7.8,12.1,0.0,0,45.5,53.0,14.5,30.58,28.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,04:00,28.4,0.8,30.6,0.0,N @6.8,15.3,0.0,0,45.3,53.0,14.5,30.58,28.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,04:15,28.3,0.8,30.8,0.0,N @5.4,14.6,0.0,0,45.0,52.9,14.5,30.59,28.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,04:30,28.4,0.7,30.5,0.0,N @8.4,16.7,0.0,0,44.8,52.8,14.5,30.6,28.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,04:45,28.3,0.6,30.4,0.0,N @9.9,16.4,0.0,0,44.6,52.7,14.5,30.59,28.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,05:00,27.9,1.1,31.9,0.0,N @7.8,15.0,0.0,0,44.4,52.7,14.5,30.6,27.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,05:15,27.5,1.1,32.4,0.0,N @8.3,13.9,0.0,0,44.2,52.6,14.5,30.61,27.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,05:30,27.4,1.1,32.6,0.0,N @8.0,15.7,0.0,0,43.9,52.5,14.5,30.61,27.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,05:45,27.0,1.7,34.2,0.0,N @6.3,13.5,0.0,0,43.7,52.4,14.5,30.61,26.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,06:00,26.8,1.3,33.8,0.0,N @6.5,13.9,0.0,0,43.5,52.3,14.4,30.62,26.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,06:15,26.8,1.6,34.2,0.0,NE@7.9,14.2,0.0,0,43.3,52.2,14.4,30.63,26.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,06:30,26.2,2.0,35.9,0.0,N @10.1,15.0,0.0,1,43.1,52.1,14.4,30.63,26.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,06:45,25.9,1.7,35.9,0.0,N @9.8,15.0,0.0,6,42.9,52.0,14.4,30.62,25.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,07:00,25.7,1.4,35.9,0.0,N @6.9,11.7,0.0,14,42.8,52.0,14.4,30.64,25.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,07:15,26.1,1.8,35.8,0.0,N @7.5,13.9,0.0,65,42.6,51.9,14.4,30.63,25.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,07:30,26.7,1.8,34.8,0.0,N @4.1,12.4,0.0,104,42.4,51.8,14.4,30.64,26.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,07:45,27.5,2.2,34.2,0.0,N @9.3,16.0,0.0,141,42.2,51.7,14.4,30.64,27.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,08:00,28.4,2.4,33.0,0.0,N @9.1,15.7,0.0,176,42.1,51.6,14.4,30.64,28.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,08:15,29.3,2.4,31.6,0.0,N@7.2,11.7,0.0,211,42.0,51.5,14.4,30.65,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,08:30,30.0,2.3,30.4,0.0,N @4.9,13.2,0.0,247,41.9,51.4,14.4,30.65,29.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,08:45,30.7,2.2,29.4,0.0,N @9.4,13.9,0.0,281,42.0,51.3,14.4,30.65,30.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,09:00,31.1,2.0,28.5,0.0,N @6.8,15.0,0.0,313,42.0,51.2,14.4,30.65,30.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,09:15,31.7,2.4,28.4,0.0,N @6.4,14.2,0.0,343,42.2,51.1,14.4,30.65,31.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,09:30,32.1,3.0,28.4,0.0,NE@6.8,14.2,0.0,371,42.4,51.0,14.4,30.65,31.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,09:45,32.6,3.2,28.2,0.0,NE@7.0,13.5,0.0,395,42.6,50.9,14.4,30.65,32.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,10:00,32.9,2.9,27.4,0.0,NE@8.2,15.0,0.0,418,42.8,50.8,14.4,30.65,32.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,10:15,33.4,3.3,27.3,0.0,NE@9.0,14.2,0.0,439,43.2,50.7,14.4,30.66,32.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,10:30,33.8,4.1,28.0,0.0,NE@7.3,13.2,0.0,457,43.5,50.6,14.4,30.66,33.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,10:45,34.2,4.3,27.8,0.0,NE@7.6,13.5,0.0,471,43.9,50.5,14.4,30.66,33.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,11:00,34.6,2.7,25.4,0.0,NE@8.6,15.3,0.0,483,44.3,50.4,14.4,30.66,34.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,11:15,35.0,1.7,23.8,0.0,N @8.4,13.2,0.0,492,44.7,50.4,14.3,30.65,34.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,11:30,35.3,2.3,24.2,0.0,NE@4.2,12.8,0.0,498,45.1,50.3,14.3,30.64,34.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,11:45,35.7,2.2,23.7,0.0,NE@0.2,5.7,0.0,501,45.6,50.2,14.3,30.64,35.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,12:00,36.2,2.9,24.0,0.0,NE@6.9,14.2,0.0,501,46.0,50.1,14.4,30.63,35.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,12:15,36.8,2.6,23.1,0.0,NE@1.5,10.7,0.0,498,46.5,50.1,14.4,30.63,36.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,12:30,37.2,2.8,23.0,0.0,NE@1.6,11.7,0.0,491,46.9,50.1,14.4,30.62,36.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,12:45,37.6,2.8,22.6,0.0,NE@2.4,12.1,0.0,482,47.3,50.0,14.4,30.61,37.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,13:00,37.9,3.2,22.8,0.0,NE@3.7,14.2,0.0,469,47.7,50.0,14.4,30.6,37.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,13:15,38.3,3.2,22.4,0.0,NE@5.8,13.5,0.0,453,48.1,50.0,14.4,30.6,37.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,13:30,38.7,2.4,21.2,0.0,NE@3.3,12.1,0.0,435,48.4,50.0,14.4,30.6,38.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,13:45,39.2,2.8,21.2,0.0,NE@5.1,12.1,0.0,414,48.7,50.0,14.4,30.6,38.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,14:00,39.5,3.8,22.1,0.0,NE@6.0,12.1,0.0,389,49.0,50.0,14.4,30.6,38.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,14:15,39.7,2.5,20.6,0.0,NE@0.0,2.4,0.0,363,49.2,50.0,14.4,30.6,39.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,14:30,39.5,3.0,21.2,0.0,NE@0.3,8.9,0.0,334,49.4,50.0,14.4,30.6,39.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,14:45,39.4,2.6,20.9,0.0,NE@5.5,12.4,0.0,303,49.6,50.1,14.4,30.6,38.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,15:00,39.5,3.9,22.1,0.0,NE@6.5,11.7,0.0,270,49.7,50.1,14.4,30.6,39.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,15:15,39.4,4.1,22.5,0.0,NE@5.9,11.4,0.0,237,49.8,50.2,14.4,30.59,38.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,15:30,39.2,4.4,22.9,0.0,NE@5.4,13.2,0.0,203,49.8,50.2,14.4,30.59,38.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,15:45,39.2,5.6,24.2,0.0,NE@6.2,12.1,0.0,168,49.8,50.3,14.4,30.59,38.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,16:00,38.7,4.7,23.6,0.0,NE@4.2,11.4,0.0,132,49.8,50.3,14.4,30.59,38.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,16:15,37.9,6.4,26.4,0.0,NE@3.8,9.6,0.0,97,49.7,50.4,14.4,30.58,37.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,16:30,36.6,6.4,27.7,0.0,NE@2.2,8.2,0.0,62,49.5,50.4,14.4,30.58,36.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,16:45,34.9,6.5,29.9,0.0,NE@3.6,7.4,0.0,13,49.4,50.5,14.4,30.58,34.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,17:00,33.4,8.4,34.5,0.0,N @0.0,0.0,0.0,5,49.2,50.6,14.4,30.58,33.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,17:15,31.6,8.0,36.6,0.0,N@0.0,1.4,0.0,2,49.0,50.6,14.4,30.57,31.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,17:30,29.6,6.4,37.5,0.0,N @0.0,0.0,0.0,0,48.7,50.7,14.4,30.58,29.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,17:45,28.7,3.8,34.8,0.0,N@0.0,2.4,0.0,0,48.4,50.7,14.4,30.58,28.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,18:00,28.1,2.6,33.8,0.0,NW@0.2,2.8,0.0,0,48.1,50.8,14.4,30.58,27.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,18:15,26.6,2.3,35.7,0.0,N @0.0,0.0,0.0,0,47.7,50.8,14.4,30.58,26.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,18:30,26.7,2.2,35.4,0.0,NW@0.0,2.4,0.0,0,47.4,50.9,14.4,30.57,26.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,18:45,26.8,2.4,35.6,0.0,NW@0.0,2.4,0.0,0,47.0,50.9,14.4,30.58,26.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,19:00,26.5,2.1,35.4,0.0,N @0.0,0.0,0.0,0,46.7,50.9,14.4,30.58,26.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,19:15,26.8,1.4,34.0,0.0,NW@0.1,4.9,0.0,0,46.3,51.0,14.4,30.58,26.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,19:30,26.9,1.6,34.1,0.0,N @0.0,0.0,0.0,0,46.0,51.0,14.4,30.58,26.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,19:45,26.3,1.6,35.2,0.0,N @0.0,0.0,0.0,0,45.6,51.0,14.4,30.58,26.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,20:00,25.5,1.9,37.0,0.0,N @0.0,0.0,0.0,0,45.3,51.0,14.4,30.58,25.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,20:15,24.1,4.4,44.3,0.0,N @0.0,0.0,0.0,0,45.0,51.0,14.4,30.58,23.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,20:30,22.0,4.7,49.5,0.0,N @0.0,0.0,0.0,0,44.7,50.9,14.4,30.58,21.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,20:45,22.5,5.4,50.1,0.0,N @0.0,0.0,0.0,0,44.4,50.9,14.4,30.58,22.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,21:00,23.8,7.4,51.5,0.0,N @0.0,0.0,0.0,0,44.1,50.9,14.4,30.58,23.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,21:15,22.4,4.3,47.8,0.0,N @0.0,0.0,0.0,0,43.9,50.8,14.4,30.58,22.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,21:30,22.3,3.4,46.1,0.0,N @0.0,0.0,0.0,0,43.6,50.8,14.4,30.58,22.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,21:45,22.2,3.4,46.3,0.0,N @0.0,0.0,0.0,0,43.3,50.8,14.4,30.58,21.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,22:00,20.8,7.1,58.7,0.0,N @0.0,0.0,0.0,0,43.0,50.7,14.4,30.58,20.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,22:15,21.1,5.9,54.7,0.0,N @0.0,0.0,0.0,0,42.8,50.6,14.4,30.58,20.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,22:30,20.6,5.5,54.9,0.0,N @0.0,0.0,0.0,0,42.5,50.6,14.3,30.57,20.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,22:45,22.2,3.2,45.7,0.0,N @0.0,0.0,0.0,0,42.3,50.5,14.3,30.57,22.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,23:00,22.9,3.9,45.7,0.0,N @0.0,0.0,0.0,0,42.0,50.4,14.3,30.57,22.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,23:15,23.2,3.7,44.7,0.0,N @0.0,0.0,0.0,0,41.8,50.4,14.3,30.57,23.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,23:30,23.5,2.9,42.5,0.0,N @0.0,0.0,0.0,0,41.6,50.3,14.3,30.57,23.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,23:45,23.3,2.0,41.3,0.0,N @0.0,0.0,0.0,0,41.4,50.2,14.3,30.57,23.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-29,24:00,23.1,1.5,40.7,0.0,N @0.0,0.0,0.0,0,41.2,50.1,14.3,30.57,22.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,00:15,21.6,4.0,48.8,0.0,N @0.0,0.0,0.0,0,41.0,50.1,14.3,30.57,21.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,00:30,19.6,6.5,60.3,0.0,N @0.0,0.0,0.0,0,40.8,50.0,14.3,30.57,19.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,00:45,18.2,6.6,65.0,0.0,N @0.0,0.0,0.0,0,40.6,49.9,14.3,30.57,18.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,01:00,18.0,5.6,62.4,0.0,N @0.0,0.0,0.0,0,40.5,49.8,14.3,30.57,18.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,01:15,17.6,5.9,64.5,0.0,N @0.0,0.0,0.0,0,40.3,49.7,14.3,30.58,17.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,01:30,17.5,7.2,68.6,0.0,N @0.0,0.0,0.0,0,40.1,49.6,14.3,30.58,17.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,01:45,17.8,7.1,67.6,0.0,N @0.0,0.0,0.0,0,39.9,49.5,14.3,30.58,17.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,02:00,17.2,6.9,69.0,0.0,N @0.0,0.0,0.0,0,39.8,49.5,14.3,30.58,17.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,02:15,16.9,5.8,66.2,0.0,N @0.0,0.0,0.0,0,39.6,49.4,14.3,30.58,16.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,02:30,17.2,4.5,61.7,0.0,N @0.0,0.0,0.0,0,39.4,49.3,14.3,30.58,17.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,02:45,18.2,4.6,59.1,0.0,N @0.0,0.0,0.0,0,39.3,49.2,14.3,30.58,18.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,03:00,18.2,3.6,56.4,0.0,N @0.0,0.0,0.0,0,39.1,49.1,14.3,30.58,18.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,03:15,18.7,3.4,54.6,0.0,N @0.0,0.0,0.0,0,39.0,49.0,14.2,30.58,18.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,03:30,18.5,3.1,54.5,0.0,NW@0.0,2.4,0.0,0,38.8,48.9,14.2,30.58,18.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,03:45,18.2,3.9,57.1,0.0,N @0.0,0.0,0.0,0,38.7,48.8,14.2,30.58,18.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,04:00,18.7,3.7,55.3,0.0,N @0.0,0.0,0.0,0,38.6,48.7,14.2,30.57,18.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,04:15,18.2,3.0,55.1,0.0,N @0.0,0.0,0.0,0,38.4,48.7,14.2,30.57,18.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,04:30,17.6,3.4,57.6,0.0,N @0.0,0.0,0.0,0,38.3,48.6,14.2,30.58,17.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,04:45,18.3,3.5,56.0,0.0,N @0.0,0.0,0.0,0,38.2,48.5,14.2,30.58,18.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,05:00,17.9,3.8,57.8,0.0,N @0.0,0.0,0.0,0,38.1,48.4,14.2,30.58,17.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,05:15,17.3,4.3,60.6,0.0,N @0.0,0.0,0.0,0,38.0,48.3,14.2,30.58,17.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,05:30,17.6,5.9,64.8,0.0,N @0.0,0.0,0.0,0,37.8,48.2,14.1,30.57,17.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,05:45,16.6,5.2,65.7,0.0,N @0.0,0.0,0.0,0,37.7,48.1,14.1,30.57,16.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,06:00,16.1,5.7,68.7,0.0,N @0.0,0.0,0.0,0,37.6,48.0,14.1,30.57,16.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,06:15,18.1,6.7,65.3,0.0,NW@0.2,8.2,0.0,0,37.5,47.9,14.1,30.57,18.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,06:30,18.4,8.7,70.6,0.0,N@0.1,2.8,0.0,2,37.4,47.8,14.1,30.58,18.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,06:45,18.5,8.1,68.1,0.0,W@0.0,1.4,0.0,6,37.3,47.8,14.2,30.58,18.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,07:00,19.0,8.5,68.2,0.0,NW@0.4,7.4,0.0,14,37.2,47.7,14.2,30.59,18.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,07:15,19.4,8.6,67.0,0.0,NW@0.5,8.5,0.0,59,37.1,47.6,14.2,30.59,19.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,07:30,20.2,8.3,63.6,0.0,NW@0.5,8.2,0.0,83,37.1,47.5,14.2,30.59,20.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,07:45,21.5,8.8,60.9,0.0,NW@0.5,6.0,0.0,126,37.0,47.4,14.2,30.6,21.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,08:00,23.9,8.2,53.0,0.0,N @0.0,0.0,0.0,161,36.9,47.3,14.2,30.6,23.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,08:15,24.4,9.1,54.1,0.0,N @0.0,0.0,0.0,192,36.9,47.2,14.2,30.6,24.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,08:30,25.0,9.6,53.6,0.0,N @0.0,0.0,0.0,227,36.8,47.1,14.1,30.61,24.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,08:45,25.7,10.3,53.8,0.0,N @0.0,0.0,0.0,259,36.8,47.1,14.1,30.61,25.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,09:00,26.1,11.6,55.7,0.0,N @0.0,0.0,0.0,292,36.9,47.0,14.1,30.61,25.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,09:15,26.8,12.5,56.4,0.0,E@0.0,2.8,0.0,322,37.0,46.9,14.1,30.61,26.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,09:30,27.3,13.5,57.3,0.0,N @0.0,0.0,0.0,350,37.2,46.8,14.1,30.61,26.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,09:45,28.0,13.0,54.3,0.0,N @0.0,0.0,0.0,374,37.6,46.7,14.1,30.61,27.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,10:00,29.4,13.1,51.1,0.0,N @0.0,0.0,0.0,397,38.0,46.6,14.1,30.61,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,10:15,30.3,13.0,48.7,0.0,N @0.0,0.0,0.0,417,38.4,46.5,14.1,30.6,29.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,10:30,31.3,12.1,44.7,0.0,N @0.0,0.0,0.0,434,38.9,46.5,14.1,30.6,30.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,10:45,32.4,11.3,41.0,0.0,N @0.0,0.0,0.0,448,39.5,46.4,14.1,30.59,31.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,11:00,33.7,11.0,38.3,0.0,N @0.0,0.0,0.0,459,40.1,46.3,14.1,30.59,33.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,11:15,34.8,11.2,37.0,0.0,N @0.0,0.0,0.0,467,40.8,46.3,14.1,30.58,34.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,11:30,35.3,11.9,37.4,0.0,N @0.0,0.0,0.0,473,41.4,46.2,14.1,30.58,34.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,11:45,36.9,9.9,32.2,0.0,N @0.0,0.0,0.0,475,42.1,46.1,14.1,30.56,36.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,12:00,37.5,10.4,32.1,0.0,N @0.0,0.0,0.0,475,42.8,46.1,14.1,30.56,37.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,12:15,38.0,11.3,32.7,0.0,N @0.0,0.0,0.0,471,43.5,46.0,14.1,30.55,37.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,12:30,38.7,8.9,28.7,0.0,N @0.0,0.0,0.0,461,44.2,46.0,14.1,30.54,38.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,12:45,38.7,8.3,27.8,0.0,N @0.0,0.0,0.0,456,44.8,46.0,14.2,30.54,38.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,13:00,39.1,9.2,28.5,0.0,N @0.0,0.0,0.0,444,45.5,46.0,14.2,30.53,38.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,13:15,39.8,9.5,28.2,0.0,N @0.0,0.0,0.0,425,46.1,46.0,14.2,30.52,39.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,13:30,40.0,9.2,27.6,0.0,NE@0.9,6.0,0.0,414,46.6,46.0,14.2,30.52,39.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,13:45,40.6,9.7,27.5,0.0,N @0.4,4.9,0.0,393,47.1,46.1,14.2,30.51,40.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,14:00,41.1,10.3,27.8,0.0,NE@2.2,6.4,0.0,369,47.5,46.1,14.2,30.51,40.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,14:15,41.9,11.3,28.2,0.0,N @0.0,0.0,0.0,343,47.9,46.2,14.2,30.5,41.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,14:30,41.8,10.9,27.7,0.0,N @0.0,0.0,0.0,307,48.3,46.3,14.2,30.5,41.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,14:45,42.0,10.9,27.5,0.0,N @0.0,0.0,0.0,280,48.6,46.3,14.2,30.5,41.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,15:00,42.4,11.4,27.8,0.0,E@0.1,2.4,0.0,254,48.8,46.4,14.2,30.49,41.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,15:15,42.7,11.1,27.1,0.0,N @0.0,0.0,0.0,220,49.0,46.5,14.2,30.49,42.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,15:30,42.7,12.3,28.5,0.0,NE@0.2,5.3,0.0,185,49.1,46.6,14.2,30.49,42.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,15:45,42.4,12.1,28.6,0.0,NE@1.8,4.2,0.0,151,49.2,46.7,14.2,30.49,41.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,16:00,42.2,13.1,30.2,0.0,NE@0.5,5.3,0.0,116,49.3,46.9,14.3,30.48,41.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,16:15,40.9,12.7,31.2,0.0,NE@0.5,4.9,0.0,83,49.3,47.0,14.3,30.48,40.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,16:30,39.4,13.5,34.1,0.0,N @0.0,0.0,0.0,50,49.2,47.1,14.3,30.48,39.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,16:45,37.2,14.2,38.5,0.0,N @0.0,0.0,0.0,12,49.1,47.2,14.3,30.48,37.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,17:00,35.2,14.0,41.3,0.0,N @0.0,0.0,0.0,5,49.0,47.4,14.3,30.47,35.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,17:15,33.8,14.0,43.6,0.0,N @0.0,0.0,0.0,1,48.8,47.5,14.3,30.47,33.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,17:30,32.5,12.9,43.7,0.0,N @0.0,0.0,0.0,0,48.5,47.6,14.3,30.47,32.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,17:45,31.6,13.1,46.1,0.0,N @0.0,0.0,0.0,0,48.2,47.7,14.3,30.46,31.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,18:00,31.3,12.5,45.7,0.0,N @0.0,0.0,0.0,0,47.9,47.9,14.3,30.46,31.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,18:15,31.2,11.4,43.5,0.0,N @0.0,0.0,0.0,0,47.6,48.0,14.3,30.46,31.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,18:30,31.0,10.6,42.4,0.0,N @0.0,0.0,0.0,0,47.3,48.1,14.3,30.45,30.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,18:45,30.5,9.8,41.8,0.0,NW@0.8,4.6,0.0,0,47.0,48.1,14.3,30.46,30.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,19:00,29.5,9.4,43.2,0.0,N @0.0,0.0,0.0,0,46.7,48.2,14.3,30.46,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,19:15,29.4,9.4,43.2,0.0,N @0.0,0.0,0.0,0,46.3,48.3,14.3,30.45,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,19:30,29.5,9.2,42.8,0.0,NW@0.3,4.6,0.0,0,46.0,48.3,14.3,30.46,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,19:45,29.3,9.1,43.1,0.0,N @0.0,0.0,0.0,0,45.7,48.4,14.3,30.45,29.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,20:00,29.4,9.1,42.7,0.0,NW@0.0,1.4,0.0,0,45.4,48.5,14.3,30.45,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,20:15,29.4,9.0,42.4,0.0,N @0.0,0.0,0.0,0,45.2,48.5,14.3,30.45,29.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,20:30,29.5,8.8,42.1,0.0,NW@0.1,3.1,0.0,0,44.9,48.5,14.3,30.45,29.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,20:45,29.6,8.7,41.7,0.0,NW@0.1,2.4,0.0,0,44.6,48.5,14.3,30.45,29.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,21:00,29.3,8.3,41.4,0.0,NW@0.1,2.8,0.0,0,44.4,48.5,14.3,30.45,29.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,21:15,29.1,8.1,41.5,0.0,N @0.0,0.0,0.0,0,44.1,48.5,14.3,30.45,28.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,21:30,29.1,6.7,38.9,0.0,N @0.0,0.0,0.0,0,43.9,48.5,14.3,30.44,28.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,21:45,28.1,8.1,43.3,0.0,N @0.0,0.0,0.0,0,43.7,48.5,14.3,30.44,28.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,22:00,27.0,10.1,50.0,0.0,N @0.0,0.0,0.0,0,43.5,48.5,14.3,30.44,26.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,22:15,25.7,11.2,56.1,0.0,N @0.0,0.0,0.0,0,43.2,48.5,14.3,30.45,25.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,22:30,25.9,9.2,50.5,0.0,N @0.0,0.0,0.0,0,43.0,48.5,14.3,30.44,25.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,22:45,27.5,8.2,44.9,0.0,N @0.0,0.0,0.0,0,42.8,48.4,14.2,30.44,27.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,23:00,26.4,9.1,49.3,0.0,N @0.0,0.0,0.0,0,42.5,48.4,14.2,30.44,26.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,23:15,24.1,10.7,58.7,0.0,N @0.0,0.0,0.0,0,42.3,48.4,14.2,30.44,23.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,23:30,23.6,8.1,53.7,0.0,N @0.0,0.0,0.0,0,42.1,48.3,14.2,30.44,23.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,23:45,23.1,9.0,57.2,0.0,N @0.0,0.0,0.0,0,41.9,48.3,14.2,30.44,22.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-30,24:00,22.3,8.2,57.4,0.0,N @0.0,0.0,0.0,0,41.7,48.2,14.2,30.44,22.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,00:15,22.1,8.3,58.1,0.0,N @0.0,0.0,0.0,0,41.5,48.2,14.2,30.44,21.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,00:30,21.6,8.6,60.2,0.0,N @0.0,0.0,0.0,0,41.3,48.1,14.2,30.44,21.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,00:45,23.0,10.1,60.5,0.0,N @0.0,0.0,0.0,0,41.1,48.1,14.2,30.43,22.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,01:00,22.7,11.3,64.5,0.0,N @0.0,0.0,0.0,0,40.9,48.0,14.2,30.43,22.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,01:15,22.1,9.8,62.3,0.0,N @0.0,0.0,0.0,0,40.7,48.0,14.2,30.43,21.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,01:30,21.0,10.8,68.4,0.0,N @0.0,0.0,0.0,0,40.6,47.9,14.2,30.42,20.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,01:45,20.1,9.4,67.2,0.0,N @0.0,0.0,0.0,0,40.4,47.9,14.1,30.42,20.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,02:00,19.9,8.1,64.0,0.0,N @0.0,0.0,0.0,0,40.2,47.8,14.1,30.43,19.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,02:15,20.4,9.0,64.8,0.0,N @0.0,0.0,0.0,0,40.0,47.8,14.1,30.42,20.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,02:30,20.4,9.2,65.7,0.0,N @0.0,0.0,0.0,0,39.9,47.7,14.1,30.42,20.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,02:45,19.7,8.6,66.1,0.0,N @0.0,0.0,0.0,0,39.7,47.6,14.1,30.42,19.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,03:00,20.0,9.5,67.7,0.0,N @0.0,0.0,0.0,0,39.6,47.6,14.1,30.42,19.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,03:15,19.9,9.7,68.9,0.0,N @0.0,0.0,0.0,0,39.4,47.5,14.1,30.41,19.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,03:30,19.9,10.4,71.0,0.0,N @0.0,0.0,0.0,0,39.3,47.4,14.1,30.41,19.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,03:45,20.7,10.4,68.2,0.0,N @0.0,0.0,0.0,0,39.1,47.3,14.1,30.41,20.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,04:00,21.6,10.8,66.5,0.0,N @0.0,0.0,0.0,0,39.0,47.3,14.1,30.41,21.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,04:15,21.7,9.9,63.6,0.0,N @0.0,0.0,0.0,0,38.9,47.2,14.2,30.42,21.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,04:30,21.6,9.3,62.1,0.0,N @0.0,0.0,0.0,0,38.8,47.1,14.2,30.41,21.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,04:45,22.1,10.3,63.6,0.0,N @0.0,0.0,0.0,0,38.8,47.1,14.2,30.41,21.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,05:00,21.9,10.8,65.8,0.0,N @0.0,0.0,0.0,0,38.7,47.0,14.1,30.4,21.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,05:15,21.3,10.3,66.2,0.0,N @0.0,0.0,0.0,0,38.6,46.9,14.1,30.4,21.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,05:30,21.3,9.9,64.8,0.0,N @0.0,0.0,0.0,0,38.5,46.9,14.1,30.41,21.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,05:45,21.5,9.8,63.9,0.0,N @0.0,0.0,0.0,0,38.4,46.8,14.1,30.41,21.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,06:00,21.8,10.1,63.9,0.0,N @0.0,0.0,0.0,0,38.4,46.7,14.1,30.41,21.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,06:15,22.3,11.5,66.6,0.0,N @0.0,0.0,0.0,0,38.3,46.7,14.1,30.41,22.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,06:30,23.1,12.4,66.6,0.0,N @0.0,0.0,0.0,1,38.2,46.6,14.1,30.41,22.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,06:45,23.4,13.0,67.6,0.0,N @0.0,0.0,0.0,3,38.1,46.5,14.1,30.41,23.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,07:00,23.7,13.5,68.2,0.0,N @0.0,0.0,0.0,9,38.1,46.4,14.1,30.41,23.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,07:15,24.2,13.9,67.4,0.0,N @0.0,0.0,0.0,19,38.0,46.4,14.1,30.41,24.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,07:30,25.0,14.1,65.6,0.0,N @0.0,0.0,0.0,32,38.0,46.3,14.1,30.41,24.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,07:45,25.5,14.4,65.1,0.0,N @0.0,0.0,0.0,44,38.0,46.2,14.1,30.42,25.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,08:00,26.4,17.3,70.8,0.0,N @0.0,0.0,0.0,63,38.0,46.2,14.1,30.42,26.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,08:15,26.8,19.3,75.4,0.0,N @0.0,0.0,0.0,77,38.0,46.1,14.1,30.42,26.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,08:30,27.3,19.5,74.6,0.0,N @0.0,0.0,0.0,99,38.0,46.0,14.1,30.42,27.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,08:45,27.9,20.1,74.4,0.0,N @0.0,0.0,0.0,108,38.1,46.0,14.0,30.42,27.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,09:00,28.1,20.6,75.3,0.0,N @0.0,0.0,0.0,123,38.2,45.9,14.0,30.42,27.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,09:15,28.4,20.8,74.7,0.0,N @0.0,0.0,0.0,152,38.4,45.8,14.0,30.42,28.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,09:30,29.9,21.5,71.8,0.0,NE@0.2,3.9,0.0,253,38.6,45.8,14.0,30.42,29.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,09:45,30.7,21.8,70.3,0.0,NE@0.3,3.1,0.0,280,38.8,45.7,14.0,30.42,30.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,10:00,31.1,22.1,69.5,0.0,N @0.0,0.0,0.0,239,39.1,45.7,14.0,30.42,30.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,10:15,31.8,22.4,68.2,0.0,E@0.4,4.2,0.0,283,39.4,45.6,14.0,30.42,31.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,10:30,32.7,22.4,65.6,0.0,N @0.0,0.0,0.0,295,39.8,45.6,14.0,30.42,32.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,10:45,33.1,22.1,63.7,0.0,NE@0.2,4.9,0.0,269,40.2,45.5,14.0,30.42,32.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,11:00,33.5,22.2,62.9,0.0,N @0.0,0.0,0.0,267,40.7,45.5,14.0,30.42,33.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,11:15,34.0,22.3,61.8,0.0,N @0.0,0.0,0.0,269,41.1,45.4,14.0,30.42,33.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,11:30,35.1,21.7,57.9,0.0,N @0.0,0.0,0.0,393,41.5,45.4,14.0,30.42,34.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,11:45,36.2,19.9,51.3,0.0,N @0.0,0.0,0.0,425,41.9,45.4,14.0,30.41,35.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,12:00,37.1,18.1,45.7,0.0,SE@0.3,4.2,0.0,426,42.4,45.4,14.1,30.41,36.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,12:15,38.1,19.5,46.6,0.0,N @0.0,0.0,0.0,430,42.9,45.3,14.1,30.42,37.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,12:30,39.1,16.5,39.4,0.0,NE@0.2,3.9,0.0,416,43.4,45.3,14.1,30.41,38.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,12:45,39.6,15.8,37.6,0.0,NE@0.1,4.2,0.0,388,44.0,45.3,14.1,30.41,38.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,13:00,40.6,15.6,35.9,0.0,E@0.0,2.1,0.0,393,44.6,45.3,14.1,30.4,39.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,13:15,41.2,15.1,34.3,0.0,SE@0.0,2.4,0.0,383,45.1,45.4,14.1,30.4,40.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,13:30,42.1,16.3,34.8,0.0,SE@0.1,3.1,0.0,379,45.7,45.4,14.1,30.4,41.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,13:45,42.8,15.3,32.5,0.0,SE@0.0,3.9,0.0,355,46.2,45.4,14.1,30.4,42.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,14:00,43.1,16.0,33.1,0.0,N @0.0,0.0,0.0,304,46.6,45.5,14.1,30.4,42.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,14:15,43.3,15.1,31.4,0.0,N @0.0,0.0,0.0,288,47.1,45.5,14.1,30.4,42.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,14:30,44.2,14.0,29.1,0.0,N @0.0,0.0,0.0,264,47.4,45.6,14.2,30.4,43.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,14:45,44.2,14.4,29.6,0.0,N @0.0,0.0,0.0,239,47.7,45.7,14.2,30.4,43.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,15:00,44.2,15.0,30.3,0.0,N @0.0,0.0,0.0,226,48.0,45.8,14.2,30.41,43.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,15:15,44.3,15.2,30.4,0.0,SE@0.0,3.5,0.0,198,48.2,45.8,14.2,30.41,43.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,15:30,44.1,14.8,30.2,0.0,N @0.0,0.0,0.0,167,48.3,45.9,14.2,30.41,43.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,15:45,44.4,14.6,29.6,0.0,N @0.0,0.0,0.0,132,48.4,46.0,14.1,30.41,43.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,16:00,43.7,14.9,30.9,0.0,N @0.0,0.0,0.0,106,48.5,46.1,14.1,30.41,43.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,16:15,43.3,15.1,31.6,0.0,N @0.0,0.0,0.0,60,48.5,46.2,14.2,30.41,42.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,16:30,43.0,16.1,33.4,0.0,N @0.0,0.0,0.0,39,48.5,46.4,14.2,30.41,42.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,16:45,40.0,17.2,39.3,0.0,N @0.0,0.0,0.0,11,48.5,46.5,14.2,30.4,39.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,17:00,37.0,18.1,45.9,0.0,N @0.0,0.0,0.0,3,48.4,46.6,14.2,30.4,36.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,17:15,34.3,18.2,51.3,0.0,N @0.0,0.0,0.0,1,48.2,46.7,14.2,30.41,34.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,17:30,33.8,16.9,49.5,0.0,N @0.0,0.0,0.0,0,48.0,46.8,14.2,30.4,33.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,17:45,32.4,17.1,52.9,0.0,N @0.0,0.0,0.0,0,47.8,46.9,14.2,30.4,31.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,18:00,32.0,17.0,53.5,0.0,N @0.0,0.0,0.0,0,47.5,47.0,14.2,30.41,31.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,18:15,32.8,16.0,49.7,0.0,N @0.0,0.0,0.0,0,47.2,47.1,14.2,30.42,32.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,18:30,33.5,14.4,44.9,0.0,N @0.0,0.0,0.0,0,46.9,47.2,14.2,30.42,33.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,18:45,33.3,13.3,43.1,0.0,N @0.0,0.0,0.0,0,46.6,47.3,14.2,30.42,33.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,19:00,32.5,13.4,44.9,0.0,N @0.0,0.0,0.0,0,46.3,47.4,14.2,30.43,32.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,19:15,32.6,13.8,45.4,0.0,N @0.0,0.0,0.0,0,46.0,47.5,14.2,30.43,32.3,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,19:30,32.2,12.7,43.9,0.0,N @0.0,0.0,0.0,0,45.8,47.5,14.2,30.43,31.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,19:45,30.7,12.8,47.4,0.0,N @0.0,0.0,0.0,0,45.5,47.6,14.2,30.44,30.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,20:00,30.7,12.9,47.6,0.0,N @0.0,0.0,0.0,0,45.2,47.6,14.2,30.44,30.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,20:15,31.0,12.7,46.4,0.0,N @0.0,0.0,0.0,0,44.9,47.7,14.2,30.44,30.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,20:30,31.6,12.7,45.3,0.0,N @0.0,0.0,0.0,0,44.7,47.7,14.2,30.45,31.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,20:45,31.8,12.8,45.0,0.0,N @0.0,0.0,0.0,0,44.4,47.7,14.2,30.45,31.5,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,21:00,32.3,14.1,46.5,0.0,N @0.0,0.0,0.0,0,44.2,47.7,14.2,30.46,32.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,21:15,31.7,15.4,50.8,0.0,N @0.0,0.0,0.0,0,44.0,47.7,14.2,30.46,31.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,21:30,30.9,13.1,47.7,0.0,N @0.0,0.0,0.0,0,43.7,47.7,14.2,30.47,30.6,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,21:45,30.0,13.5,50.6,0.0,N @0.0,0.0,0.0,0,43.5,47.7,14.2,30.48,29.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,22:00,28.2,14.3,56.9,0.0,N @0.0,0.0,0.0,0,43.3,47.7,14.2,30.48,27.9,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,22:15,26.5,14.0,60.9,0.0,N @0.0,0.0,0.0,0,43.1,47.7,14.2,30.48,26.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,22:30,25.7,14.4,64.3,0.0,N @0.0,0.0,0.0,0,42.9,47.7,14.2,30.48,25.4,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,22:45,26.3,13.8,61.1,0.0,N @0.0,0.0,0.0,0,42.7,47.7,14.1,30.49,26.0,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,23:00,26.9,14.2,60.4,0.0,N @0.0,0.0,0.0,0,42.5,47.6,14.1,30.49,26.7,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,23:15,27.2,13.6,58.1,0.0,N @0.0,0.0,0.0,0,42.3,47.6,14.1,30.5,26.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,23:30,26.2,14.8,64.0,0.0,N @0.0,0.0,0.0,0,42.1,47.6,14.1,30.5,25.8,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,23:45,25.4,13.5,62.7,0.0,N @0.0,0.0,0.0,0,41.9,47.5,14.1,30.51,25.1,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701
+2019-10-31,24:00,25.4,14.1,64.4,0.0,N @0.0,0.0,0.0,0,41.7,47.5,14.1,30.51,25.2,"PhinnyHill (Phinny Hill), Alderdale, Klickitat County",300210,PhinnyHill,2020-01-21 16:05:15.793701

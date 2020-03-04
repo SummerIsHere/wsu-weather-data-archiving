@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-08-16,00:15,56.1,55.9,99.4,0.0,W@14.2,19.6,0.04,0,72.9,56.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,00:30,55.8,55.7,99.4,0.0,W@13.4,21.0,0.04,0,72.7,55.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,00:45,56.3,56.2,99.4,0.0,W@13.5,20.0,0.03,0,72.6,56.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,01:00,56.5,56.4,99.4,0.0,W@14.9,22.8,0.03,0,72.4,56.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,01:15,56.2,56.1,99.4,0.0,SW@12.9,21.0,0.03,0,72.3,56.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,01:30,54.8,54.7,99.4,0.0,SW@5.6,12.4,0.08,0,72.1,54.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,01:45,54.6,54.5,99.4,0.0,SW@4.4,6.7,0.1,0,71.9,54.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,02:00,54.9,54.8,99.4,0.0,SW@4.2,6.7,0.12,0,71.8,54.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,02:15,55.4,55.2,99.4,0.0,SW@0.9,5.7,0.09,0,71.6,55.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,02:30,55.5,55.3,99.4,0.0,SW@0.3,5.3,0.07,0,71.5,55.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,02:45,55.2,55.1,99.4,0.0,N @0.0,0.0,0.08,0,71.3,55.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,03:00,55.5,55.3,99.4,0.0,N @0.0,0.0,0.09,0,71.2,55.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,03:15,56.1,55.9,99.4,0.0,N @0.0,0.0,0.05,0,71.0,56.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,03:30,56.9,56.7,99.1,0.0,N @0.0,0.0,0.03,0,70.9,56.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,03:45,57.1,56.7,98.5,0.0,N @0.0,0.0,0.03,0,70.7,57.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,04:00,56.4,56.1,99.1,0.0,N @0.0,0.0,0.04,0,70.6,56.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,04:15,55.6,55.4,99.4,0.0,N @0.0,0.0,0.07,0,70.4,55.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,04:30,54.6,54.5,99.4,0.0,N @0.0,0.0,0.13,0,70.3,54.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,04:45,54.7,54.6,99.4,0.0,SE@0.5,4.6,0.18,0,70.2,54.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,05:00,55.0,54.9,99.4,0.0,SE@0.0,2.1,0.19,0,70.0,54.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,05:15,55.4,55.2,99.4,0.0,N @0.0,0.0,0.18,2,69.9,55.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,05:30,56.5,56.4,99.4,0.0,N @0.0,0.0,0.14,5,69.8,56.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,05:45,57.1,57.0,99.4,0.0,S@0.1,2.4,0.09,10,69.6,56.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,06:00,57.6,57.4,99.4,0.0,S@0.8,3.5,0.06,20,69.5,57.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,06:15,58.0,57.9,99.4,0.0,S@1.3,6.7,0.05,26,69.4,58.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,06:30,58.5,58.4,99.4,0.0,N @0.0,0.0,0.03,29,69.3,58.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,06:45,58.9,58.8,99.3,0.0,N @0.0,0.0,0.03,28,69.1,58.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,07:00,59.5,59.4,99.3,0.0,N @0.0,0.0,0.02,63,69.0,59.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,07:15,60.2,59.3,97.1,0.0,N @0.0,0.0,0.01,98,68.9,60.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,07:30,60.6,59.0,94.6,0.0,S@2.0,7.4,0.01,124,68.8,60.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,07:45,61.0,59.2,93.6,0.0,S@5.4,8.9,0.01,185,68.7,61.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,08:00,61.8,59.2,91.0,0.0,S@6.7,9.2,0.01,282,68.7,62.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,08:15,62.5,59.3,89.1,0.0,S@6.9,11.4,0.0,339,68.6,62.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,08:30,63.4,59.3,86.3,0.0,S@7.4,11.7,0.0,424,68.5,63.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,08:45,63.3,58.8,85.2,0.0,S@6.8,11.7,0.0,370,68.5,63.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,09:00,63.5,58.6,83.9,0.0,S@6.5,11.0,0.0,341,68.4,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,09:15,64.3,58.6,81.5,0.0,S@6.5,9.9,0.0,478,68.4,64.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,09:30,64.7,58.4,80.0,0.0,S@7.2,11.4,0.0,444,68.3,64.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,09:45,64.8,58.5,80.0,0.0,S@7.1,10.7,0.0,491,68.3,64.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,10:00,65.0,58.0,78.0,0.0,S@6.2,9.9,0.0,348,68.3,65.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,10:15,64.9,57.6,77.1,0.0,S@7.4,11.4,0.0,359,68.3,65.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,10:30,65.7,57.5,74.8,0.0,S@7.9,11.0,0.0,396,68.4,65.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,10:45,65.9,57.1,73.1,0.0,S@5.8,11.0,0.0,397,68.4,66.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,11:00,65.5,56.8,73.5,0.0,S@5.2,9.9,0.0,300,68.5,65.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,11:15,65.8,56.9,72.9,0.0,S@4.9,9.9,0.0,353,68.5,66.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,11:30,66.4,56.6,70.5,0.0,S@4.8,8.9,0.0,430,68.6,66.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,11:45,67.2,56.6,68.9,0.0,S@8.2,11.0,0.0,367,68.7,67.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,12:00,66.8,56.3,68.9,0.0,S@5.9,9.6,0.0,369,68.8,66.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,12:15,67.9,56.1,65.7,0.0,SW@5.8,10.3,0.0,465,68.9,67.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,12:30,68.6,55.9,63.8,0.0,S@6.0,9.6,0.0,514,69.0,68.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,12:45,69.0,55.3,61.7,0.0,S@3.9,9.6,0.0,605,69.1,69.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,13:00,70.2,55.4,59.2,0.0,SW@7.2,11.7,0.0,616,69.2,70.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,13:15,70.0,55.1,59.2,0.0,SW@8.3,11.7,0.0,601,69.3,69.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,13:30,70.9,55.2,57.5,0.0,S@7.4,11.7,0.0,614,69.4,70.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,13:45,70.1,55.2,59.0,0.0,S@8.5,11.7,0.0,543,69.6,70.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,14:00,70.3,55.4,59.1,0.0,SW@9.1,12.4,0.0,706,69.7,70.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,14:15,70.6,55.5,58.8,0.0,SW@7.3,12.8,0.0,654,69.9,70.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,14:30,70.4,55.6,59.2,0.0,SW@7.8,11.4,0.0,601,70.0,70.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,14:45,69.5,55.5,61.1,0.0,SW@5.7,8.9,0.0,404,70.2,69.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,15:00,69.4,55.6,61.4,0.0,SW@2.2,8.9,0.0,338,70.4,69.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,15:15,68.2,55.8,64.4,0.0,N @0.0,0.0,0.0,353,70.7,68.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,15:30,68.7,56.0,63.8,0.0,N @0.0,0.0,0.0,351,70.9,68.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,15:45,69.8,56.2,61.8,0.0,S@3.3,9.6,0.0,470,71.1,70.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,16:00,69.7,56.1,62.0,0.0,SW@6.4,9.9,0.0,460,71.4,69.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,16:15,69.7,56.4,62.5,0.0,SW@3.0,8.2,0.0,463,71.6,69.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,16:30,70.6,56.5,60.9,0.0,SW@5.0,9.6,0.0,397,71.8,70.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,16:45,70.1,56.6,62.2,0.0,SW@5.7,8.9,0.0,267,72.0,70.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,17:00,69.1,56.6,64.4,0.0,S@3.0,11.0,0.0,141,72.2,69.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,17:15,67.1,56.5,68.7,0.0,S@7.2,9.6,0.0,135,72.4,66.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,17:30,67.2,56.6,68.6,0.0,S@3.1,7.1,0.0,157,72.6,67.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,17:45,66.7,57.0,71.0,0.0,N @0.0,0.0,0.0,136,72.7,66.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,18:00,66.6,57.3,72.0,0.0,N @0.0,0.0,0.0,158,72.9,66.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,18:15,66.3,57.5,73.2,0.0,W@0.0,1.4,0.0,100,73.0,66.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,18:30,65.5,57.5,75.4,0.0,N @0.0,0.0,0.0,86,73.1,65.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,18:45,66.2,57.8,74.3,0.0,N @0.0,0.0,0.0,108,73.2,66.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,19:00,65.7,57.9,75.9,0.0,N @0.0,0.0,0.0,46,73.3,65.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,19:15,64.3,57.9,79.6,0.0,N @0.0,0.0,0.0,14,73.4,64.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,19:30,61.3,56.7,85.0,0.0,N @0.0,0.0,0.01,4,73.4,61.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,19:45,58.7,56.5,92.5,0.0,N @0.0,0.0,0.01,0,73.5,58.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,20:00,57.6,56.4,95.6,0.0,N @0.0,0.0,0.02,0,73.5,57.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,20:15,57.3,56.8,98.1,0.0,N @0.0,0.0,0.04,0,73.5,57.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,20:30,57.2,57.0,99.1,0.0,N @0.0,0.0,0.04,0,73.5,57.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,20:45,57.6,57.5,99.4,0.0,N @0.0,0.0,0.03,0,73.4,57.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,21:00,57.9,57.8,99.3,0.0,N @0.0,0.0,0.02,0,73.4,57.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,21:15,58.2,58.0,99.3,0.0,N @0.0,0.0,0.02,0,73.3,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,21:30,58.8,58.4,98.4,0.0,N @0.0,0.0,0.01,0,73.3,58.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,21:45,59.5,58.6,96.8,0.0,W@0.1,5.3,0.01,0,73.2,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,22:00,59.8,57.9,93.4,0.0,W@4.6,8.5,0.01,0,73.1,59.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,22:15,58.9,57.8,96.0,0.0,W@2.1,6.7,0.01,0,73.0,58.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,22:30,59.5,58.1,95.1,0.0,W@0.1,3.9,0.01,0,72.9,59.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,22:45,59.7,58.2,94.8,0.0,N @0.0,0.0,0.01,0,72.8,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,23:00,59.5,58.3,95.6,0.0,W@1.1,6.7,0.01,0,72.7,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,23:15,59.4,58.5,96.8,0.0,W@4.7,8.5,0.01,0,72.6,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,23:30,59.7,58.6,96.3,0.0,W@4.1,7.8,0.01,0,72.4,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,23:45,60.0,58.8,95.8,0.0,W@6.0,8.9,0.01,0,72.3,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-16,24:00,60.0,58.9,96.1,0.0,W@5.6,10.7,0.01,0,72.2,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,00:15,59.9,59.1,96.8,0.0,W@4.5,9.2,0.01,0,72.1,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,00:30,59.9,59.2,97.4,0.0,SW@1.5,7.8,0.01,0,72.0,59.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,00:45,60.0,59.3,97.5,0.0,W@5.6,10.3,0.01,0,71.9,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,01:00,59.6,59.2,98.5,0.0,SW@5.9,9.2,0.01,0,71.8,59.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,01:15,59.3,59.2,99.3,0.0,W@4.5,7.8,0.01,0,71.7,59.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,01:30,59.6,59.2,98.8,0.0,W@0.2,4.6,0.01,0,71.6,59.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,01:45,59.7,59.1,97.8,0.0,W@0.0,1.7,0.01,0,71.5,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,02:00,59.8,59.0,97.2,0.0,N @0.0,0.0,0.01,0,71.4,59.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,02:15,59.7,59.1,97.7,0.0,N @0.0,0.0,0.01,0,71.3,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,02:30,59.6,59.1,98.4,0.0,N @0.0,0.0,0.02,0,71.2,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,02:45,59.5,59.1,98.7,0.0,N @0.0,0.0,0.02,0,71.1,59.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,03:00,59.3,59.1,99.1,0.0,N @0.0,0.0,0.02,0,71.0,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,03:15,59.1,59.0,99.3,0.0,N @0.0,0.0,0.02,0,70.9,59.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,03:30,58.9,58.8,99.3,0.0,W@0.4,6.0,0.02,0,70.8,58.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,03:45,59.1,58.9,99.1,0.0,W@1.9,6.7,0.02,0,70.7,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,04:00,59.3,58.9,98.6,0.0,W@0.6,4.2,0.02,0,70.6,59.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,04:15,59.2,58.9,98.9,0.0,W@0.9,6.7,0.02,0,70.5,59.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,04:30,58.8,58.6,99.3,0.0,W@0.2,4.9,0.02,0,70.4,58.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,04:45,58.4,58.3,99.4,0.0,N @0.0,0.0,0.02,0,70.4,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,05:00,58.3,58.1,99.4,0.0,N @0.0,0.0,0.02,0,70.3,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,05:15,58.1,57.9,99.4,0.0,N @0.0,0.0,0.03,0,70.2,57.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,05:30,58.0,57.8,99.4,0.0,N @0.0,0.0,0.03,2,70.1,57.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,05:45,58.0,57.8,99.4,0.0,N @0.0,0.0,0.03,6,70.0,57.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,06:00,58.0,57.9,99.4,0.0,N @0.0,0.0,0.02,6,69.9,57.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,06:15,58.2,58.0,99.4,0.0,N @0.0,0.0,0.02,10,69.8,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,06:30,58.4,58.3,99.4,0.0,N @0.0,0.0,0.02,16,69.7,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,06:45,58.9,58.7,99.4,0.0,N @0.0,0.0,0.02,24,69.7,58.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,07:00,59.2,59.0,99.3,0.0,N @0.0,0.0,0.01,29,69.6,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,07:15,59.6,59.4,99.2,0.0,N @0.0,0.0,0.01,41,69.5,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,07:30,60.0,59.6,98.3,0.0,N @0.0,0.0,0.01,51,69.4,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,07:45,60.0,59.4,97.6,0.0,N @0.0,0.0,0.01,66,69.3,60.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,08:00,60.4,59.7,97.6,0.0,N @0.0,0.0,0.01,93,69.3,60.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,08:15,61.2,59.8,95.1,0.0,N @0.0,0.0,0.0,108,69.2,61.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,08:30,61.8,59.7,92.7,0.0,N @0.0,0.0,0.0,125,69.2,61.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,08:45,62.4,59.7,90.7,0.0,SW@0.2,3.9,0.0,162,69.1,62.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,09:00,62.8,59.5,88.8,0.0,SW@0.2,4.2,0.0,197,69.0,62.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,09:15,63.2,59.6,88.0,0.0,SW@0.6,5.7,0.0,224,69.0,63.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,09:30,64.1,59.3,84.4,0.0,S@2.0,8.5,0.0,247,68.9,64.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,09:45,64.6,59.3,82.6,0.0,S@2.9,7.4,0.0,319,68.9,64.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,10:00,65.2,59.2,80.8,0.0,SW@5.0,10.7,0.0,377,68.9,65.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,10:15,65.1,59.2,81.0,0.0,SW@6.1,9.9,0.0,407,68.8,65.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,10:30,65.9,59.1,78.7,0.0,S@4.4,9.6,0.0,534,68.8,65.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,10:45,66.4,58.9,76.6,0.0,S@1.4,9.6,0.0,429,68.8,66.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,11:00,67.4,58.9,74.1,0.0,S@5.5,9.2,0.0,532,68.8,67.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,11:15,67.4,58.5,73.0,0.0,S@6.4,9.9,0.0,508,68.9,67.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,11:30,67.9,58.6,72.0,0.0,SW@5.6,10.3,0.0,534,68.9,67.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,11:45,67.1,58.1,73.0,0.0,SW@2.5,9.2,0.0,388,68.9,66.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,12:00,68.8,58.2,68.8,0.0,SW@3.5,11.0,0.0,798,69.0,68.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,12:15,70.6,57.8,63.9,0.0,S@7.4,12.4,0.0,929,69.1,70.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,12:30,71.7,57.2,60.1,0.0,S@6.3,11.7,0.0,896,69.2,71.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,12:45,71.0,55.9,58.8,0.0,S@6.8,13.2,0.0,598,69.3,71.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,13:00,72.0,56.3,57.8,0.0,S@6.5,13.9,0.0,774,69.4,72.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,13:15,72.1,56.3,57.6,0.0,S@7.7,14.6,0.0,696,69.6,72.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,13:30,72.2,57.0,58.8,0.0,S@6.1,9.9,0.0,756,69.7,72.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,13:45,72.9,56.4,56.2,0.0,S@5.4,10.3,0.0,704,69.9,73.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,14:00,73.5,56.8,55.7,0.0,S@7.6,12.4,0.0,727,70.1,73.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,14:15,73.4,56.4,55.3,0.0,S@7.8,12.4,0.0,695,70.3,73.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,14:30,74.4,56.7,54.0,0.0,S@4.0,9.9,0.0,657,70.6,74.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,14:45,73.5,55.9,53.9,0.0,S@5.8,9.9,0.0,653,70.8,73.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,15:00,74.1,57.2,55.4,0.0,S@5.5,11.0,0.0,601,71.1,74.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,15:15,73.4,57.6,57.6,0.0,S@7.5,12.4,0.0,408,71.4,73.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,15:30,72.7,57.7,59.1,0.0,S@8.0,10.7,0.0,381,71.7,72.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,15:45,71.1,57.6,62.4,0.0,SW@6.6,11.7,0.0,268,72.0,70.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,16:00,67.9,57.5,69.3,0.0,SW@4.7,9.6,0.0,238,72.3,67.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,16:15,67.8,57.6,69.8,0.0,SW@0.2,6.7,0.0,231,72.6,67.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,16:30,67.0,57.4,71.2,0.0,SW@2.7,9.6,0.0,210,72.9,67.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,16:45,62.9,57.2,81.5,0.0,N @0.0,0.0,0.0,211,73.2,62.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,17:00,61.6,57.8,87.2,0.0,SW@5.2,9.6,0.0,200,73.4,61.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,17:15,60.7,57.8,90.4,0.0,SW@7.3,9.9,0.0,154,73.6,60.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,17:30,60.9,58.3,91.0,0.0,SW@5.7,9.9,0.0,153,73.8,60.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,17:45,62.0,58.3,87.8,0.0,SW@6.5,10.3,0.0,243,74.0,62.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,18:00,62.5,58.1,85.4,0.0,SW@8.1,11.0,0.0,170,74.1,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,18:15,63.3,57.6,81.6,0.0,W@5.2,11.0,0.0,132,74.3,63.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,18:30,62.0,57.2,84.4,0.0,SW@3.6,8.2,0.0,96,74.4,62.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,18:45,60.3,57.4,89.8,0.0,SW@2.6,7.8,0.0,65,74.4,60.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,19:00,58.6,57.3,95.3,0.0,SW@3.9,7.8,0.01,38,74.5,58.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,19:15,57.6,57.3,98.6,0.0,SW@0.4,6.4,0.01,15,74.5,57.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,19:30,56.8,56.6,99.3,0.0,SW@5.6,8.2,0.03,5,74.5,56.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,19:45,56.3,56.1,99.4,0.0,SW@6.0,7.4,0.04,1,74.5,56.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,20:00,56.2,56.0,99.4,0.0,SW@5.8,7.8,0.05,0,74.5,56.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,20:15,56.7,56.6,99.4,0.0,SW@5.2,7.1,0.05,0,74.5,56.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,20:30,57.6,57.4,99.4,0.0,SW@0.4,6.0,0.05,0,74.4,57.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,20:45,57.8,57.7,99.4,0.0,N @0.0,0.0,0.07,0,74.3,57.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,21:00,57.8,57.6,99.4,0.0,W@2.9,7.1,0.07,0,74.3,57.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,21:15,57.3,57.1,99.4,0.0,SW@1.5,6.7,0.07,0,74.2,57.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,21:30,58.1,57.9,99.4,0.0,W@3.2,9.2,0.07,0,74.1,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,21:45,58.7,58.6,99.3,0.0,W@8.1,15.0,0.04,0,74.0,58.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,22:00,58.4,58.3,99.3,0.0,W@10.1,15.3,0.04,0,73.8,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,22:15,57.8,57.6,99.4,0.0,W@10.6,17.5,0.04,0,73.7,57.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,22:30,57.3,57.2,99.4,0.0,W@9.7,15.7,0.05,0,73.6,57.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,22:45,56.7,56.6,99.4,0.0,W@9.8,13.2,0.07,0,73.4,56.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,23:00,56.4,56.2,99.4,0.0,W@9.9,13.5,0.07,0,73.3,56.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,23:15,56.1,56.0,99.4,0.0,W@9.8,16.0,0.08,0,73.1,56.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,23:30,56.1,56.0,99.4,0.0,W@9.6,14.2,0.08,0,73.0,56.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,23:45,55.9,55.8,99.4,0.0,W@9.1,14.2,0.09,0,72.8,55.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-17,24:00,56.0,55.9,99.4,0.0,W@8.2,12.1,0.09,0,72.7,56.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,00:15,55.8,55.7,99.4,0.0,W@6.5,10.7,0.1,0,72.6,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,00:30,55.6,55.5,99.4,0.0,W@3.9,8.9,0.13,0,72.4,55.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,00:45,55.4,55.2,99.4,0.0,W@4.5,7.4,0.15,0,72.3,55.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,01:00,55.0,54.9,99.4,0.0,SW@3.6,8.9,0.17,0,72.1,54.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,01:15,54.7,54.6,99.4,0.0,SW@3.7,5.7,0.2,0,72.0,54.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,01:30,54.3,54.2,99.4,0.0,SW@4.0,6.0,0.23,0,71.8,54.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,01:45,54.2,54.1,99.4,0.0,SW@5.0,7.1,0.25,0,71.7,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,02:00,54.0,53.9,99.5,0.0,S@2.1,4.9,0.27,0,71.5,53.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,02:15,54.0,53.9,99.5,0.0,S@0.3,3.5,0.29,0,71.4,53.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,02:30,54.6,54.5,99.5,0.0,SW@2.6,6.4,0.3,0,71.2,54.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,02:45,55.4,55.2,99.5,0.0,SW@4.6,8.2,0.31,0,71.1,55.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,03:00,55.5,55.4,99.5,0.0,SW@4.4,8.9,0.26,0,71.0,55.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,03:15,55.7,55.6,99.5,0.0,SW@4.8,7.8,0.17,0,70.8,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,03:30,55.7,55.6,99.5,0.0,SW@3.6,5.7,0.12,0,70.7,55.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,03:45,56.1,55.9,99.4,0.0,SW@2.7,5.7,0.09,0,70.5,56.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,04:00,56.3,56.2,99.4,0.0,W@2.8,6.0,0.07,0,70.4,56.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,04:15,56.4,56.3,99.4,0.0,S@2.1,4.2,0.07,0,70.3,56.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,04:30,56.5,56.3,99.4,0.0,SE@2.3,3.9,0.06,0,70.2,56.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,04:45,56.7,56.5,99.4,0.0,S@2.4,3.5,0.06,0,70.0,56.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,05:00,56.8,56.7,99.4,0.0,SW@3.2,4.6,0.05,0,69.9,56.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,05:15,56.9,56.8,99.4,0.0,S@0.7,3.5,0.05,1,69.8,56.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,05:30,57.0,56.8,99.4,0.0,SE@0.8,2.1,0.04,4,69.7,56.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,05:45,57.3,57.1,99.4,0.0,E@0.0,1.4,0.04,8,69.6,57.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,06:00,57.5,57.3,99.4,0.0,N @0.0,0.0,0.04,15,69.5,57.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,06:15,57.9,57.7,99.4,0.0,N @0.0,0.0,0.03,20,69.4,57.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,06:30,58.1,58.0,99.4,0.0,N @0.0,0.0,0.03,23,69.3,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,06:45,58.4,58.2,99.3,0.0,N @0.0,0.0,0.02,29,69.2,58.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,07:00,58.7,58.5,99.3,0.0,S@0.5,2.4,0.02,37,69.1,58.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,07:15,58.9,58.8,99.3,0.0,S@2.2,3.9,0.02,50,69.1,58.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,07:30,59.3,59.0,98.8,0.0,S@3.3,5.3,0.02,62,69.0,59.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,07:45,59.4,59.0,98.3,0.0,S@3.7,5.7,0.01,67,68.9,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,08:00,59.3,59.1,99.1,0.0,S@3.4,4.9,0.01,80,68.8,59.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,08:15,59.1,59.0,99.4,0.0,S@3.4,5.3,0.02,91,68.8,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,08:30,58.9,58.8,99.4,0.0,S@3.1,4.6,0.06,111,68.7,58.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,08:45,58.9,58.8,99.4,0.0,S@3.4,4.9,0.1,128,68.7,58.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,09:00,58.9,58.8,99.4,0.0,S@3.8,6.0,0.11,152,68.6,58.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,09:15,59.0,58.9,99.4,0.0,SW@4.3,5.7,0.04,184,68.6,58.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,09:30,59.1,59.0,99.4,0.0,SW@3.4,5.3,0.02,229,68.5,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,09:45,59.8,59.7,99.4,0.0,SW@3.1,5.7,0.01,337,68.5,60.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,10:00,61.2,60.4,97.3,0.0,W@3.4,6.7,0.01,398,68.4,61.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,10:15,62.7,59.9,90.5,0.0,W@4.2,8.2,0.0,365,68.4,62.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,10:30,63.3,59.5,87.3,0.0,SW@5.9,8.9,0.0,421,68.4,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,10:45,64.1,58.8,82.8,0.0,SW@7.5,9.6,0.0,501,68.4,64.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,11:00,63.5,58.1,82.4,0.0,SW@7.2,10.7,0.0,407,68.4,63.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,11:15,63.6,58.2,82.4,0.0,W@5.6,8.5,0.0,354,68.4,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,11:30,63.7,57.9,81.4,0.0,W@6.3,8.5,0.0,367,68.4,63.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,11:45,64.2,58.1,80.5,0.0,W@5.7,9.6,0.0,365,68.5,64.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,12:00,64.4,58.1,80.0,0.0,W@6.2,8.5,0.0,388,68.6,64.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,12:15,64.5,57.9,79.1,0.0,W@5.4,8.5,0.0,402,68.6,64.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,12:30,65.5,56.6,72.7,0.0,SW@7.3,9.9,0.0,408,68.7,65.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,12:45,65.5,55.9,71.1,0.0,W@7.8,10.7,0.0,438,68.8,65.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,13:00,65.7,56.1,71.2,0.0,W@8.0,10.7,0.0,516,68.9,65.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,13:15,67.2,56.1,67.4,0.0,W@7.9,11.0,0.0,733,69.0,67.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,13:30,66.9,55.5,66.7,0.0,SW@9.8,13.9,0.0,710,69.1,66.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,13:45,67.2,55.7,66.5,0.0,W@8.1,12.8,0.0,704,69.2,67.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,14:00,67.0,55.6,66.5,0.0,W@9.0,13.9,0.0,658,69.4,67.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,14:15,67.6,55.6,65.5,0.0,W@8.0,12.8,0.0,598,69.5,67.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,14:30,67.3,55.4,65.5,0.0,SW@9.5,14.2,0.0,657,69.7,67.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,14:45,67.2,55.2,65.2,0.0,SW@9.6,13.5,0.0,634,69.9,67.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,15:00,67.8,55.3,64.3,0.0,W@8.5,14.6,0.0,605,70.1,67.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,15:15,68.1,55.5,64.0,0.0,W@7.3,12.8,0.0,575,70.3,68.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,15:30,68.2,55.5,63.7,0.0,W@7.1,11.7,0.0,543,70.5,68.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,15:45,68.1,55.5,64.1,0.0,W@7.2,11.7,0.0,509,70.8,68.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,16:00,67.5,55.3,64.8,0.0,W@8.6,13.9,0.0,473,71.1,67.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,16:15,67.4,55.3,65.2,0.0,NW@7.8,12.8,0.0,436,71.3,67.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,16:30,67.0,55.1,65.5,0.0,W@8.4,12.8,0.0,398,71.6,66.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,16:45,66.8,54.4,64.3,0.0,W@8.2,12.4,0.0,359,71.9,66.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,17:00,66.5,54.3,64.6,0.0,W@8.2,11.7,0.0,318,72.1,66.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,17:15,66.2,53.7,64.0,0.0,W@8.3,12.1,0.0,278,72.4,66.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,17:30,65.5,53.3,64.5,0.0,W@8.3,13.9,0.0,239,72.6,65.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,17:45,64.7,53.2,66.3,0.0,W@7.9,12.4,0.0,200,72.8,64.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,18:00,63.3,53.4,70.1,0.0,W@7.5,13.5,0.0,162,73.0,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,18:15,61.2,53.8,76.5,0.0,W@7.9,11.4,0.0,126,73.2,61.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,18:30,60.1,54.3,81.0,0.0,SW@6.9,10.7,0.0,92,73.3,60.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,18:45,59.3,54.9,85.2,0.0,W@7.4,13.9,0.0,63,73.4,59.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,19:00,58.5,55.6,89.9,0.0,W@7.1,11.4,0.0,36,73.5,58.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,19:15,57.8,55.8,93.2,0.0,W@6.1,9.2,0.01,12,73.6,57.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,19:30,57.3,56.2,95.9,0.0,W@7.9,12.1,0.01,4,73.6,57.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,19:45,57.4,56.5,96.5,0.0,W@8.9,13.9,0.02,0,73.6,57.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,20:00,57.2,56.8,98.7,0.0,W@8.4,12.4,0.02,0,73.6,57.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,20:15,57.7,57.5,99.0,0.0,W@10.0,15.7,0.02,0,73.6,57.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,20:30,58.0,57.4,98.0,0.0,W@8.9,12.8,0.02,0,73.5,57.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,20:45,58.0,57.3,97.2,0.0,W@9.2,15.0,0.02,0,73.4,58.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,21:00,58.5,57.4,96.2,0.0,W@10.0,15.0,0.02,0,73.4,58.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,21:15,58.4,57.8,97.6,0.0,W@11.0,16.4,0.02,0,73.3,58.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,21:30,58.3,58.1,99.1,0.0,W@12.1,16.7,0.02,0,73.2,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,21:45,58.0,57.9,99.3,0.0,W@11.7,17.5,0.03,0,73.0,58.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,22:00,58.0,57.9,99.3,0.0,W@10.9,16.7,0.03,0,72.9,58.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,22:15,58.3,58.1,99.3,0.0,W@11.3,17.1,0.03,0,72.8,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,22:30,58.7,58.6,99.3,0.0,W@12.6,17.1,0.02,0,72.7,58.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,22:45,58.5,58.4,99.3,0.0,W@12.0,17.1,0.02,0,72.5,58.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,23:00,58.3,58.2,99.3,0.0,W@11.9,18.9,0.02,0,72.4,58.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,23:15,58.2,58.0,99.3,0.0,W@11.3,16.7,0.03,0,72.3,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,23:30,58.6,58.4,99.3,0.0,W@11.1,16.4,0.02,0,72.1,58.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,23:45,59.4,58.7,97.4,0.0,W@10.7,15.7,0.02,0,72.0,59.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-18,24:00,59.2,58.6,98.0,0.0,W@9.9,14.2,0.02,0,71.9,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,00:15,58.9,58.7,99.1,0.0,W@10.2,15.7,0.02,0,71.8,58.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,00:30,58.8,58.7,99.3,0.0,W@10.3,15.3,0.02,0,71.6,58.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,00:45,58.2,58.1,99.3,0.0,W@10.0,15.3,0.02,0,71.5,58.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,01:00,58.0,57.8,99.4,0.0,W@9.6,14.2,0.03,0,71.4,57.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,01:15,57.9,57.8,99.4,0.0,W@9.8,13.9,0.03,0,71.3,57.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,01:30,58.1,58.0,99.4,0.0,W@10.0,14.2,0.03,0,71.1,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,01:45,58.5,58.3,99.4,0.0,W@10.0,13.5,0.03,0,71.0,58.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,02:00,58.5,58.3,99.4,0.0,W@9.8,12.8,0.03,0,70.9,58.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,02:15,58.4,58.2,99.4,0.0,W@8.7,12.8,0.03,0,70.8,58.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,02:30,58.3,58.2,99.4,0.0,W@8.1,11.4,0.03,0,70.7,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,02:45,58.3,58.2,99.4,0.0,W@8.0,11.4,0.03,0,70.6,58.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,03:00,58.3,58.2,99.4,0.0,W@8.1,12.1,0.03,0,70.5,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,03:15,58.3,58.1,99.4,0.0,SW@8.2,12.1,0.04,0,70.4,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,03:30,58.2,58.1,99.4,0.0,SW@8.1,11.0,0.04,0,70.3,58.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,03:45,58.2,58.1,99.4,0.0,SW@6.5,9.9,0.04,0,70.2,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,04:00,58.3,58.1,99.4,0.0,SW@6.8,10.7,0.04,0,70.1,58.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,04:15,58.2,58.1,99.4,0.0,SW@5.6,7.8,0.04,0,70.0,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,04:30,58.0,57.8,99.4,0.0,SW@5.6,7.1,0.04,0,70.0,57.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,04:45,58.2,58.0,99.4,0.0,SW@5.5,7.1,0.04,0,69.9,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,05:00,58.3,58.2,99.4,0.0,SW@5.2,6.7,0.04,0,69.8,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,05:15,58.2,58.0,99.4,0.0,SW@4.6,6.0,0.04,0,69.7,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,05:30,58.2,58.1,99.4,0.0,SW@4.5,6.0,0.04,2,69.6,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,05:45,58.5,58.4,99.4,0.0,SW@4.1,5.3,0.03,5,69.5,58.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,06:00,58.7,58.6,99.4,0.0,SW@4.1,5.3,0.03,9,69.5,58.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,06:15,59.0,58.8,99.3,0.0,SW@3.6,4.6,0.02,15,69.4,58.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,06:30,59.2,59.1,99.3,0.0,SW@3.0,4.2,0.02,22,69.3,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,06:45,59.5,59.3,99.1,0.0,SW@3.3,4.2,0.02,37,69.2,59.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,07:00,59.9,59.3,97.7,0.0,S@2.4,3.9,0.02,34,69.2,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,07:15,59.9,58.8,96.3,0.0,SE@2.8,5.3,0.01,29,69.1,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,07:30,59.6,58.6,96.6,0.0,S@4.3,6.0,0.01,25,69.0,59.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,07:45,59.8,58.7,96.0,0.0,S@4.9,6.7,0.01,53,68.9,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,08:00,60.1,58.8,95.1,0.0,S@4.9,6.7,0.01,58,68.9,60.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,08:15,60.3,59.0,95.3,0.0,S@5.9,8.5,0.01,71,68.8,60.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,08:30,60.7,59.3,95.1,0.0,S@5.6,7.8,0.01,70,68.7,60.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,08:45,61.2,59.1,93.0,0.0,S@5.6,8.5,0.01,102,68.7,61.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,09:00,61.6,59.1,91.4,0.0,S@6.0,8.5,0.01,107,68.6,61.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,09:15,62.0,58.6,88.6,0.0,S@6.6,9.6,0.01,111,68.6,61.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,09:30,62.5,58.4,86.4,0.0,S@4.9,6.7,0.0,128,68.5,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,09:45,63.6,58.1,82.2,0.0,S@5.8,7.8,0.0,321,68.5,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,10:00,64.4,57.5,78.4,0.0,SW@4.8,7.8,0.0,377,68.5,64.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,10:15,64.5,57.2,77.1,0.0,S@4.9,7.8,0.0,286,68.4,64.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,10:30,64.9,56.1,73.1,0.0,SW@4.3,6.7,0.0,286,68.4,64.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,10:45,65.8,55.3,68.9,0.0,W@4.3,7.4,0.0,362,68.4,65.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,11:00,65.9,55.4,69.0,0.0,W@4.3,7.4,0.0,352,68.4,65.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,11:15,65.8,55.7,70.0,0.0,SW@4.2,8.2,0.0,364,68.4,65.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,11:30,67.0,54.8,64.9,0.0,W@3.0,6.4,0.0,462,68.4,67.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,11:45,68.0,55.1,63.2,0.0,W@3.9,7.8,0.0,637,68.4,68.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,12:00,69.5,55.5,60.9,0.0,W@5.8,11.0,0.0,843,68.5,69.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,12:15,69.7,54.9,59.3,0.0,W@5.4,10.7,0.0,775,68.5,69.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,12:30,69.4,54.7,59.4,0.0,W@4.4,12.8,0.0,623,68.6,69.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,12:45,70.0,54.3,57.4,0.0,SW@6.5,11.4,0.0,803,68.7,70.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,13:00,69.9,54.5,58.1,0.0,W@6.3,12.4,0.0,812,68.8,69.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,13:15,70.3,54.5,57.3,0.0,W@6.7,11.0,0.0,687,68.9,70.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,13:30,69.6,54.3,58.3,0.0,W@7.3,11.7,0.0,654,69.1,69.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,13:45,70.0,53.6,56.0,0.0,W@7.4,13.2,0.0,634,69.2,70.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,14:00,70.3,53.7,55.5,0.0,W@6.5,10.7,0.0,696,69.4,70.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,14:15,70.8,53.8,55.0,0.0,SW@7.9,13.5,0.0,689,69.6,70.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,14:30,70.4,53.3,54.6,0.0,W@7.3,11.4,0.0,665,69.8,70.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,14:45,70.9,53.1,53.4,0.0,W@7.0,10.7,0.0,639,70.1,70.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,15:00,70.7,52.7,52.8,0.0,W@8.8,12.1,0.0,610,70.3,70.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,15:15,70.8,51.8,50.9,0.0,W@8.5,12.1,0.0,580,70.6,70.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,15:30,71.1,51.3,49.5,0.0,W@7.7,11.0,0.0,547,70.9,71.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,15:45,71.2,51.8,50.2,0.0,W@7.2,10.7,0.0,512,71.2,71.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,16:00,71.5,52.0,50.1,0.0,W@5.5,9.9,0.0,476,71.5,71.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,16:15,71.1,52.1,51.0,0.0,W@7.0,11.0,0.0,438,71.8,71.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,16:30,71.1,51.9,50.7,0.0,W@6.5,9.6,0.0,400,72.1,70.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,16:45,70.6,51.7,51.2,0.0,NW@7.1,10.3,0.0,345,72.4,70.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,17:00,70.5,51.8,51.5,0.0,W@5.3,8.9,0.0,307,72.7,70.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,17:15,70.7,51.2,50.2,0.0,N@5.0,7.1,0.0,279,73.0,70.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,17:30,70.4,51.2,50.5,0.0,N@4.6,6.7,0.0,241,73.2,70.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,17:45,69.5,50.8,51.5,0.0,N@5.2,7.1,0.0,170,73.4,69.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,18:00,67.3,50.3,54.3,0.0,N@4.8,7.4,0.0,84,73.7,67.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,18:15,66.6,50.7,56.7,0.0,N@4.4,6.0,0.0,96,73.8,66.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,18:30,66.5,51.2,57.8,0.0,NW@2.7,5.3,0.0,72,74.0,66.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,18:45,63.1,52.2,67.5,0.0,SW@3.2,5.3,0.0,33,74.1,63.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,19:00,59.2,53.0,79.8,0.0,SW@3.8,5.3,0.0,18,74.2,59.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,19:15,58.1,53.6,84.9,0.0,W@2.9,4.6,0.01,8,74.2,58.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,19:30,57.1,53.2,86.8,0.0,W@0.7,2.8,0.01,1,74.2,56.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,19:45,57.2,53.4,86.9,0.0,SW@0.6,2.4,0.01,0,74.2,56.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,20:00,57.6,53.8,87.2,0.0,SW@1.0,3.1,0.02,0,74.2,57.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,20:15,56.8,54.4,91.4,0.0,SW@1.1,2.8,0.03,0,74.2,56.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,20:30,56.0,55.3,97.1,0.0,W@2.7,5.3,0.04,0,74.1,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,20:45,54.3,54.1,99.1,0.0,W@0.1,1.7,0.06,0,74.0,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,21:00,54.0,53.9,99.3,0.0,N @0.0,0.0,0.08,0,73.9,53.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,21:15,54.8,54.7,99.3,0.0,N @0.0,0.0,0.1,0,73.9,54.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,21:30,54.3,53.9,98.5,0.0,N @0.0,0.0,0.09,0,73.7,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,21:45,52.8,52.6,99.0,0.0,N @0.0,0.0,0.08,0,73.6,52.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,22:00,52.9,52.7,99.3,0.0,N @0.0,0.0,0.09,0,73.5,52.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,22:15,52.6,52.5,99.4,0.0,N @0.0,0.0,0.11,0,73.3,52.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,22:30,52.8,52.6,99.4,0.0,E@0.7,2.8,0.12,0,73.2,52.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,22:45,52.3,52.1,99.4,0.0,E@0.1,3.1,0.14,0,73.0,52.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,23:00,52.0,51.8,99.4,0.0,E@1.1,3.1,0.16,0,72.9,51.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,23:15,50.2,50.1,99.4,0.0,N @1.7,2.4,0.16,0,72.7,50.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,23:30,51.4,51.3,99.4,0.0,NE@1.7,2.4,0.17,0,72.6,51.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,23:45,50.2,50.1,99.4,0.0,SE@0.5,2.1,0.17,0,72.4,50.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-19,24:00,51.1,51.0,99.4,0.0,E@0.3,2.4,0.2,0,72.2,50.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,00:15,50.7,50.6,99.4,0.0,E@0.2,2.1,0.21,0,72.1,50.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,00:30,50.1,49.9,99.4,0.0,N @0.0,0.0,0.22,0,71.9,49.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,00:45,50.8,50.6,99.4,0.0,N @0.0,0.0,0.23,0,71.7,50.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,01:00,49.4,49.2,99.4,0.0,N @0.0,0.0,0.23,0,71.6,49.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,01:15,49.3,49.2,99.4,0.0,N @0.0,0.0,0.24,0,71.4,49.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,01:30,49.1,48.9,99.4,0.0,N @0.0,0.0,0.25,0,71.3,48.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,01:45,49.8,49.6,99.4,0.0,N @0.0,0.0,0.27,0,71.1,49.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,02:00,49.8,49.6,99.4,0.0,E@1.0,3.5,0.27,0,70.9,49.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,02:15,49.7,49.5,99.4,0.0,NE@0.9,2.8,0.27,0,70.8,49.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,02:30,49.6,49.4,99.4,0.0,N @0.0,0.0,0.28,0,70.6,49.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,02:45,49.1,48.9,99.4,0.0,N @0.0,0.0,0.28,0,70.4,48.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,03:00,49.1,49.0,99.4,0.0,N @0.0,0.0,0.3,0,70.3,48.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,03:15,48.7,48.5,99.4,0.0,N @0.0,0.0,0.3,0,70.1,48.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,03:30,49.1,48.9,99.4,0.0,N @0.0,0.0,0.31,0,70.0,48.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,03:45,49.1,48.9,99.4,0.0,N @0.0,0.0,0.32,0,69.8,48.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,04:00,47.0,46.8,99.4,0.0,N @0.0,0.0,0.31,0,69.6,46.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,04:15,48.6,48.5,99.4,0.0,N @0.0,0.0,0.31,0,69.5,48.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,04:30,46.7,46.5,99.4,0.0,N @0.0,0.0,0.31,0,69.3,46.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,04:45,47.2,47.1,99.4,0.0,N @0.0,0.0,0.31,0,69.2,46.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,05:00,47.2,47.0,99.4,0.0,N @0.0,0.0,0.31,0,69.0,46.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,05:15,46.7,46.6,99.4,0.0,N @0.0,0.0,0.31,3,68.9,46.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,05:30,45.4,45.2,99.4,0.0,N @0.0,0.0,0.3,12,68.7,45.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,05:45,47.7,47.6,99.4,0.0,N @0.0,0.0,0.32,27,68.6,47.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,06:00,48.2,48.1,99.4,0.0,N @0.0,0.0,0.32,66,68.4,47.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,06:15,48.6,48.4,99.4,0.0,N @0.0,0.0,0.3,103,68.3,48.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,06:30,51.6,51.5,99.4,0.0,N @0.0,0.0,0.11,149,68.1,51.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,06:45,54.4,54.2,99.4,0.0,N @0.0,0.0,0.06,181,68.0,54.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,07:00,56.0,55.8,99.4,0.0,W@0.3,2.4,0.04,221,67.8,56.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,07:15,57.4,57.2,99.4,0.0,SW@0.6,2.8,0.02,264,67.7,58.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,07:30,59.1,57.5,94.4,0.0,SW@1.2,4.2,0.01,312,67.6,60.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,07:45,60.4,56.6,87.1,0.0,SW@1.3,3.9,0.0,336,67.4,61.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,08:00,62.0,56.3,81.5,0.0,SW@1.7,4.6,0.0,385,67.3,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,08:15,62.2,55.5,78.7,0.0,SW@5.1,7.8,0.0,420,67.2,62.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,08:30,62.3,55.4,78.3,0.0,S@4.2,7.4,0.0,456,67.1,62.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,08:45,64.0,54.6,71.3,0.0,S@3.1,5.7,0.0,499,67.0,64.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,09:00,64.9,54.7,69.3,0.0,S@3.1,5.7,0.0,533,66.9,65.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,09:15,66.3,55.0,67.0,0.0,S@4.1,7.1,0.0,555,66.8,66.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,09:30,67.3,54.8,64.2,0.0,S@4.9,8.9,0.0,592,66.8,67.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,09:45,68.4,54.4,60.8,0.0,S@6.2,9.2,0.0,629,66.7,68.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,10:00,69.0,54.5,59.8,0.0,S@6.6,9.9,0.0,626,66.7,68.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,10:15,69.8,54.5,58.2,0.0,S@5.9,9.9,0.0,595,66.7,69.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,10:30,70.0,54.6,57.9,0.0,S@5.6,9.9,0.0,650,66.6,70.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,10:45,70.7,54.7,56.8,0.0,SW@6.8,10.7,0.0,653,66.6,70.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,11:00,69.9,54.1,57.2,0.0,SW@7.8,10.7,0.0,593,66.7,69.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,11:15,71.4,54.2,54.7,0.0,S@6.0,9.9,0.0,771,66.7,71.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,11:30,73.0,54.2,51.7,0.0,S@7.9,12.1,0.0,795,66.7,72.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,11:45,73.0,54.4,52.0,0.0,S@6.5,11.0,0.0,757,66.8,73.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,12:00,75.1,54.6,48.7,0.0,S@6.8,12.1,0.0,785,66.8,75.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,12:15,75.0,54.8,49.4,0.0,SE@6.0,11.0,0.0,710,66.9,75.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,12:30,75.4,55.0,49.2,0.0,S@6.0,11.7,0.0,696,67.1,75.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,12:45,76.2,55.1,47.9,0.0,S@7.1,12.1,0.0,740,67.3,76.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,13:00,76.8,55.0,46.9,0.0,S@6.5,11.0,0.0,779,67.4,77.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,13:15,76.6,54.9,47.1,0.0,S@7.6,12.4,0.0,557,67.6,76.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,13:30,74.8,54.9,49.9,0.0,SW@8.2,10.7,0.0,523,67.8,74.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,13:45,74.2,55.4,51.9,0.0,W@6.1,8.2,0.0,577,68.0,74.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,14:00,72.1,55.4,55.6,0.0,SW@8.2,9.9,0.0,519,68.3,72.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,14:15,70.4,55.0,57.9,0.0,SW@8.0,9.9,0.0,437,68.6,70.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,14:30,71.6,55.2,56.1,0.0,SW@8.0,9.9,0.0,538,68.8,71.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,14:45,71.7,55.2,56.0,0.0,SW@7.8,9.2,0.0,616,69.1,71.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,15:00,70.2,55.1,58.8,0.0,SW@7.6,10.3,0.0,465,69.4,70.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,15:15,68.5,54.9,61.8,0.0,SW@7.3,9.9,0.0,302,69.7,68.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,15:30,67.8,55.0,63.6,0.0,SW@7.3,9.2,0.0,240,70.0,67.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,15:45,65.2,55.9,71.7,0.0,SW@7.8,11.0,0.0,223,70.2,65.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,16:00,63.5,56.3,77.5,0.0,SW@8.0,11.7,0.0,194,70.5,63.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,16:15,61.5,56.6,83.8,0.0,SW@6.9,9.2,0.0,157,70.8,61.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,16:30,62.6,56.5,80.4,0.0,SW@5.7,8.2,0.0,166,71.0,62.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,16:45,61.7,57.1,84.8,0.0,SW@5.2,8.2,0.0,161,71.3,61.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,17:00,63.6,57.3,79.9,0.0,SW@3.8,5.7,0.0,154,71.5,63.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,17:15,63.4,56.7,78.7,0.0,SW@4.5,6.4,0.0,114,71.7,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,17:30,62.0,56.9,83.5,0.0,W@5.1,8.5,0.0,87,71.8,61.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,17:45,62.5,55.9,78.8,0.0,W@7.1,11.0,0.0,64,72.0,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,18:00,63.5,54.0,71.0,0.0,W@5.5,9.6,0.0,56,72.1,63.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,18:15,62.9,53.4,71.1,0.0,N@1.3,4.6,0.0,44,72.2,62.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,18:30,61.4,53.7,75.7,0.0,SW@4.9,8.2,0.0,29,72.2,61.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,18:45,59.5,54.6,83.7,0.0,SW@6.8,11.0,0.0,23,72.3,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,19:00,61.7,54.6,77.4,0.0,W@8.4,13.9,0.0,16,72.3,61.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,19:15,62.1,54.6,76.3,0.0,SW@6.6,11.7,0.0,14,72.4,62.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,19:30,63.0,54.5,73.7,0.0,W@8.4,12.8,0.0,3,72.3,62.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,19:45,63.3,54.3,72.4,0.0,W@10.4,16.7,0.0,0,72.4,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,20:00,63.0,54.2,72.9,0.0,W@11.7,16.7,0.0,0,72.3,62.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,20:15,62.4,54.2,74.4,0.0,W@8.6,13.9,0.0,0,72.3,62.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,20:30,62.7,54.4,74.1,0.0,W@9.0,12.4,0.0,0,72.3,62.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,20:45,62.5,54.6,75.2,0.0,SW@7.2,11.4,0.0,0,72.2,62.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,21:00,62.4,54.9,76.3,0.0,SW@7.2,11.0,0.0,0,72.1,62.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,21:15,62.1,55.0,77.5,0.0,SW@6.8,9.6,0.0,0,72.1,62.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,21:30,60.6,55.1,82.1,0.0,SW@4.8,6.7,0.0,0,72.0,60.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,21:45,59.7,55.4,85.5,0.0,S@3.2,4.9,0.01,0,71.9,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,22:00,59.8,55.5,85.5,0.0,SE@2.4,3.5,0.01,0,71.8,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,22:15,60.0,55.4,84.9,0.0,SE@2.8,4.6,0.01,0,71.8,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,22:30,57.7,54.8,90.1,0.0,SW@0.5,2.4,0.02,0,71.7,57.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,22:45,57.9,55.5,91.8,0.0,SE@2.1,3.9,0.02,0,71.6,57.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,23:00,58.2,56.0,92.3,0.0,E@2.6,4.2,0.02,0,71.5,58.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,23:15,58.1,56.1,93.1,0.0,NE@2.7,4.2,0.02,0,71.4,57.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,23:30,59.4,57.3,92.6,0.0,E@2.2,6.0,0.02,0,71.3,59.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,23:45,62.1,58.6,88.2,0.0,SE@5.2,9.2,0.01,0,71.2,62.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-20,24:00,62.8,58.0,84.0,0.0,SE@7.4,13.2,0.01,0,71.1,62.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,00:15,63.6,57.2,79.3,0.0,S@7.1,12.1,0.0,0,70.9,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,00:30,64.0,56.7,77.1,0.0,SE@7.9,12.1,0.0,0,70.8,63.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,00:45,63.9,56.4,76.5,0.0,SE@7.2,11.0,0.0,0,70.7,63.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,01:00,63.8,56.4,76.8,0.0,SE@8.1,11.7,0.0,0,70.6,63.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,01:15,63.6,56.6,77.9,0.0,SE@7.2,11.0,0.0,0,70.5,63.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,01:30,63.8,56.5,77.1,0.0,SE@7.8,14.2,0.0,0,70.4,63.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,01:45,64.1,56.5,76.3,0.0,SE@9.0,14.6,0.0,0,70.2,64.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,02:00,64.0,56.4,76.2,0.0,SE@9.6,14.2,0.0,0,70.1,64.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,02:15,63.7,56.4,77.0,0.0,S@8.3,12.8,0.0,0,70.0,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,02:30,63.6,56.3,77.0,0.0,SE@8.4,13.2,0.0,0,70.0,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,02:45,63.6,56.3,77.1,0.0,SE@8.2,13.5,0.0,0,69.9,63.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,03:00,63.4,56.4,77.8,0.0,SE@8.2,13.9,0.0,0,69.8,63.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,03:15,63.4,56.6,78.6,0.0,SE@8.8,18.2,0.0,0,69.7,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,03:30,63.5,56.6,78.0,0.0,SE@7.5,13.9,0.0,0,69.6,63.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,03:45,63.3,56.7,79.2,0.0,SE@7.5,12.1,0.0,0,69.5,63.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,04:00,63.1,56.9,80.2,0.0,SE@6.6,11.7,0.0,0,69.5,63.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,04:15,63.2,56.9,79.8,0.0,SE@6.8,11.4,0.01,0,69.4,63.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,04:30,62.9,57.2,81.8,0.0,SE@6.3,12.1,0.01,0,69.3,62.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,04:45,63.0,57.1,81.0,0.0,SE@6.5,11.0,0.0,0,69.2,62.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,05:00,63.1,56.9,80.2,0.0,SE@5.7,9.2,0.0,0,69.2,63.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,05:15,63.2,56.8,79.7,0.0,SE@5.9,9.9,0.0,3,69.1,63.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,05:30,63.4,56.7,78.9,0.0,SE@6.8,11.4,0.0,5,69.1,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,05:45,63.3,56.9,79.5,0.0,SE@6.7,10.7,0.0,8,69.0,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,06:00,62.5,58.6,86.8,0.0,SE@6.9,10.7,0.04,13,68.9,62.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,06:15,61.2,60.2,96.3,0.0,S@6.6,13.2,0.11,13,68.8,61.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,06:30,60.5,60.2,99.0,0.03,S@9.8,15.3,0.12,31,68.8,60.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,06:45,60.0,59.9,99.4,0.0,S@8.0,12.8,0.15,31,68.7,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,07:00,60.0,59.8,99.4,0.0,SE@7.3,11.7,0.18,16,68.7,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,07:15,60.0,59.9,99.4,0.03,SE@6.4,9.2,0.2,28,68.6,59.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,07:30,60.0,59.9,99.5,0.02,SE@6.7,10.3,0.21,41,68.5,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,07:45,60.0,59.9,99.5,0.01,SE@7.6,13.9,0.23,43,68.5,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,08:00,60.0,59.9,99.5,0.0,SE@8.9,16.0,0.24,39,68.5,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,08:15,60.3,60.1,99.5,0.01,SE@9.2,16.4,0.25,85,68.4,60.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,08:30,60.5,60.3,99.5,0.0,SE@9.1,13.9,0.27,113,68.3,60.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,08:45,60.5,60.3,99.5,0.01,SE@9.2,14.6,0.26,92,68.3,60.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,09:00,60.7,60.6,99.5,0.0,SE@9.7,15.3,0.13,98,68.2,60.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,09:15,60.9,60.7,99.4,0.0,SE@9.5,15.0,0.14,68,68.2,60.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,09:30,60.6,60.4,99.4,0.01,SE@9.5,15.0,0.27,123,68.1,60.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,09:45,60.8,60.7,99.5,0.01,SE@10.5,15.7,0.28,185,68.1,60.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,10:00,61.3,61.1,99.5,0.0,SE@10.3,16.7,0.29,246,68.1,61.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,10:15,61.8,61.7,99.4,0.0,SE@11.1,16.4,0.1,302,68.0,61.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,10:30,61.9,61.7,99.4,0.0,SE@10.3,15.0,0.05,210,68.0,61.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,10:45,62.0,61.8,99.4,0.0,S@9.0,13.5,0.04,167,68.0,61.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,11:00,62.5,62.3,99.4,0.0,S@7.5,11.4,0.05,157,67.9,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,11:15,62.5,62.3,99.4,0.0,SE@7.6,11.7,0.07,151,67.9,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,11:30,63.3,63.2,99.4,0.0,S@7.3,10.7,0.03,220,67.9,63.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,11:45,63.5,63.4,99.3,0.0,S@7.7,11.4,0.02,201,67.9,63.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,12:00,63.7,63.5,99.3,0.0,S@7.1,11.4,0.02,148,67.9,63.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,12:15,63.7,63.4,99.1,0.0,S@7.2,10.3,0.01,114,67.9,63.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,12:30,61.1,60.9,99.1,0.0,SW@8.4,11.4,0.01,96,67.9,60.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,12:45,59.3,59.1,99.4,0.0,SW@6.3,8.9,0.01,107,67.9,59.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,13:00,59.9,59.8,99.4,0.0,SW@6.3,8.2,0.01,171,68.0,59.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,13:15,61.5,61.3,99.4,0.0,W@6.5,8.9,0.01,271,68.0,61.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,13:30,62.3,62.0,98.9,0.0,W@5.7,7.4,0.01,262,68.0,62.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,13:45,62.6,61.9,97.2,0.0,W@6.0,7.4,0.0,225,68.0,62.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,14:00,62.6,62.1,98.1,0.0,W@5.2,7.4,0.01,159,68.0,62.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,14:15,62.4,62.3,99.4,0.0,SW@4.5,6.0,0.03,238,68.1,62.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,14:30,62.3,62.1,99.4,0.0,W@4.9,7.1,0.05,241,68.1,62.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,14:45,62.0,61.8,99.4,0.0,W@3.5,6.0,0.02,171,68.1,61.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,15:00,62.1,62.0,99.4,0.0,W@0.1,3.1,0.02,236,68.2,62.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,15:15,62.5,62.3,99.4,0.0,N @0.0,0.0,0.03,224,68.2,62.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,15:30,62.4,62.2,99.4,0.0,SW@3.2,7.8,0.02,167,68.2,62.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,15:45,62.3,62.1,99.4,0.0,SW@5.4,7.1,0.01,141,68.3,62.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,16:00,62.0,61.8,99.4,0.0,SW@6.2,8.2,0.02,111,68.3,61.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,16:15,62.1,61.9,99.5,0.0,W@5.3,8.2,0.03,84,68.4,62.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,16:30,61.7,61.6,99.5,0.0,W@5.5,8.9,0.04,68,68.4,61.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,16:45,60.3,60.2,99.5,0.01,W@7.1,9.6,0.08,93,68.5,60.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,17:00,59.5,59.3,99.5,0.0,W@8.1,11.0,0.11,140,68.5,59.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,17:15,58.3,58.2,99.5,0.0,SW@9.3,15.0,0.06,126,68.6,58.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,17:30,57.4,57.3,99.4,0.0,W@10.1,15.3,0.02,151,68.6,57.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,17:45,57.3,57.1,99.3,0.0,SW@11.2,16.7,0.01,139,68.6,57.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,18:00,57.4,56.7,97.5,0.0,W@11.1,17.5,0.01,130,68.7,57.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,18:15,57.6,56.1,94.6,0.0,W@11.8,17.8,0.01,105,68.7,57.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,18:30,57.5,55.8,94.1,0.0,W@10.3,16.4,0.01,71,68.7,57.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,18:45,57.4,55.8,94.3,0.0,W@9.1,13.5,0.01,46,68.7,57.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,19:00,57.4,55.1,92.0,0.0,W@10.0,14.2,0.01,16,68.7,57.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,19:15,56.9,55.0,93.5,0.0,W@10.4,17.8,0.01,7,68.7,56.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,19:30,57.4,54.0,88.4,0.0,W@14.7,20.7,0.0,2,68.7,57.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,19:45,56.6,54.2,91.5,0.0,W@13.1,19.2,0.0,0,68.7,56.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,20:00,56.0,54.3,93.8,0.0,W@12.9,17.8,0.01,0,68.7,55.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,20:15,55.5,54.6,96.6,0.0,W@11.4,15.3,0.01,0,68.7,55.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,20:30,55.9,55.1,97.1,0.0,W@11.3,18.5,0.01,0,68.6,55.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,20:45,56.2,54.9,95.4,0.0,W@12.3,19.2,0.01,0,68.6,56.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,21:00,55.7,54.9,96.9,0.0,W@12.0,17.5,0.01,0,68.5,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,21:15,55.8,54.8,96.2,0.0,W@12.6,19.2,0.01,0,68.5,55.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,21:30,56.3,54.5,93.7,0.0,W@13.6,21.0,0.01,0,68.4,56.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,21:45,55.7,54.6,96.0,0.0,W@10.3,16.0,0.01,0,68.3,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,22:00,55.2,54.8,98.7,0.0,W@9.5,15.0,0.01,0,68.2,55.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,22:15,55.2,55.0,99.3,0.0,W@10.7,16.0,0.01,0,68.2,55.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,22:30,55.2,55.1,99.3,0.0,W@10.0,14.2,0.01,0,68.1,55.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,22:45,55.1,54.9,99.4,0.0,W@5.1,9.2,0.01,0,68.0,55.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,23:00,55.4,55.2,99.4,0.0,W@5.1,10.3,0.01,0,67.9,55.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,23:15,55.6,55.5,99.3,0.0,W@8.8,13.2,0.01,0,67.8,55.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,23:30,55.8,55.6,99.3,0.0,W@8.9,13.9,0.01,0,67.7,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,23:45,55.6,55.5,99.3,0.0,W@9.5,13.5,0.01,0,67.6,55.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-21,24:00,55.7,55.5,99.3,0.0,NW@6.8,12.1,0.01,0,67.5,55.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,00:15,55.9,55.7,99.3,0.0,NW@4.9,9.9,0.01,0,67.4,55.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,00:30,55.6,55.5,99.3,0.0,NW@5.7,9.9,0.01,0,67.3,55.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,00:45,55.2,55.0,99.4,0.0,NW@3.4,7.8,0.02,0,67.2,55.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,01:00,54.6,54.5,99.4,0.0,N@1.7,6.0,0.04,0,67.1,54.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,01:15,54.2,54.1,99.4,0.0,NW@2.3,4.6,0.07,0,67.0,54.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,01:30,54.2,54.0,99.4,0.0,NW@2.6,5.3,0.09,0,67.0,54.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,01:45,54.3,54.2,99.4,0.0,NW@0.7,5.7,0.11,0,66.9,54.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,02:00,54.1,53.9,99.4,0.0,NW@1.1,4.9,0.12,0,66.8,53.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,02:15,52.9,52.7,99.4,0.0,N @0.0,0.0,0.14,0,66.7,52.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,02:30,53.0,52.8,99.4,0.0,N @0.0,0.0,0.17,0,66.6,52.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,02:45,52.1,51.9,99.4,0.0,E@0.5,2.8,0.18,0,66.6,51.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,03:00,51.2,51.1,99.4,0.0,N @0.0,0.0,0.2,0,66.5,50.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,03:15,49.9,49.8,99.4,0.0,N @0.0,0.0,0.21,0,66.4,49.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,03:30,51.3,51.1,99.4,0.0,N @0.0,0.0,0.22,0,66.3,51.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,03:45,49.3,49.2,99.4,0.0,N @0.0,0.0,0.22,0,66.2,49.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,04:00,48.4,48.2,99.4,0.0,N @0.0,0.0,0.23,0,66.1,48.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,04:15,48.9,48.8,99.4,0.0,N @0.0,0.0,0.23,0,66.0,48.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,04:30,47.8,47.7,99.4,0.0,N @0.0,0.0,0.23,0,65.9,47.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,04:45,48.1,47.9,99.5,0.0,N @0.0,0.0,0.23,0,65.8,47.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,05:00,46.9,46.7,99.4,0.0,N @0.0,0.0,0.23,0,65.7,46.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,05:15,47.9,47.7,99.5,0.0,N @0.0,0.0,0.24,2,65.6,47.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,05:30,48.5,48.3,99.4,0.0,N @0.0,0.0,0.25,10,65.5,48.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,05:45,48.6,48.5,99.5,0.0,N @0.0,0.0,0.25,27,65.4,48.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,06:00,48.2,48.1,99.5,0.0,N @0.0,0.0,0.26,63,65.2,48.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,06:15,49.2,49.1,99.5,0.0,N @0.0,0.0,0.27,102,65.1,49.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,06:30,51.7,51.6,99.5,0.0,N @0.0,0.0,0.21,140,65.0,51.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,06:45,54.7,54.6,99.5,0.0,N @0.0,0.0,0.07,177,64.9,54.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,07:00,56.5,56.3,99.5,0.0,S@0.0,1.7,0.04,213,64.8,56.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,07:15,57.7,57.6,99.5,0.0,N @0.0,0.0,0.03,251,64.6,58.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,07:30,58.4,58.3,99.4,0.0,N @0.0,0.0,0.01,292,64.5,60.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,07:45,59.7,59.3,98.5,0.0,N @0.0,0.0,0.01,335,64.4,60.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,08:00,61.1,59.2,93.2,0.0,SE@0.0,1.4,0.0,377,64.3,62.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,08:15,61.5,59.5,93.0,0.0,SW@3.4,7.4,0.0,394,64.2,61.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,08:30,61.5,59.7,93.6,0.0,SW@5.5,7.8,0.0,490,64.1,61.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,08:45,62.6,58.3,85.7,0.0,S@3.4,6.4,0.0,539,64.1,62.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,09:00,64.5,57.4,77.6,0.0,SW@2.1,6.4,0.0,666,64.0,64.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,09:15,63.9,56.9,77.8,0.0,W@3.0,6.4,0.0,479,63.9,63.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,09:30,63.2,56.7,79.4,0.0,SW@1.6,8.2,0.0,410,63.9,63.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,09:45,63.0,57.3,81.7,0.0,S@5.8,8.2,0.0,395,63.9,62.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,10:00,63.8,56.9,78.1,0.0,S@5.5,8.5,0.0,455,63.9,63.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,10:15,64.5,56.0,73.8,0.0,SW@6.2,10.7,0.0,658,63.9,64.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,10:30,63.9,55.5,74.3,0.0,W@6.3,9.6,0.0,695,63.9,63.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,10:45,64.9,54.8,69.8,0.0,SW@8.3,11.0,0.0,717,63.9,64.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,11:00,65.1,54.4,68.1,0.0,SW@6.8,9.9,0.0,734,64.0,65.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,11:15,65.5,53.9,66.1,0.0,SW@5.2,10.3,0.0,761,64.0,65.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,11:30,65.6,53.3,64.4,0.0,SW@6.3,9.9,0.0,761,64.1,65.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,11:45,65.6,52.0,61.4,0.0,SW@7.3,9.9,0.0,764,64.1,65.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,12:00,66.4,52.4,60.4,0.0,SW@7.4,10.3,0.0,775,64.2,66.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,12:15,66.6,51.3,57.8,0.0,SW@7.6,10.7,0.0,769,64.3,66.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,12:30,66.8,51.1,56.9,0.0,SW@6.7,10.3,0.0,798,64.5,66.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,12:45,67.9,52.2,56.9,0.0,SW@5.5,8.9,0.0,692,64.6,68.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,13:00,67.7,52.1,57.2,0.0,SW@4.3,8.9,0.0,687,64.8,67.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,13:15,66.9,52.0,58.7,0.0,SW@6.9,9.9,0.0,542,65.0,66.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,13:30,68.4,52.4,56.4,0.0,SW@4.4,10.3,0.0,738,65.2,68.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,13:45,69.7,52.7,54.7,0.0,SW@5.8,10.7,0.0,778,65.4,69.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,14:00,69.8,52.6,54.3,0.0,SW@5.7,9.6,0.0,729,65.7,69.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,14:15,70.6,52.8,53.2,0.0,W@6.3,9.6,0.0,689,65.9,70.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,14:30,70.3,52.2,52.7,0.0,SW@7.3,9.9,0.0,657,66.1,70.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,14:45,70.5,52.1,52.1,0.0,SW@5.5,8.5,0.0,628,66.4,70.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,15:00,70.6,52.0,51.7,0.0,W@4.0,8.2,0.0,599,66.7,70.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,15:15,70.7,51.7,50.9,0.0,SW@2.1,8.2,0.0,567,66.9,70.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,15:30,71.1,51.4,49.7,0.0,SW@5.4,8.9,0.0,533,67.2,71.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,15:45,71.2,51.2,49.1,0.0,SW@4.9,8.5,0.0,500,67.5,71.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,16:00,70.9,51.6,50.3,0.0,SW@2.7,8.5,0.0,466,67.8,71.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,16:15,71.2,51.5,49.8,0.0,SW@4.9,8.5,0.0,430,68.1,71.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,16:30,71.4,51.4,49.2,0.0,SW@3.8,8.5,0.0,388,68.4,71.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,16:45,71.6,51.5,49.1,0.0,S@1.4,6.0,0.0,346,68.7,71.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,17:00,71.5,51.8,49.8,0.0,S@2.0,7.1,0.0,305,69.0,71.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,17:15,71.6,51.9,49.6,0.0,S@0.3,5.3,0.0,264,69.2,71.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,17:30,71.4,52.0,50.3,0.0,N @0.0,0.0,0.0,226,69.4,71.4,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,17:45,70.9,52.1,51.4,0.0,S@1.7,4.9,0.0,188,69.6,70.9,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,18:00,70.4,52.4,52.8,0.0,S@0.7,5.3,0.0,148,69.8,70.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,18:15,69.8,52.3,53.8,0.0,S@0.3,3.5,0.0,96,70.0,70.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,18:30,67.9,53.9,60.8,0.0,N @0.0,0.0,0.0,43,70.1,68.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,18:45,66.6,54.4,64.7,0.0,N @0.0,0.0,0.0,23,70.2,66.7,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,19:00,64.7,54.4,69.1,0.0,N @0.0,0.0,0.0,14,70.3,64.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,19:15,62.2,55.4,78.3,0.0,N @0.0,0.0,0.0,5,70.4,62.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,19:30,61.2,56.0,82.9,0.0,N @0.0,0.0,0.01,1,70.4,61.0,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,19:45,59.5,54.1,82.2,0.0,N @0.0,0.0,0.0,0,70.4,59.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,20:00,59.8,54.3,82.0,0.0,N @0.0,0.0,0.0,0,70.4,59.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,20:15,58.6,54.1,84.9,0.0,N @0.0,0.0,0.01,0,70.4,58.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,20:30,58.1,55.4,90.8,0.0,N @0.0,0.0,0.01,0,70.4,57.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,20:45,56.0,54.7,95.2,0.0,SW@3.4,9.2,0.01,0,70.3,55.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,21:00,55.8,55.6,99.3,0.0,SW@4.5,8.9,0.02,0,70.3,55.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,21:15,55.4,55.2,99.4,0.0,SW@1.7,5.7,0.04,0,70.2,55.3,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,21:30,54.7,54.6,99.4,0.0,SW@1.4,5.3,0.08,0,70.1,54.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,21:45,54.3,54.2,99.4,0.0,SW@0.9,4.6,0.1,0,70.0,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,22:00,53.8,53.6,99.4,0.0,SW@1.1,6.7,0.13,0,69.9,53.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,22:15,54.3,54.1,99.4,0.0,SW@0.0,4.9,0.14,0,69.8,54.2,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,22:30,54.2,54.1,99.4,0.0,N @0.0,0.0,0.14,0,69.7,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,22:45,53.9,53.8,99.4,0.0,N @0.0,0.0,0.16,0,69.6,53.8,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,23:00,53.7,53.5,99.4,0.0,N @0.0,0.0,0.18,0,69.4,53.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,23:15,53.7,53.6,99.4,0.0,N @0.0,0.0,0.21,0,69.3,53.5,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,23:30,54.2,54.1,99.4,0.0,N @0.0,0.0,0.23,0,69.2,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,23:45,54.2,54.1,99.4,0.0,N @0.0,0.0,0.25,0,69.0,54.1,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661
+2019-08-22,24:00,53.8,53.7,99.4,0.0,N @0.0,0.0,0.26,0,68.9,53.6,"Coupeville (Whidbey Island), Coupeville, Island County",330164,Coupeville,2020-01-21 20:24:27.436661

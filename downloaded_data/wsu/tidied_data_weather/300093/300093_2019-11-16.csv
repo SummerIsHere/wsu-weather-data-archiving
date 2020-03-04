@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Atm. Press. inHg, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-11-16,00:15,35.5,34.7,96.9,0.0,NW@3.0,4.2,0.87,0,42.8,44.9,30.24,35.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,00:30,34.0,33.5,98.2,0.0,N @2.9,5.7,0.87,0,42.7,44.9,30.25,33.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,00:45,33.8,33.7,99.2,0.0,N @2.7,4.6,0.88,0,42.6,44.8,30.25,33.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,01:00,35.9,35.7,99.3,0.0,NW@3.8,4.6,0.89,0,42.5,44.8,30.25,35.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,01:15,34.3,33.9,98.6,0.0,S@2.9,4.2,0.89,0,42.4,44.7,30.26,34.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,01:30,32.6,32.4,99.3,0.0,S@1.9,3.9,0.89,0,42.3,44.7,30.28,32.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,01:45,32.0,31.8,99.3,0.0,N@1.5,3.1,0.89,0,42.3,44.6,30.27,31.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,02:00,31.3,30.9,99.3,0.0,N @2.2,3.5,0.89,0,42.2,44.5,30.27,31.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,02:15,31.5,31.1,99.3,0.0,N@2.8,3.9,0.88,0,42.1,44.5,30.27,31.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,02:30,33.4,33.3,99.3,0.0,NW@2.6,3.9,0.85,0,42.0,44.4,30.27,33.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,02:45,32.0,31.7,99.3,0.0,SE@2.1,4.2,0.66,0,41.9,44.4,30.28,31.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,03:00,29.2,28.5,99.3,0.0,W@2.0,2.8,0.17,0,41.9,44.3,30.28,29.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,03:15,31.2,30.8,99.3,0.0,N@3.1,5.3,0.35,0,41.8,44.3,30.28,30.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,03:30,34.1,33.9,99.3,0.0,N@4.3,5.7,0.87,0,41.7,44.2,30.28,33.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,03:45,36.6,36.5,99.3,0.01,NW@4.4,6.7,0.91,0,41.6,44.2,30.28,36.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,04:00,32.9,32.7,99.3,0.0,SE@2.7,3.9,0.91,0,41.6,44.1,30.29,32.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,04:15,32.1,31.9,99.3,0.0,E@1.3,2.8,0.91,0,41.5,44.1,30.29,31.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,04:30,31.7,31.4,99.3,0.0,SE@1.7,3.5,0.56,0,41.4,44.0,30.3,31.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,04:45,32.2,32.0,99.3,0.0,SE@2.1,2.8,0.4,0,41.4,44.0,30.3,32.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,05:00,31.9,31.5,99.3,0.0,E@4.1,6.7,0.41,0,41.3,43.9,30.3,31.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,05:15,32.2,32.0,99.3,0.0,E@5.0,7.8,0.56,0,41.3,43.8,30.31,32.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,05:30,34.2,34.0,99.3,0.0,E@4.0,6.4,0.88,0,41.2,43.8,30.31,34.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,05:45,34.9,34.7,99.3,0.0,E@3.7,5.7,0.93,0,41.2,43.7,30.31,34.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,06:00,35.6,35.4,99.3,0.0,E@3.9,5.7,0.93,0,41.1,43.7,30.31,35.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,06:15,37.0,36.8,99.1,0.0,E@3.5,5.3,0.93,0,41.1,43.6,30.31,36.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,06:30,37.9,37.2,97.3,0.0,E@3.4,5.3,0.93,0,41.0,43.6,30.31,37.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,06:45,37.3,36.5,96.8,0.0,NE@3.2,4.2,0.94,0,41.0,43.5,30.31,37.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,07:00,37.0,36.0,96.3,0.0,N @2.2,3.9,0.94,3,41.0,43.5,30.32,36.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,07:15,35.4,34.6,96.8,0.0,N @3.1,4.2,0.94,14,41.0,43.4,30.32,35.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,07:30,36.5,35.7,96.7,0.0,NE@2.2,3.5,0.94,49,41.0,43.4,30.33,36.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,07:45,38.6,37.3,95.0,0.0,NE@1.5,2.8,0.94,83,40.9,43.3,30.33,38.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,08:00,36.8,35.1,93.4,0.0,S@2.3,5.3,0.94,115,40.9,43.3,30.33,36.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,08:15,35.1,33.8,95.1,0.0,W@2.1,3.5,0.93,145,40.9,43.3,30.34,34.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,08:30,33.7,32.8,96.6,0.0,W@1.9,3.9,0.93,173,40.9,43.2,30.34,33.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,08:45,36.4,35.1,94.8,0.0,SE@1.0,2.8,0.92,202,40.9,43.2,30.34,36.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,09:00,38.7,36.8,93.0,0.0,SW@2.6,4.6,0.91,230,40.9,43.1,30.35,38.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,09:15,37.1,35.7,94.6,0.0,SW@2.4,3.9,0.89,255,41.0,43.1,30.35,36.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,09:30,39.4,37.4,92.6,0.0,S@2.2,3.9,0.87,281,41.1,43.0,30.36,39.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,09:45,41.5,39.2,91.2,0.0,SE@4.2,7.4,0.81,306,41.3,43.0,30.36,41.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,10:00,41.5,39.1,90.9,0.0,SE@4.8,8.5,0.69,331,41.5,42.9,30.36,41.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,10:15,42.3,39.7,90.7,0.0,SE@3.8,6.0,0.51,344,41.8,42.9,30.36,42.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,10:30,45.0,41.2,86.6,0.0,SE@3.6,5.7,0.2,383,42.0,42.8,30.36,44.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,10:45,46.5,42.5,85.6,0.0,S@4.5,7.1,0.02,487,42.3,42.8,30.36,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,11:00,47.0,42.9,85.8,0.0,SE@4.8,7.1,0.0,285,42.7,42.8,30.36,46.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,11:15,48.3,43.6,83.8,0.0,SE@4.6,7.1,0.0,401,43.0,42.8,30.35,48.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,11:30,48.7,44.0,83.9,0.0,S@4.3,6.7,0.0,416,43.4,42.7,30.35,48.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,11:45,47.4,43.6,86.6,0.0,S@4.9,7.8,0.0,414,43.7,42.7,30.34,46.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,12:00,47.0,43.7,88.3,0.0,S@4.8,6.7,0.0,385,44.1,42.8,30.33,46.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,12:15,46.3,43.2,88.7,0.0,SE@4.2,6.7,0.0,181,44.4,42.8,30.33,46.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,12:30,47.7,44.0,86.7,0.0,SE@4.1,6.7,0.0,275,44.7,42.8,30.32,47.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,12:45,48.9,44.7,85.0,0.0,SE@3.9,6.4,0.0,239,44.9,42.8,30.32,48.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,13:00,47.9,44.3,87.3,0.0,SE@4.2,6.4,0.0,226,45.1,42.9,30.32,47.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,13:15,48.6,44.4,85.2,0.0,SE@4.4,8.5,0.0,223,45.3,42.9,30.32,48.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,13:30,48.6,43.9,84.0,0.0,SE@4.8,7.4,0.0,164,45.5,43.0,30.31,48.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,13:45,47.9,43.6,84.9,0.0,E@5.3,7.8,0.0,174,45.7,43.0,30.3,47.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,14:00,48.4,43.9,84.2,0.0,E@5.8,8.5,0.0,212,45.8,43.1,30.29,48.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,14:15,49.4,44.2,82.1,0.0,E@5.1,9.9,0.0,191,45.9,43.2,30.29,49.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,14:30,50.0,44.2,80.3,0.0,E@5.2,7.8,0.0,185,46.1,43.3,30.29,49.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,14:45,50.6,44.2,78.6,0.0,E@4.6,7.4,0.0,152,46.2,43.3,30.29,50.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,15:00,49.8,43.9,79.9,0.0,SE@4.8,7.1,0.0,108,46.3,43.4,30.28,49.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,15:15,49.3,43.8,81.3,0.0,E@4.6,7.1,0.0,99,46.4,43.5,30.28,49.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,15:30,49.6,44.0,81.0,0.0,E@4.7,8.2,0.0,85,46.5,43.6,30.28,49.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,15:45,49.8,44.0,80.3,0.0,E@4.0,6.7,0.0,35,46.5,43.7,30.28,49.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,16:00,50.1,44.1,79.8,0.0,E@3.4,6.0,0.0,16,46.6,43.8,30.28,49.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,16:15,49.4,43.9,81.2,0.0,SE@3.5,4.9,0.0,5,46.6,43.8,30.28,49.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,16:30,47.6,43.4,85.3,0.0,SE@4.1,7.8,0.0,3,46.6,43.9,30.27,47.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,16:45,46.7,42.9,86.7,0.0,E@5.2,8.5,0.0,1,46.6,44.0,30.27,46.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,17:00,46.4,42.6,86.6,0.0,E@5.7,8.9,0.0,0,46.5,44.1,30.28,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,17:15,46.2,42.6,87.3,0.0,E@4.8,8.2,0.0,0,46.5,44.1,30.28,46.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,17:30,46.0,42.7,88.2,0.0,E@5.1,8.9,0.0,0,46.4,44.2,30.28,45.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,17:45,45.7,42.3,87.9,0.0,E@5.7,9.2,0.0,0,46.4,44.3,30.27,45.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,18:00,45.5,42.1,87.9,0.0,E@5.0,9.6,0.0,0,46.3,44.3,30.27,45.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,18:15,45.4,42.2,88.4,0.0,E@4.1,6.7,0.0,0,46.3,44.4,30.28,45.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,18:30,45.2,42.3,89.2,0.0,E@3.4,5.7,0.0,0,46.2,44.4,30.28,45.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,18:45,45.5,42.4,88.8,0.0,N@2.7,4.6,0.0,0,46.1,44.5,30.28,45.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,19:00,45.7,42.4,88.1,0.0,NE@2.4,4.2,0.0,0,46.1,44.5,30.27,45.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,19:15,45.6,42.5,88.8,0.0,N@1.8,3.5,0.0,0,46.1,44.5,30.28,45.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,19:30,44.6,42.4,91.8,0.0,W@2.0,4.9,0.0,0,46.0,44.6,30.28,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,19:45,44.2,42.4,93.4,0.0,SW@1.8,3.5,0.0,0,46.0,44.6,30.28,43.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,20:00,43.8,42.2,93.8,0.0,NW@1.2,3.1,0.0,0,45.9,44.6,30.27,43.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,20:15,43.5,42.0,94.5,0.0,S@0.8,2.1,0.0,0,45.9,44.7,30.27,43.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,20:30,43.3,41.9,94.6,0.0,NE@1.0,2.4,0.0,0,45.8,44.7,30.26,43.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,20:45,42.3,41.1,95.6,0.0,NE@1.1,2.4,0.0,0,45.8,44.7,30.26,41.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,21:00,40.5,39.6,96.6,0.0,N @1.5,2.8,0.0,0,45.7,44.7,30.25,40.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,21:15,40.3,39.9,98.6,0.0,N @2.3,3.1,0.01,0,45.6,44.8,30.25,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,21:30,40.3,40.0,98.8,0.0,NE@2.4,3.1,0.07,0,45.5,44.8,30.24,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,21:45,40.1,39.5,97.9,0.0,N @2.4,3.1,0.1,0,45.3,44.8,30.25,39.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,22:00,39.3,38.8,98.2,0.0,N @2.0,2.8,0.13,0,45.2,44.8,30.24,39.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,22:15,39.8,39.3,98.1,0.0,W@1.2,2.4,0.15,0,45.0,44.8,30.25,39.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,22:30,39.3,38.9,98.7,0.0,S@0.3,1.7,0.15,0,44.9,44.8,30.24,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,22:45,39.8,39.6,99.2,0.0,NW@1.2,2.8,0.17,0,44.8,44.8,30.24,39.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,23:00,41.1,40.9,99.2,0.0,NW@2.4,3.5,0.17,0,44.6,44.8,30.24,40.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,23:15,41.4,41.2,99.3,0.0,NW@1.6,3.1,0.17,0,44.5,44.8,30.23,41.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,23:30,40.9,40.8,99.3,0.0,NW@2.8,4.6,0.19,0,44.5,44.8,30.24,40.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,23:45,39.9,39.8,99.3,0.0,NW@4.3,6.4,0.22,0,44.5,44.8,30.25,39.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-16,24:00,39.4,39.2,99.3,0.0,NW@2.7,3.9,0.25,0,44.4,44.8,30.24,39.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,00:15,38.9,38.8,99.3,0.0,NW@2.7,4.2,0.3,0,44.4,44.8,30.24,38.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,00:30,38.7,38.5,99.3,0.0,N @2.5,3.5,0.34,0,44.3,44.7,30.23,38.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,00:45,38.0,37.8,99.3,0.0,NE@2.5,3.9,0.37,0,44.3,44.7,30.23,37.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,01:00,37.5,37.3,99.3,0.0,SE@1.4,2.4,0.4,0,44.2,44.7,30.22,37.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,01:15,37.7,37.5,99.3,0.0,NE@2.3,2.8,0.43,0,44.2,44.7,30.21,37.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,01:30,38.3,38.1,99.3,0.0,N @2.8,4.2,0.44,0,44.1,44.6,30.21,38.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,01:45,38.7,38.5,99.3,0.0,NE@2.1,3.9,0.44,0,44.0,44.6,30.2,38.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,02:00,39.9,39.7,99.3,0.0,NE@1.5,2.4,0.45,0,44.0,44.6,30.2,39.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,02:15,41.4,41.2,99.3,0.0,NE@2.7,4.9,0.46,0,44.0,44.6,30.19,41.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,02:30,41.5,41.3,99.3,0.0,NE@1.2,2.4,0.45,0,43.9,44.6,30.19,41.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,02:45,41.8,41.6,99.3,0.0,E@1.8,3.1,0.45,0,43.9,44.6,30.18,41.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,03:00,41.6,41.5,99.3,0.0,N@1.3,2.4,0.44,0,44.0,44.5,30.17,41.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,03:15,40.4,40.2,99.3,0.0,NW@2.4,3.5,0.43,0,44.0,44.5,30.17,40.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,03:30,40.3,40.1,99.3,0.0,SE@1.6,3.1,0.42,0,44.0,44.5,30.16,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,03:45,40.1,39.9,99.3,0.0,SE@1.3,3.9,0.41,0,44.0,44.5,30.15,39.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,04:00,39.8,39.7,99.3,0.0,SW@1.2,3.1,0.41,0,44.0,44.5,30.15,39.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,04:15,39.6,39.4,99.3,0.0,NW@2.2,3.5,0.4,0,44.0,44.4,30.15,39.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,04:30,39.7,39.5,99.3,0.0,N@1.4,2.8,0.4,0,44.0,44.4,30.15,39.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,04:45,39.7,39.5,99.3,0.0,NW@1.9,3.1,0.4,0,44.0,44.4,30.15,39.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,05:00,39.8,39.6,99.3,0.0,NW@3.2,4.9,0.4,0,44.0,44.4,30.16,39.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,05:15,39.7,39.5,99.3,0.0,W@2.5,4.2,0.39,0,44.0,44.4,30.15,39.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,05:30,39.3,39.1,99.3,0.0,W@2.4,4.2,0.39,0,44.0,44.4,30.15,39.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,05:45,39.0,38.9,99.3,0.0,W@3.8,5.3,0.38,0,44.0,44.3,30.15,38.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,06:00,39.1,39.0,99.3,0.0,W@3.2,7.1,0.38,0,43.9,44.3,30.14,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,06:15,39.0,38.8,99.3,0.0,NW@3.5,6.7,0.38,0,43.9,44.3,30.15,38.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,06:30,39.1,38.9,99.3,0.0,NW@1.8,3.5,0.39,0,43.9,44.3,30.14,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,06:45,39.4,39.2,99.3,0.0,NE@2.5,3.9,0.39,0,43.9,44.3,30.12,39.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,07:00,39.7,39.6,99.3,0.0,N @2.0,3.1,0.39,0,43.9,44.3,30.12,39.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,07:15,40.3,40.1,99.3,0.0,N@3.2,5.3,0.38,2,43.9,44.3,30.13,40.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,07:30,41.2,41.0,99.3,0.0,NW@2.6,4.9,0.34,5,43.9,44.3,30.13,41.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,07:45,41.7,41.3,98.4,0.0,W@2.1,4.2,0.3,12,43.9,44.3,30.13,41.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,08:00,41.7,41.3,98.5,0.0,SW@2.3,3.5,0.28,21,43.9,44.2,30.13,41.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,08:15,41.3,41.1,99.1,0.0,W@2.3,4.6,0.25,29,44.0,44.2,30.13,41.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,08:30,41.2,41.1,99.2,0.0,W@2.2,4.2,0.22,34,44.0,44.2,30.13,41.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,08:45,42.2,41.8,98.3,0.0,NW@3.4,6.0,0.17,42,44.0,44.2,30.14,42.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,09:00,42.9,41.8,95.7,0.0,W@2.7,4.6,0.1,58,44.1,44.2,30.14,42.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,09:15,43.3,42.0,95.1,0.0,SW@3.6,5.3,0.03,86,44.1,44.2,30.14,43.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,09:30,42.9,41.8,95.6,0.0,W@3.2,4.9,0.0,86,44.2,44.2,30.14,42.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,09:45,42.8,41.6,95.6,0.0,SW@3.3,4.2,0.0,49,44.3,44.2,30.14,42.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,10:00,42.7,41.5,95.3,0.0,SW@1.1,2.8,0.0,62,44.4,44.2,30.14,42.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,10:15,43.7,42.1,94.0,0.0,SE@1.7,3.5,0.0,128,44.4,44.2,30.12,43.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,10:30,44.9,42.9,92.6,0.0,E@2.8,4.2,0.0,127,44.5,44.2,30.11,44.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,10:45,46.0,43.3,90.2,0.0,E@3.6,5.3,0.0,125,44.6,44.2,30.1,45.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,11:00,47.3,43.9,87.9,0.0,E@4.4,7.1,0.0,134,44.8,44.2,30.1,47.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,11:15,48.8,44.2,84.0,0.0,E@4.3,7.4,0.0,164,44.9,44.2,30.09,48.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,11:30,52.1,45.0,76.7,0.0,E@5.8,9.6,0.0,342,45.0,44.2,30.09,51.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,11:45,53.2,44.3,71.7,0.0,E@5.3,8.5,0.0,202,45.2,44.2,30.08,52.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,12:00,53.5,44.1,70.1,0.0,E@4.7,9.6,0.0,164,45.4,44.2,30.07,53.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,12:15,56.3,44.2,63.8,0.0,E@4.7,7.1,0.0,445,45.6,44.3,30.07,55.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,12:30,58.6,43.7,57.6,0.0,E@4.6,7.4,0.0,394,45.8,44.3,30.06,58.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,12:45,59.1,42.6,54.2,0.0,E@4.1,6.7,0.0,307,46.1,44.3,30.05,58.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,13:00,59.6,43.3,54.6,0.0,E@5.2,8.5,0.0,262,46.4,44.3,30.04,59.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,13:15,60.1,43.9,54.9,0.0,E@4.8,7.4,0.0,205,46.6,44.4,30.04,59.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,13:30,60.2,44.4,55.9,0.0,E@4.5,7.1,0.0,222,46.9,44.4,30.04,59.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,13:45,61.8,44.6,53.2,0.0,E@5.1,7.8,0.0,291,47.1,44.5,30.04,61.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,14:00,62.5,44.2,51.0,0.0,E@4.8,7.4,0.0,286,47.4,44.5,30.03,62.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,14:15,62.9,44.6,51.1,0.0,E@4.9,7.4,0.0,251,47.6,44.6,30.03,62.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,14:30,62.8,45.0,52.1,0.0,E@5.3,8.9,0.0,245,47.9,44.6,30.03,62.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,14:45,63.3,44.4,49.9,0.0,E@4.8,7.4,0.0,219,48.1,44.7,30.03,62.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,15:00,63.7,44.2,49.0,0.0,E@4.0,7.1,0.0,175,48.3,44.8,30.03,63.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,15:15,64.3,43.9,47.4,0.0,E@3.4,4.9,0.0,162,48.5,44.8,30.04,63.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,15:30,64.1,44.2,48.4,0.0,SE@3.0,5.3,0.0,128,48.6,44.9,30.04,63.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,15:45,63.3,44.4,50.1,0.0,E@2.8,4.9,0.0,96,48.7,45.0,30.04,63.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,16:00,62.6,44.4,51.3,0.0,E@2.8,4.2,0.0,63,48.8,45.0,30.04,62.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,16:15,61.6,45.0,54.3,0.0,NE@1.4,4.2,0.0,34,48.9,45.1,30.04,61.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,16:30,59.7,44.7,57.4,0.0,NW@0.6,2.1,0.0,5,48.9,45.2,30.04,59.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,16:45,56.7,44.4,63.4,0.0,N @2.0,3.5,0.0,1,48.9,45.2,30.05,55.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,17:00,54.1,43.9,68.1,0.0,NE@2.1,3.9,0.0,0,48.8,45.3,30.06,53.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,17:15,52.7,43.7,71.4,0.0,NE@2.6,3.9,0.0,0,48.6,45.3,30.06,52.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,17:30,52.4,43.9,72.8,0.0,NE@3.0,4.6,0.0,0,48.5,45.4,30.07,51.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,17:45,52.9,44.3,72.3,0.0,NE@2.0,3.1,0.0,0,48.3,45.4,30.08,52.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,18:00,50.5,43.9,78.0,0.0,NE@2.6,3.5,0.0,0,48.1,45.5,30.08,50.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,18:15,52.5,44.8,74.7,0.0,NE@1.9,3.9,0.0,0,47.9,45.5,30.08,52.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,18:30,53.7,44.9,71.9,0.0,N@1.7,3.5,0.0,0,47.8,45.6,30.08,52.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,18:45,51.9,44.1,74.6,0.0,N @3.8,5.3,0.0,0,47.6,45.6,30.08,51.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,19:00,54.8,45.3,70.1,0.0,NW@3.0,4.2,0.0,0,47.4,45.6,30.08,54.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,19:15,55.9,45.1,67.2,0.0,W@3.3,4.6,0.0,0,47.3,45.7,30.08,55.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,19:30,53.8,44.7,70.9,0.0,W@3.2,4.9,0.0,0,47.2,45.7,30.08,53.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,19:45,53.9,44.8,71.1,0.0,W@2.2,3.5,0.0,0,47.1,45.7,30.08,53.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,20:00,52.0,44.4,75.4,0.0,E@3.2,7.8,0.0,0,47.0,45.7,30.08,51.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,20:15,49.4,43.9,81.5,0.0,NE@2.7,6.0,0.0,0,46.8,45.7,30.09,49.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,20:30,49.7,43.8,80.0,0.0,NE@2.1,4.6,0.0,0,46.7,45.7,30.1,49.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,20:45,49.2,43.5,80.6,0.0,E@1.4,3.1,0.0,0,46.6,45.7,30.11,48.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,21:00,48.7,43.6,82.4,0.0,NE@1.6,3.1,0.0,0,46.5,45.7,30.11,48.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,21:15,46.2,42.1,85.5,0.0,N @3.0,4.9,0.0,0,46.4,45.6,30.11,45.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,21:30,45.1,41.8,88.1,0.0,NE@3.2,4.9,0.0,0,46.2,45.6,30.11,44.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,21:45,45.3,42.0,88.1,0.0,NE@2.4,3.9,0.0,0,46.1,45.6,30.11,45.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,22:00,43.8,41.3,90.7,0.0,E@2.5,3.9,0.0,0,46.0,45.6,30.11,43.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,22:15,44.2,41.6,90.7,0.0,NE@3.0,3.9,0.0,0,45.8,45.6,30.11,43.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,22:30,45.5,42.3,88.5,0.0,NE@3.2,4.9,0.0,0,45.7,45.6,30.11,45.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,22:45,43.2,40.8,91.1,0.0,NE@2.8,3.9,0.0,0,45.6,45.5,30.12,42.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,23:00,44.7,42.4,91.6,0.0,NE@2.8,3.9,0.0,0,45.5,45.5,30.11,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,23:15,46.0,42.7,88.3,0.0,NE@2.6,3.1,0.0,0,45.3,45.5,30.12,45.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,23:30,46.8,43.0,86.7,0.0,NE@2.8,3.9,0.0,0,45.2,45.5,30.12,46.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,23:45,46.8,42.8,85.9,0.0,NE@3.2,4.2,0.0,0,45.1,45.4,30.12,46.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-17,24:00,46.0,42.4,86.9,0.0,NE@3.0,3.5,0.0,0,45.0,45.4,30.12,45.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,00:15,45.6,42.2,87.7,0.0,NE@2.8,3.5,0.0,0,44.9,45.4,30.12,45.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,00:30,45.4,42.3,88.9,0.0,NE@2.7,3.9,0.0,0,44.8,45.3,30.12,45.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,00:45,45.9,42.4,87.2,0.0,NE@3.3,4.9,0.0,0,44.7,45.3,30.11,45.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,01:00,45.0,41.6,87.8,0.0,NE@3.2,4.2,0.0,0,44.6,45.3,30.11,44.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,01:15,44.6,41.2,87.9,0.0,NE@3.6,4.6,0.0,0,44.6,45.2,30.11,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,01:30,42.0,39.6,90.9,0.0,NE@3.8,4.9,0.0,0,44.5,45.2,30.11,41.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,01:45,41.6,39.2,91.3,0.0,NE@3.2,4.6,0.0,0,44.5,45.1,30.11,41.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,02:00,42.0,39.3,89.9,0.0,NE@3.3,4.2,0.0,0,44.4,45.1,30.1,41.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,02:15,41.2,38.6,90.5,0.0,N @3.0,4.9,0.0,0,44.3,45.1,30.11,41.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,02:30,39.4,37.5,92.8,0.0,NW@2.3,3.5,0.0,0,44.3,45.0,30.11,39.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,02:45,39.7,38.6,95.7,0.0,N@2.6,3.5,0.0,0,44.2,45.0,30.1,39.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,03:00,38.6,37.4,95.2,0.0,NE@2.0,3.1,0.0,0,44.1,44.9,30.1,38.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,03:15,39.1,38.2,96.4,0.0,NE@1.8,2.8,0.06,0,43.9,44.9,30.09,38.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,03:30,38.8,37.8,96.1,0.0,NE@2.4,3.1,0.09,0,43.8,44.8,30.08,38.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,03:45,37.9,36.8,95.6,0.0,N @2.9,3.9,0.11,0,43.7,44.8,30.08,37.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,04:00,39.2,38.6,97.7,0.0,NE@2.5,3.1,0.13,0,43.6,44.8,30.07,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,04:15,40.4,39.3,95.8,0.0,NE@2.4,3.5,0.15,0,43.5,44.7,30.07,40.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,04:30,40.5,39.1,94.9,0.0,NE@2.4,3.1,0.14,0,43.4,44.7,30.07,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,04:45,40.3,38.9,94.7,0.0,NE@2.4,3.1,0.12,0,43.3,44.6,30.07,40.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,05:00,41.9,40.3,93.8,0.0,NE@2.4,3.1,0.12,0,43.3,44.6,30.06,41.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,05:15,41.6,39.5,91.9,0.0,NE@2.4,3.9,0.1,0,43.3,44.5,30.06,41.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,05:30,40.3,38.7,93.8,0.0,SE@1.8,2.8,0.08,0,43.2,44.5,30.06,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,05:45,39.5,38.3,95.5,0.0,NE@1.5,2.8,0.08,0,43.2,44.4,30.05,39.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,06:00,41.2,40.4,96.8,0.0,NE@2.2,3.1,0.08,0,43.2,44.4,30.04,41.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,06:15,43.5,41.2,91.7,0.0,E@2.4,3.5,0.07,0,43.2,44.4,30.03,43.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,06:30,43.3,41.5,93.3,0.0,E@2.8,4.2,0.0,0,43.2,44.3,30.03,43.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,06:45,43.3,42.8,98.0,0.0,E@2.3,4.2,0.0,0,43.3,44.3,30.04,43.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,07:00,43.1,42.7,98.7,0.0,NE@0.5,2.4,0.04,1,43.3,44.3,30.05,42.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,07:15,43.0,42.8,99.1,0.0,N @2.1,2.8,0.07,3,43.3,44.2,30.05,42.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,07:30,42.3,41.9,98.7,0.0,N @1.8,2.8,0.08,12,43.3,44.2,30.04,42.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,07:45,42.7,42.5,99.2,0.0,N@1.8,2.8,0.09,33,43.4,44.2,30.04,42.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,08:00,43.6,43.2,98.4,0.0,NE@0.8,2.1,0.1,43,43.4,44.1,30.04,43.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,08:15,44.2,43.6,97.8,0.0,E@1.6,2.8,0.1,41,43.4,44.1,30.03,43.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,08:30,45.1,43.4,93.4,0.0,E@0.2,2.1,0.09,45,43.5,44.1,30.03,44.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,08:45,45.2,43.6,94.2,0.0,E@0.6,2.1,0.08,59,43.5,44.0,30.03,44.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,09:00,45.6,43.3,91.4,0.0,SE@2.2,3.1,0.04,114,43.6,44.0,30.02,45.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,09:15,46.2,43.8,90.9,0.0,S@3.0,4.6,0.0,210,43.7,44.0,30.02,45.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,09:30,46.9,44.6,91.5,0.0,S@1.2,3.1,0.0,190,43.9,43.9,30.02,46.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,09:45,47.6,45.2,91.2,0.0,SE@2.3,3.9,0.0,117,44.1,43.9,30.01,47.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,10:00,47.1,45.2,93.0,0.0,SW@2.1,3.9,0.0,105,44.3,43.9,30.01,46.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,10:15,47.6,45.3,91.5,0.0,SE@1.4,3.1,0.0,108,44.5,43.9,30.0,47.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,10:30,47.8,45.7,92.2,0.0,S@2.5,3.9,0.0,131,44.7,43.9,30.0,47.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,10:45,47.8,45.5,91.6,0.0,SE@2.9,4.6,0.0,110,44.8,43.9,30.0,47.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,11:00,47.7,45.4,91.4,0.0,SE@2.5,3.9,0.0,121,45.0,43.9,29.99,47.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,11:15,47.9,45.1,90.1,0.0,SE@2.8,5.3,0.0,123,45.2,43.9,29.98,47.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,11:30,47.6,44.8,89.9,0.0,S@2.9,4.6,0.0,143,45.3,43.9,29.96,47.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,11:45,47.5,44.6,89.5,0.0,S@3.3,5.3,0.0,159,45.5,43.9,29.96,47.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,12:00,47.4,44.7,90.1,0.0,SE@3.5,5.3,0.0,157,45.6,44.0,29.94,47.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,12:15,47.6,45.1,90.8,0.0,SE@3.9,6.7,0.0,118,45.7,44.0,29.93,47.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,12:30,47.8,45.1,90.3,0.0,SE@3.1,4.9,0.0,173,45.8,44.0,29.93,47.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,12:45,47.9,45.0,89.7,0.0,SE@3.0,5.7,0.0,146,46.0,44.1,29.92,47.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,13:00,48.1,45.1,89.5,0.0,SE@2.7,4.9,0.0,119,46.1,44.1,29.91,47.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,13:15,48.2,45.1,88.9,0.0,SE@1.6,3.5,0.0,92,46.2,44.1,29.9,47.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,13:30,47.9,45.2,90.3,0.0,S@2.1,3.1,0.0,80,46.3,44.2,29.89,47.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,13:45,47.7,45.2,91.0,0.0,S@2.0,4.2,0.0,69,46.4,44.2,29.89,47.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,14:00,47.5,45.2,91.6,0.0,W@3.6,4.9,0.0,50,46.5,44.3,29.89,47.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,14:15,47.3,45.0,91.6,0.0,W@4.2,6.4,0.0,43,46.5,44.3,29.9,47.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,14:30,47.1,44.7,91.4,0.0,NW@2.0,4.6,0.0,34,46.6,44.4,29.88,46.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,14:45,46.6,42.5,85.3,0.0,N@2.5,4.9,0.0,32,46.6,44.4,29.87,46.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,15:00,46.4,42.4,85.8,0.0,NE@2.7,4.2,0.0,29,46.6,44.5,29.85,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,15:15,46.3,43.0,87.9,0.0,E@3.8,5.7,0.0,27,46.6,44.5,29.83,46.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,15:30,46.4,43.5,89.6,0.0,E@3.5,7.4,0.0,14,46.6,44.6,29.8,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,15:45,46.4,44.3,92.4,0.0,SE@3.9,7.1,0.0,9,46.5,44.6,29.8,46.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,16:00,46.2,44.5,93.6,0.0,SE@4.1,7.4,0.04,6,46.5,44.7,29.78,46.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,16:15,46.2,44.2,92.6,0.0,SE@3.0,4.9,0.0,4,46.5,44.7,29.79,46.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,16:30,46.1,43.5,90.7,0.0,SE@2.2,5.3,0.0,1,46.5,44.7,29.79,45.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,16:45,45.8,43.4,91.1,0.0,S@2.5,4.2,0.0,0,46.4,44.8,29.81,45.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,17:00,45.5,43.2,91.7,0.0,SE@2.9,4.9,0.05,0,46.4,44.8,29.82,45.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,17:15,44.9,42.9,92.6,0.0,E@3.7,7.1,0.06,0,46.4,44.9,29.8,44.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,17:30,44.6,42.6,92.5,0.0,SE@3.5,5.3,0.0,0,46.3,44.9,29.8,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,17:45,44.6,42.2,91.2,0.0,E@4.3,7.4,0.0,0,46.3,44.9,29.79,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,18:00,44.5,42.1,91.3,0.0,E@4.4,7.4,0.0,0,46.3,44.9,29.78,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,18:15,44.5,42.2,91.4,0.0,E@3.2,6.4,0.01,0,46.2,45.0,29.78,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,18:30,44.5,42.3,91.9,0.0,E@3.9,6.7,0.06,0,46.2,45.0,29.76,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,18:45,44.5,42.2,91.6,0.0,E@3.0,5.7,0.0,0,46.1,45.0,29.76,44.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,19:00,44.3,42.4,92.9,0.0,E@2.6,4.6,0.27,0,46.1,45.0,29.75,44.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,19:15,44.1,42.5,94.0,0.0,SE@2.2,3.5,0.46,0,46.1,45.0,29.74,43.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,19:30,44.1,42.6,94.5,0.01,SE@2.0,3.9,0.47,0,46.1,45.1,29.74,43.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,19:45,44.0,42.9,95.9,0.0,NE@1.7,3.1,0.64,0,46.0,45.1,29.73,43.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,20:00,43.9,43.0,96.7,0.0,NE@2.2,3.5,0.68,0,46.0,45.1,29.73,43.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,20:15,43.7,43.0,97.5,0.0,S@1.0,2.4,0.69,0,46.0,45.1,29.72,43.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,20:30,43.5,43.1,98.4,0.0,W@1.2,2.8,0.71,0,46.0,45.1,29.71,43.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,20:45,43.2,43.0,99.2,0.01,E@1.9,2.8,0.71,0,46.0,45.1,29.7,42.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,21:00,43.2,43.0,99.2,0.0,N@2.3,4.2,0.71,0,45.9,45.1,29.7,42.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,21:15,43.4,43.1,98.7,0.0,NW@3.3,4.9,0.71,0,45.9,45.2,29.71,43.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,21:30,43.6,43.2,98.2,0.0,N@2.3,3.5,0.74,0,45.9,45.2,29.71,43.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,21:45,43.7,43.4,98.9,0.0,NW@2.9,4.9,0.77,0,45.9,45.2,29.71,43.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,22:00,43.3,43.1,99.3,0.0,W@2.3,4.2,0.76,0,45.9,45.2,29.72,43.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,22:15,42.8,42.6,99.2,0.0,E@2.3,4.6,0.78,0,45.8,45.2,29.72,42.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,22:30,41.7,41.5,99.3,0.0,E@2.1,4.9,0.8,0,45.8,45.2,29.71,41.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,22:45,40.8,40.6,99.3,0.0,E@2.3,3.5,0.82,0,45.8,45.2,29.7,40.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,23:00,40.6,40.4,99.3,0.0,E@2.5,3.9,0.84,0,45.7,45.2,29.69,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,23:15,41.1,40.9,99.3,0.0,E@3.0,5.3,0.85,0,45.6,45.2,29.68,40.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,23:30,41.2,41.0,99.3,0.0,NE@3.0,5.3,0.86,0,45.5,45.2,29.69,40.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,23:45,40.8,40.6,99.3,0.0,NE@2.8,4.6,0.87,0,45.5,45.2,29.7,40.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-18,24:00,40.9,40.7,99.3,0.0,NE@2.3,3.1,0.88,0,45.4,45.2,29.7,40.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,00:15,40.1,39.9,99.1,0.0,NE@3.0,4.6,0.88,0,45.3,45.2,29.7,39.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,00:30,39.2,39.0,99.3,0.0,E@2.1,3.9,0.89,0,45.2,45.2,29.7,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,00:45,39.2,39.0,99.2,0.0,E@2.0,3.9,0.89,0,45.1,45.2,29.7,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,01:00,38.4,38.2,99.3,0.0,N @2.7,5.3,0.89,0,45.0,45.2,29.7,38.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,01:15,38.4,38.3,99.3,0.0,NW@4.4,7.1,0.89,0,44.8,45.2,29.7,38.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,01:30,37.9,37.7,99.3,0.0,W@2.8,4.6,0.89,0,44.7,45.2,29.71,37.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,01:45,38.4,38.2,99.3,0.0,NW@3.1,4.2,0.9,0,44.6,45.2,29.71,38.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,02:00,38.4,38.2,99.3,0.0,N@2.6,4.2,0.9,0,44.5,45.1,29.71,38.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,02:15,38.2,38.0,99.3,0.0,N @3.4,4.9,0.9,0,44.4,45.1,29.7,37.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,02:30,38.5,38.3,99.3,0.0,NE@1.7,2.8,0.9,0,44.3,45.1,29.7,38.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,02:45,38.6,38.4,99.3,0.0,SE@2.0,4.2,0.91,0,44.3,45.1,29.71,38.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,03:00,38.3,38.1,99.3,0.0,SW@1.5,3.1,0.91,0,44.2,45.0,29.7,38.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,03:15,37.8,37.6,99.3,0.0,S@1.3,3.1,0.91,0,44.2,45.0,29.7,37.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,03:30,37.4,37.3,99.3,0.0,SE@1.7,2.8,0.91,0,44.2,45.0,29.7,37.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,03:45,36.5,36.3,99.3,0.0,NE@2.5,3.1,0.91,0,44.1,44.9,29.7,36.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,04:00,35.9,35.7,99.3,0.0,NE@3.0,5.3,0.91,0,44.1,44.9,29.69,35.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,04:15,36.3,36.1,99.3,0.0,NE@3.6,6.0,0.91,0,44.0,44.9,29.69,36.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,04:30,37.8,37.6,99.3,0.0,NE@3.0,4.2,0.92,0,44.0,44.9,29.7,37.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,04:45,39.3,39.2,99.3,0.0,E@3.2,4.6,0.92,0,43.9,44.8,29.7,39.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,05:00,40.5,40.3,99.3,0.0,NE@2.3,4.2,0.92,0,43.8,44.8,29.7,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,05:15,39.9,39.7,99.3,0.0,NE@2.5,3.5,0.92,0,43.7,44.8,29.7,39.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,05:30,39.0,38.8,99.3,0.0,NE@2.6,4.2,0.92,0,43.7,44.7,29.7,38.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,05:45,37.5,37.3,99.3,0.0,SE@2.1,4.6,0.92,0,43.7,44.7,29.7,37.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,06:00,36.9,36.7,99.3,0.0,NE@2.4,2.8,0.92,0,43.6,44.7,29.7,36.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,06:15,37.4,37.2,99.3,0.0,NE@2.5,3.5,0.93,0,43.6,44.7,29.7,37.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,06:30,39.6,39.4,99.3,0.0,NE@1.8,2.8,0.93,0,43.5,44.6,29.7,39.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,06:45,40.8,40.7,99.3,0.0,E@1.9,3.1,0.93,0,43.5,44.6,29.7,40.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,07:00,41.5,41.4,99.3,0.01,NE@1.6,2.4,0.94,0,43.4,44.6,29.7,41.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,07:15,41.9,41.7,99.3,0.0,E@1.9,2.8,0.94,3,43.4,44.6,29.7,41.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,07:30,42.3,41.9,98.5,0.0,E@2.4,3.5,0.93,13,43.4,44.5,29.7,42.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,07:45,42.5,41.7,96.9,0.0,E@2.6,3.9,0.93,25,43.5,44.5,29.7,42.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,08:00,43.1,42.0,96.0,0.0,NE@2.5,3.1,0.93,30,43.5,44.5,29.71,42.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,08:15,42.5,41.4,95.8,0.0,NE@2.8,3.9,0.93,61,43.5,44.4,29.71,42.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,08:30,45.6,43.5,92.0,0.0,NE@2.7,3.9,0.93,161,43.5,44.4,29.72,45.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,08:45,48.3,44.3,85.9,0.0,NE@2.9,4.2,0.91,194,43.6,44.4,29.71,47.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,09:00,49.5,44.1,81.4,0.0,E@3.8,6.0,0.84,243,43.7,44.4,29.71,49.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,09:15,50.5,44.4,79.5,0.0,E@3.9,6.4,0.51,233,43.8,44.3,29.71,50.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,09:30,50.6,44.5,79.6,0.0,E@3.8,6.4,0.12,211,44.0,44.3,29.72,50.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,09:45,49.6,44.6,82.9,0.0,SE@2.9,4.6,0.0,126,44.2,44.3,29.73,49.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,10:00,49.4,44.6,83.5,0.0,S@3.3,4.9,0.0,170,44.4,44.2,29.73,49.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,10:15,48.5,45.6,89.8,0.0,W@3.8,4.6,0.0,292,44.6,44.2,29.74,48.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,10:30,48.6,45.4,88.5,0.0,W@3.5,4.9,0.0,362,44.8,44.2,29.75,48.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,10:45,48.7,45.2,87.7,0.0,W@4.6,6.4,0.0,371,45.1,44.2,29.75,48.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,11:00,48.6,44.8,86.5,0.0,W@4.9,6.7,0.0,438,45.3,44.2,29.75,48.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,11:15,49.4,44.6,83.4,0.0,W@5.3,7.1,0.0,334,45.6,44.2,29.75,49.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,11:30,50.6,44.5,79.3,0.0,W@6.3,8.5,0.0,411,45.9,44.2,29.75,50.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,11:45,51.4,44.4,76.7,0.0,W@5.2,8.5,0.0,411,46.2,44.3,29.76,51.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,12:00,51.8,44.2,75.1,0.0,W@4.7,7.4,0.0,412,46.5,44.3,29.76,51.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,12:15,52.6,43.4,70.8,0.0,W@5.0,7.8,0.0,435,46.8,44.3,29.76,52.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,12:30,53.7,44.7,71.3,0.0,W@5.3,8.9,0.0,516,47.0,44.4,29.76,53.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,12:45,52.9,44.0,71.5,0.0,W@5.0,8.5,0.0,219,47.3,44.4,29.77,52.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,13:00,52.7,43.0,69.4,0.0,W@3.9,6.0,0.0,211,47.6,44.5,29.77,52.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,13:15,53.4,42.9,67.3,0.0,NW@3.1,6.0,0.0,322,47.9,44.5,29.78,53.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,13:30,54.5,43.5,66.3,0.0,NW@2.4,4.6,0.0,297,48.0,44.6,29.78,54.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,13:45,54.6,43.4,65.8,0.0,NE@2.6,4.9,0.0,146,48.2,44.7,29.78,54.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,14:00,54.1,43.0,66.0,0.0,N @2.9,6.0,0.0,105,48.4,44.7,29.79,53.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,14:15,55.7,42.1,60.1,0.0,N @4.1,6.7,0.0,273,48.5,44.8,29.79,55.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,14:30,56.5,41.0,56.0,0.0,N@3.2,7.1,0.0,266,48.6,44.9,29.79,56.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,14:45,57.1,40.7,54.1,0.0,N @4.4,7.4,0.0,231,48.7,45.0,29.79,56.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,15:00,56.6,39.3,52.2,0.0,N @5.8,8.9,0.0,185,48.7,45.1,29.79,56.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,15:15,55.9,39.4,53.7,0.0,NE@4.4,8.2,0.0,154,48.8,45.2,29.8,55.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,15:30,56.0,39.4,53.6,0.0,NE@2.5,4.6,0.0,148,48.8,45.3,29.81,55.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,15:45,55.5,39.3,54.2,0.0,E@3.6,6.0,0.0,125,48.8,45.4,29.82,55.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,16:00,55.2,38.9,54.1,0.0,NE@3.3,5.7,0.0,76,48.8,45.4,29.82,54.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,16:15,53.9,37.3,53.3,0.0,NE@3.6,6.4,0.0,29,48.8,45.5,29.83,53.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,16:30,51.4,38.0,60.0,0.0,SE@2.0,3.1,0.0,6,48.8,45.6,29.84,51.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,16:45,49.1,38.1,65.6,0.0,E@1.9,3.1,0.0,1,48.8,45.7,29.85,48.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,17:00,48.2,38.4,68.7,0.0,E@2.4,4.2,0.0,0,48.6,45.7,29.86,47.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,17:15,47.2,38.5,71.5,0.0,E@2.2,3.9,0.0,0,48.5,45.8,29.87,46.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,17:30,45.0,38.2,77.0,0.0,E@1.6,2.4,0.0,0,48.3,45.8,29.87,44.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,17:45,44.6,38.3,78.2,0.0,NW@2.1,3.9,0.0,0,48.1,45.9,29.88,44.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,18:00,43.5,37.5,79.2,0.0,E@1.1,2.4,0.0,0,47.9,45.9,29.89,43.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,18:15,43.2,37.8,81.0,0.0,NE@1.0,3.1,0.0,0,47.6,46.0,29.9,42.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,18:30,43.7,38.1,80.2,0.0,NE@1.5,3.1,0.0,0,47.4,46.0,29.9,43.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,18:45,44.7,38.5,78.6,0.0,NE@2.1,3.1,0.0,0,47.2,46.0,29.91,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,19:00,45.0,39.0,79.3,0.0,N @2.3,3.5,0.0,0,47.0,46.0,29.91,44.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,19:15,45.3,38.9,78.1,0.0,NE@2.1,3.5,0.0,0,46.8,46.1,29.93,45.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,19:30,45.2,39.1,79.1,0.0,N@1.7,3.9,0.0,0,46.7,46.1,29.93,44.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,19:45,47.4,39.0,72.4,0.0,NW@1.6,3.1,0.0,0,46.6,46.0,29.94,47.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,20:00,48.4,39.1,69.9,0.0,NE@2.4,8.2,0.0,0,46.5,46.0,29.94,48.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,20:15,50.6,38.2,62.2,0.0,NE@3.5,7.4,0.0,0,46.4,46.0,29.95,50.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,20:30,50.3,37.4,61.1,0.0,SE@2.7,6.4,0.0,0,46.4,46.0,29.96,50.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,20:45,49.9,35.1,56.5,0.0,E@3.5,8.9,0.0,0,46.4,46.0,29.96,49.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,21:00,49.4,34.1,55.5,0.0,NE@3.1,8.9,0.0,0,46.4,46.0,29.96,49.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,21:15,48.4,34.3,58.0,0.0,SW@2.7,5.3,0.0,0,46.4,46.0,29.97,48.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,21:30,48.4,34.5,58.3,0.0,W@3.9,8.9,0.0,0,46.4,46.0,29.98,48.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,21:45,48.3,35.0,59.8,0.0,SW@4.2,8.2,0.0,0,46.3,45.9,29.99,48.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,22:00,48.2,35.2,60.7,0.0,N@5.6,9.6,0.0,0,46.3,45.9,29.99,47.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,22:15,47.9,33.2,56.6,0.0,N @9.8,17.5,0.0,0,46.3,45.9,29.99,47.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,22:30,47.9,30.9,51.6,0.0,N @12.5,19.2,0.0,0,46.2,45.9,29.99,47.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,22:45,47.6,30.1,50.3,0.0,N @10.4,18.9,0.0,0,46.1,45.9,30.0,47.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,23:00,46.8,30.3,52.4,0.0,N @8.7,16.7,0.0,0,46.0,45.8,30.0,46.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,23:15,46.3,29.5,51.7,0.0,N @9.7,15.3,0.0,0,46.0,45.8,30.0,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,23:30,45.6,29.2,52.4,0.0,N @10.7,18.2,0.0,0,45.9,45.8,30.0,45.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,23:45,45.2,28.7,52.0,0.0,NE@11.7,16.7,0.0,0,45.8,45.8,30.02,45.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-19,24:00,44.4,28.7,53.7,0.0,NE@9.5,13.5,0.0,0,45.7,45.8,30.02,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,00:15,43.9,28.7,54.7,0.0,NE@8.5,15.0,0.0,0,45.6,45.8,30.02,43.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,00:30,43.6,28.5,54.9,0.0,NE@9.6,14.6,0.0,0,45.4,45.7,30.02,43.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,00:45,43.1,28.1,55.1,0.0,N @8.7,13.5,0.0,0,45.3,45.7,30.02,42.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,01:00,42.7,28.1,56.1,0.0,N @8.0,12.1,0.0,0,45.2,45.7,30.03,42.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,01:15,42.9,27.8,54.8,0.0,N @8.4,12.8,0.0,0,45.1,45.7,30.03,42.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,01:30,43.3,27.5,53.5,0.0,N @9.6,13.5,0.0,0,45.0,45.7,30.04,43.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,01:45,44.5,26.4,48.7,0.0,N @12.1,20.7,0.0,0,44.9,45.6,30.05,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,02:00,45.6,25.2,44.5,0.0,N @11.0,20.0,0.0,0,44.7,45.6,30.06,45.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,02:15,45.1,25.2,45.2,0.0,N@6.8,12.8,0.0,0,44.7,45.6,30.07,45.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,02:30,44.9,24.7,44.7,0.0,NW@6.1,15.7,0.0,0,44.6,45.5,30.07,44.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,02:45,43.4,24.6,47.1,0.0,W@2.9,5.3,0.0,0,44.5,45.5,30.06,43.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,03:00,43.9,23.9,45.0,0.0,N @8.1,16.7,0.0,0,44.4,45.5,30.06,43.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,03:15,44.4,23.6,43.4,0.0,N @9.7,17.1,0.0,0,44.3,45.4,30.05,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,03:30,44.2,23.3,43.2,0.0,N@7.4,17.8,0.0,0,44.2,45.4,30.06,44.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,03:45,43.9,23.2,43.6,0.0,N@7.2,13.5,0.0,0,44.1,45.4,30.06,43.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,04:00,44.6,23.1,42.2,0.0,N @10.1,22.8,0.0,0,44.0,45.3,30.06,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,04:15,44.2,23.5,43.6,0.0,N @10.5,18.5,0.0,0,44.0,45.3,30.06,44.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,04:30,43.9,23.8,44.7,0.0,N @10.8,19.6,0.0,0,43.9,45.3,30.06,43.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,04:45,43.9,23.9,44.8,0.0,N @13.4,22.1,0.0,0,43.8,45.2,30.06,43.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,05:00,44.0,24.0,44.9,0.0,N @14.7,23.2,0.0,0,43.8,45.2,30.06,43.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,05:15,43.6,24.2,46.1,0.0,NE@12.5,20.3,0.0,0,43.7,45.1,30.07,43.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,05:30,43.3,24.5,47.1,0.0,NE@12.1,17.8,0.0,0,43.7,45.1,30.07,43.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,05:45,43.4,24.6,47.1,0.0,N @13.1,20.3,0.0,0,43.6,45.0,30.08,43.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,06:00,43.7,24.6,46.5,0.0,N @12.5,19.2,0.0,0,43.6,45.0,30.08,43.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,06:15,44.0,24.4,45.7,0.0,N @11.9,18.2,0.0,0,43.5,45.0,30.09,43.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,06:30,44.2,24.5,45.4,0.0,N @11.0,16.7,0.0,0,43.5,44.9,30.1,44.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,06:45,44.5,24.3,44.7,0.0,N @11.2,17.5,0.0,0,43.5,44.9,30.1,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,07:00,44.4,24.5,45.1,0.0,N @11.1,16.7,0.0,0,43.5,44.8,30.1,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,07:15,44.3,24.5,45.4,0.0,N @11.3,16.4,0.0,3,43.5,44.8,30.11,44.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,07:30,44.2,24.5,45.5,0.0,N @11.9,17.8,0.0,9,43.5,44.7,30.11,44.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,07:45,44.1,24.7,46.2,0.0,N @11.6,18.9,0.0,17,43.5,44.7,30.12,43.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,08:00,44.4,25.2,46.6,0.0,N @10.6,15.7,0.0,55,43.5,44.7,30.13,44.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,08:15,45.1,25.3,45.5,0.0,N @11.1,16.0,0.0,115,43.5,44.6,30.13,44.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,08:30,45.5,25.3,44.8,0.0,N @11.7,18.2,0.0,145,43.5,44.6,30.13,45.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,08:45,46.1,25.1,43.5,0.0,N @13.0,19.6,0.0,176,43.5,44.6,30.13,45.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,09:00,46.5,24.9,42.4,0.0,N @12.4,18.2,0.0,207,43.5,44.6,30.14,46.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,09:15,47.1,25.0,41.7,0.0,N @12.0,18.2,0.0,237,43.6,44.5,30.14,46.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,09:30,47.4,25.1,41.4,0.0,N @12.6,18.5,0.0,256,43.6,44.5,30.14,46.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,09:45,46.1,25.2,43.5,0.0,N @11.4,16.0,0.0,68,43.7,44.5,30.15,45.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,10:00,45.9,25.6,44.7,0.0,N @10.1,16.0,0.0,65,43.7,44.5,30.15,45.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,10:15,46.0,25.9,45.1,0.0,N @8.9,15.7,0.0,66,43.8,44.4,30.16,45.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,10:30,46.4,26.2,44.8,0.0,N @8.4,14.6,0.0,116,43.8,44.4,30.16,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,10:45,48.4,26.7,42.6,0.0,N @8.9,14.2,0.0,371,43.8,44.4,30.16,48.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,11:00,49.8,27.0,40.9,0.0,N @8.7,17.5,0.0,396,43.9,44.4,30.16,49.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,11:15,50.7,27.3,39.9,0.0,N @8.8,13.9,0.0,396,44.0,44.4,30.16,50.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,11:30,50.8,27.2,39.7,0.0,N @9.1,16.0,0.0,403,44.1,44.3,30.15,50.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,11:45,51.5,27.4,39.0,0.0,N @7.4,12.8,0.0,410,44.3,44.3,30.15,51.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,12:00,52.1,27.5,38.4,0.0,N @7.6,13.2,0.0,407,44.5,44.3,30.14,51.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,12:15,52.3,27.4,37.9,0.0,N @7.8,12.8,0.0,404,44.7,44.3,30.12,51.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,12:30,52.7,27.5,37.5,0.0,NE@8.6,12.4,0.0,399,44.9,44.3,30.12,52.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,12:45,52.9,27.7,37.5,0.0,NE@9.4,14.2,0.0,388,45.1,44.3,30.11,52.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,13:00,53.1,27.5,36.8,0.0,NE@9.2,16.0,0.0,374,45.3,44.3,30.11,52.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,13:15,53.0,27.4,36.8,0.0,NE@8.5,13.2,0.0,362,45.4,44.4,30.11,52.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,13:30,53.1,27.4,36.8,0.0,NE@8.8,14.2,0.0,344,45.6,44.4,30.1,52.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,13:45,53.1,27.1,36.3,0.0,NE@9.4,14.2,0.0,322,45.8,44.4,30.1,52.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,14:00,53.1,27.1,36.4,0.0,N @9.3,14.6,0.0,300,45.9,44.4,30.1,52.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,14:15,53.3,27.3,36.4,0.0,N @8.2,12.4,0.0,275,46.0,44.5,30.1,52.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,14:30,52.9,27.2,36.8,0.0,NE@8.5,12.8,0.0,247,46.1,44.5,30.09,52.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,14:45,52.5,27.3,37.4,0.0,NE@8.4,12.4,0.0,217,46.2,44.6,30.09,52.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,15:00,52.4,27.4,37.7,0.0,NE@8.0,12.4,0.0,187,46.3,44.6,30.1,51.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,15:15,52.0,27.9,39.1,0.0,NE@6.9,11.0,0.0,155,46.4,44.6,30.1,51.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,15:30,51.7,28.1,39.9,0.0,NE@6.3,10.3,0.0,122,46.4,44.7,30.1,51.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,15:45,50.9,28.1,41.1,0.0,NE@6.3,9.9,0.0,81,46.4,44.7,30.1,50.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,16:00,50.1,28.4,42.7,0.0,N @6.1,10.7,0.0,55,46.4,44.8,30.11,49.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,16:15,48.6,28.3,45.2,0.0,N @4.1,7.1,0.0,27,46.4,44.8,30.11,48.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,16:30,45.8,28.1,49.7,0.0,N @2.7,4.6,0.0,7,46.4,44.8,30.11,45.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,16:45,43.9,28.1,53.3,0.0,NE@2.6,4.2,0.0,2,46.3,44.9,30.12,43.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,17:00,43.3,28.1,54.7,0.0,N @3.7,4.9,0.0,0,46.2,44.9,30.12,43.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,17:15,41.8,28.1,57.8,0.0,N @2.7,4.9,0.0,0,46.0,44.9,30.12,41.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,17:30,41.3,27.8,58.3,0.0,N@2.3,3.5,0.0,0,45.9,44.9,30.12,40.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,17:45,40.0,27.3,60.0,0.0,NW@2.9,3.9,0.0,0,45.7,45.0,30.12,39.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,18:00,40.1,27.2,59.8,0.0,NW@2.5,3.9,0.0,0,45.5,45.0,30.13,39.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,18:15,39.2,27.2,61.8,0.0,N@2.6,4.6,0.0,0,45.3,45.0,30.12,38.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,18:30,40.2,27.2,59.5,0.0,N @4.5,6.0,0.0,0,45.0,45.0,30.12,39.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,18:45,40.5,27.0,58.2,0.0,N @4.4,6.4,0.0,0,44.8,45.0,30.12,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,19:00,41.2,26.8,56.4,0.0,N @4.9,8.2,0.0,0,44.6,45.0,30.12,41.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,19:15,41.3,26.6,55.5,0.0,N @5.8,8.2,0.0,0,44.5,45.0,30.12,41.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,19:30,41.2,26.5,55.5,0.0,N@4.8,7.8,0.0,0,44.4,45.0,30.12,41.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,19:45,40.5,26.4,56.7,0.0,N@4.5,6.4,0.0,0,44.2,44.9,30.12,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,20:00,39.3,26.2,59.0,0.0,N@4.5,6.7,0.0,0,44.1,44.9,30.12,39.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,20:15,39.5,26.0,58.0,0.0,N@3.9,6.4,0.0,0,44.0,44.9,30.12,39.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,20:30,39.4,25.8,57.8,0.0,N@4.6,7.8,0.0,0,43.9,44.8,30.12,39.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,20:45,39.2,25.7,58.0,0.0,N@4.7,7.4,0.0,0,43.8,44.8,30.12,39.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,21:00,39.0,25.6,58.3,0.0,N @5.2,7.1,0.0,0,43.7,44.8,30.13,38.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,21:15,39.0,25.6,58.4,0.0,N @6.5,9.6,0.0,0,43.6,44.7,30.13,38.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,21:30,39.1,25.7,58.3,0.0,N @7.1,10.3,0.0,0,43.5,44.7,30.12,39.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,21:45,39.8,25.7,56.8,0.0,N @7.8,12.1,0.0,0,43.4,44.7,30.12,39.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,22:00,39.9,25.7,56.5,0.0,N @7.5,10.7,0.0,0,43.3,44.6,30.12,39.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,22:15,40.2,25.8,56.0,0.0,N @7.7,11.0,0.0,0,43.2,44.6,30.12,40.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,22:30,40.3,25.6,55.4,0.0,N @7.6,10.3,0.0,0,43.1,44.5,30.12,40.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,22:45,40.4,25.5,55.1,0.0,N @6.6,11.0,0.0,0,43.1,44.5,30.12,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,23:00,40.6,25.5,54.6,0.0,N @6.3,9.2,0.0,0,43.0,44.4,30.11,40.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,23:15,39.5,25.7,57.2,0.0,N @5.0,7.4,0.0,0,42.9,44.4,30.12,39.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,23:30,38.4,25.2,58.9,0.0,SW@2.8,6.7,0.0,0,42.9,44.3,30.12,38.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,23:45,35.3,24.5,64.5,0.0,W@1.8,3.5,0.0,0,42.8,44.3,30.12,35.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-20,24:00,33.8,24.3,67.8,0.0,SE@1.5,3.1,0.0,0,42.7,44.2,30.11,33.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,00:15,33.6,24.2,68.0,0.0,SW@2.2,3.9,0.0,0,42.6,44.2,30.11,33.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,00:30,33.9,23.9,66.4,0.0,W@2.8,4.9,0.0,0,42.5,44.1,30.11,33.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,00:45,34.0,23.9,66.1,0.0,NW@2.7,4.2,0.0,0,42.3,44.1,30.11,33.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,01:00,32.7,23.7,69.1,0.0,N@2.5,3.9,0.0,0,42.1,44.0,30.11,32.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,01:15,32.3,23.6,70.0,0.0,NW@2.7,4.6,0.0,0,42.0,44.0,30.1,32.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,01:30,33.0,23.6,68.1,0.0,NW@3.2,4.9,0.0,0,41.8,44.0,30.1,32.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,01:45,32.4,23.5,69.4,0.0,N@2.9,5.7,0.0,0,41.6,43.9,30.1,32.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,02:00,32.4,23.4,69.1,0.0,N@2.6,5.3,0.0,0,41.5,43.9,30.09,32.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,02:15,32.7,23.2,67.6,0.0,NW@2.7,4.2,0.0,0,41.4,43.8,30.09,32.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,02:30,32.1,23.1,69.2,0.0,W@2.1,4.2,0.0,0,41.2,43.8,30.09,31.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,02:45,35.5,25.1,65.5,0.0,NE@3.1,4.9,0.0,0,41.1,43.7,30.09,35.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,03:00,36.5,25.4,63.8,0.0,NE@3.1,5.7,0.0,0,41.0,43.7,30.09,36.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,03:15,32.3,23.5,69.6,0.0,SE@2.4,5.3,0.0,0,40.8,43.6,30.09,32.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,03:30,28.6,21.9,77.6,0.0,E@2.1,4.2,0.0,0,40.7,43.5,30.09,28.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,03:45,27.6,21.7,80.8,0.0,W@2.3,4.6,0.0,0,40.7,43.5,30.09,27.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,04:00,29.4,22.5,76.9,0.0,SW@3.7,9.6,0.0,0,40.6,43.4,30.09,29.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,04:15,29.2,22.3,76.8,0.0,SE@2.4,5.7,0.0,0,40.4,43.4,30.09,29.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,04:30,30.9,22.8,72.6,0.0,NW@3.4,8.5,0.0,0,40.3,43.3,30.09,30.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,04:45,28.9,21.8,76.1,0.0,SE@1.0,2.8,0.0,0,40.2,43.2,30.09,28.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,05:00,27.0,21.6,82.3,0.0,N @2.0,3.1,0.0,0,40.1,43.2,30.09,26.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,05:15,26.8,21.6,83.3,0.0,NE@2.5,3.5,0.0,0,39.9,43.1,30.09,26.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,05:30,27.2,21.8,82.5,0.0,N @2.8,4.9,0.0,0,39.8,43.1,30.09,27.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,05:45,28.1,22.0,79.6,0.0,NE@2.7,4.6,0.0,0,39.7,43.0,30.09,28.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,06:00,27.5,22.2,82.9,0.0,NE@2.4,3.9,0.0,0,39.5,42.9,30.09,27.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,06:15,28.1,22.5,81.5,0.0,NE@2.6,3.9,0.0,0,39.4,42.9,30.09,27.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,06:30,29.5,22.9,77.6,0.0,NE@2.1,3.5,0.0,0,39.3,42.8,30.09,29.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,06:45,28.7,22.7,79.8,0.0,N @2.0,3.5,0.0,0,39.1,42.7,30.09,28.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,07:00,29.4,23.1,78.6,0.0,N@2.2,3.9,0.0,1,39.0,42.7,30.09,28.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,07:15,31.2,23.3,73.0,0.0,NW@1.4,2.8,0.0,5,38.9,42.6,30.1,30.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,07:30,29.3,22.2,76.1,0.0,W@1.8,3.1,0.0,14,38.8,42.6,30.1,29.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,07:45,30.3,22.9,74.6,0.0,N@2.3,3.5,0.0,43,38.7,42.5,30.1,29.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,08:00,30.3,23.8,77.6,0.0,W@2.0,3.1,0.0,84,38.6,42.4,30.09,30.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,08:15,31.6,24.5,75.2,0.0,W@2.0,3.1,0.0,115,38.5,42.4,30.1,31.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,08:30,32.7,24.3,71.0,0.0,W@1.8,2.8,0.0,146,38.5,42.3,30.1,32.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,08:45,33.5,24.9,70.2,0.0,W@3.2,4.2,0.0,178,38.5,42.2,30.1,33.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,09:00,34.3,25.1,68.5,0.0,SW@2.8,3.9,0.0,208,38.5,42.2,30.1,34.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,09:15,34.8,25.4,68.0,0.0,SW@4.2,5.7,0.0,237,38.6,42.1,30.1,34.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,09:30,35.0,25.7,68.3,0.0,SW@5.0,7.1,0.0,265,38.7,42.0,30.11,34.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,09:45,35.5,25.5,66.5,0.0,W@4.6,6.4,0.0,291,38.8,42.0,30.11,35.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,10:00,36.5,25.4,63.8,0.0,W@3.7,5.7,0.0,315,39.0,41.9,30.12,36.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,10:15,37.8,25.9,61.7,0.0,W@3.1,4.9,0.0,335,39.2,41.9,30.12,37.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,10:30,38.4,25.8,60.0,0.0,W@3.5,6.0,0.0,354,39.4,41.8,30.12,38.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,10:45,39.2,26.2,59.3,0.0,NW@4.5,6.7,0.0,371,39.7,41.7,30.12,38.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,11:00,40.3,26.5,57.6,0.0,NW@3.9,6.7,0.0,384,40.0,41.7,30.12,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,11:15,41.5,26.9,55.7,0.0,NW@3.4,5.7,0.0,394,40.3,41.6,30.11,41.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,11:30,43.0,27.2,53.3,0.0,NW@2.5,5.3,0.0,401,40.6,41.6,30.11,43.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,11:45,43.1,26.9,52.6,0.0,W@3.1,7.1,0.0,406,40.9,41.6,30.1,43.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,12:00,44.4,27.0,50.2,0.0,SW@3.1,5.3,0.0,401,41.3,41.6,30.1,44.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,12:15,44.7,27.1,49.9,0.0,W@3.3,6.4,0.0,404,41.6,41.5,30.09,44.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,12:30,45.2,27.3,49.2,0.0,NW@3.0,6.4,0.0,398,41.9,41.5,30.09,45.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,12:45,45.8,27.3,48.1,0.0,NW@2.9,6.0,0.0,388,42.3,41.5,30.08,45.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,13:00,45.5,27.2,48.4,0.0,W@3.4,7.8,0.0,370,42.6,41.6,30.08,45.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,13:15,46.5,27.4,47.1,0.0,SW@3.5,6.0,0.0,359,42.9,41.6,30.08,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,13:30,46.9,27.3,46.2,0.0,SW@2.7,5.7,0.0,344,43.2,41.6,30.08,46.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,13:45,47.4,27.5,45.8,0.0,S@2.7,6.0,0.0,322,43.5,41.6,30.07,47.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,14:00,47.5,27.4,45.3,0.0,SW@3.4,6.0,0.0,299,43.8,41.7,30.07,47.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,14:15,47.5,27.4,45.2,0.0,W@2.7,5.3,0.0,274,44.0,41.8,30.07,47.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,14:30,47.7,27.4,45.0,0.0,S@2.8,4.6,0.0,248,44.2,41.8,30.07,47.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,14:45,47.3,27.8,46.4,0.0,S@4.0,7.1,0.0,223,44.4,41.9,30.07,47.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,15:00,47.0,27.7,46.8,0.0,SE@3.5,5.7,0.0,190,44.6,41.9,30.07,46.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,15:15,46.5,27.7,47.6,0.0,S@4.3,6.7,0.0,162,44.7,42.0,30.07,46.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,15:30,46.3,27.6,47.8,0.0,SE@3.3,4.9,0.0,134,44.8,42.1,30.08,46.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,15:45,45.8,27.4,48.4,0.0,SE@2.8,4.2,0.0,79,44.8,42.1,30.08,45.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,16:00,44.5,27.2,50.3,0.0,SE@1.8,2.8,0.0,44,44.8,42.2,30.08,44.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,16:15,42.7,27.5,54.6,0.0,E@2.4,3.1,0.0,26,44.8,42.3,30.08,42.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,16:30,39.8,28.3,63.1,0.0,SE@2.5,3.5,0.0,7,44.7,42.3,30.08,39.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,16:45,37.7,28.8,70.1,0.0,E@2.4,3.9,0.0,1,44.5,42.4,30.08,37.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,17:00,37.1,29.3,73.0,0.0,E@3.3,5.3,0.0,0,44.3,42.4,30.07,36.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,17:15,37.0,29.0,72.6,0.0,E@3.9,6.0,0.0,0,44.1,42.5,30.08,36.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,17:30,36.6,28.8,73.1,0.0,E@4.3,7.1,0.0,0,43.9,42.5,30.08,36.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,17:45,36.0,28.8,74.9,0.0,E@4.4,6.7,0.0,0,43.7,42.5,30.08,35.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,18:00,35.7,28.8,75.8,0.0,E@4.3,6.7,0.0,0,43.5,42.6,30.07,35.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,18:15,35.3,28.6,76.3,0.0,E@4.4,6.0,0.0,0,43.3,42.6,30.07,35.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,18:30,35.2,28.5,76.3,0.0,E@4.2,6.0,0.0,0,43.2,42.6,30.07,35.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,18:45,35.4,28.8,76.7,0.0,NE@3.7,5.7,0.0,0,43.0,42.6,30.07,35.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,19:00,34.5,28.5,78.3,0.0,NE@3.4,4.9,0.0,0,42.8,42.6,30.08,34.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,19:15,34.1,28.5,79.4,0.0,NE@3.3,4.2,0.0,0,42.6,42.6,30.08,34.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,19:30,33.9,28.3,80.0,0.0,NE@2.9,4.6,0.0,0,42.5,42.6,30.08,33.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,19:45,34.0,28.4,79.7,0.0,NE@3.5,5.3,0.0,0,42.3,42.6,30.08,33.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,20:00,33.8,28.2,79.9,0.0,NE@3.7,5.7,0.0,0,42.1,42.6,30.09,33.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,20:15,34.4,28.3,77.9,0.0,E@3.9,5.7,0.0,0,42.0,42.5,30.09,34.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,20:30,34.0,28.3,79.3,0.0,E@3.6,5.3,0.0,0,41.8,42.5,30.09,33.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,20:45,33.9,28.2,79.3,0.0,E@3.4,4.9,0.0,0,41.7,42.5,30.09,33.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,21:00,32.6,27.6,81.5,0.0,NE@2.6,3.5,0.0,0,41.6,42.5,30.1,32.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,21:15,31.2,26.8,84.3,0.0,NE@2.8,3.9,0.0,0,41.5,42.4,30.11,31.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,21:30,32.9,28.4,83.2,0.0,NE@2.4,3.1,0.0,0,41.3,42.4,30.11,32.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,21:45,30.9,26.4,84.0,0.0,N @2.2,3.1,0.0,0,41.2,42.4,30.11,30.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,22:00,29.7,25.9,87.0,0.0,N @2.5,3.9,0.0,0,41.0,42.3,30.11,29.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,22:15,31.4,27.3,85.5,0.0,NE@2.3,3.9,0.0,0,40.8,42.3,30.11,31.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,22:30,30.6,26.0,83.6,0.0,NE@2.5,3.1,0.0,0,40.7,42.3,30.11,30.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,22:45,29.5,25.1,85.1,0.0,NE@2.4,3.1,0.0,0,40.5,42.2,30.11,29.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,23:00,29.0,24.7,85.6,0.0,NE@2.3,3.9,0.0,0,40.4,42.2,30.12,29.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,23:15,26.6,22.9,88.8,0.0,W@1.9,3.5,0.0,0,40.2,42.1,30.13,26.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,23:30,26.5,23.4,91.4,0.0,NW@1.6,2.4,0.0,0,40.0,42.1,30.13,26.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,23:45,27.6,25.1,93.1,0.0,NW@1.8,2.4,0.0,0,39.9,42.0,30.14,27.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-21,24:00,27.2,24.8,93.7,0.0,NW@2.5,3.5,0.0,0,39.7,42.0,30.15,26.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,00:15,27.2,24.5,92.6,0.0,NW@3.4,4.9,0.0,0,39.6,42.0,30.16,27.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,00:30,25.6,22.5,91.6,0.0,N @3.1,3.9,0.0,0,39.4,41.9,30.16,25.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,00:45,25.6,23.0,93.5,0.0,NE@2.1,3.1,0.0,0,39.2,41.8,30.15,25.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,01:00,26.6,24.2,93.9,0.0,E@2.6,3.5,0.0,0,39.1,41.8,30.15,26.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,01:15,26.7,23.5,90.7,0.0,E@2.8,4.2,0.0,0,39.0,41.7,30.16,26.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,01:30,25.9,22.6,90.6,0.0,E@2.8,4.2,0.0,0,38.8,41.7,30.16,25.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,01:45,26.5,23.4,91.1,0.0,E@3.5,4.9,0.0,0,38.7,41.6,30.16,26.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,02:00,27.3,24.0,90.3,0.0,E@3.2,4.6,0.0,0,38.6,41.6,30.16,27.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,02:15,27.4,24.5,91.5,0.0,NE@2.4,3.9,0.0,0,38.5,41.5,30.17,27.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,02:30,26.0,23.0,91.9,0.0,N @2.4,3.5,0.0,0,38.4,41.5,30.17,25.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,02:45,24.6,22.1,94.4,0.0,NE@2.4,3.5,0.0,0,38.3,41.4,30.18,24.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,03:00,24.0,21.6,95.2,0.0,NE@1.3,2.8,0.0,0,38.2,41.3,30.18,23.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,03:15,23.0,20.8,96.5,0.0,E@2.1,2.4,0.0,0,38.1,41.3,30.18,22.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,03:30,24.5,22.5,96.5,0.0,NE@1.9,2.4,0.0,0,38.0,41.2,30.19,24.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,03:45,23.0,20.6,95.3,0.0,N @2.8,3.5,0.0,0,37.8,41.2,30.19,22.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,04:00,22.4,19.9,95.3,0.0,N @3.0,4.2,0.0,0,37.7,41.1,30.19,22.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,04:15,23.2,21.1,96.3,0.0,NE@2.4,3.5,0.0,0,37.6,41.0,30.19,23.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,04:30,23.9,21.7,96.1,0.0,NE@1.9,2.8,0.0,0,37.4,41.0,30.19,23.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,04:45,24.3,22.0,95.5,0.0,NE@2.3,3.5,0.0,0,37.3,40.9,30.2,24.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,05:00,23.8,21.0,93.3,0.0,N @3.0,4.2,0.0,0,37.2,40.9,30.2,23.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,05:15,22.9,20.3,94.6,0.0,NE@2.5,3.5,0.0,0,37.1,40.8,30.2,22.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,05:30,22.2,19.8,95.8,0.0,N@1.3,2.8,0.0,0,37.0,40.8,30.2,22.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,05:45,22.1,19.7,95.6,0.0,NW@2.0,3.5,0.0,0,36.9,40.7,30.21,21.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,06:00,23.9,21.9,96.5,0.0,NW@2.7,3.5,0.0,0,36.8,40.6,30.22,23.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,06:15,23.8,21.7,96.2,0.0,NW@1.9,2.4,0.0,0,36.7,40.6,30.22,23.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,06:30,21.5,19.2,96.3,0.0,SW@2.2,2.8,0.0,0,36.6,40.5,30.23,21.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,06:45,20.1,18.0,97.8,0.0,S@0.6,2.1,0.0,0,36.5,40.5,30.23,19.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,07:00,19.2,17.0,97.7,0.0,E@1.9,2.8,0.0,1,36.4,40.4,30.24,19.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,07:15,19.9,18.0,99.2,0.0,NE@2.0,2.8,0.0,5,36.3,40.3,30.25,19.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,07:30,21.1,19.3,98.9,0.0,NE@2.6,3.9,0.0,22,36.2,40.3,30.26,21.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,07:45,23.3,21.3,96.9,0.0,NE@2.7,4.6,0.0,54,36.1,40.2,30.26,23.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,08:00,24.9,22.4,94.1,0.0,NE@3.1,4.2,0.0,85,36.0,40.2,30.26,24.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,08:15,28.3,25.6,91.9,0.0,NE@2.0,3.1,0.0,115,35.9,40.1,30.25,28.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,08:30,31.3,27.7,87.0,0.0,NE@1.5,2.8,0.0,144,35.9,40.1,30.26,31.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,08:45,32.1,28.0,84.7,0.0,NE@2.1,2.8,0.11,173,35.9,40.0,30.27,31.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,09:00,33.1,27.8,80.6,0.0,N@2.2,3.5,0.13,214,36.0,40.0,30.27,32.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,09:15,33.7,27.8,78.7,0.0,NW@2.6,4.2,0.04,241,36.1,39.9,30.28,33.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,09:30,34.8,28.9,78.9,0.0,SW@1.9,3.9,0.07,265,36.2,39.9,30.29,34.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,09:45,34.1,29.2,82.0,0.0,S@4.1,5.7,0.14,288,36.3,39.8,30.3,33.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,10:00,33.8,28.8,81.7,0.0,SW@2.7,4.2,0.08,309,36.5,39.7,30.31,33.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,10:15,34.9,29.0,78.9,0.0,SW@2.5,4.2,0.28,329,36.7,39.7,30.31,34.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,10:30,35.5,29.1,77.2,0.0,SW@3.0,5.3,0.4,348,37.0,39.6,30.31,35.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,10:45,35.7,29.1,76.7,0.0,W@2.9,4.6,0.14,364,37.2,39.6,30.31,35.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,11:00,36.7,29.0,73.3,0.0,SW@3.4,5.7,0.0,377,37.5,39.5,30.31,36.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,11:15,36.8,28.2,70.9,0.0,W@3.2,5.7,0.0,386,37.8,39.5,30.3,36.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,11:30,37.2,28.0,69.1,0.0,NW@3.5,6.7,0.0,392,38.2,39.5,30.31,37.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,11:45,37.8,27.5,66.2,0.0,NW@3.4,6.4,0.0,396,38.5,39.4,30.31,37.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,12:00,39.9,27.9,62.1,0.0,S@2.5,4.9,0.0,397,38.8,39.4,30.31,39.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,12:15,40.5,28.3,61.6,0.0,SE@3.2,6.0,0.0,395,39.2,39.4,30.3,40.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,12:30,41.0,29.5,63.5,0.0,SE@4.2,7.4,0.0,390,39.5,39.4,30.3,40.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,12:45,40.8,30.2,65.6,0.0,SE@4.3,7.8,0.0,380,39.9,39.4,30.3,40.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,13:00,40.9,30.7,66.7,0.0,SE@3.4,5.7,0.0,367,40.2,39.4,30.3,40.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,13:15,41.6,31.0,65.7,0.0,E@3.8,6.4,0.0,351,40.6,39.4,30.29,41.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,13:30,42.3,31.4,65.0,0.0,E@4.3,7.1,0.0,333,40.9,39.4,30.29,42.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,13:45,43.0,31.6,63.9,0.0,E@4.9,7.8,0.0,314,41.1,39.4,30.28,42.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,14:00,43.1,31.3,62.8,0.0,SE@5.0,7.1,0.0,291,41.4,39.5,30.28,42.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,14:15,43.0,31.5,63.8,0.0,SE@5.3,8.5,0.0,265,41.6,39.5,30.28,42.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,14:30,42.0,31.8,66.7,0.0,SE@5.3,8.5,0.0,238,41.8,39.6,30.27,41.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,14:45,41.4,31.6,67.8,0.0,E@5.2,8.9,0.0,208,41.9,39.6,30.27,41.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,15:00,40.3,31.4,70.1,0.0,E@5.3,8.2,0.0,178,42.1,39.7,30.27,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,15:15,40.3,31.5,70.7,0.0,E@4.8,7.8,0.0,146,42.1,39.7,30.27,40.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,15:30,40.0,31.5,71.3,0.0,E@4.4,7.1,0.0,114,42.2,39.8,30.28,39.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,15:45,38.9,31.5,74.4,0.0,E@3.8,6.0,0.0,62,42.2,39.9,30.29,38.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,16:00,37.2,31.0,78.0,0.0,E@3.3,5.3,0.0,45,42.1,39.9,30.29,36.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,16:15,34.4,30.2,84.4,0.0,E@3.3,4.9,0.0,19,42.1,40.0,30.3,34.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,16:30,31.8,29.0,90.0,0.0,E@3.3,5.3,0.0,6,42.0,40.0,30.31,31.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,16:45,29.8,27.9,94.3,0.0,E@4.0,6.0,0.0,2,41.9,40.1,30.31,29.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,17:00,28.6,27.4,97.8,0.0,SE@5.2,7.8,0.0,0,41.7,40.1,30.29,28.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,17:15,28.3,27.4,99.3,0.0,E@5.4,10.7,0.0,0,41.5,40.2,30.29,28.2,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,17:30,28.1,27.3,99.3,0.0,E@5.8,9.9,0.0,0,41.3,40.2,30.29,28.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,17:45,27.6,26.7,99.3,0.0,E@5.8,9.6,0.0,0,41.1,40.3,30.29,27.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,18:00,27.0,26.0,99.3,0.0,SE@4.2,7.4,0.0,0,40.9,40.3,30.29,27.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,18:15,26.8,25.7,99.3,0.0,E@4.6,7.8,0.0,0,40.7,40.3,30.3,26.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,18:30,27.1,26.1,99.3,0.0,E@5.0,6.7,0.0,0,40.6,40.4,30.3,27.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,18:45,26.8,25.7,99.3,0.0,E@4.7,7.4,0.0,0,40.4,40.4,30.3,26.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,19:00,26.1,25.0,99.3,0.0,E@4.8,7.8,0.0,0,40.2,40.4,30.3,26.1,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,19:15,25.7,24.5,99.3,0.0,E@3.9,5.7,0.0,0,40.1,40.4,30.3,25.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,19:30,25.9,24.8,99.3,0.0,NE@2.9,4.2,0.0,0,39.9,40.4,30.31,25.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,19:45,26.1,24.8,98.8,0.0,NE@1.6,3.9,0.0,0,39.8,40.4,30.31,25.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,20:00,23.8,22.3,98.8,0.0,SE@2.0,3.5,0.0,0,39.6,40.4,30.31,23.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,20:15,23.7,22.3,99.2,0.0,SE@2.4,3.5,0.0,0,39.4,40.3,30.31,23.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,20:30,23.5,22.1,99.2,0.0,E@2.4,3.5,0.0,0,39.3,40.3,30.31,23.5,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,20:45,23.1,21.6,99.2,0.0,W@2.5,5.3,0.0,0,39.1,40.3,30.32,23.0,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,21:00,22.8,21.3,99.3,0.0,SW@0.5,2.1,0.0,0,39.0,40.3,30.32,22.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,21:15,22.9,21.4,99.3,0.0,SW@0.6,2.1,0.0,0,38.8,40.3,30.33,22.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,21:30,23.6,22.1,99.3,0.0,E@1.8,2.4,0.0,0,38.7,40.3,30.32,23.6,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,21:45,24.3,22.9,99.3,0.0,E@2.7,4.2,0.0,0,38.6,40.2,30.32,24.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,22:00,24.3,23.0,99.3,0.0,E@2.9,5.3,0.0,0,38.5,40.2,30.32,24.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,22:15,23.9,22.5,99.3,0.0,E@3.2,5.7,0.0,0,38.4,40.2,30.31,23.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,22:30,23.4,21.9,99.2,0.0,E@3.1,4.9,0.0,0,38.3,40.2,30.31,23.4,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,22:45,22.7,21.1,99.2,0.0,SE@2.6,4.2,0.0,0,38.2,40.1,30.32,22.7,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,23:00,22.8,21.3,99.2,0.0,E@1.9,3.1,0.0,0,38.1,40.1,30.32,22.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,23:15,22.9,21.4,99.3,0.0,SE@2.0,3.1,0.0,0,38.0,40.1,30.32,22.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,23:30,23.3,21.8,99.3,0.0,E@2.1,3.1,0.0,0,38.0,40.0,30.32,23.3,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,23:45,22.8,21.3,99.3,0.0,E@2.9,4.2,0.0,0,37.9,40.0,30.32,22.8,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782
+2019-11-22,24:00,22.9,21.4,99.3,0.0,E@2.6,3.9,0.0,0,37.8,40.0,30.32,22.9,"Grandview (Grandview NE), Grandview, Benton County",300093,Grandview,2020-01-21 19:08:43.393782

@@ -1,43 +1,672 @@
-Date,Time PST,Air Temp °F, 2<sup>nd</sup> Air Temp °F, Dew Point °F, Rel Hum %, Leaf Wet u., Wind Dir @ Speed mph, Wind Gust mph, 8 in. Soil Tmp °F, Tot Prec in, Solar Rad W/m²,Location,Station ID,Station Name,Download Timestamp
-2019-11-27,00:15,31.9,32.0,20.3,62.0,0.0,N @4.1,8.2,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,00:30,32.2,32.3,20.5,61.7,0.0,N@6.2,10.3,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,00:45,32.2,32.3,20.4,61.2,0.0,N@6.9,12.1,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,01:00,32.7,32.8,20.2,59.5,0.0,N@7.1,12.1,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,01:15,32.7,32.8,20.4,59.9,0.0,NW@6.9,10.7,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,01:30,32.8,32.8,20.4,59.8,0.0,NW@8.2,13.2,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,01:45,32.9,32.9,20.2,59.2,0.0,NW@9.8,16.0,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,02:00,32.9,33.0,20.2,59.1,0.0,NW@9.3,15.0,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,02:15,32.9,32.9,20.2,59.1,0.0,NW@8.9,15.3,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,02:30,33.0,33.0,20.2,58.9,0.0,NW@10.2,16.7,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,02:45,32.9,32.9,19.8,58.1,0.0,NW@10.0,16.0,36.5,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,03:00,32.8,32.8,19.7,58.2,0.0,NW@9.8,15.7,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,03:15,32.7,32.7,19.7,58.4,0.0,NW@7.0,11.7,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,03:30,32.5,32.6,18.8,56.4,0.0,NW@5.8,9.9,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,03:45,32.4,32.5,18.5,56.0,0.0,NW@7.0,11.7,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,04:00,32.4,32.4,18.6,56.4,0.0,NW@7.0,13.5,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,04:15,32.4,32.5,18.6,56.3,0.0,NW@6.1,11.0,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,04:30,32.4,32.4,17.7,54.0,0.0,NW@5.8,14.6,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,04:45,32.4,32.5,17.0,52.6,0.0,NW@6.0,9.9,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,05:00,32.4,32.5,17.4,53.4,0.0,NW@6.6,11.7,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,05:15,32.6,32.7,17.7,53.7,0.0,NW@7.8,14.6,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,05:30,32.7,32.8,17.1,52.1,0.0,NW@6.9,11.0,36.4,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,05:45,32.8,32.8,16.8,51.3,0.0,NW@7.5,12.1,36.3,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,06:00,32.8,32.8,17.1,52.0,0.0,NW@7.2,14.2,36.3,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,06:15,33.2,33.2,15.9,48.7,0.0,NW@9.4,14.2,36.3,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,06:30,33.2,33.2,15.8,48.5,0.0,NW@9.2,13.5,36.3,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,06:45,33.2,33.3,15.3,47.3,0.0,NW@10.6,16.7,36.3,0.0,0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,07:00,33.2,33.3,14.7,46.0,0.0,NW@9.2,14.2,36.3,0.0,1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,07:15,33.2,33.3,13.9,44.5,0.0,NW@9.1,15.3,36.3,0.0,2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,07:30,33.3,33.3,13.8,44.1,0.0,NW@9.3,14.6,36.3,0.0,2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,07:45,33.5,33.6,13.9,44.0,0.0,NW@9.3,16.4,36.3,0.0,3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,08:00,33.6,33.6,13.5,43.1,0.0,NW@9.6,14.2,36.3,0.0,7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,08:15,33.6,33.6,13.4,42.9,0.0,NW@10.0,15.0,36.3,0.0,11,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,08:30,33.7,33.7,13.5,42.9,0.0,NW@10.1,16.4,36.2,0.0,19,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,08:45,33.8,33.8,13.7,43.1,0.0,NW@11.2,16.4,36.2,0.0,29,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,09:00,33.9,33.9,13.3,42.1,0.0,NW@11.3,20.0,36.2,0.0,42,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,09:15,34.0,34.1,12.8,41.0,0.0,NW@11.7,17.8,36.2,0.0,63,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,09:30,34.2,34.2,12.4,40.0,0.0,NW@11.9,19.2,36.2,0.0,77,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,09:45,34.3,34.3,12.3,39.7,0.0,NW@10.7,16.7,36.2,0.0,72,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,10:00,34.5,34.4,12.3,39.5,0.0,NW@10.9,17.5,36.2,0.0,85,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,10:15,34.7,34.7,12.1,38.7,0.0,NW@11.1,16.4,36.2,0.0,98,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
-2019-11-27,10:30,34.9,34.9,11.5,37.3,0.0,NW@12.2,17.8,36.2,0.0,93,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2019-11-27 10:46:14.891524
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-11-27,00:15,31.9,20.3,62.0,0.0,N @4.1,8.2,0.0,0,36.5,32.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,00:30,32.2,20.5,61.7,0.0,N@6.2,10.3,0.0,0,36.5,32.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,00:45,32.2,20.4,61.2,0.0,N@6.9,12.1,0.0,0,36.5,32.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,01:00,32.7,20.2,59.5,0.0,N@7.1,12.1,0.0,0,36.5,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,01:15,32.7,20.4,59.9,0.0,NW@6.9,10.7,0.0,0,36.5,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,01:30,32.8,20.4,59.8,0.0,NW@8.2,13.2,0.0,0,36.5,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,01:45,32.9,20.2,59.2,0.0,NW@9.8,16.0,0.0,0,36.5,32.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,02:00,32.9,20.2,59.1,0.0,NW@9.3,15.0,0.0,0,36.5,33.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,02:15,32.9,20.2,59.1,0.0,NW@8.9,15.3,0.0,0,36.5,32.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,02:30,33.0,20.2,58.9,0.0,NW@10.2,16.7,0.0,0,36.5,33.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,02:45,32.9,19.8,58.1,0.0,NW@10.0,16.0,0.0,0,36.5,32.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,03:00,32.8,19.7,58.2,0.0,NW@9.8,15.7,0.0,0,36.4,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,03:15,32.7,19.7,58.4,0.0,NW@7.0,11.7,0.0,0,36.4,32.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,03:30,32.5,18.8,56.4,0.0,NW@5.8,9.9,0.0,0,36.4,32.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,03:45,32.4,18.5,56.0,0.0,NW@7.0,11.7,0.0,0,36.4,32.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,04:00,32.4,18.6,56.4,0.0,NW@7.0,13.5,0.0,0,36.4,32.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,04:15,32.4,18.6,56.3,0.0,NW@6.1,11.0,0.0,0,36.4,32.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,04:30,32.4,17.7,54.0,0.0,NW@5.8,14.6,0.0,0,36.4,32.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,04:45,32.4,17.0,52.6,0.0,NW@6.0,9.9,0.0,0,36.4,32.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,05:00,32.4,17.4,53.4,0.0,NW@6.6,11.7,0.0,0,36.4,32.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,05:15,32.6,17.7,53.7,0.0,NW@7.8,14.6,0.0,0,36.4,32.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,05:30,32.7,17.1,52.1,0.0,NW@6.9,11.0,0.0,0,36.4,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,05:45,32.8,16.8,51.3,0.0,NW@7.5,12.1,0.0,0,36.3,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,06:00,32.8,17.1,52.0,0.0,NW@7.2,14.2,0.0,0,36.3,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,06:15,33.2,15.9,48.7,0.0,NW@9.4,14.2,0.0,0,36.3,33.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,06:30,33.2,15.8,48.5,0.0,NW@9.2,13.5,0.0,0,36.3,33.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,06:45,33.2,15.3,47.3,0.0,NW@10.6,16.7,0.0,0,36.3,33.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,07:00,33.2,14.7,46.0,0.0,NW@9.2,14.2,0.0,1,36.3,33.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,07:15,33.2,13.9,44.5,0.0,NW@9.1,15.3,0.0,2,36.3,33.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,07:30,33.3,13.8,44.1,0.0,NW@9.3,14.6,0.0,2,36.3,33.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,07:45,33.5,13.9,44.0,0.0,NW@9.3,16.4,0.0,3,36.3,33.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,08:00,33.6,13.5,43.1,0.0,NW@9.6,14.2,0.0,7,36.3,33.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,08:15,33.6,13.4,42.9,0.0,NW@10.0,15.0,0.0,11,36.3,33.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,08:30,33.7,13.5,42.9,0.0,NW@10.1,16.4,0.0,19,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,08:45,33.8,13.7,43.1,0.0,NW@11.2,16.4,0.0,29,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,09:00,33.9,13.3,42.1,0.0,NW@11.3,20.0,0.0,42,36.2,33.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,09:15,34.0,12.8,41.0,0.0,NW@11.7,17.8,0.0,63,36.2,34.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,09:30,34.2,12.4,40.0,0.0,NW@11.9,19.2,0.0,77,36.2,34.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,09:45,34.3,12.3,39.7,0.0,NW@10.7,16.7,0.0,72,36.2,34.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,10:00,34.5,12.3,39.5,0.0,NW@10.9,17.5,0.0,85,36.2,34.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,10:15,34.7,12.1,38.7,0.0,NW@11.1,16.4,0.0,98,36.2,34.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,10:30,34.9,11.5,37.3,0.0,NW@12.2,17.8,0.0,93,36.2,34.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,10:45,35.1,11.5,37.0,0.0,NW@10.6,17.8,0.0,98,36.2,35.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,11:00,35.4,11.3,36.2,0.0,NW@11.1,17.5,0.0,96,36.2,35.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,11:15,35.5,11.3,36.2,0.0,NW@10.4,16.4,0.0,94,36.2,35.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,11:30,35.8,11.4,35.9,0.0,NW@10.5,18.2,0.0,102,36.2,35.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,11:45,36.0,11.4,35.7,0.0,NW@11.2,19.6,0.0,105,36.2,35.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,12:00,36.3,11.7,35.6,0.0,NW@9.0,15.7,0.0,121,36.2,36.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,12:15,36.5,11.9,35.8,0.0,NW@9.4,16.7,0.0,121,36.1,36.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,12:30,36.5,12.0,35.8,0.0,NW@9.8,14.6,0.0,124,36.1,36.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,12:45,36.5,12.1,36.1,0.0,NW@8.6,12.8,0.0,121,36.1,36.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,13:00,36.4,12.5,36.7,0.0,NW@9.4,17.1,0.0,109,36.1,36.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,13:15,36.4,12.8,37.3,0.0,NW@8.4,13.5,0.0,102,36.1,36.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,13:30,36.4,12.5,36.8,0.0,N@7.3,13.5,0.0,87,36.1,36.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,13:45,36.2,12.6,37.3,0.0,NW@8.5,16.0,0.0,65,36.1,36.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,14:00,36.1,12.6,37.3,0.0,NW@8.4,13.9,0.0,63,36.1,36.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,14:15,36.3,12.0,36.2,0.0,NW@9.1,13.5,0.0,69,36.1,36.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,14:30,36.3,11.6,35.6,0.0,NW@7.4,13.2,0.0,59,36.1,36.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,14:45,36.3,11.8,35.9,0.0,NW@7.5,15.3,0.0,62,36.1,36.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,15:00,36.3,11.9,36.0,0.0,NW@8.3,15.7,0.0,48,36.1,36.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,15:15,36.2,11.5,35.5,0.0,NW@7.2,12.8,0.0,34,36.1,36.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,15:30,36.1,11.8,36.1,0.0,N@6.4,11.7,0.0,27,36.1,36.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,15:45,35.8,11.8,36.6,0.0,N@4.6,9.9,0.0,15,36.1,35.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,16:00,35.6,12.0,37.2,0.0,N@3.9,7.8,0.0,7,36.1,35.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,16:15,35.3,12.3,38.1,0.0,N@4.8,8.9,0.0,2,36.1,35.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,16:30,35.3,12.3,38.2,0.0,NW@6.0,9.2,0.0,2,36.2,35.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,16:45,35.1,12.6,38.9,0.0,NW@5.8,9.6,0.0,1,36.2,35.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,17:00,34.9,12.4,39.0,0.0,N@2.7,7.4,0.0,0,36.2,34.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,17:15,34.8,12.7,39.6,0.0,NW@4.5,7.8,0.0,0,36.2,34.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,17:30,34.7,12.8,39.9,0.0,NW@4.5,7.4,0.0,0,36.2,34.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,17:45,34.7,12.1,38.7,0.0,NW@4.8,8.2,0.0,0,36.2,34.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,18:00,34.3,11.7,38.5,0.0,NW@5.6,9.2,0.0,0,36.2,34.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,18:15,33.9,10.9,37.9,0.0,NW@5.6,9.6,0.0,0,36.2,34.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,18:30,33.6,10.2,37.1,0.0,N@4.7,7.1,0.0,0,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,18:45,33.3,9.8,36.9,0.0,N @4.6,9.2,0.0,0,36.2,33.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,19:00,33.1,9.7,37.0,0.0,N@4.3,7.1,0.0,0,36.2,33.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,19:15,33.6,9.3,35.7,0.0,N @4.9,7.8,0.0,0,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,19:30,33.3,9.2,36.0,0.0,N@5.2,9.9,0.0,0,36.2,33.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,19:45,33.4,9.2,35.8,0.0,N@4.9,9.6,0.0,0,36.2,33.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,20:00,33.6,9.1,35.3,0.0,N@4.4,8.5,0.0,0,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,20:15,33.8,9.1,35.1,0.0,N@4.7,9.2,0.0,0,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,20:30,33.8,9.1,35.1,0.0,NW@6.1,11.0,0.0,0,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,20:45,33.5,8.9,35.3,0.0,N@4.6,8.2,0.0,0,36.2,33.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,21:00,33.7,9.1,35.2,0.0,N@5.1,7.8,0.0,0,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,21:15,33.8,8.9,34.9,0.0,N@5.1,8.5,0.0,0,36.2,33.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,21:30,33.7,8.7,34.6,0.0,N@2.4,8.2,0.0,0,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,21:45,33.7,8.5,34.2,0.0,N @3.5,6.7,0.0,0,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,22:00,33.6,8.6,34.7,0.0,N@4.7,9.2,0.0,0,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,22:15,33.7,8.6,34.5,0.0,N@5.3,8.5,0.0,0,36.2,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,22:30,34.0,8.4,33.7,0.0,N@5.1,9.6,0.0,0,36.2,34.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,22:45,33.9,8.4,34.0,0.0,N@4.1,8.2,0.0,0,36.2,33.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,23:00,34.0,8.4,33.7,0.0,N@4.7,11.4,0.0,0,36.2,34.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,23:15,33.7,8.4,34.3,0.0,N@3.4,6.7,0.0,0,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,23:30,33.8,8.1,33.6,0.0,N@4.0,9.2,0.0,0,36.2,33.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-27,23:45,33.7,8.3,34.0,0.0,N@4.4,8.2,0.0,0,36.2,33.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,00:15,33.2,8.0,34.2,0.0,N@4.1,6.7,0.0,0,36.2,33.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,00:30,33.0,7.8,34.2,0.0,N@4.7,7.4,0.0,0,36.2,33.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,00:45,32.9,7.7,34.2,0.0,N @4.0,8.9,0.0,0,36.1,33.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,01:00,33.0,7.6,33.8,0.0,N@4.8,7.8,0.0,0,36.1,33.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,01:15,32.7,7.7,34.4,0.0,N@4.2,6.7,0.0,0,36.1,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,01:30,32.6,7.7,34.6,0.0,N@3.3,8.2,0.0,0,36.1,32.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,01:45,32.4,7.7,34.9,0.0,N@4.0,6.4,0.0,0,36.1,32.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,02:00,32.3,7.5,34.7,0.0,N@4.3,6.7,0.0,0,36.1,32.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,02:15,32.2,7.4,34.7,0.0,N @4.8,8.2,0.0,0,36.1,32.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,02:30,32.0,7.5,35.3,0.0,N@4.2,6.7,0.0,0,36.1,32.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,02:45,31.6,7.1,35.2,0.0,N @4.4,6.4,0.0,0,36.1,31.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,03:00,31.1,8.5,38.5,0.0,N@4.0,7.4,0.0,0,36.1,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,03:15,31.3,10.7,42.0,0.0,NW@5.9,10.7,0.0,0,36.1,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,03:30,31.5,10.4,41.1,0.0,NW@7.4,12.1,0.0,0,36.1,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,03:45,31.3,10.3,41.3,0.0,NW@6.9,11.4,0.0,0,36.1,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,04:00,31.2,10.2,41.3,0.0,NW@6.4,12.4,0.0,0,36.1,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,04:15,31.3,10.0,40.9,0.0,NW@6.1,11.7,0.0,0,36.1,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,04:30,31.0,10.1,41.6,0.0,N@5.9,11.0,0.0,0,36.1,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,04:45,30.6,10.1,42.3,0.0,N @5.1,10.7,0.0,0,36.1,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,05:00,30.4,9.9,42.3,0.0,N @3.8,10.7,0.0,0,36.0,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,05:15,30.4,9.7,42.0,0.0,N@4.9,12.1,0.0,0,36.0,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,05:30,30.4,10.0,42.6,0.0,NW@5.8,12.1,0.0,0,36.0,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,05:45,30.2,9.9,42.8,0.0,N@5.7,9.9,0.0,0,36.0,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,06:00,30.0,10.1,43.5,0.0,N@5.9,12.4,0.0,0,36.0,30.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,06:15,29.6,9.9,43.8,0.0,N@6.2,11.7,0.0,0,36.0,29.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,06:30,29.2,9.7,44.3,0.0,N @5.6,9.2,0.0,0,36.0,29.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,06:45,29.0,9.7,44.7,0.0,N @4.3,9.9,0.0,0,36.0,29.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,07:00,28.9,8.5,42.7,0.0,N @4.6,8.9,0.0,1,36.0,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,07:15,28.6,8.6,43.4,0.0,N @4.7,9.6,0.0,2,36.0,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,07:30,28.7,9.1,44.2,0.0,N @1.8,8.5,0.0,3,36.0,28.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,07:45,28.2,9.3,45.8,0.0,N @1.0,5.3,0.0,9,36.0,28.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,08:00,28.1,9.1,45.4,0.0,N@3.1,9.2,0.0,16,35.9,28.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,08:15,28.9,9.3,44.2,0.0,NW@5.5,10.3,0.0,22,35.9,28.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,08:30,29.0,9.3,44.0,0.0,N@5.2,11.7,0.0,37,35.9,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,08:45,29.8,9.5,42.8,0.0,N @2.8,10.3,0.0,105,35.9,29.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,09:00,30.5,9.6,41.6,0.0,N@3.6,9.6,0.0,142,35.9,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,09:15,31.0,10.1,41.5,0.0,NW@6.6,14.2,0.0,169,35.9,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,09:30,31.5,9.7,39.8,0.0,NW@7.0,12.4,0.0,196,35.9,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,09:45,31.5,9.9,40.0,0.0,NW@8.6,13.2,0.0,180,35.8,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,10:00,32.5,10.4,39.2,0.0,NW@8.2,15.0,0.0,219,35.8,32.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,10:15,31.3,9.4,39.7,0.0,NW@8.2,13.9,0.0,98,35.8,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,10:30,32.3,9.5,38.1,0.0,NW@8.5,13.2,0.0,198,35.8,32.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,10:45,32.8,9.5,37.1,0.0,NW@9.0,14.6,0.0,216,35.8,32.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,11:00,32.8,9.6,37.3,0.0,NW@9.7,15.3,0.0,229,35.8,32.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,11:15,33.0,9.9,37.6,0.0,NW@10.5,16.7,0.0,245,35.8,32.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,11:30,33.1,9.8,37.2,0.0,NW@10.7,16.0,0.0,245,35.8,32.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,11:45,33.6,10.3,37.3,0.0,NW@10.7,16.7,0.0,284,35.8,33.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,12:00,34.1,10.1,36.4,0.0,NW@10.8,17.5,0.0,309,35.7,33.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,12:15,34.7,10.2,35.6,0.0,NW@9.6,15.0,0.0,312,35.7,34.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,12:30,34.9,9.6,34.4,0.0,NW@10.8,15.7,0.0,307,35.7,34.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,12:45,35.2,9.0,33.0,0.0,NW@10.5,15.3,0.0,298,35.7,34.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,13:00,35.3,8.5,32.2,0.0,NW@11.0,16.4,0.0,287,35.7,35.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,13:15,35.4,8.7,32.3,0.0,NW@11.1,17.1,0.0,274,35.7,35.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,13:30,35.5,8.0,31.2,0.0,NW@11.5,16.0,0.0,258,35.7,35.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,13:45,35.5,7.6,30.6,0.0,NW@11.5,17.1,0.0,240,35.7,35.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,14:00,35.5,7.7,30.8,0.0,NW@11.5,16.7,0.0,219,35.7,35.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,14:15,35.5,7.6,30.5,0.0,NW@10.8,15.7,0.0,195,35.7,35.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,14:30,35.3,7.6,30.9,0.0,NW@10.8,16.4,0.0,171,35.7,35.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,14:45,35.1,8.4,32.3,0.0,NW@9.4,15.7,0.0,145,35.7,34.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,15:00,34.2,9.4,35.0,0.0,NW@8.4,13.5,0.0,119,35.7,34.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,15:15,33.8,9.8,36.2,0.0,NW@7.5,13.2,0.0,92,35.7,33.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,15:30,33.2,10.5,38.2,0.0,W@5.4,9.9,0.0,64,35.7,33.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,15:45,31.7,9.9,39.8,0.0,NW@4.4,8.2,0.0,18,35.7,31.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,16:00,30.7,9.8,41.7,0.0,NW@3.8,6.7,0.0,11,35.7,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,16:15,30.3,9.5,41.8,0.0,NW@4.2,9.6,0.0,5,35.7,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,16:30,30.2,8.6,40.3,0.0,N @5.2,8.2,0.0,2,35.7,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,16:45,30.1,8.6,40.5,0.0,N @5.8,9.6,0.0,1,35.7,30.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,17:00,30.2,8.5,40.0,0.0,N @5.4,11.4,0.0,0,35.8,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,17:15,30.0,8.5,40.6,0.0,N @4.9,8.5,0.0,0,35.7,30.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,17:30,29.7,8.6,41.2,0.0,N @5.6,9.2,0.0,0,35.8,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,17:45,29.5,8.6,41.6,0.0,N @3.4,8.5,0.0,0,35.8,29.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,18:00,28.9,8.7,42.9,0.0,N @3.9,7.4,0.0,0,35.8,29.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,18:15,28.9,8.7,43.0,0.0,N @3.7,7.4,0.0,0,35.8,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,18:30,28.8,8.7,43.4,0.0,N @4.0,8.2,0.0,0,35.8,28.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,18:45,28.7,8.8,43.5,0.0,NE@3.3,7.4,0.0,0,35.8,28.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,19:00,28.2,8.9,44.8,0.0,N @4.0,7.1,0.0,0,35.8,28.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,19:15,28.1,9.2,45.6,0.0,N @4.9,7.8,0.0,0,35.8,28.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,19:30,28.2,9.3,45.8,0.0,N @4.5,8.2,0.0,0,35.8,28.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,19:45,28.0,9.6,46.6,0.0,N @4.5,9.2,0.0,0,35.8,28.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,20:00,27.7,9.2,46.4,0.0,NE@2.7,6.4,0.0,0,35.8,27.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,20:15,26.8,9.0,48.2,0.0,NE@2.7,6.7,0.0,0,35.8,26.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,20:30,26.8,9.2,48.5,0.0,N @3.4,6.4,0.0,0,35.7,26.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,20:45,26.9,9.2,48.4,0.0,NE@1.2,4.6,0.0,0,35.7,26.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,21:00,26.5,9.2,49.2,0.0,NE@1.1,5.7,0.0,0,35.7,26.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,21:15,26.3,9.3,50.0,0.0,NE@2.0,6.0,0.0,0,35.7,26.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,21:30,25.9,9.3,50.9,0.0,N @1.9,6.0,0.0,0,35.7,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,21:45,25.5,9.5,52.1,0.0,N @2.2,6.7,0.0,0,35.7,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,22:00,25.1,9.4,52.9,0.0,N @1.9,4.9,0.0,0,35.7,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,22:15,24.6,9.1,53.7,0.0,NE@0.5,3.5,0.0,0,35.7,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,22:30,25.1,9.6,53.6,0.0,N @4.2,6.7,0.0,0,35.7,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,22:45,25.1,9.7,53.7,0.0,N @4.7,6.7,0.0,0,35.7,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,23:00,25.0,9.7,54.2,0.0,N @4.2,6.7,0.0,0,35.6,25.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,23:15,24.9,9.7,54.3,0.0,N @3.8,7.8,0.0,0,35.6,25.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,23:30,24.6,9.5,54.7,0.0,N @2.1,6.4,0.0,0,35.6,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,23:45,24.6,9.8,55.3,0.0,N @3.4,7.4,0.0,0,35.6,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-28,24:00,24.5,9.6,55.1,0.0,N @3.2,6.4,0.0,0,35.6,24.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,00:15,24.2,9.4,55.4,0.0,N @2.9,6.7,0.0,0,35.6,24.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,00:30,24.1,9.5,56.0,0.0,N @3.8,7.8,0.0,0,35.6,24.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,00:45,23.8,9.6,56.8,0.0,NE@1.9,5.7,0.0,0,35.5,23.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,01:00,23.9,9.5,56.2,0.0,N @1.2,5.3,0.0,0,35.5,24.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,01:15,23.2,9.1,57.1,0.0,N @1.9,6.0,0.0,0,35.5,23.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,01:30,23.1,9.4,58.2,0.0,NE@2.5,5.7,0.0,0,35.5,23.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,01:45,23.1,9.5,58.5,0.0,N @3.3,6.7,0.0,0,35.5,23.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,02:00,23.1,9.6,58.9,0.0,NE@3.4,7.4,0.0,0,35.5,23.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,02:15,23.2,9.6,58.4,0.0,N @4.1,7.8,0.0,0,35.4,23.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,02:30,23.4,9.9,59.0,0.0,N @5.4,11.0,0.0,0,35.4,23.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,02:45,23.5,10.1,59.0,0.0,N @4.9,8.9,0.0,0,35.4,23.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,03:00,23.3,10.0,59.3,0.0,N @5.2,9.6,0.0,0,35.4,23.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,03:15,22.9,10.0,60.4,0.0,N @4.5,8.9,0.0,0,35.4,23.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,03:30,22.5,9.6,60.5,0.0,NE@2.9,5.3,0.0,0,35.4,22.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,03:45,21.7,7.8,57.9,0.0,NE@4.9,8.2,0.0,0,35.3,21.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,04:00,21.9,8.1,58.2,0.0,NE@3.9,7.4,0.0,0,35.3,22.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,04:15,21.5,8.1,59.5,0.0,NE@3.4,6.0,0.0,0,35.3,21.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,04:30,21.3,8.4,60.7,0.0,NE@2.8,5.3,0.0,0,35.3,21.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,04:45,21.2,8.0,59.8,0.0,NE@4.7,8.2,0.0,0,35.3,21.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,05:00,21.5,8.4,60.1,0.0,NE@3.5,6.0,0.0,0,35.2,21.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,05:15,20.9,8.4,61.8,0.0,NE@2.2,5.7,0.0,0,35.2,20.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,05:30,21.0,8.8,62.6,0.0,NE@2.6,5.7,0.0,0,35.2,21.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,05:45,20.5,8.7,63.9,0.0,NE@3.3,4.9,0.01,0,35.2,20.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,06:00,20.9,9.0,63.8,0.0,N @3.0,5.7,0.01,0,35.2,21.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,06:15,21.5,9.7,63.7,0.0,N @4.0,7.4,0.0,0,35.2,21.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,06:30,21.2,9.4,63.8,0.0,NE@3.7,6.7,0.01,0,35.1,21.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,06:45,21.6,9.5,62.9,0.0,N @4.7,9.9,0.0,0,35.1,21.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,07:00,21.6,9.6,63.3,0.0,N @5.0,9.2,0.0,0,35.1,21.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,07:15,20.8,9.1,64.0,0.0,NE@4.0,7.1,0.01,2,35.1,20.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,07:30,20.6,8.6,63.1,0.0,NE@3.0,7.1,0.0,3,35.1,20.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,07:45,21.2,9.4,63.7,0.0,N @2.7,7.8,0.0,10,35.0,21.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,08:00,21.5,9.8,64.0,0.0,N @4.2,9.9,0.0,17,35.0,21.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,08:15,21.9,9.9,63.0,0.0,N @5.4,9.2,0.0,53,35.0,22.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,08:30,21.8,8.6,59.8,0.0,NE@4.8,7.8,0.0,81,35.0,21.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,08:45,22.8,9.4,59.0,0.0,NE@5.3,10.7,0.0,107,34.9,22.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,09:00,23.7,9.6,57.2,0.0,NE@2.8,5.3,0.0,133,34.9,23.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,09:15,24.6,10.5,57.1,0.0,NE@4.5,9.6,0.0,157,34.9,24.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,09:30,24.6,10.2,56.1,0.0,E@5.0,8.9,0.0,184,34.9,24.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,09:45,25.5,11.3,56.6,0.0,W@4.3,8.5,0.0,207,34.8,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,10:00,26.3,10.8,53.5,0.0,S@2.5,5.7,0.0,232,34.8,26.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,10:15,26.5,11.4,54.3,0.0,N@1.5,8.9,0.0,183,34.8,26.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,10:30,26.7,11.4,53.7,0.0,N@5.9,17.8,0.0,213,34.8,26.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,10:45,27.3,11.5,52.5,0.0,NW@8.9,15.7,0.0,258,34.8,27.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,11:00,28.0,11.5,50.8,0.0,NW@9.5,16.0,0.0,290,34.7,27.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,11:15,28.0,11.0,49.8,0.0,NW@10.1,17.5,0.0,299,34.7,27.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,11:30,28.6,11.5,49.6,0.0,NW@8.9,14.6,0.0,304,34.7,28.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,11:45,28.7,11.7,49.7,0.0,NW@9.2,15.7,0.0,308,34.7,28.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,12:00,29.0,11.0,47.6,0.0,NW@11.1,16.0,0.0,308,34.7,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,12:15,29.5,11.7,48.0,0.0,NW@9.4,17.5,0.0,306,34.7,29.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,12:30,29.3,11.9,48.7,0.0,NW@9.1,15.7,0.0,301,34.6,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,12:45,29.7,11.7,47.5,0.0,NW@10.1,19.2,0.0,293,34.6,29.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,13:00,29.8,12.2,48.2,0.0,NW@9.5,16.0,0.0,282,34.6,29.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,13:15,30.2,12.2,47.2,0.0,NW@9.3,18.9,0.0,270,34.6,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,13:30,30.3,11.9,46.4,0.0,NW@10.5,18.2,0.0,255,34.6,30.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,13:45,30.3,12.1,46.8,0.0,NW@10.3,17.1,0.0,237,34.6,30.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,14:00,30.2,12.1,47.0,0.0,W@9.0,16.7,0.0,216,34.6,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,14:15,30.1,12.3,47.7,0.0,NW@10.7,19.2,0.0,194,34.6,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,14:30,30.0,11.9,47.1,0.0,NW@8.9,15.7,0.0,170,34.6,29.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,14:45,30.1,11.8,46.7,0.0,NW@8.7,14.6,0.0,145,34.6,29.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,15:00,30.2,12.0,46.9,0.0,NW@6.8,14.6,0.0,118,34.6,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,15:15,29.9,11.5,46.5,0.0,NW@6.5,11.7,0.0,91,34.6,29.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,15:30,29.4,11.2,47.1,0.0,NW@5.9,10.3,0.0,61,34.6,29.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,15:45,28.0,10.8,49.3,0.0,N@5.2,11.4,0.0,18,34.6,28.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,16:00,27.2,10.8,51.1,0.0,N @5.2,12.1,0.0,10,34.6,27.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,16:15,26.8,11.1,53.0,0.0,N @7.1,11.4,0.0,4,34.6,26.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,16:30,26.5,11.1,53.7,0.0,N @7.1,10.7,0.0,2,34.6,26.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,16:45,26.0,11.1,54.9,0.0,N@6.7,10.7,0.0,1,34.6,26.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,17:00,26.2,11.2,54.7,0.0,N@7.7,12.8,0.0,0,34.6,26.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,17:15,25.9,11.0,54.9,0.0,N@6.2,10.7,0.0,0,34.6,25.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,17:30,25.8,11.1,55.3,0.0,N@6.7,10.7,0.0,0,34.6,25.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,17:45,25.7,11.2,55.7,0.0,N@7.3,11.0,0.0,0,34.6,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,18:00,25.7,11.4,56.4,0.0,N@6.9,11.0,0.0,0,34.6,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,18:15,25.6,11.8,57.6,0.0,N@7.5,11.4,0.0,0,34.6,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,18:30,25.1,11.2,57.6,0.0,N @4.4,7.4,0.0,0,34.6,25.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,18:45,24.9,11.3,58.3,0.0,N @5.1,8.5,0.0,0,34.6,25.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,19:00,25.0,11.9,59.5,0.0,N@6.5,13.5,0.0,0,34.5,25.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,19:15,24.9,12.0,60.1,0.0,N@6.3,9.9,0.0,0,34.5,25.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,19:30,24.9,12.1,60.3,0.0,N@3.9,7.4,0.0,0,34.5,25.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,19:45,24.3,11.2,59.6,0.0,N @3.8,7.4,0.0,0,34.5,24.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,20:00,24.8,11.4,58.7,0.0,NE@4.4,8.2,0.0,0,34.5,24.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,20:15,25.1,11.3,57.8,0.0,N @2.3,8.9,0.0,0,34.5,25.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,20:30,24.6,10.5,57.1,0.0,NE@4.8,7.8,0.0,0,34.5,24.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,20:45,25.2,11.6,58.3,0.0,NE@4.1,9.6,0.0,0,34.5,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,21:00,25.3,12.1,59.2,0.0,N@3.8,8.5,0.0,0,34.5,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,21:15,25.2,12.2,59.6,0.0,N @5.2,7.1,0.0,0,34.5,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,21:30,25.3,12.2,59.5,0.0,NE@4.4,9.2,0.0,0,34.5,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,21:45,25.2,12.2,59.6,0.0,NE@2.6,7.8,0.0,0,34.5,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,22:00,25.1,12.7,61.5,0.0,N@4.1,6.7,0.0,0,34.5,25.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,22:15,25.2,12.4,60.5,0.0,N@5.4,8.2,0.0,0,34.5,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,22:30,25.2,12.5,60.7,0.0,N @5.8,10.7,0.0,0,34.4,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,22:45,25.1,12.5,60.8,0.0,N @4.2,10.3,0.0,0,34.4,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,23:00,25.1,12.7,61.4,0.0,N@4.5,8.9,0.0,0,34.4,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,23:15,25.3,12.6,60.7,0.0,N@5.0,9.2,0.0,0,34.4,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,23:30,25.4,12.7,60.6,0.0,N@5.6,8.9,0.0,0,34.4,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,23:45,25.4,12.9,61.1,0.0,N@5.3,9.9,0.0,0,34.4,25.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-29,24:00,25.4,13.0,61.5,0.0,N@3.9,7.8,0.0,0,34.4,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,00:15,25.3,13.3,62.4,0.0,NW@4.8,8.5,0.0,0,34.4,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,00:30,25.4,13.1,61.7,0.0,N@4.8,8.5,0.0,0,34.4,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,00:45,25.4,12.7,60.6,0.0,N @4.8,8.9,0.0,0,34.4,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,01:00,25.4,12.8,60.9,0.0,N@1.7,4.6,0.0,0,34.3,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,01:15,25.2,12.9,61.7,0.0,N @2.4,7.1,0.0,0,34.3,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,01:30,25.0,12.6,61.4,0.0,N @1.3,5.3,0.0,0,34.3,25.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,01:45,25.2,12.9,61.6,0.0,NE@4.3,6.7,0.0,0,34.3,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,02:00,25.4,13.1,61.8,0.0,N @3.4,6.7,0.0,0,34.3,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,02:15,25.4,13.0,61.3,0.0,N@3.7,7.1,0.0,0,34.3,25.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,02:30,25.5,13.1,61.3,0.0,N@4.1,6.4,0.0,0,34.3,25.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,02:45,25.4,13.1,61.7,0.0,N@3.6,6.0,0.0,0,34.3,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,03:00,25.4,13.1,61.8,0.0,N@3.6,6.7,0.0,0,34.3,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,03:15,25.3,13.2,62.2,0.0,N @3.4,4.9,0.0,0,34.3,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,03:30,25.3,13.3,62.5,0.0,N@3.9,7.1,0.0,0,34.2,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,03:45,25.4,13.4,62.4,0.0,N@3.4,6.7,0.0,0,34.2,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,04:00,25.4,13.4,62.5,0.0,N@4.7,8.5,0.0,0,34.2,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,04:15,25.3,13.5,62.9,0.0,N@4.1,9.2,0.0,0,34.2,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,04:30,25.4,13.6,63.1,0.0,NW@6.0,9.6,0.0,0,34.2,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,04:45,25.3,13.7,63.7,0.0,N@4.3,8.2,0.0,0,34.2,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,05:00,25.2,13.7,63.8,0.0,N@4.3,6.0,0.0,0,34.2,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,05:15,25.2,13.7,64.0,0.0,N@4.9,7.1,0.0,0,34.2,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,05:30,25.1,13.8,64.6,0.0,N@4.2,6.4,0.0,0,34.2,25.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,05:45,24.5,13.6,65.7,0.0,N@4.0,6.7,0.01,0,34.2,24.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,06:00,24.3,13.5,66.2,0.0,N@4.5,7.1,0.01,0,34.2,24.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,06:15,24.2,13.5,66.6,0.0,N@4.1,5.7,0.01,0,34.1,24.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,06:30,24.2,13.9,67.8,0.0,N@3.9,6.0,0.01,0,34.1,24.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,06:45,24.6,14.3,67.6,0.0,NW@5.7,10.7,0.0,0,34.1,24.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,07:00,24.7,14.4,67.5,0.0,NW@5.5,8.9,0.0,0,34.1,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,07:15,24.7,14.5,67.8,0.0,N@6.0,8.5,0.0,1,34.1,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,07:30,24.6,14.4,67.8,0.0,N@5.3,8.2,0.0,2,34.1,24.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,07:45,24.7,14.4,67.5,0.0,N@4.9,7.4,0.0,3,34.1,24.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,08:00,24.7,14.4,67.3,0.0,N@4.5,6.7,0.0,7,34.1,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,08:15,24.9,14.4,66.8,0.0,N@5.0,7.1,0.0,23,34.1,24.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,08:30,25.2,14.6,66.6,0.0,N@4.2,6.7,0.0,51,34.1,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,08:45,25.5,14.7,65.9,0.0,N@4.5,8.2,0.0,71,34.1,25.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,09:00,26.0,14.8,64.8,0.0,NW@4.8,8.5,0.0,117,34.1,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,09:15,26.1,14.7,64.0,0.0,NW@4.9,7.4,0.0,100,34.0,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,09:30,25.4,14.5,65.7,0.0,NW@4.5,6.7,0.01,66,34.0,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,09:45,26.6,15.2,63.8,0.0,NW@3.9,6.7,0.0,187,34.0,26.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,10:00,27.2,15.0,61.4,0.0,NW@5.3,8.2,0.0,166,34.0,26.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,10:15,26.6,14.7,62.5,0.0,NW@4.1,6.0,0.0,118,34.0,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,10:30,27.0,14.8,61.5,0.0,NW@4.4,7.4,0.0,144,34.0,26.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,10:45,27.4,14.9,60.8,0.0,NW@4.7,7.8,0.0,158,34.0,27.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,11:00,28.2,15.2,59.4,0.0,NW@4.7,8.5,0.0,287,34.0,27.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,11:15,29.9,15.6,55.7,0.0,NW@5.0,8.9,0.0,411,34.0,29.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,11:30,30.3,15.5,54.5,0.0,NW@4.4,8.5,0.0,372,34.0,29.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,11:45,30.5,15.5,54.0,0.0,W@4.9,8.9,0.0,367,34.0,30.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,12:00,29.5,15.0,55.4,0.0,NW@5.3,8.9,0.0,198,34.0,29.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,12:15,28.8,14.8,56.5,0.0,NW@5.6,8.5,0.0,163,34.0,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,12:30,29.8,15.0,54.6,0.0,NW@5.8,8.9,0.0,279,34.0,29.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,12:45,29.0,14.8,56.0,0.0,NW@5.4,8.9,0.0,140,34.0,28.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,13:00,28.8,14.9,56.7,0.0,NW@5.1,6.7,0.0,119,34.0,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,13:15,28.8,14.8,56.6,0.0,NW@5.1,7.4,0.0,112,34.0,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,13:30,29.0,14.8,56.3,0.0,NW@4.3,7.4,0.0,119,34.0,28.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,13:45,29.2,15.0,56.2,0.0,NW@4.4,7.1,0.0,126,34.0,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,14:00,30.2,15.3,54.0,0.0,NW@5.0,8.2,0.0,239,34.0,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,14:15,30.3,15.2,53.7,0.0,NW@4.3,7.8,0.0,162,34.0,30.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,14:30,29.6,15.2,55.5,0.0,NW@4.3,6.7,0.0,88,34.0,29.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,14:45,29.4,15.4,56.5,0.0,NW@3.3,5.7,0.0,85,34.0,29.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,15:00,29.5,15.4,56.3,0.0,NW@4.0,6.4,0.0,91,34.0,29.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,15:15,30.2,15.3,54.2,0.0,NW@4.4,6.4,0.0,103,34.0,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,15:30,29.9,15.1,54.6,0.0,NW@4.3,7.1,0.0,69,34.0,29.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,15:45,28.6,14.7,56.9,0.0,NW@4.0,6.7,0.0,21,34.0,28.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,16:00,27.6,14.4,58.8,0.0,N @0.1,4.2,0.0,10,34.0,27.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,16:15,26.4,13.9,60.7,0.0,N @3.3,4.2,0.0,4,34.0,26.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,16:30,25.4,13.6,63.0,0.0,NE@1.7,4.9,0.01,2,34.0,25.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,16:45,25.2,13.5,63.3,0.0,E@3.0,6.0,0.01,1,34.0,25.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,17:00,25.6,13.6,62.3,0.0,N @0.0,0.0,0.01,0,34.0,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,17:15,24.5,13.4,65.2,0.0,N @0.0,0.0,0.01,0,34.0,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,17:30,24.9,13.9,65.5,0.0,N @0.0,0.0,0.01,0,34.0,24.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,17:45,23.9,13.8,68.2,0.0,NE@0.5,3.9,0.01,0,34.0,24.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,18:00,24.5,14.3,67.7,0.0,N @0.0,0.0,0.01,0,34.0,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,18:15,25.0,14.0,65.6,0.0,E@0.0,1.4,0.01,0,34.0,25.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,18:30,24.8,14.3,66.8,0.0,N @0.0,0.0,0.01,0,34.0,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,18:45,23.2,14.0,71.0,0.0,N @1.5,4.2,0.02,0,34.0,23.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,19:00,23.6,14.4,70.9,0.0,N @0.7,5.7,0.02,0,34.0,23.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,19:15,22.4,13.6,72.3,0.0,N @0.0,0.0,0.02,0,34.0,22.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,19:30,22.9,13.9,71.8,0.0,NE@0.7,3.9,0.02,0,34.0,23.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,19:45,23.9,13.6,67.7,0.0,N @0.0,0.0,0.01,0,34.0,24.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,20:00,23.1,13.0,68.5,0.0,N @0.0,0.0,0.01,0,34.0,23.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,20:15,22.5,13.7,72.7,0.0,N @0.0,1.4,0.02,0,34.0,22.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,20:30,22.3,13.9,74.0,0.0,NE@1.1,3.1,0.03,0,34.0,22.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,20:45,22.8,14.6,74.5,0.0,NE@0.6,3.5,0.04,0,34.0,22.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,21:00,22.1,13.8,74.2,0.0,NE@0.5,3.5,0.04,0,34.0,22.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,21:15,21.5,13.1,74.2,0.0,NE@0.9,3.1,0.03,0,34.0,21.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,21:30,21.4,13.5,75.9,0.0,NW@0.0,1.4,0.05,0,34.0,21.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,21:45,21.4,14.0,77.7,0.0,SE@0.0,1.7,0.1,0,34.0,21.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,22:00,21.6,14.3,77.7,0.0,N @0.0,0.0,0.09,0,34.0,21.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,22:15,20.7,13.8,79.2,0.0,NE@1.3,3.9,0.1,0,34.0,20.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,22:30,21.1,13.6,77.1,0.0,E@1.2,3.9,0.08,0,34.0,21.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,22:45,21.1,14.3,79.5,0.0,N @0.0,0.0,0.11,0,34.0,21.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,23:00,20.3,13.8,81.0,0.0,NE@0.0,1.4,0.1,0,34.0,20.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,23:15,20.9,13.9,79.0,0.0,NE@0.6,3.1,0.08,0,34.0,20.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,23:30,19.4,13.3,82.3,0.0,NE@1.9,3.1,0.07,0,33.9,19.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,23:45,18.9,13.0,83.6,0.0,E@0.1,3.5,0.06,0,33.9,18.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-11-30,24:00,18.2,11.8,82.0,0.0,E@2.8,4.2,0.05,0,33.9,18.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,00:15,18.9,12.1,80.3,0.0,NE@1.4,3.5,0.05,0,33.9,18.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,00:30,19.5,12.5,79.1,0.0,NE@0.8,3.5,0.05,0,33.9,19.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,00:45,18.7,11.7,79.6,0.0,N @0.0,0.0,0.05,0,33.9,18.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,01:00,18.8,12.8,82.9,0.0,N @0.0,0.0,0.05,0,33.9,18.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,01:15,18.4,12.1,82.2,0.0,SW@0.0,1.4,0.05,0,33.9,18.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,01:30,17.5,11.8,84.5,0.0,NE@0.3,4.2,0.05,0,33.8,17.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,01:45,18.3,12.2,82.8,0.0,E@0.0,1.4,0.05,0,33.8,18.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,02:00,17.9,11.1,80.4,0.0,N @0.0,0.0,0.04,0,33.8,18.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,02:15,18.9,12.2,80.7,0.0,N @0.0,0.0,0.05,0,33.8,18.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,02:30,18.4,12.0,82.0,0.0,N @0.0,0.0,0.05,0,33.8,18.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,02:45,17.5,12.0,85.5,0.0,N @0.0,0.0,0.05,0,33.8,17.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,03:00,17.5,12.2,86.2,0.0,N @0.0,0.0,0.04,0,33.8,17.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,03:15,17.6,12.8,88.3,0.0,N @0.0,0.0,0.04,0,33.7,17.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,03:30,18.2,13.9,89.8,0.0,N@2.0,4.6,0.05,0,33.7,18.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,03:45,18.2,13.8,89.3,0.0,N@2.3,5.7,0.05,0,33.7,18.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,04:00,17.9,13.5,89.4,0.0,N @1.2,3.1,0.04,0,33.7,17.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,04:15,18.5,14.1,89.6,0.0,E@1.5,3.9,0.05,0,33.7,18.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,04:30,19.0,14.3,88.1,0.0,S@0.3,2.4,0.05,0,33.7,18.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,04:45,18.7,13.6,86.7,0.0,E@1.6,4.6,0.05,0,33.6,18.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,05:00,17.6,12.6,87.4,0.0,NE@1.7,4.2,0.04,0,33.6,17.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,05:15,18.1,13.3,88.0,0.0,NE@0.3,2.8,0.04,0,33.6,18.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,05:30,18.1,13.1,87.2,0.0,N @0.0,0.0,0.04,0,33.6,18.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,05:45,18.2,13.2,87.2,0.0,NE@0.2,3.1,0.05,0,33.6,18.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,06:00,18.9,13.7,86.4,0.0,E@0.3,3.9,0.05,0,33.5,18.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,06:15,18.7,13.7,86.9,0.0,N @0.0,0.0,0.05,0,33.5,18.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,06:30,18.6,13.4,86.4,0.0,E@0.2,2.4,0.06,0,33.5,18.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,06:45,18.8,13.9,87.3,0.0,N @0.0,0.0,0.06,0,33.5,18.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,07:00,18.6,13.7,87.3,0.0,N @0.0,0.0,0.06,0,33.5,18.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,07:15,17.8,12.7,87.0,0.0,N @0.0,0.0,0.06,1,33.5,17.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,07:30,18.7,13.9,87.7,0.0,N @0.0,0.0,0.06,2,33.4,18.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,07:45,18.7,13.9,87.7,0.0,N @0.0,0.0,0.06,3,33.4,18.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,08:00,18.9,14.2,87.8,0.0,N @0.0,0.0,0.06,8,33.4,18.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,08:15,19.6,14.4,86.2,0.0,N @0.0,0.0,0.07,10,33.4,19.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,08:30,19.9,14.8,85.9,0.0,N @0.0,0.0,0.07,14,33.4,19.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,08:45,19.8,14.8,86.6,0.0,N @0.0,0.0,0.07,15,33.4,19.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,09:00,19.9,15.1,87.0,0.0,N @0.0,0.0,0.07,18,33.3,19.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,09:15,20.1,15.3,87.1,0.0,N @0.0,0.0,0.08,31,33.3,20.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,09:30,20.1,15.5,87.8,0.0,S@0.0,2.1,0.08,71,33.3,20.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,09:45,21.2,16.3,86.5,0.0,N @0.0,0.0,0.1,119,33.3,21.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,10:00,22.3,17.1,85.1,0.0,W@0.1,2.8,0.11,131,33.3,22.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,10:15,22.2,16.9,84.9,0.0,W@0.8,3.5,0.11,103,33.3,22.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,10:30,22.6,17.2,84.3,0.0,NW@0.2,3.1,0.11,83,33.2,22.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,10:45,23.3,18.3,85.3,0.0,SW@0.0,1.4,0.13,110,33.2,23.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,11:00,23.7,18.7,85.3,0.0,W@0.3,4.2,0.14,113,33.2,23.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,11:15,24.2,19.0,84.3,0.0,SW@0.1,3.1,0.15,152,33.2,24.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,11:30,24.7,19.2,83.2,0.0,N @0.0,0.0,0.16,158,33.2,24.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,11:45,24.8,19.2,82.4,0.0,W@0.8,4.6,0.16,133,33.2,24.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,12:00,25.3,19.7,82.4,0.0,W@2.7,6.4,0.16,140,33.1,25.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,12:15,25.6,19.5,80.6,0.0,NW@3.2,5.7,0.12,117,33.1,25.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,12:30,25.7,19.2,79.1,0.0,W@3.2,4.9,0.03,112,33.1,25.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,12:45,25.8,19.3,79.3,0.0,NW@2.8,4.2,0.01,94,33.1,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,13:00,26.0,19.1,77.6,0.0,W@2.6,4.9,0.01,99,33.1,25.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,13:15,26.5,19.1,75.9,0.0,NW@4.1,6.4,0.01,125,33.1,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,13:30,26.7,19.1,75.4,0.0,W@2.6,5.7,0.01,100,33.1,26.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,13:45,26.6,18.8,74.8,0.0,W@2.2,4.6,0.01,42,33.1,26.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,14:00,26.5,18.6,74.3,0.0,S@0.6,4.2,0.01,47,33.1,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,14:15,26.5,18.5,74.0,0.0,S@2.5,3.9,0.01,21,33.1,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,14:30,26.6,18.6,73.9,0.0,SE@3.3,4.9,0.01,41,33.1,26.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,14:45,26.6,19.0,75.3,0.0,SE@3.4,4.9,0.01,25,33.1,26.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,15:00,26.5,19.2,76.4,0.0,SE@2.8,4.9,0.01,16,33.1,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,15:15,26.7,19.8,77.6,0.0,SE@2.3,5.7,0.01,11,33.1,26.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,15:30,26.3,20.6,81.9,0.0,SE@3.4,4.9,0.02,5,33.1,26.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,15:45,26.0,21.3,85.3,0.0,E@3.3,5.3,0.03,2,33.1,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,16:00,26.0,22.0,87.8,0.0,E@1.2,5.3,0.05,2,33.1,25.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,16:15,25.9,22.5,90.0,0.0,SE@2.0,4.6,0.08,2,33.1,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,16:30,25.9,22.7,91.1,0.0,S@1.2,4.2,0.11,1,33.1,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,16:45,26.2,23.3,91.9,0.0,E@2.7,4.9,0.13,0,33.1,26.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,17:00,26.3,23.3,91.5,0.0,E@3.2,5.7,0.14,0,33.1,26.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,17:15,26.3,23.3,91.8,0.0,E@3.7,7.8,0.15,0,33.1,26.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,17:30,26.5,23.5,91.4,0.0,E@2.0,4.9,0.14,0,33.1,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,17:45,26.3,23.2,91.3,0.0,SE@1.8,4.9,0.16,0,33.1,26.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,18:00,25.7,22.6,91.7,0.0,S@0.7,3.5,0.19,0,33.1,25.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,18:15,25.9,23.0,92.3,0.0,SE@1.4,3.5,0.2,0,33.1,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,18:30,25.9,23.0,92.4,0.0,SE@0.5,3.1,0.2,0,33.1,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,18:45,25.6,22.8,92.4,0.0,SE@0.3,2.4,0.2,0,33.1,25.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,19:00,25.8,22.9,92.6,0.0,E@1.5,3.1,0.2,0,33.1,25.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,19:15,26.1,23.3,92.6,0.0,E@1.0,4.2,0.2,0,33.1,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,19:30,26.0,23.1,92.1,0.0,SE@1.7,3.9,0.2,0,33.1,25.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,19:45,25.8,22.9,92.2,0.0,N @0.0,0.0,0.2,0,33.1,25.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,20:00,25.9,23.0,92.4,0.0,N @0.0,0.0,0.2,0,33.1,25.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,20:15,26.3,23.5,92.4,0.0,SE@0.2,2.8,0.21,0,33.1,26.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,20:30,26.1,23.1,91.8,0.0,SW@0.2,3.5,0.21,0,33.1,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,20:45,26.0,23.0,92.0,0.0,N @0.0,0.0,0.2,0,33.1,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,21:00,25.9,23.0,92.1,0.0,E@1.3,4.9,0.2,0,33.1,25.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,21:15,26.1,23.1,91.8,0.0,SE@0.8,3.5,0.2,0,33.1,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,21:30,26.2,23.1,91.4,0.0,SE@0.3,2.1,0.19,0,33.1,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,21:45,26.1,23.1,91.5,0.0,SE@2.2,4.9,0.19,0,33.1,26.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,22:00,26.4,23.4,91.4,0.0,E@2.1,4.2,0.18,0,33.1,26.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,22:15,26.6,23.4,90.6,0.0,SE@1.5,3.5,0.16,0,33.1,26.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,22:30,26.7,23.3,90.2,0.0,SE@0.8,3.5,0.15,0,33.1,26.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,22:45,26.8,23.4,90.0,0.0,SE@0.2,2.8,0.15,0,33.1,26.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,23:00,27.1,23.6,89.2,0.0,S@1.8,4.6,0.13,0,33.1,27.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,23:15,27.2,23.6,89.0,0.0,SE@0.2,2.8,0.12,0,33.1,27.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,23:30,27.1,23.6,89.1,0.0,N @0.0,0.0,0.12,0,33.1,27.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,23:45,27.2,23.6,89.2,0.0,N @0.0,0.0,0.12,0,33.1,27.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-01,24:00,27.4,23.8,89.0,0.0,E@1.8,5.3,0.11,0,33.1,27.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,00:15,27.6,23.9,88.2,0.0,SE@1.0,4.2,0.09,0,33.1,27.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,00:30,27.8,23.9,87.6,0.0,NE@2.0,5.7,0.08,0,33.1,27.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,00:45,28.1,24.1,86.9,0.0,E@2.8,6.0,0.07,0,33.2,28.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,01:00,28.4,24.2,86.0,0.0,E@2.9,6.0,0.05,0,33.1,28.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,01:15,28.8,24.3,84.9,0.0,E@1.4,3.5,0.04,0,33.2,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,01:30,29.1,24.2,83.5,0.0,SE@1.0,3.9,0.04,0,33.2,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,01:45,29.2,24.2,83.2,0.0,S@0.1,2.8,0.04,0,33.2,29.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,02:00,29.1,24.2,83.3,0.0,E@0.4,3.9,0.03,0,33.2,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,02:15,29.3,24.3,83.0,0.0,E@2.5,5.3,0.03,0,33.2,29.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,02:30,29.2,24.3,83.2,0.0,SE@2.4,3.9,0.03,0,33.2,29.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,02:45,29.0,24.3,84.4,0.0,E@2.7,4.6,0.03,0,33.2,28.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,03:00,29.3,24.4,83.5,0.0,E@3.5,5.7,0.03,0,33.2,29.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,03:15,29.7,24.4,82.1,0.0,E@2.0,4.6,0.03,0,33.2,29.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,03:30,29.9,24.5,81.3,0.0,E@2.6,4.6,0.02,0,33.2,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,03:45,30.0,24.6,81.4,0.0,E@2.6,4.6,0.02,0,33.2,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,04:00,30.1,24.8,81.6,0.0,SE@1.7,4.6,0.02,0,33.2,30.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,04:15,30.1,24.7,81.2,0.0,SE@1.9,6.0,0.02,0,33.2,30.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,04:30,28.9,24.5,85.2,0.0,NE@0.4,2.8,0.04,0,33.2,28.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,04:45,28.6,24.4,86.2,0.0,N @0.0,0.0,0.05,0,33.2,28.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,05:00,28.5,24.4,86.6,0.0,N @0.0,0.0,0.05,0,33.2,28.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,05:15,29.2,24.8,85.3,0.0,E@2.5,5.3,0.04,0,33.2,29.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,05:30,30.3,24.7,80.4,0.0,E@2.9,4.6,0.02,0,33.2,30.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,05:45,29.8,24.6,82.3,0.0,SE@2.2,4.6,0.03,0,33.2,29.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,06:00,30.0,24.8,82.0,0.0,E@2.0,4.6,0.02,0,33.2,29.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,06:15,30.1,24.8,81.7,0.0,E@1.9,3.5,0.02,0,33.2,30.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,06:30,29.8,24.6,82.2,0.0,SE@2.1,3.1,0.03,0,33.2,29.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,06:45,29.6,25.0,84.3,0.0,SE@2.8,3.5,0.03,0,33.2,29.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,07:00,30.2,24.9,81.7,0.0,E@3.0,4.6,0.02,0,33.2,30.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,07:15,30.4,25.1,81.5,0.0,E@2.9,3.9,0.02,1,33.2,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,07:30,30.2,25.0,82.2,0.0,SE@2.4,4.2,0.03,2,33.2,30.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,07:45,28.5,24.6,87.3,0.0,SE@2.6,3.9,0.05,2,33.2,28.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,08:00,29.4,25.5,86.8,0.0,SE@2.4,4.9,0.04,7,33.2,29.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,08:15,29.5,25.5,86.6,0.0,SE@1.6,4.9,0.05,12,33.2,29.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,08:30,28.8,25.1,87.9,0.0,SE@3.2,4.9,0.05,12,33.2,28.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,08:45,28.8,25.4,89.3,0.0,SE@2.4,3.9,0.08,18,33.2,28.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,09:00,28.7,25.7,90.4,0.0,S@1.6,3.1,0.1,31,33.2,28.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,09:15,28.7,25.9,91.1,0.0,S@0.6,2.8,0.11,28,33.2,28.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,09:30,28.9,26.1,91.4,0.0,S@1.1,3.1,0.09,33,33.2,28.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,09:45,29.1,26.1,90.3,0.0,S@1.4,3.1,0.07,39,33.2,29.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,10:00,29.4,26.2,89.4,0.0,SE@2.5,4.2,0.05,54,33.2,29.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,10:15,29.8,26.3,88.2,0.0,SE@2.9,5.7,0.04,67,33.2,29.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,10:30,29.7,25.8,86.8,0.0,SE@3.2,4.9,0.03,62,33.2,29.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,10:45,29.9,25.7,85.6,0.0,E@2.2,4.6,0.03,49,33.2,29.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,11:00,30.4,25.8,84.0,0.0,SE@3.8,6.4,0.02,85,33.2,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,11:15,30.6,25.6,82.4,0.0,SE@3.0,6.4,0.02,48,33.2,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,11:30,30.8,25.5,81.4,0.0,SE@2.8,5.7,0.02,75,33.2,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,11:45,30.9,25.3,80.3,0.0,SE@4.8,8.5,0.02,93,33.2,30.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,12:00,30.8,25.2,80.5,0.0,S@3.4,6.0,0.02,55,33.2,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,12:15,31.1,25.5,80.2,0.0,SE@2.5,6.7,0.02,68,33.3,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,12:30,31.3,25.6,79.8,0.0,SE@2.7,6.7,0.01,82,33.2,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,12:45,31.4,25.6,79.7,0.0,SE@3.3,6.7,0.01,66,33.2,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,13:00,31.5,25.9,80.3,0.0,SE@2.2,4.6,0.02,52,33.3,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,13:15,31.6,26.4,81.2,0.0,S@3.1,6.0,0.02,47,33.3,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,13:30,31.6,26.4,81.2,0.0,SE@3.1,6.7,0.02,44,33.3,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,13:45,31.6,26.4,81.2,0.0,SE@3.8,6.7,0.02,39,33.3,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,14:00,31.7,26.4,81.2,0.0,SE@3.1,4.9,0.02,30,33.3,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,14:15,31.8,26.6,81.4,0.0,SE@2.9,5.7,0.02,34,33.3,31.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,14:30,31.8,26.7,81.8,0.0,S@3.6,6.0,0.02,29,33.3,31.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,14:45,32.0,26.9,81.8,0.0,S@3.4,7.8,0.02,19,33.3,31.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,15:00,31.9,26.8,81.5,0.0,S@3.2,5.3,0.02,18,33.3,31.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,15:15,31.9,26.6,81.1,0.0,SE@3.8,6.4,0.02,13,33.3,31.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,15:30,31.9,26.5,80.9,0.0,S@4.3,8.2,0.02,8,33.3,31.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,15:45,31.6,26.5,81.5,0.0,S@2.6,4.6,0.02,4,33.3,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,16:00,31.5,26.3,81.2,0.0,SE@0.9,3.5,0.02,2,33.3,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,16:15,31.5,26.2,81.0,0.0,SE@0.7,6.0,0.02,2,33.3,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,16:30,31.4,26.4,81.9,0.0,SE@0.7,3.9,0.03,1,33.3,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,16:45,31.5,26.3,81.4,0.0,SE@3.1,5.3,0.02,0,33.3,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,17:00,31.4,26.1,81.2,0.0,SE@2.4,5.3,0.02,0,33.3,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,17:15,31.4,26.0,80.8,0.0,E@1.9,4.2,0.02,0,33.3,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,17:30,31.2,25.9,81.1,0.0,SE@1.5,4.2,0.02,0,33.3,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,17:45,31.1,25.9,81.6,0.0,E@1.4,3.9,0.02,0,33.3,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,18:00,31.2,25.8,81.0,0.0,E@1.2,4.2,0.02,0,33.3,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,18:15,31.2,25.8,80.9,0.0,SE@2.6,4.9,0.02,0,33.3,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,18:30,31.0,25.9,81.8,0.0,SE@2.3,4.9,0.02,0,33.3,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,18:45,31.0,25.9,82.1,0.0,SE@2.5,4.9,0.02,0,33.3,30.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,19:00,31.0,25.9,82.0,0.0,S@0.7,3.5,0.03,0,33.3,30.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,19:15,31.2,25.9,81.3,0.0,E@2.4,4.6,0.02,0,33.4,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,19:30,31.0,25.9,81.8,0.0,E@2.7,6.7,0.02,0,33.4,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,19:45,31.0,25.9,81.7,0.0,E@2.6,5.3,0.02,0,33.4,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,20:00,31.2,25.9,81.2,0.0,SE@3.5,8.2,0.02,0,33.4,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,20:15,31.3,25.8,80.4,0.0,S@4.8,7.4,0.02,0,33.4,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,20:30,31.2,25.8,81.0,0.0,SE@4.8,8.2,0.02,0,33.4,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,20:45,31.2,25.9,81.4,0.0,SE@4.0,6.7,0.02,0,33.4,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,21:00,31.0,26.0,82.1,0.0,SE@1.4,6.4,0.02,0,33.4,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,21:15,30.9,25.8,82.3,0.0,SE@2.4,4.9,0.02,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,21:30,30.8,25.8,82.6,0.0,E@1.9,3.9,0.03,0,33.4,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,21:45,30.8,26.0,82.9,0.0,SE@1.3,4.2,0.03,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,22:00,30.8,26.2,83.6,0.0,SE@3.6,6.4,0.03,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,22:15,30.9,26.3,83.8,0.0,SE@4.1,7.1,0.03,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,22:30,30.8,26.4,84.5,0.0,SE@4.7,8.5,0.03,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,22:45,30.8,26.5,84.8,0.0,S@4.2,8.2,0.03,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,23:00,30.8,26.5,84.8,0.0,SE@4.6,7.8,0.03,0,33.4,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,23:15,30.7,26.4,84.6,0.0,SE@3.8,7.8,0.03,0,33.4,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,23:30,30.7,26.3,84.7,0.0,SE@4.2,8.2,0.03,0,33.4,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,23:45,30.7,26.4,84.9,0.0,SE@3.9,6.7,0.03,0,33.4,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-02,24:00,30.7,26.3,84.6,0.0,SE@4.4,7.8,0.03,0,33.4,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,00:15,30.7,26.2,84.1,0.0,SE@3.2,6.7,0.03,0,33.4,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,00:30,30.7,26.2,83.9,0.0,SE@5.4,8.2,0.03,0,33.5,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,00:45,30.7,26.2,84.2,0.0,SE@4.1,7.1,0.03,0,33.5,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,01:00,30.6,26.1,84.2,0.0,SE@4.5,7.8,0.03,0,33.5,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,01:15,30.6,26.2,84.5,0.0,S@5.3,8.9,0.03,0,33.5,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,01:30,30.7,26.1,83.8,0.0,S@4.8,8.5,0.03,0,33.5,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,01:45,30.9,26.1,83.1,0.0,S@4.4,7.4,0.03,0,33.5,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,02:00,30.8,25.9,82.9,0.0,S@2.6,5.3,0.03,0,33.5,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,02:15,30.6,25.8,83.1,0.0,SE@0.8,4.6,0.03,0,33.5,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,02:30,30.8,26.2,83.8,0.0,S@3.6,8.5,0.03,0,33.5,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,02:45,30.7,26.4,84.8,0.0,S@6.1,10.3,0.03,0,33.5,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,03:00,30.6,26.4,85.4,0.0,S@6.2,10.7,0.03,0,33.5,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,03:15,30.6,26.3,84.9,0.0,S@5.7,10.3,0.03,0,33.5,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,03:30,30.6,26.2,84.5,0.0,S@6.9,10.7,0.03,0,33.5,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,03:45,30.5,26.1,84.6,0.0,S@6.3,10.3,0.03,0,33.5,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,04:00,30.6,26.0,84.2,0.0,SE@6.6,9.9,0.03,0,33.5,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,04:15,30.5,26.0,84.5,0.0,S@5.3,9.2,0.03,0,33.5,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,04:30,30.5,26.1,84.6,0.0,S@5.8,10.7,0.03,0,33.5,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,04:45,30.5,26.1,84.4,0.0,S@5.6,9.2,0.03,0,33.5,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,05:00,30.5,26.1,84.6,0.0,SE@6.2,11.0,0.03,0,33.5,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,05:15,30.4,26.1,85.0,0.0,SE@5.3,10.3,0.03,0,33.5,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,05:30,30.3,26.1,85.3,0.0,S@4.7,8.5,0.03,0,33.5,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,05:45,30.3,26.1,85.5,0.0,S@4.7,9.6,0.04,0,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,06:00,30.3,26.1,85.4,0.0,S@5.0,8.9,0.03,0,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,06:15,30.3,25.9,84.7,0.0,S@5.4,8.5,0.03,0,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,06:30,30.4,25.8,84.2,0.0,SE@2.4,6.4,0.03,0,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,06:45,30.2,25.9,84.8,0.0,E@1.2,4.2,0.04,0,33.6,30.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,07:00,30.4,25.9,84.3,0.0,SE@3.3,6.7,0.03,0,33.6,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,07:15,30.4,25.9,84.3,0.0,S@3.3,4.9,0.03,1,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,07:30,30.4,25.8,84.1,0.0,S@3.7,8.2,0.03,2,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,07:45,30.4,25.8,84.3,0.0,S@4.9,8.5,0.03,2,33.6,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,08:00,30.4,25.9,84.3,0.0,SE@5.0,8.9,0.03,2,33.6,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,08:15,30.4,25.9,84.5,0.0,S@6.2,10.3,0.03,3,33.6,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,08:30,30.4,26.0,84.7,0.0,S@7.4,11.7,0.03,8,33.6,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,08:45,30.4,26.0,84.6,0.0,S@7.0,11.4,0.03,9,33.6,30.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,09:00,30.5,26.1,84.4,0.0,SE@7.1,14.2,0.03,12,33.6,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,09:15,30.5,26.0,84.3,0.0,S@4.6,8.5,0.03,12,33.6,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,09:30,30.6,26.1,84.1,0.0,S@5.2,9.6,0.03,18,33.6,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,09:45,30.8,26.1,83.5,0.0,S@6.6,9.9,0.03,23,33.6,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,10:00,31.0,26.1,82.7,0.0,S@5.2,7.8,0.02,27,33.6,30.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,10:15,31.2,26.2,82.0,0.0,S@4.7,7.4,0.02,35,33.6,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,10:30,31.2,26.1,81.8,0.0,S@5.4,9.2,0.02,31,33.6,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,10:45,31.2,26.0,81.5,0.0,S@5.0,8.5,0.02,24,33.6,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,11:00,31.2,26.0,81.4,0.0,S@5.4,10.7,0.02,26,33.6,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,11:15,31.4,26.2,81.6,0.0,S@4.8,8.5,0.02,46,33.6,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,11:30,31.6,26.3,80.9,0.0,S@5.7,9.6,0.02,62,33.6,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,11:45,31.5,26.2,80.9,0.0,S@6.8,11.0,0.02,58,33.6,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,12:00,31.4,26.1,81.2,0.0,S@5.7,9.6,0.02,43,33.6,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,12:15,31.4,26.2,81.4,0.0,S@4.5,10.7,0.02,48,33.6,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,12:30,31.6,26.3,81.3,0.0,S@4.9,9.2,0.02,40,33.6,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,12:45,31.4,26.2,81.4,0.0,S@5.5,9.2,0.02,42,33.7,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,13:00,31.5,26.4,81.9,0.0,S@4.5,9.9,0.02,45,33.6,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,13:15,31.5,26.4,81.5,0.0,S@4.7,8.2,0.02,48,33.7,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,13:30,31.6,26.3,81.2,0.0,S@3.9,7.1,0.02,40,33.7,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,13:45,31.4,26.4,82.4,0.0,S@2.5,6.4,0.03,41,33.7,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,14:00,31.5,26.5,82.2,0.0,SE@3.1,5.7,0.03,42,33.7,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,14:15,31.5,26.6,82.2,0.0,S@2.8,4.9,0.03,39,33.7,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,14:30,31.5,26.6,82.4,0.0,SE@3.1,4.9,0.03,28,33.7,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,14:45,31.7,26.5,81.3,0.0,SE@1.7,3.9,0.02,20,33.7,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,15:00,31.8,26.7,81.7,0.0,SW@2.6,6.0,0.02,21,33.7,31.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,15:15,31.9,26.7,81.3,0.0,NW@1.6,4.9,0.02,21,33.7,31.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,15:30,31.9,26.5,80.5,0.0,S@2.3,3.9,0.02,22,33.7,31.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,15:45,32.0,26.5,80.1,0.0,E@0.3,2.1,0.02,18,33.7,31.9,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,16:00,31.7,26.6,81.6,0.0,S@1.6,3.9,0.02,7,33.7,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,16:15,31.6,26.6,82.1,0.0,SE@0.0,1.4,0.03,2,33.7,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,16:30,31.6,26.5,81.9,0.0,W@1.3,5.7,0.03,2,33.7,31.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,16:45,31.7,26.5,81.3,0.0,SW@1.7,4.2,0.02,1,33.7,31.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,17:00,31.7,26.5,81.4,0.0,S@0.9,3.9,0.03,0,33.7,31.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,17:15,31.4,26.4,82.1,0.0,SE@1.6,4.6,0.03,0,33.7,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,17:30,31.2,26.3,82.8,0.0,E@2.8,5.3,0.03,0,33.7,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,17:45,30.8,26.1,83.4,0.0,E@3.5,5.3,0.03,0,33.7,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,18:00,31.3,26.6,83.1,0.0,SE@3.4,6.4,0.03,0,33.7,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,18:15,31.4,26.8,83.6,0.0,S@1.9,4.2,0.03,0,33.7,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,18:30,31.3,26.8,83.7,0.0,SE@3.6,6.4,0.03,0,33.7,31.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,18:45,31.2,26.6,83.4,0.0,SE@3.6,6.4,0.03,0,33.7,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,19:00,30.8,26.3,84.1,0.0,E@2.7,4.6,0.04,0,33.7,30.8,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,19:15,30.6,26.2,84.6,0.0,NE@1.5,3.5,0.04,0,33.7,30.5,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,19:30,30.4,26.2,85.6,0.0,E@2.9,4.6,0.04,0,33.8,30.3,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,19:45,30.7,26.4,84.8,0.0,E@2.2,3.5,0.04,0,33.8,30.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,20:00,31.0,26.6,84.1,0.0,SE@2.1,4.2,0.03,0,33.8,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,20:15,31.1,26.7,84.1,0.0,SE@1.2,4.9,0.03,0,33.8,31.1,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,20:30,31.4,26.9,83.8,0.0,SE@4.0,6.4,0.03,0,33.8,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,20:45,31.0,26.6,84.2,0.0,E@3.3,7.1,0.03,0,33.8,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,21:00,31.3,26.7,83.4,0.0,SE@0.6,3.1,0.03,0,33.8,31.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,21:15,31.1,26.5,83.7,0.0,SE@2.3,4.2,0.03,0,33.8,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,21:30,30.6,26.2,84.5,0.0,E@2.9,4.2,0.03,0,33.8,30.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,21:45,31.1,26.6,84.2,0.0,NE@0.9,3.1,0.03,0,33.8,31.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,22:00,31.5,26.7,82.9,0.0,N @0.0,0.0,0.03,0,33.8,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,22:15,31.5,26.7,83.1,0.0,SE@1.2,4.2,0.03,0,33.8,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,22:30,31.5,26.7,83.0,0.0,E@2.0,3.9,0.03,0,33.8,31.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,22:45,32.0,27.2,81.9,0.0,SE@3.8,6.4,0.02,0,33.8,32.0,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,23:00,32.2,27.4,82.4,0.0,SE@3.6,6.4,0.02,0,33.8,32.2,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,23:15,32.4,27.7,82.4,0.0,E@4.1,6.4,0.02,0,33.8,32.4,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,23:30,32.6,27.8,82.0,0.0,E@4.7,8.2,0.02,0,33.8,32.6,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,23:45,32.7,27.7,81.7,0.0,E@4.5,7.4,0.02,0,33.8,32.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895
+2019-12-03,24:00,32.7,27.7,81.3,0.0,SE@2.1,8.2,0.02,0,33.8,32.7,"Oroville.E (East Oroville), Okanogan County",330146,Oroville.E,2020-01-21 16:28:33.785895

@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Soil VWC %, Atm. Press. inHg, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-11-03,00:15,27.2,18.4,71.5,0.0,S@0.2,2.1,0.0,0,34.4,36.8,42.6,30.16,27.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,00:30,27.3,17.9,69.4,0.0,SW@0.2,1.7,0.0,0,34.4,36.8,42.6,30.16,27.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,00:45,28.5,18.0,66.1,0.0,S@0.5,2.4,0.0,0,34.4,36.8,42.6,30.16,28.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,01:00,29.5,18.1,63.1,0.0,N @0.0,0.0,0.0,0,34.4,36.8,42.6,30.16,29.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,01:15,29.8,17.9,61.9,0.0,N @0.0,0.0,0.0,0,34.4,36.8,42.6,30.16,29.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,01:30,31.5,17.5,56.0,0.0,SE@0.8,2.8,0.0,0,34.4,36.8,42.6,30.15,31.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,01:45,29.5,17.6,62.1,0.0,E@2.1,3.1,0.0,0,34.4,36.8,42.6,30.15,29.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,02:00,30.5,17.1,58.0,0.0,E@0.6,2.1,0.0,0,34.4,36.8,42.6,30.15,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,02:15,29.5,17.3,61.2,0.0,NE@1.0,2.8,0.0,0,34.4,36.8,42.6,30.15,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,02:30,28.0,17.8,67.0,0.0,NE@3.4,4.9,0.0,0,34.4,36.8,42.6,30.15,27.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,02:45,29.0,18.1,64.7,0.0,E@2.7,4.2,0.0,0,34.4,36.8,42.6,30.15,28.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,03:00,29.8,17.7,61.4,0.0,SE@1.2,3.1,0.0,0,34.4,36.8,42.6,30.15,29.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,03:15,30.5,17.5,58.7,0.0,S@0.2,2.1,0.0,0,34.4,36.8,42.6,30.15,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,03:30,30.3,17.1,58.2,0.0,E@0.5,2.1,0.0,0,34.4,36.8,42.6,30.14,30.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,03:45,30.8,17.0,56.8,0.0,N @0.0,0.0,0.0,0,34.4,36.8,42.6,30.14,30.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,04:00,31.0,17.1,56.5,0.0,SW@0.2,1.7,0.0,0,34.4,36.8,42.6,30.14,30.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,04:15,30.1,17.3,59.3,0.0,N @0.0,0.0,0.0,0,34.4,36.8,42.6,30.14,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,04:30,28.4,17.3,64.2,0.0,SE@0.4,2.8,0.0,0,34.4,36.8,42.6,30.15,28.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,04:45,27.0,17.1,68.0,0.0,SE@2.4,3.5,0.0,0,34.4,36.8,42.6,30.15,26.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,05:00,27.3,17.0,66.7,0.0,S@0.0,1.4,0.0,0,34.4,36.8,42.6,30.15,27.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,05:15,26.1,16.4,68.7,0.0,N @1.7,3.9,0.0,0,34.4,36.8,42.6,30.15,25.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,05:30,25.5,16.3,70.6,0.0,SE@1.7,3.1,0.0,0,34.4,36.8,42.6,30.14,25.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,05:45,24.2,16.1,74.6,0.0,E@0.6,2.4,0.0,0,34.4,36.8,42.6,30.14,24.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,06:00,24.7,16.5,73.8,0.0,SE@1.6,2.4,0.0,0,34.4,36.8,42.6,30.14,24.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,06:15,25.0,16.4,72.8,0.0,SE@0.2,1.7,0.0,0,34.4,36.8,42.6,30.14,24.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,06:30,25.2,16.2,71.3,0.0,N @0.0,0.0,0.0,2,34.4,36.8,42.6,30.15,25.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,06:45,25.3,16.8,72.7,0.0,NE@0.4,2.4,0.0,9,34.4,36.8,42.6,30.15,25.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,07:00,25.7,17.4,73.2,0.0,N @0.0,0.0,0.0,24,34.4,36.8,42.6,30.15,25.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,07:15,27.8,18.3,69.1,0.0,SW@0.7,2.8,0.0,49,34.4,36.8,42.6,30.15,27.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,07:30,28.9,19.1,68.0,0.0,W@1.4,2.4,0.0,86,34.4,36.8,42.6,30.15,28.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,07:45,30.9,19.7,63.5,0.0,W@0.3,2.4,0.0,88,34.4,36.8,42.6,30.15,30.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,08:00,33.0,21.2,61.4,0.0,W@0.7,3.1,0.0,127,34.4,36.8,42.6,30.15,32.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,08:15,35.7,22.0,57.1,0.0,W@0.8,2.8,0.0,182,34.4,36.7,42.6,30.16,35.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,08:30,39.4,22.5,50.4,0.0,N @0.0,0.0,0.0,201,34.4,36.7,42.6,30.16,39.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,08:45,41.3,22.5,46.8,0.0,SW@0.0,1.7,0.0,214,34.4,36.7,42.6,30.16,41.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,09:00,44.1,21.8,40.7,0.0,SW@0.4,1.7,0.0,304,34.4,36.7,42.6,30.16,44.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,09:15,46.9,20.2,34.3,0.0,SE@1.0,3.1,0.0,319,34.3,36.7,42.6,30.16,46.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,09:30,46.6,21.1,36.0,0.0,E@2.8,4.2,0.0,309,34.3,36.7,42.6,30.17,46.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,09:45,46.7,23.6,39.8,0.0,E@3.6,5.3,0.0,325,34.3,36.7,42.6,30.17,46.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,10:00,46.5,23.0,39.2,0.0,E@4.1,5.7,0.0,345,34.3,36.7,42.6,30.17,46.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,10:15,46.2,21.5,37.2,0.0,E@3.6,5.7,0.0,314,34.3,36.7,42.6,30.17,46.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,10:30,47.1,21.0,35.1,0.0,E@3.4,6.0,0.0,379,34.3,36.7,42.6,30.17,46.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,10:45,47.6,20.6,34.0,0.0,E@3.6,5.7,0.0,390,34.3,36.7,42.6,30.16,47.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,11:00,48.9,20.6,32.4,0.0,NE@2.8,6.0,0.0,415,34.3,36.7,42.6,30.16,48.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,11:15,48.8,20.2,31.9,0.0,NE@3.4,5.3,0.0,392,34.3,36.7,42.6,30.16,48.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,11:30,49.5,20.2,31.1,0.0,N @3.2,6.4,0.0,425,34.3,36.7,42.6,30.16,48.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,11:45,50.0,20.6,31.0,0.0,NE@2.9,6.4,0.0,411,34.3,36.7,42.6,30.16,49.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,12:00,49.8,21.0,31.7,0.0,NW@3.8,7.8,0.0,423,34.3,36.7,42.6,30.15,49.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,12:15,50.4,20.9,31.0,0.0,N@4.2,7.8,0.0,408,34.3,36.7,42.6,30.15,50.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,12:30,49.8,20.8,31.5,0.0,NW@4.5,7.8,0.0,386,34.3,36.7,42.6,30.14,49.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,12:45,49.5,21.1,32.3,0.0,N@5.3,8.5,0.0,367,34.3,36.7,42.7,30.15,49.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,13:00,49.5,22.0,33.5,0.0,NW@4.5,8.2,0.0,370,34.3,36.7,42.7,30.14,49.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,13:15,49.4,21.2,32.6,0.0,NW@5.9,9.6,0.0,328,34.3,36.7,42.7,30.15,49.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,13:30,49.4,21.8,33.4,0.0,NW@5.7,8.2,0.0,315,34.3,36.7,42.7,30.15,49.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,13:45,49.1,21.7,33.6,0.0,N@5.7,8.9,0.0,309,34.3,36.7,42.7,30.14,49.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,14:00,49.1,21.6,33.5,0.0,NW@4.9,7.1,0.0,295,34.3,36.7,42.7,30.14,49.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,14:15,48.5,21.3,33.8,0.0,NW@4.5,7.1,0.0,260,34.4,36.7,42.7,30.15,48.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,14:30,48.5,21.5,34.1,0.0,NW@3.6,6.0,0.0,232,34.3,36.7,42.7,30.15,48.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,14:45,48.1,21.1,34.1,0.0,NW@4.2,6.7,0.0,206,34.3,36.7,42.7,30.15,48.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,15:00,46.9,20.3,34.5,0.0,NW@4.8,6.4,0.0,159,34.4,36.7,42.7,30.15,46.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,15:15,46.2,20.4,35.4,0.0,NW@3.4,4.9,0.0,119,34.3,36.7,42.7,30.15,46.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,15:30,45.8,20.9,36.9,0.0,N@2.2,3.1,0.0,99,34.4,36.7,42.7,30.15,45.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,15:45,44.6,22.6,41.5,0.0,N @0.3,2.1,0.0,72,34.3,36.7,42.7,30.15,44.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,16:00,40.9,23.4,49.2,0.0,N @0.0,0.0,0.0,44,34.4,36.7,42.7,30.14,40.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,16:15,39.0,22.6,51.4,0.0,N @0.0,0.0,0.0,22,34.4,36.7,42.7,30.14,38.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,16:30,37.2,21.3,52.2,0.0,N @0.0,0.0,0.0,7,34.4,36.7,42.7,30.14,37.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,16:45,36.0,21.8,56.0,0.0,S@1.5,4.9,0.0,2,34.4,36.7,42.7,30.14,35.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,17:00,34.6,21.9,59.2,0.0,S@0.4,3.1,0.0,0,34.4,36.7,42.7,30.13,34.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,17:15,34.0,21.8,60.6,0.0,NE@1.5,3.5,0.0,0,34.4,36.7,42.7,30.13,34.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,17:30,30.8,21.7,69.5,0.0,NE@2.6,3.9,0.0,0,34.4,36.7,42.7,30.13,30.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,17:45,30.9,21.5,68.6,0.0,NE@1.0,2.4,0.0,0,34.4,36.7,42.7,30.13,30.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,18:00,30.8,21.6,69.2,0.0,SW@0.3,1.7,0.0,0,34.4,36.7,42.7,30.13,30.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,18:15,29.4,21.2,72.6,0.0,E@0.3,2.1,0.0,0,34.4,36.7,42.7,30.13,29.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,18:30,28.6,21.2,75.3,0.0,N @0.0,0.0,0.0,0,34.4,36.7,42.7,30.13,28.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,18:45,28.3,21.1,76.1,0.0,N @0.0,0.0,0.0,0,34.4,36.7,42.7,30.13,28.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,19:00,27.4,20.9,78.6,0.0,N @0.0,0.0,0.0,0,34.4,36.7,42.7,30.13,27.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,19:15,27.5,20.9,78.5,0.0,N @0.0,0.0,0.0,0,34.4,36.7,42.7,30.13,27.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,19:30,27.5,21.2,79.5,0.0,N @0.0,0.0,0.0,0,34.4,36.7,42.7,30.14,27.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,19:45,27.8,21.5,79.2,0.0,SE@1.9,4.2,0.0,0,34.4,36.7,42.7,30.13,27.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,20:00,30.4,22.3,72.4,0.0,SW@1.8,6.4,0.0,0,34.4,36.7,42.7,30.12,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,20:15,30.2,22.1,72.8,0.0,W@1.2,3.1,0.0,0,34.4,36.7,42.7,30.13,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,20:30,29.6,21.9,74.3,0.0,NE@0.8,2.4,0.0,0,34.4,36.7,42.7,30.13,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,20:45,31.0,23.0,72.9,0.0,SW@1.3,3.1,0.0,0,34.4,36.7,42.7,30.13,31.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,21:00,32.8,23.8,69.1,0.0,S@3.1,4.2,0.0,0,34.4,36.7,42.7,30.13,32.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,21:15,32.8,24.1,70.2,0.0,NW@2.1,3.9,0.0,0,34.4,36.7,42.7,30.13,32.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,21:30,33.7,24.4,68.1,0.0,SW@2.8,5.3,0.0,0,34.4,36.7,42.7,30.13,33.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,21:45,33.8,25.3,70.5,0.0,S@3.9,7.1,0.0,0,34.4,36.7,42.7,30.13,33.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,22:00,34.8,24.6,66.0,0.0,S@6.7,8.5,0.0,0,34.4,36.7,42.7,30.12,34.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,22:15,34.9,24.9,66.8,0.0,E@5.1,7.1,0.0,0,34.4,36.7,42.7,30.13,34.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,22:30,34.4,25.0,68.2,0.0,NE@2.0,6.0,0.0,0,34.4,36.7,42.7,30.13,34.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,22:45,33.9,24.3,67.8,0.0,S@1.8,4.2,0.0,0,34.4,36.7,42.7,30.13,33.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,23:00,32.7,24.3,70.8,0.0,E@2.5,4.6,0.0,0,34.4,36.7,42.7,30.14,32.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,23:15,33.4,25.1,71.2,0.0,NE@3.3,5.3,0.0,0,34.4,36.7,42.7,30.15,33.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,23:30,35.5,25.7,67.2,0.0,E@3.7,4.6,0.0,0,34.4,36.7,42.7,30.15,35.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,23:45,36.0,25.2,64.6,0.0,SE@3.4,5.3,0.0,0,34.4,36.7,42.7,30.15,35.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-03,24:00,34.1,24.4,67.3,0.0,SW@2.6,5.7,0.0,0,34.4,36.7,42.7,30.15,34.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,00:15,34.3,24.5,67.1,0.0,SW@2.9,4.2,0.0,0,34.4,36.7,42.7,30.15,34.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,00:30,34.7,24.4,65.6,0.0,SW@1.6,3.5,0.0,0,34.4,36.7,42.7,30.15,34.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,00:45,33.2,23.8,68.0,0.0,SW@1.7,3.5,0.0,0,34.4,36.6,42.7,30.14,33.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,01:00,33.1,23.7,68.1,0.0,S@3.8,5.7,0.0,0,34.4,36.7,42.7,30.13,33.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,01:15,32.6,23.5,68.8,0.0,SW@3.5,4.6,0.0,0,34.4,36.7,42.7,30.13,32.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,01:30,32.1,23.0,68.5,0.0,S@1.2,3.1,0.0,0,34.4,36.7,42.7,30.13,32.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,01:45,30.4,22.2,72.1,0.0,NE@1.9,3.1,0.0,0,34.4,36.7,42.7,30.13,30.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,02:00,29.9,22.2,73.8,0.0,NE@1.7,2.8,0.0,0,34.4,36.7,42.7,30.14,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,02:15,31.6,23.0,70.6,0.0,S@0.6,2.8,0.0,0,34.4,36.7,42.7,30.15,31.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,02:30,32.1,23.7,70.9,0.0,SW@2.3,4.6,0.0,0,34.4,36.6,42.7,30.15,32.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,02:45,32.3,23.6,69.9,0.0,W@1.4,2.8,0.0,0,34.4,36.7,42.7,30.15,32.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,03:00,30.4,22.9,74.5,0.0,SW@1.7,3.1,0.0,0,34.4,36.7,42.7,30.15,30.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,03:15,32.0,23.8,71.8,0.0,W@1.8,2.8,0.0,0,34.4,36.7,42.7,30.15,31.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,03:30,31.8,23.6,71.9,0.0,SW@1.3,2.4,0.0,0,34.4,36.7,42.7,30.14,31.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,03:45,30.8,23.3,74.4,0.0,S@0.8,2.8,0.0,0,34.4,36.7,42.7,30.14,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,04:00,30.3,23.1,75.3,0.0,NE@0.4,1.7,0.0,0,34.4,36.7,42.7,30.14,30.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,04:15,30.9,23.4,74.4,0.0,NW@0.2,2.1,0.0,0,34.4,36.6,42.7,30.14,30.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,04:30,31.9,24.3,73.4,0.0,SW@3.4,4.9,0.0,0,34.4,36.7,42.7,30.13,31.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,04:45,30.8,23.7,75.7,0.0,SW@2.4,3.5,0.0,0,34.5,36.6,42.7,30.14,30.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,05:00,30.4,23.9,77.5,0.0,SW@2.5,3.5,0.0,0,34.4,36.7,42.7,30.14,30.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,05:15,31.5,24.6,76.0,0.0,S@3.0,3.9,0.0,0,34.5,36.6,42.7,30.14,31.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,05:30,32.5,25.3,74.4,0.0,SW@4.2,6.7,0.0,0,34.4,36.6,42.7,30.15,32.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,05:45,34.1,25.8,71.1,0.0,SW@4.6,6.4,0.0,0,34.4,36.6,42.7,30.14,34.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,06:00,35.1,26.5,70.6,0.0,SW@3.3,4.9,0.0,0,34.4,36.6,42.7,30.15,35.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,06:15,36.1,26.8,68.5,0.0,SW@3.3,4.6,0.0,0,34.4,36.6,42.7,30.15,36.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,06:30,36.7,27.0,67.7,0.0,SW@2.3,5.3,0.0,2,34.4,36.6,42.7,30.16,36.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,06:45,38.0,27.7,66.0,0.0,SW@4.6,8.5,0.0,7,34.4,36.6,42.7,30.16,38.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,07:00,38.5,27.8,65.0,0.0,SW@2.6,5.3,0.0,19,34.4,36.6,42.7,30.17,38.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,07:15,38.9,28.1,64.9,0.0,SW@4.0,6.4,0.0,42,34.4,36.6,42.7,30.17,38.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,07:30,39.7,28.1,62.9,0.0,SW@3.4,4.9,0.0,67,34.4,36.6,42.7,30.17,39.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,07:45,39.6,28.0,62.9,0.0,S@3.7,4.9,0.0,77,34.4,36.6,42.7,30.17,39.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,08:00,40.3,28.4,62.3,0.0,S@3.7,5.7,0.0,121,34.4,36.6,42.7,30.18,40.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,08:15,41.5,28.8,60.3,0.0,S@3.4,6.0,0.0,130,34.4,36.6,42.7,30.18,41.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,08:30,43.4,29.7,58.2,0.0,SW@3.8,5.3,0.0,168,34.4,36.6,42.7,30.19,43.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,08:45,44.9,30.0,55.5,0.0,SW@2.4,4.6,0.0,157,34.4,36.6,42.7,30.18,44.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,09:00,45.9,30.3,54.3,0.0,S@4.1,6.4,0.0,192,34.4,36.6,42.7,30.19,45.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,09:15,47.6,30.8,52.0,0.0,SW@4.0,6.0,0.0,212,34.4,36.6,42.7,30.19,47.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,09:30,48.4,30.9,50.5,0.0,SW@4.8,7.1,0.0,224,34.4,36.6,42.7,30.19,48.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,09:45,50.1,31.2,47.9,0.0,S@4.5,6.4,0.0,324,34.4,36.6,42.7,30.19,49.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,10:00,51.3,31.3,46.3,0.0,S@4.5,6.4,0.0,313,34.4,36.6,42.7,30.19,51.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,10:15,52.6,31.4,44.0,0.0,S@3.1,5.3,0.0,379,34.4,36.6,42.7,30.19,52.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,10:30,53.4,31.5,43.1,0.0,SE@2.9,6.0,0.0,427,34.4,36.6,42.7,30.2,53.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,10:45,53.7,31.6,42.8,0.0,SW@4.1,8.9,0.0,433,34.5,36.6,42.7,30.19,53.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,11:00,53.9,31.4,42.0,0.0,S@3.1,7.1,0.0,458,34.5,36.6,42.7,30.19,53.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,11:15,54.8,32.0,41.7,0.0,SW@4.4,9.6,0.0,440,34.4,36.6,42.7,30.18,54.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,11:30,54.2,32.0,42.6,0.0,N@6.3,9.2,0.0,392,34.5,36.6,42.7,30.19,54.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,11:45,54.0,31.8,42.5,0.0,N @5.9,9.6,0.0,416,34.5,36.6,42.7,30.19,53.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,12:00,54.7,31.8,41.7,0.0,NE@4.5,7.8,0.0,428,34.5,36.6,42.7,30.18,54.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,12:15,54.4,31.5,41.4,0.0,NE@5.3,7.4,0.0,389,34.5,36.6,42.7,30.18,53.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,12:30,54.0,31.3,41.7,0.0,NE@5.8,9.2,0.0,367,34.6,36.6,42.7,30.18,53.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,12:45,53.3,31.0,42.3,0.0,NE@5.3,8.9,0.0,320,34.6,36.6,42.7,30.18,52.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,13:00,53.5,31.2,42.3,0.0,NE@4.8,7.4,0.0,306,34.7,36.6,42.7,30.18,53.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,13:15,54.2,31.4,41.5,0.0,NE@5.4,8.9,0.0,328,34.8,36.6,42.7,30.17,53.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,13:30,54.3,31.6,41.8,0.0,NE@5.2,7.8,0.0,352,34.8,36.6,42.7,30.18,53.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,13:45,54.1,31.5,42.0,0.0,NE@4.3,7.1,0.0,280,34.9,36.6,42.7,30.17,53.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,14:00,53.7,31.6,42.8,0.0,NE@4.8,6.7,0.0,242,34.9,36.6,42.7,30.17,53.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,14:15,53.8,31.6,42.6,0.0,E@4.4,7.1,0.0,263,35.0,36.6,42.7,30.17,53.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,14:30,53.8,31.5,42.4,0.0,E@4.1,6.4,0.0,268,35.1,36.6,42.7,30.17,53.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,14:45,53.8,31.4,42.3,0.0,E@4.0,6.4,0.0,248,35.1,36.6,42.7,30.17,53.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,15:00,53.7,31.6,42.7,0.0,E@3.6,6.7,0.0,212,35.2,36.6,42.7,30.17,53.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,15:15,53.0,31.8,44.2,0.0,E@4.0,6.4,0.0,179,35.3,36.6,42.7,30.17,52.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,15:30,52.2,31.9,45.6,0.0,E@3.8,5.7,0.0,144,35.3,36.6,42.7,30.16,51.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,15:45,51.2,32.1,47.9,0.0,E@2.6,4.6,0.0,107,35.4,36.6,42.7,30.17,50.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,16:00,48.0,31.8,53.2,0.0,E@2.6,3.5,0.0,60,35.5,36.6,42.7,30.17,47.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,16:15,43.8,30.6,59.4,0.0,E@3.3,3.9,0.0,29,35.5,36.6,42.7,30.16,43.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,16:30,39.6,29.2,66.2,0.0,SE@3.6,4.2,0.0,9,35.6,36.6,42.7,30.16,39.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,16:45,37.4,28.8,70.6,0.0,E@3.6,4.2,0.0,4,35.7,36.6,42.7,30.16,37.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,17:00,35.8,28.1,73.3,0.0,E@3.1,4.2,0.0,0,35.7,36.6,42.7,30.15,35.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,17:15,35.2,28.1,75.2,0.0,N @0.0,0.0,0.0,0,35.7,36.7,42.7,30.15,35.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,17:30,34.4,28.0,77.0,0.0,N @0.0,0.0,0.0,0,35.8,36.7,42.7,30.15,34.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,17:45,33.7,27.9,79.1,0.0,N @0.0,0.0,0.0,0,35.8,36.7,42.7,30.15,33.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,18:00,32.6,27.3,80.8,0.0,NE@1.4,3.1,0.0,0,35.7,36.7,42.8,30.15,32.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,18:15,31.5,26.8,83.1,0.0,NE@1.2,3.5,0.0,0,35.7,36.7,42.8,30.15,31.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,18:30,30.9,26.4,84.4,0.0,SW@0.0,1.4,0.0,0,35.7,36.7,42.8,30.15,30.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,18:45,30.2,26.0,85.3,0.0,N @0.0,0.0,0.0,0,35.7,36.7,42.8,30.15,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,19:00,29.2,25.4,87.3,0.0,N @0.0,0.0,0.0,0,35.6,36.7,42.8,30.15,29.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,19:15,30.8,26.6,85.3,0.0,N @0.0,0.0,0.0,0,35.6,36.7,42.8,30.15,30.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,19:30,31.5,27.1,84.0,0.0,N @0.0,0.0,0.0,0,35.6,36.7,42.8,30.15,31.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,19:45,31.1,26.7,84.3,0.0,N @0.0,0.0,0.0,0,35.5,36.7,42.8,30.15,31.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,20:00,29.7,26.1,87.8,0.0,N @0.0,0.0,0.0,0,35.5,36.7,42.8,30.15,29.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,20:15,30.7,26.9,86.7,0.0,N @0.0,0.0,0.0,0,35.5,36.7,42.8,30.15,30.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,20:30,30.2,26.4,86.6,0.0,N @0.0,0.0,0.02,0,35.5,36.7,42.8,30.15,30.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,20:45,30.1,26.3,87.2,0.0,N @0.0,0.0,0.05,0,35.4,36.7,42.8,30.15,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,21:00,29.5,26.1,88.6,0.0,N @0.0,0.0,0.06,0,35.4,36.7,42.8,30.15,29.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,21:15,29.5,26.1,88.4,0.0,N @0.0,0.0,0.07,0,35.4,36.7,42.8,30.15,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,21:30,29.5,25.9,88.2,0.0,E@0.6,3.5,0.08,0,35.4,36.7,42.8,30.15,29.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,21:45,31.5,27.7,86.1,0.0,SE@2.6,3.9,0.09,0,35.3,36.7,42.8,30.15,31.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,22:00,34.5,28.9,79.8,0.0,S@1.1,3.5,0.09,0,35.3,36.7,42.8,30.15,34.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,22:15,32.4,27.6,82.2,0.0,E@0.0,1.7,0.09,0,35.3,36.7,42.8,30.15,32.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,22:30,30.2,26.3,86.3,0.0,SW@0.6,2.4,0.1,0,35.3,36.7,42.8,30.15,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,22:45,29.2,25.8,88.7,0.0,S@0.0,1.4,0.1,0,35.3,36.7,42.8,30.15,29.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,23:00,29.9,26.5,88.4,0.0,SE@0.3,2.1,0.11,0,35.3,36.7,42.8,30.15,29.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,23:15,29.3,25.4,87.1,0.0,E@0.1,1.7,0.12,0,35.2,36.7,42.8,30.14,29.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,23:30,29.8,26.2,87.8,0.0,E@1.0,2.8,0.12,0,35.2,36.7,42.8,30.14,29.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,23:45,33.5,28.5,81.6,0.0,SE@0.5,2.4,0.13,0,35.2,36.7,42.8,30.14,33.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-04,24:00,35.6,29.6,78.7,0.0,SE@0.3,2.4,0.13,0,35.2,36.7,42.8,30.14,35.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,00:15,35.6,29.4,77.9,0.0,NE@0.1,1.7,0.12,0,35.2,36.7,42.8,30.14,35.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,00:30,34.7,28.7,78.4,0.0,NE@2.1,3.9,0.11,0,35.2,36.7,42.8,30.14,34.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,00:45,34.2,28.6,79.9,0.0,NE@2.7,4.9,0.09,0,35.2,36.7,42.8,30.14,34.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,01:00,37.0,29.3,73.3,0.0,SE@3.1,4.6,0.01,0,35.1,36.7,42.8,30.14,36.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,01:15,38.1,29.2,70.0,0.0,SE@2.6,4.6,0.0,0,35.1,36.7,42.8,30.13,38.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,01:30,36.6,28.3,71.6,0.0,E@3.5,6.4,0.0,0,35.1,36.7,42.8,30.13,36.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,01:45,34.9,28.6,77.7,0.0,NE@3.9,6.7,0.0,0,35.1,36.7,42.8,30.14,35.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,02:00,33.4,27.5,78.9,0.0,NE@2.8,4.9,0.0,0,35.1,36.7,42.8,30.13,33.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,02:15,32.2,27.6,82.9,0.0,N @0.9,3.1,0.04,0,35.1,36.7,42.8,30.14,32.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,02:30,32.8,27.3,80.0,0.0,E@1.4,2.8,0.05,0,35.1,36.7,42.8,30.14,32.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,02:45,34.0,27.9,78.3,0.0,SE@1.0,2.8,0.04,0,35.1,36.7,42.8,30.14,34.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,03:00,32.5,26.3,77.7,0.0,SE@0.2,2.4,0.03,0,35.1,36.7,42.8,30.13,32.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,03:15,30.3,25.5,83.2,0.0,S@0.6,2.1,0.06,0,35.1,36.7,42.8,30.14,30.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,03:30,32.8,27.6,80.7,0.0,S@2.0,4.9,0.07,0,35.1,36.7,42.7,30.13,32.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,03:45,32.7,26.9,79.1,0.0,W@0.3,2.1,0.07,0,35.1,36.7,42.7,30.14,32.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,04:00,30.5,25.9,83.7,0.0,S@0.4,2.4,0.07,0,35.0,36.7,42.7,30.14,30.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,04:15,29.7,25.4,85.7,0.0,W@0.2,1.7,0.08,0,35.0,36.7,42.7,30.14,29.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,04:30,29.0,25.1,87.2,0.0,SE@0.9,2.8,0.07,0,35.0,36.7,42.7,30.14,28.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,04:45,30.0,25.4,84.2,0.0,E@0.4,2.4,0.07,0,35.0,36.7,42.7,30.14,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,05:00,29.9,25.3,84.0,0.0,E@2.5,3.9,0.07,0,35.0,36.7,42.7,30.15,29.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,05:15,29.2,24.8,85.4,0.0,SE@0.4,2.4,0.07,0,35.0,36.7,42.7,30.15,29.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,05:30,31.6,26.9,83.0,0.0,SW@0.8,2.4,0.08,0,35.0,36.7,42.7,30.15,31.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,05:45,29.7,24.9,83.3,0.0,E@1.2,3.1,0.07,0,35.0,36.7,42.7,30.15,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,06:00,29.6,26.0,87.7,0.0,SW@0.1,1.4,0.07,0,35.0,36.7,42.7,30.15,29.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,06:15,31.1,26.9,84.9,0.0,NE@0.6,3.1,0.08,0,35.0,36.7,42.7,30.15,31.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,06:30,31.4,26.8,83.2,0.0,E@1.2,2.8,0.08,2,35.0,36.7,42.7,30.15,31.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,06:45,31.1,26.0,81.9,0.0,SE@1.4,3.1,0.08,8,35.0,36.7,42.7,30.15,31.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,07:00,32.3,26.9,80.3,0.0,SW@1.1,3.5,0.08,44,35.0,36.7,42.7,30.15,32.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,07:15,31.7,25.7,78.7,0.0,E@1.1,2.8,0.08,74,35.0,36.7,42.7,30.15,31.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,07:30,32.5,27.5,81.6,0.0,NE@1.4,2.4,0.09,108,35.0,36.7,42.7,30.16,32.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,07:45,35.7,28.8,75.9,0.0,N @0.0,0.0,0.09,143,34.9,36.7,42.7,30.16,35.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,08:00,38.9,30.8,72.4,0.0,E@0.2,2.1,0.05,178,34.9,36.7,42.7,30.16,38.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,08:15,41.4,31.9,68.8,0.0,E@1.1,2.8,0.0,215,34.9,36.7,42.7,30.17,41.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,08:30,41.8,32.9,70.5,0.0,SE@4.2,7.4,0.0,249,34.9,36.7,42.7,30.16,41.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,08:45,42.8,33.9,70.5,0.0,SE@5.4,7.1,0.0,282,34.9,36.7,42.7,30.16,42.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,09:00,44.6,34.2,66.8,0.0,SE@5.5,7.4,0.0,316,34.9,36.7,42.7,30.16,44.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,09:15,46.2,34.1,62.5,0.0,SE@4.9,6.7,0.0,339,34.9,36.6,42.7,30.16,46.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,09:30,47.9,34.3,59.0,0.0,E@5.1,7.1,0.0,374,34.9,36.6,42.7,30.16,47.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,09:45,49.5,34.1,55.3,0.0,E@5.5,7.8,0.0,400,34.9,36.6,42.7,30.16,49.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,10:00,50.7,34.0,52.5,0.0,SE@5.2,7.4,0.0,411,34.9,36.6,42.7,30.16,50.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,10:15,52.4,33.4,48.2,0.0,SE@5.3,7.8,0.0,413,34.9,36.6,42.7,30.16,52.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,10:30,54.7,33.2,43.8,0.0,SE@4.6,8.2,0.0,448,34.9,36.6,42.7,30.16,54.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,10:45,56.2,32.8,40.8,0.0,SE@5.8,8.9,0.0,460,34.9,36.6,42.7,30.15,56.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,11:00,58.5,29.2,32.6,0.0,SW@5.9,9.2,0.0,451,34.9,36.6,42.7,30.15,58.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,11:15,58.8,28.5,31.3,0.0,SW@6.4,10.7,0.0,470,34.9,36.6,42.7,30.15,58.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,11:30,59.2,28.2,30.4,0.0,SW@5.1,10.3,0.0,476,34.9,36.6,42.7,30.14,59.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,11:45,59.8,27.6,29.1,0.0,W@5.0,11.0,0.0,474,34.9,36.6,42.7,30.14,59.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,12:00,60.6,27.6,28.2,0.0,SW@4.2,7.1,0.0,467,34.9,36.6,42.7,30.14,60.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,12:15,60.0,29.4,31.1,0.0,N @4.9,10.3,0.0,460,35.0,36.6,42.7,30.13,59.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,12:30,60.2,29.7,31.3,0.0,NE@4.8,9.6,0.0,441,35.1,36.6,42.7,30.12,59.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,12:45,61.5,29.2,29.2,0.0,N @3.7,7.4,0.0,447,35.2,36.6,42.8,30.12,61.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,13:00,61.0,30.1,30.9,0.0,NE@5.6,10.3,0.0,365,35.3,36.6,42.8,30.11,60.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,13:15,61.6,29.2,29.2,0.0,NE@5.5,8.2,0.0,407,35.4,36.6,42.8,30.11,61.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,13:30,61.6,31.0,31.3,0.0,NE@6.4,9.9,0.0,392,35.5,36.6,42.8,30.11,61.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,13:45,59.3,33.2,37.2,0.0,NE@7.7,10.3,0.0,371,35.7,36.6,42.8,30.11,58.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,14:00,58.4,34.5,40.6,0.0,NE@7.0,10.3,0.0,346,35.8,36.6,42.8,30.11,57.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,14:15,57.2,34.6,42.4,0.0,NE@6.5,8.9,0.0,298,36.0,36.6,42.8,30.11,56.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,14:30,56.9,34.3,42.3,0.0,NE@6.5,9.2,0.0,290,36.1,36.6,42.8,30.1,56.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,14:45,56.7,34.2,42.6,0.0,NE@5.5,7.4,0.0,242,36.2,36.6,42.8,30.1,56.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,15:00,56.4,34.0,42.7,0.0,NE@5.6,7.8,0.0,212,36.4,36.7,42.8,30.1,55.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,15:15,55.6,34.0,43.9,0.0,NE@4.8,7.4,0.0,176,36.5,36.7,42.8,30.1,55.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,15:30,54.8,34.1,45.4,0.0,NE@3.9,6.0,0.0,139,36.6,36.7,42.8,30.1,54.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,15:45,53.6,34.1,47.3,0.0,NE@2.7,4.2,0.0,106,36.7,36.7,42.8,30.1,52.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,16:00,51.3,33.5,50.3,0.0,N @2.7,3.5,0.0,71,36.8,36.7,42.8,30.1,50.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,16:15,46.8,32.4,57.1,0.0,NE@2.8,3.5,0.0,39,36.9,36.7,42.8,30.1,46.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,16:30,42.0,31.0,64.6,0.0,N @2.2,3.1,0.0,9,36.9,36.8,42.8,30.1,41.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,16:45,40.6,31.1,68.5,0.0,E@0.6,2.4,0.0,2,37.0,36.8,42.9,30.1,40.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,17:00,39.4,30.5,70.2,0.0,NE@0.2,1.7,0.0,0,37.0,36.8,42.9,30.1,39.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,17:15,37.4,29.9,74.2,0.0,N @0.0,0.0,0.0,0,37.1,36.9,42.9,30.09,37.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,17:30,35.3,29.5,79.0,0.0,N @0.0,0.0,0.0,0,37.1,36.9,42.9,30.09,35.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,17:45,33.5,28.6,82.2,0.0,N @0.0,0.0,0.0,0,37.1,36.9,42.9,30.09,33.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,18:00,32.5,28.0,83.5,0.0,N @0.0,0.0,0.0,0,37.0,36.9,42.9,30.09,32.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,18:15,31.5,27.5,85.6,0.0,N @0.0,0.0,0.0,0,37.0,37.0,42.9,30.09,31.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,18:30,30.8,27.0,86.6,0.0,N @0.0,0.0,0.0,0,37.0,37.0,42.9,30.09,30.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,18:45,30.7,27.0,87.0,0.0,N @0.0,0.0,0.0,0,36.9,37.0,42.9,30.1,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,19:00,30.5,26.6,86.5,0.0,N @0.0,0.0,0.04,0,36.8,37.1,42.9,30.1,30.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,19:15,29.9,26.1,87.0,0.0,N @0.0,0.0,0.06,0,36.8,37.1,42.9,30.1,29.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,19:30,29.6,26.1,88.5,0.0,N @0.0,0.0,0.07,0,36.7,37.1,42.9,30.1,29.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,19:45,29.8,26.7,89.4,0.0,N @0.0,0.0,0.09,0,36.7,37.1,42.9,30.1,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,20:00,30.3,26.8,88.1,0.0,N @0.0,0.0,0.1,0,36.6,37.1,42.9,30.1,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,20:15,29.7,26.3,88.4,0.0,E@0.3,3.1,0.11,0,36.6,37.2,42.9,30.1,29.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,20:30,29.1,25.7,88.5,0.0,NE@2.4,3.5,0.12,0,36.5,37.2,42.9,30.1,28.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,20:45,29.2,26.1,90.0,0.0,SE@0.5,2.4,0.13,0,36.5,37.2,42.9,30.11,29.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,21:00,28.6,25.3,89.4,0.0,N@0.9,2.4,0.13,0,36.4,37.2,42.9,30.11,28.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,21:15,28.5,25.0,88.7,0.0,SE@0.6,2.8,0.06,0,36.4,37.2,42.9,30.11,28.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,21:30,27.7,24.0,88.2,0.0,E@1.1,2.8,0.06,0,36.3,37.2,42.9,30.11,27.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,21:45,28.8,24.6,86.2,0.0,SW@1.0,2.4,0.06,0,36.3,37.2,42.9,30.11,28.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,22:00,28.4,24.1,85.9,0.0,NE@0.7,2.4,0.06,0,36.2,37.2,42.9,30.11,28.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,22:15,28.0,23.5,85.4,0.0,NE@1.1,2.8,0.05,0,36.2,37.2,42.9,30.11,27.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,22:30,28.8,24.4,85.4,0.0,SW@1.1,3.9,0.06,0,36.2,37.2,42.9,30.12,28.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,22:45,28.2,24.4,87.8,0.0,SW@0.2,2.4,0.05,0,36.1,37.2,42.9,30.12,28.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,23:00,30.6,26.8,86.9,0.0,W@1.2,3.5,0.06,0,36.1,37.2,42.9,30.12,30.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,23:15,30.9,26.4,84.2,0.0,SW@0.2,2.1,0.06,0,36.1,37.2,42.9,30.12,30.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,23:30,29.9,26.1,87.2,0.0,SW@1.8,3.1,0.06,0,36.0,37.2,42.9,30.12,29.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,23:45,30.2,26.7,88.1,0.0,SW@1.3,3.1,0.06,0,36.0,37.2,42.9,30.12,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-05,24:00,30.1,26.8,88.7,0.0,W@0.9,2.8,0.06,0,36.0,37.2,42.9,30.13,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,00:15,30.7,27.2,87.6,0.0,W@0.0,1.7,0.07,0,35.9,37.2,42.9,30.13,30.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,00:30,29.6,26.6,89.9,0.0,N @0.0,0.0,0.06,0,35.9,37.2,42.9,30.13,29.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,00:45,30.2,27.3,90.1,0.0,N @0.0,0.0,0.06,0,35.9,37.2,42.9,30.13,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,01:00,30.7,27.4,88.5,0.0,SW@0.3,2.1,0.07,0,35.9,37.2,42.9,30.13,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,01:15,30.5,26.7,86.9,0.0,SW@0.1,2.4,0.07,0,35.8,37.2,42.9,30.14,30.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,01:30,29.4,25.7,87.6,0.0,SW@0.9,3.5,0.06,0,35.8,37.2,42.9,30.14,29.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,01:45,29.2,25.6,88.1,0.0,S@2.4,4.2,0.06,0,35.8,37.2,42.9,30.15,29.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,02:00,29.5,25.6,86.9,0.0,SW@1.0,4.6,0.07,0,35.8,37.2,42.9,30.15,29.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,02:15,28.3,24.6,88.1,0.0,N @0.0,0.0,0.06,0,35.7,37.2,42.9,30.15,28.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,02:30,28.2,24.8,89.2,0.0,N @0.0,0.0,0.06,0,35.7,37.2,42.9,30.15,28.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,02:45,27.8,24.4,89.3,0.0,N @0.0,0.0,0.05,0,35.7,37.2,42.9,30.15,27.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,03:00,29.2,26.2,90.0,0.0,N @0.0,0.0,0.06,0,35.7,37.2,42.9,30.15,29.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,03:15,31.9,28.2,86.5,0.0,SW@1.1,7.4,0.07,0,35.7,37.2,42.8,30.15,31.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,03:30,33.2,28.7,83.5,0.0,W@1.7,4.6,0.08,0,35.6,37.2,42.8,30.16,33.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,03:45,34.1,29.7,83.7,0.0,SW@2.5,5.7,0.09,0,35.6,37.2,42.8,30.16,34.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,04:00,34.1,29.7,83.8,0.0,SW@3.1,4.9,0.09,0,35.6,37.2,42.8,30.16,34.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,04:15,33.5,29.4,84.7,0.0,SW@2.8,4.6,0.09,0,35.6,37.2,42.8,30.17,33.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,04:30,32.5,28.5,84.8,0.0,SW@1.8,4.2,0.08,0,35.6,37.2,42.8,30.17,32.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,04:45,30.4,26.9,87.7,0.0,SW@1.7,4.2,0.08,0,35.5,37.2,42.8,30.17,30.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,05:00,29.7,26.7,90.0,0.0,N @0.0,0.0,0.07,0,35.5,37.2,42.8,30.17,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,05:15,29.3,26.4,90.4,0.0,N@0.9,3.1,0.07,0,35.5,37.2,42.8,30.18,29.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,05:30,27.1,23.8,90.1,0.0,NE@0.4,2.1,0.06,0,35.5,37.2,42.8,30.18,26.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,05:45,26.4,23.7,92.6,0.0,N @0.0,0.0,0.06,0,35.5,37.2,42.8,30.18,26.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,06:00,25.6,23.0,93.2,0.0,E@1.5,2.8,0.06,0,35.5,37.2,42.8,30.19,25.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,06:15,25.0,22.1,92.8,0.0,SE@0.2,2.4,0.05,0,35.5,37.2,42.8,30.19,24.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,06:30,24.7,21.9,93.0,0.0,N @0.0,0.0,0.01,2,35.5,37.2,42.8,30.19,24.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,06:45,23.7,20.9,93.6,0.0,N @0.1,2.4,0.01,8,35.4,37.1,42.8,30.2,23.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,07:00,25.1,22.4,93.5,0.0,NE@0.9,3.1,0.05,37,35.4,37.1,42.8,30.2,24.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,07:15,26.4,23.2,90.8,0.0,NE@0.3,2.8,0.06,70,35.4,37.1,42.8,30.21,26.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,07:30,28.8,24.9,87.0,0.0,N @0.0,0.0,0.07,103,35.4,37.1,42.8,30.21,28.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,07:45,30.9,26.6,84.5,0.0,N @0.0,0.0,0.09,136,35.4,37.1,42.8,30.22,30.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,08:00,32.0,28.2,85.7,0.0,N @0.0,0.0,0.11,175,35.4,37.1,42.8,30.22,32.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,08:15,35.2,30.8,84.0,0.0,N @0.0,0.0,0.14,239,35.3,37.1,42.8,30.23,35.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,08:30,38.3,32.8,80.1,0.0,N @0.0,0.0,0.14,269,35.3,37.1,42.8,30.24,38.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,08:45,41.3,34.3,75.8,0.0,NW@0.6,3.5,0.16,297,35.3,37.1,42.8,30.24,41.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,09:00,41.6,33.8,73.8,0.0,W@3.0,6.0,0.16,321,35.3,37.1,42.8,30.25,41.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,09:15,42.2,33.9,72.2,0.0,W@5.2,7.8,0.04,345,35.3,37.0,42.8,30.26,42.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,09:30,42.7,33.1,68.6,0.0,W@6.1,8.5,0.0,364,35.3,37.0,42.8,30.26,42.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,09:45,43.6,32.9,65.6,0.0,W@6.2,8.5,0.0,380,35.3,37.0,42.8,30.26,43.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,10:00,44.8,32.9,62.9,0.0,W@6.1,8.5,0.0,399,35.3,37.0,42.8,30.27,44.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,10:15,45.1,32.6,61.4,0.0,NW@4.7,8.5,0.0,416,35.3,37.0,42.8,30.27,44.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,10:30,45.6,32.5,59.9,0.0,NW@5.2,8.9,0.0,431,35.2,37.0,42.7,30.28,45.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,10:45,45.9,32.0,58.1,0.0,N@4.1,7.8,0.0,445,35.2,37.0,42.7,30.28,45.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,11:00,47.3,32.5,56.1,0.0,N @2.9,7.1,0.0,455,35.2,37.0,42.7,30.28,46.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,11:15,47.7,32.8,55.9,0.0,N@3.6,7.1,0.0,462,35.2,37.0,42.7,30.28,47.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,11:30,48.3,32.5,54.3,0.0,N@2.9,5.3,0.0,464,35.2,37.0,42.7,30.27,48.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,11:45,48.5,32.2,53.0,0.0,NW@2.9,6.0,0.0,459,35.2,37.0,42.7,30.27,48.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,12:00,48.8,32.0,52.0,0.0,N @3.2,5.7,0.0,456,35.2,37.0,42.7,30.27,48.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,12:15,49.0,31.8,51.1,0.0,N@3.6,6.7,0.0,452,35.2,37.0,42.8,30.26,48.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,12:30,49.4,31.3,49.5,0.0,N@3.6,7.8,0.0,371,35.3,37.0,42.8,30.26,49.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,12:45,49.3,30.9,48.9,0.0,N@3.1,6.7,0.0,430,35.3,37.0,42.8,30.27,49.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,13:00,50.1,30.6,46.8,0.0,NE@3.4,6.0,0.0,412,35.4,37.0,42.8,30.26,49.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,13:15,50.2,30.7,47.0,0.0,N @3.8,7.1,0.0,395,35.4,37.0,42.8,30.27,49.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,13:30,50.5,30.5,46.0,0.0,NE@3.4,6.7,0.0,372,35.5,37.0,42.8,30.26,49.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,13:45,49.5,30.9,48.6,0.0,N@3.9,7.8,0.0,347,35.6,37.0,42.8,30.26,49.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,14:00,49.3,33.3,54.0,0.0,N @5.6,8.9,0.0,318,35.7,37.0,42.8,30.26,48.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,14:15,48.7,33.7,55.8,0.0,N @5.6,8.5,0.0,289,35.8,37.0,42.8,30.26,48.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,14:30,48.2,33.9,57.4,0.0,N @5.3,7.8,0.0,258,35.9,37.0,42.8,30.27,47.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,14:45,48.0,34.0,58.0,0.0,N @5.0,7.4,0.0,227,36.0,37.0,42.8,30.26,47.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,15:00,47.6,34.0,59.1,0.0,N@5.0,7.4,0.0,194,36.1,37.0,42.8,30.27,47.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,15:15,46.7,33.8,60.6,0.0,N@4.8,6.7,0.0,160,36.2,37.0,42.8,30.27,46.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,15:30,46.1,33.6,61.5,0.0,N@4.0,5.7,0.0,127,36.3,37.0,42.8,30.27,46.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,15:45,45.2,33.2,62.6,0.0,N@3.1,4.2,0.0,94,36.3,37.0,42.8,30.27,45.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,16:00,42.9,32.3,66.1,0.0,N @2.3,3.5,0.0,62,36.4,37.0,42.8,30.27,42.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,16:15,39.6,31.0,71.1,0.0,NE@2.6,3.5,0.0,30,36.5,37.0,42.8,30.27,38.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,16:30,35.2,29.3,78.8,0.0,NE@1.7,3.5,0.0,7,36.5,37.0,42.8,30.27,34.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,16:45,33.7,29.0,82.5,0.0,N @0.0,0.0,0.0,1,36.6,37.0,42.8,30.27,33.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,17:00,32.4,28.2,84.5,0.0,N @0.0,0.0,0.0,0,36.6,37.1,42.8,30.27,32.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,17:15,31.0,27.3,86.8,0.0,N @0.0,0.0,0.0,0,36.6,37.1,42.8,30.27,30.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,17:30,29.7,26.1,88.0,0.0,N @0.0,0.0,0.0,0,36.6,37.1,42.8,30.27,29.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,17:45,30.4,27.0,88.4,0.0,N @0.0,0.0,0.0,0,36.6,37.1,42.8,30.27,30.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,18:00,30.7,27.0,86.9,0.0,N @0.0,0.0,0.0,0,36.6,37.1,42.8,30.27,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,18:15,30.1,27.0,89.4,0.0,N @0.0,0.0,0.0,0,36.5,37.2,42.8,30.28,30.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,18:30,29.8,26.4,88.7,0.0,N @0.0,0.0,0.0,0,36.5,37.2,42.8,30.28,29.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,18:45,28.8,25.9,90.6,0.0,N @0.0,0.0,0.0,0,36.5,37.2,42.8,30.28,28.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,19:00,28.1,25.0,90.6,0.0,N @0.0,0.0,0.0,0,36.4,37.2,42.8,30.28,28.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,19:15,26.9,24.2,92.3,0.0,W@0.0,1.4,0.0,0,36.4,37.2,42.8,30.28,26.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,19:30,27.1,24.5,92.9,0.0,N @0.0,0.0,0.0,0,36.3,37.2,42.8,30.27,26.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,19:45,26.9,24.3,93.1,0.0,N @0.0,0.0,0.0,0,36.3,37.2,42.8,30.27,26.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,20:00,26.7,24.1,93.2,0.0,N @0.0,0.0,0.0,0,36.3,37.2,42.8,30.27,26.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,20:15,27.6,25.3,93.7,0.0,N @0.0,0.0,0.0,0,36.2,37.3,42.8,30.28,27.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,20:30,27.8,25.3,93.0,0.0,N @0.0,0.0,0.0,0,36.2,37.3,42.8,30.28,27.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,20:45,26.8,24.1,92.7,0.0,N @0.0,0.0,0.0,0,36.2,37.3,42.8,30.28,26.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,21:00,25.4,22.8,93.4,0.0,N @0.0,0.0,0.0,0,36.1,37.3,42.8,30.28,25.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,21:15,24.7,22.1,94.2,0.0,N @0.0,0.0,0.0,0,36.1,37.3,42.8,30.28,24.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,21:30,24.7,22.3,94.8,0.0,N @0.0,0.0,0.0,0,36.1,37.3,42.8,30.28,24.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,21:45,23.6,20.9,94.4,0.0,N @0.0,0.0,0.0,0,36.0,37.3,42.8,30.28,23.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,22:00,25.6,23.5,95.4,0.0,N @0.0,0.0,0.0,0,36.0,37.3,42.8,30.28,25.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,22:15,26.0,23.5,94.1,0.0,N @0.0,0.0,0.0,0,36.0,37.3,42.8,30.28,26.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,22:30,25.2,22.6,93.6,0.0,N @0.0,0.0,0.0,0,35.9,37.3,42.8,30.27,25.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,22:45,24.0,21.2,93.3,0.0,N @0.0,0.0,0.0,0,35.9,37.3,42.8,30.27,23.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,23:00,23.5,20.8,94.3,0.0,N @0.0,0.0,0.0,0,35.9,37.3,42.8,30.27,23.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,23:15,23.3,20.6,94.2,0.0,N @0.0,0.0,0.0,0,35.9,37.3,42.8,30.27,23.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,23:30,22.9,20.0,93.8,0.0,NE@1.0,3.1,0.0,0,35.8,37.3,42.8,30.27,22.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,23:45,22.1,19.2,93.8,0.0,NE@2.0,3.9,0.0,0,35.8,37.3,42.8,30.27,21.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-06,24:00,22.6,19.8,94.1,0.0,NE@0.2,1.7,0.0,0,35.8,37.3,42.8,30.27,22.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,00:15,22.8,20.0,94.1,0.0,E@0.3,2.1,0.0,0,35.8,37.3,42.8,30.27,22.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,00:30,23.7,21.1,94.4,0.0,E@1.3,2.8,0.0,0,35.7,37.3,42.8,30.27,23.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,00:45,24.6,21.9,93.5,0.0,S@2.4,4.6,0.0,0,35.7,37.3,42.8,30.27,24.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,01:00,24.3,21.2,92.1,0.0,SW@1.6,3.1,0.0,0,35.7,37.3,42.8,30.27,24.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,01:15,26.6,24.1,93.4,0.0,S@2.6,3.9,0.0,0,35.7,37.3,42.8,30.26,26.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,01:30,25.1,22.0,92.0,0.0,NE@1.0,2.1,0.0,0,35.6,37.3,42.8,30.27,25.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,01:45,25.6,23.0,93.3,0.0,NE@0.6,3.5,0.0,0,35.6,37.3,42.8,30.27,25.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,02:00,23.9,20.7,91.9,0.0,E@1.5,3.5,0.0,0,35.6,37.2,42.8,30.27,23.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,02:15,23.7,20.7,92.8,0.0,E@0.5,2.4,0.0,0,35.6,37.2,42.8,30.27,23.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,02:30,22.8,19.8,93.1,0.0,E@1.7,3.1,0.0,0,35.6,37.2,42.8,30.27,22.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,02:45,23.1,20.2,93.3,0.0,E@1.4,3.1,0.0,0,35.5,37.2,42.8,30.27,22.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,03:00,22.1,19.1,93.2,0.0,E@0.1,1.7,0.0,0,35.5,37.2,42.8,30.27,21.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,03:15,22.0,19.1,93.7,0.0,E@1.2,2.8,0.0,0,35.5,37.2,42.8,30.27,21.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,03:30,23.9,21.3,94.0,0.0,S@2.7,4.2,0.0,0,35.5,37.2,42.8,30.27,23.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,03:45,22.4,18.7,90.5,0.0,N @0.0,0.0,0.0,0,35.5,37.2,42.7,30.27,22.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,04:00,23.3,20.5,94.0,0.0,SW@2.1,4.6,0.0,0,35.5,37.2,42.7,30.26,23.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,04:15,24.3,21.6,93.7,0.0,SW@0.8,2.8,0.0,0,35.5,37.2,42.7,30.26,24.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,04:30,22.8,19.7,92.8,0.0,E@0.0,1.4,0.0,0,35.4,37.2,42.7,30.27,22.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,04:45,22.4,19.6,94.0,0.0,SE@1.5,3.1,0.0,0,35.4,37.2,42.7,30.27,22.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,05:00,22.1,19.3,94.1,0.0,W@0.1,2.1,0.0,0,35.4,37.2,42.7,30.27,21.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,05:15,22.2,19.5,94.6,0.0,W@0.2,1.7,0.0,0,35.4,37.2,42.7,30.27,22.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,05:30,20.9,17.9,93.8,0.0,E@0.8,3.5,0.0,0,35.4,37.2,42.7,30.27,20.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,05:45,20.6,17.6,94.1,0.0,N @0.0,0.0,0.0,0,35.4,37.2,42.7,30.27,20.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,06:00,21.8,19.1,94.8,0.0,N @0.0,0.0,0.0,0,35.4,37.2,42.7,30.27,21.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,06:15,23.6,21.2,95.2,0.0,N @0.0,0.0,0.0,0,35.3,37.2,42.7,30.27,23.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,06:30,22.1,19.1,93.4,0.0,N @0.0,0.0,0.0,2,35.3,37.2,42.7,30.27,22.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,06:45,23.6,21.1,94.9,0.0,N @0.0,0.0,0.0,7,35.3,37.2,42.7,30.28,23.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,07:00,24.6,22.0,94.2,0.0,N @0.0,0.0,0.0,30,35.3,37.1,42.7,30.28,24.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,07:15,23.7,20.4,91.5,0.0,N @0.0,0.0,0.0,36,35.3,37.1,42.7,30.29,23.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,07:30,24.7,21.6,91.7,0.0,N @0.0,0.0,0.0,73,35.3,37.1,42.7,30.29,24.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,07:45,27.1,24.2,91.9,0.0,N @0.0,0.0,0.02,122,35.3,37.1,42.7,30.29,26.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,08:00,30.2,27.8,91.8,0.0,SE@3.2,4.2,0.06,124,35.2,37.1,42.7,30.29,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,08:15,31.8,29.2,90.6,0.0,SE@3.2,4.6,0.08,166,35.2,37.1,42.7,30.29,31.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,08:30,33.0,30.2,89.1,0.0,SE@4.1,6.0,0.11,256,35.2,37.1,42.7,30.29,32.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,08:45,34.5,31.4,88.2,0.0,SE@3.5,4.9,0.12,274,35.2,37.1,42.7,30.3,34.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,09:00,35.9,32.3,86.6,0.0,SE@3.4,5.7,0.12,294,35.2,37.1,42.7,30.3,35.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,09:15,37.1,33.2,85.5,0.0,SE@5.2,7.1,0.14,344,35.2,37.0,42.7,30.3,36.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,09:30,38.0,33.6,84.0,0.0,SE@5.4,7.8,0.11,348,35.2,37.0,42.7,30.3,37.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,09:45,39.6,34.2,80.9,0.0,SE@4.9,7.1,0.0,375,35.1,37.0,42.7,30.3,39.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,10:00,41.8,34.8,76.1,0.0,SE@4.4,6.4,0.0,404,35.1,37.0,42.7,30.31,41.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,10:15,43.3,34.3,70.5,0.0,SE@4.4,6.4,0.0,412,35.1,37.0,42.7,30.32,43.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,10:30,44.4,33.9,66.4,0.0,SE@4.6,7.1,0.0,422,35.1,37.0,42.7,30.32,44.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,10:45,45.3,34.1,64.6,0.0,SE@5.8,7.8,0.0,422,35.1,37.0,42.7,30.32,45.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,11:00,46.0,33.5,61.5,0.0,SE@5.9,9.2,0.0,396,35.1,37.0,42.7,30.31,45.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,11:15,46.4,32.7,58.6,0.0,E@6.2,8.2,0.0,367,35.1,37.0,42.7,30.31,46.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,11:30,46.8,31.8,55.7,0.0,E@7.2,10.3,0.0,397,35.1,37.0,42.7,30.31,46.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,11:45,47.0,31.3,54.2,0.0,E@8.0,11.0,0.0,407,35.1,37.0,42.7,30.3,46.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,12:00,47.2,30.8,52.7,0.0,SE@8.0,11.4,0.0,335,35.1,37.0,42.7,30.29,47.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,12:15,47.8,30.7,51.3,0.0,SE@8.0,12.1,0.0,355,35.1,37.0,42.7,30.29,47.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,12:30,48.4,30.4,49.4,0.0,SE@8.4,11.4,0.0,370,35.1,37.0,42.7,30.28,48.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,12:45,48.8,30.7,49.3,0.0,SE@8.0,10.7,0.0,347,35.1,36.9,42.7,30.28,48.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,13:00,49.0,30.7,49.1,0.0,SE@7.8,11.0,0.0,350,35.1,36.9,42.7,30.28,48.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,13:15,49.4,30.6,48.1,0.0,E@7.7,10.7,0.0,337,35.1,36.9,42.7,30.27,49.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,13:30,49.8,30.7,47.7,0.0,E@7.2,10.3,0.0,310,35.1,36.9,42.7,30.27,49.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,13:45,49.8,30.7,47.6,0.0,E@7.2,9.6,0.0,291,35.1,36.9,42.7,30.27,49.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,14:00,50.0,30.6,46.9,0.0,E@6.7,9.2,0.0,253,35.1,36.9,42.7,30.27,49.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,14:15,49.3,30.3,47.8,0.0,E@6.1,8.9,0.0,178,35.1,36.9,42.7,30.27,49.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,14:30,48.3,31.0,50.9,0.0,E@5.8,7.8,0.0,136,35.1,36.9,42.7,30.27,48.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,14:45,47.4,31.5,53.8,0.0,E@6.3,9.2,0.0,161,35.2,36.9,42.7,30.27,47.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,15:00,46.8,31.5,55.0,0.0,E@5.5,7.4,0.0,140,35.2,36.9,42.7,30.27,46.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,15:15,46.0,31.3,56.3,0.0,E@4.6,6.4,0.0,120,35.2,36.9,42.7,30.28,45.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,15:30,44.6,31.3,59.3,0.0,E@4.8,6.0,0.0,85,35.3,36.9,42.7,30.28,44.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,15:45,42.1,30.9,64.4,0.0,NE@3.4,4.9,0.0,51,35.3,36.9,42.7,30.28,41.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,16:00,38.8,30.2,70.9,0.0,E@1.3,2.4,0.0,32,35.4,36.9,42.7,30.27,38.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,16:15,37.7,29.8,72.8,0.0,E@2.2,3.1,0.0,18,35.4,36.9,42.7,30.27,37.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,16:30,36.5,29.2,74.6,0.0,SE@2.4,3.1,0.0,5,35.5,36.9,42.7,30.27,36.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,16:45,34.6,28.1,76.9,0.0,SE@2.3,3.1,0.0,1,35.5,36.9,42.7,30.26,34.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,17:00,32.8,27.0,78.8,0.0,E@2.6,3.5,0.0,0,35.6,36.9,42.7,30.26,32.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,17:15,30.9,26.3,83.7,0.0,E@1.4,2.8,0.0,0,35.6,36.9,42.7,30.26,30.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,17:30,30.5,26.1,84.9,0.0,SE@1.2,2.4,0.0,0,35.6,37.0,42.7,30.26,30.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,17:45,30.1,26.0,85.9,0.0,SE@0.2,1.7,0.0,0,35.6,37.0,42.7,30.26,29.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,18:00,29.5,25.5,86.3,0.0,N @0.0,0.0,0.0,0,35.6,37.0,42.7,30.26,29.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,18:15,28.0,24.2,87.7,0.0,NE@1.3,2.8,0.0,0,35.6,37.0,42.7,30.26,27.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,18:30,27.7,24.1,88.4,0.0,SE@0.2,2.1,0.0,0,35.6,37.0,42.7,30.26,27.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,18:45,27.5,24.0,89.3,0.0,SW@0.1,1.7,0.0,0,35.6,37.0,42.7,30.26,27.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,19:00,27.7,23.9,88.3,0.0,SE@0.7,2.8,0.0,0,35.6,37.0,42.7,30.26,27.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,19:15,28.5,24.3,86.2,0.0,S@0.7,2.4,0.0,0,35.6,37.0,42.7,30.26,28.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,19:30,29.2,24.3,83.5,0.0,NE@1.1,3.5,0.0,0,35.5,37.0,42.7,30.26,29.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,19:45,28.4,23.6,83.9,0.0,NE@0.6,2.8,0.0,0,35.5,37.0,42.7,30.26,28.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,20:00,28.3,23.8,85.2,0.0,NW@0.1,1.4,0.0,0,35.5,37.0,42.7,30.27,28.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,20:15,27.2,22.9,86.5,0.0,SE@0.5,1.7,0.0,0,35.5,37.0,42.7,30.27,27.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,20:30,26.0,21.9,87.5,0.0,NE@1.5,2.8,0.0,0,35.5,37.0,42.7,30.27,25.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,20:45,26.3,22.4,88.2,0.0,E@0.3,2.1,0.0,0,35.5,37.0,42.7,30.27,26.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,21:00,26.3,21.9,86.6,0.0,NE@0.4,2.1,0.0,0,35.5,37.0,42.7,30.27,26.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,21:15,26.1,22.0,87.9,0.0,S@0.3,2.1,0.0,0,35.5,37.0,42.7,30.27,26.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,21:30,27.0,22.6,86.4,0.0,E@0.4,2.1,0.0,0,35.5,37.0,42.7,30.27,26.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,21:45,26.8,22.1,85.1,0.0,NE@1.1,3.1,0.0,0,35.4,37.0,42.7,30.27,26.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,22:00,26.6,22.0,85.6,0.0,E@0.3,2.4,0.0,0,35.4,37.0,42.7,30.26,26.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,22:15,26.3,21.9,86.4,0.0,E@0.5,2.4,0.0,0,35.4,37.0,42.7,30.27,26.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,22:30,25.8,21.3,86.0,0.0,NE@0.0,1.4,0.0,0,35.4,37.0,42.7,30.26,25.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,22:45,25.1,20.9,87.5,0.0,W@0.2,2.8,0.0,0,35.4,37.0,42.7,30.26,25.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,23:00,25.1,21.2,88.8,0.0,E@1.9,3.5,0.0,0,35.4,37.0,42.7,30.26,25.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,23:15,25.9,21.4,86.4,0.0,E@2.2,3.5,0.0,0,35.4,37.0,42.7,30.26,25.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,23:30,26.4,21.8,85.4,0.0,E@0.5,2.1,0.0,0,35.4,37.0,42.7,30.26,26.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,23:45,26.3,21.7,85.6,0.0,NE@1.5,4.2,0.0,0,35.3,37.0,42.7,30.26,26.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-07,24:00,26.3,21.6,85.5,0.0,NE@1.4,3.1,0.0,0,35.3,37.0,42.7,30.26,26.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,00:15,25.4,21.0,86.5,0.0,SE@0.5,2.8,0.0,0,35.3,37.0,42.7,30.26,25.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,00:30,26.0,21.2,85.4,0.0,E@1.7,3.5,0.0,0,35.3,37.0,42.7,30.26,25.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,00:45,27.1,22.1,83.9,0.0,E@0.9,2.4,0.0,0,35.3,37.0,42.7,30.26,27.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,01:00,26.9,21.8,83.7,0.0,SE@0.2,1.7,0.0,0,35.3,37.0,42.7,30.26,26.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,01:15,27.3,22.1,83.4,0.0,E@2.1,3.1,0.0,0,35.3,37.0,42.7,30.26,27.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,01:30,27.6,21.9,81.4,0.0,SW@0.5,2.8,0.0,0,35.3,37.0,42.7,30.26,27.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,01:45,25.8,20.9,84.8,0.0,E@1.3,3.9,0.0,0,35.3,37.0,42.7,30.26,25.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,02:00,25.0,20.4,86.2,0.0,W@0.9,3.5,0.0,0,35.3,37.0,42.7,30.26,24.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,02:15,25.0,20.7,87.4,0.0,NE@1.6,3.9,0.0,0,35.3,37.0,42.7,30.26,24.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,02:30,25.5,20.6,85.0,0.0,NE@2.8,4.2,0.0,0,35.2,37.0,42.7,30.26,25.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,02:45,26.0,20.8,83.6,0.0,E@2.1,3.9,0.0,0,35.2,37.0,42.7,30.26,25.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,03:00,24.7,19.8,85.4,0.0,E@0.7,2.1,0.0,0,35.2,37.0,42.7,30.26,24.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,03:15,25.3,20.5,85.3,0.0,E@2.1,3.5,0.0,0,35.2,37.0,42.7,30.26,25.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,03:30,26.5,21.1,82.8,0.0,E@0.9,3.1,0.0,0,35.2,37.0,42.7,30.26,26.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,03:45,26.1,20.5,82.3,0.0,E@1.5,2.4,0.0,0,35.2,37.0,42.7,30.26,26.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,04:00,24.8,19.9,85.3,0.0,E@0.9,2.4,0.0,0,35.2,36.9,42.7,30.25,24.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,04:15,24.9,20.1,85.4,0.0,E@0.2,1.7,0.0,0,35.2,36.9,42.7,30.26,24.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,04:30,25.4,20.5,85.0,0.0,SE@1.3,2.4,0.0,0,35.2,36.9,42.7,30.26,25.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,04:45,24.2,19.2,85.0,0.0,NE@2.1,3.1,0.0,0,35.2,36.9,42.7,30.26,24.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,05:00,24.6,19.8,85.7,0.0,E@2.6,3.5,0.0,0,35.2,36.9,42.7,30.26,24.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,05:15,24.5,19.8,85.9,0.0,E@1.9,3.1,0.0,0,35.2,36.9,42.7,30.26,24.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,05:30,28.0,22.3,81.3,0.0,E@2.6,3.9,0.0,0,35.1,36.9,42.7,30.26,27.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,05:45,26.1,21.5,85.5,0.0,E@1.6,3.1,0.0,0,35.1,36.9,42.7,30.26,25.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,06:00,25.1,19.9,84.3,0.0,S@0.5,2.4,0.0,0,35.1,36.9,42.7,30.26,25.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,06:15,23.8,19.4,87.7,0.0,SW@0.8,2.4,0.0,0,35.1,36.9,42.7,30.26,23.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,06:30,25.3,20.7,86.1,0.0,W@1.0,2.4,0.0,1,35.1,36.9,42.7,30.26,25.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,06:45,25.6,20.9,85.4,0.0,SE@1.6,3.5,0.0,6,35.1,36.9,42.7,30.25,25.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,07:00,28.9,22.1,77.1,0.0,E@2.2,3.1,0.0,34,35.1,36.9,42.7,30.25,28.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,07:15,30.3,22.5,73.5,0.0,E@0.9,2.8,0.02,67,35.1,36.9,42.7,30.25,30.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,07:30,29.7,23.3,78.0,0.0,E@1.6,3.5,0.04,102,35.1,36.9,42.7,30.25,29.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,07:45,33.3,26.6,76.2,0.0,E@1.5,3.9,0.07,139,35.0,36.9,42.7,30.25,33.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,08:00,35.8,28.5,74.5,0.0,SE@4.5,7.8,0.1,167,35.0,36.9,42.7,30.26,35.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,08:15,38.9,29.7,69.3,0.0,SE@5.4,7.1,0.05,195,35.0,36.9,42.7,30.26,38.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,08:30,42.2,30.8,63.6,0.0,SE@5.4,7.8,0.0,216,35.0,36.9,42.7,30.27,42.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,08:45,43.8,31.1,60.8,0.0,E@5.0,7.4,0.0,249,35.0,36.8,42.7,30.27,43.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,09:00,44.9,30.6,56.9,0.0,E@5.1,7.4,0.0,282,35.0,36.8,42.7,30.28,44.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,09:15,45.9,30.9,55.7,0.0,E@6.3,8.9,0.0,314,35.0,36.8,42.7,30.28,45.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,09:30,47.9,29.3,48.3,0.0,SE@6.9,9.6,0.0,345,35.0,36.8,42.7,30.28,47.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,09:45,49.2,28.4,44.3,0.0,SE@7.2,10.3,0.0,351,35.0,36.8,42.7,30.28,49.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,10:00,50.3,27.9,41.7,0.0,SE@6.7,9.2,0.0,365,35.0,36.8,42.7,30.28,50.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,10:15,52.1,27.5,38.4,0.0,SE@6.6,9.2,0.0,386,34.9,36.8,42.7,30.28,52.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,10:30,52.3,26.9,37.1,0.0,SE@7.1,9.6,0.0,386,34.9,36.8,42.7,30.27,52.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,10:45,53.2,27.2,36.4,0.0,SE@6.5,8.9,0.0,392,34.9,36.8,42.7,30.27,53.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,11:00,55.3,27.0,33.5,0.0,SE@5.4,7.4,0.0,414,34.9,36.8,42.7,30.27,55.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,11:15,56.3,26.7,31.8,0.0,SE@6.9,9.9,0.0,449,34.9,36.8,42.7,30.26,56.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,11:30,55.5,26.0,31.8,0.0,SE@8.2,11.0,0.0,441,34.9,36.8,42.7,30.26,55.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,11:45,56.2,26.4,31.5,0.0,SE@7.8,10.7,0.0,401,34.9,36.8,42.7,30.25,56.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,12:00,57.9,26.9,30.2,0.0,SE@6.6,9.6,0.0,393,34.9,36.8,42.7,30.25,57.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,12:15,58.0,27.1,30.4,0.0,SE@6.1,8.9,0.0,328,34.9,36.7,42.7,30.24,57.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,12:30,59.1,27.1,29.3,0.0,SE@6.2,8.9,0.0,369,34.9,36.7,42.7,30.23,59.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,12:45,59.9,26.9,28.2,0.0,SE@5.8,8.2,0.0,369,34.9,36.7,42.7,30.23,59.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,13:00,60.1,26.9,28.0,0.0,SE@6.2,8.5,0.0,316,35.0,36.7,42.7,30.22,60.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,13:15,59.9,27.1,28.4,0.0,SE@5.9,8.9,0.0,280,35.0,36.7,42.7,30.22,59.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,13:30,59.8,27.0,28.4,0.0,SE@4.7,7.1,0.0,233,35.1,36.7,42.7,30.22,59.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,13:45,59.5,22.7,24.0,0.0,SW@7.5,11.0,0.0,192,35.1,36.7,42.7,30.22,59.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,14:00,58.7,23.0,25.0,0.0,SW@7.3,9.9,0.0,197,35.2,36.7,42.7,30.22,58.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,14:15,57.9,22.8,25.6,0.0,SW@5.4,9.6,0.0,155,35.3,36.7,42.7,30.22,57.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,14:30,58.0,24.3,27.1,0.0,SW@4.3,6.0,0.0,172,35.4,36.7,42.7,30.22,57.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,14:45,59.7,24.5,25.7,0.0,SW@4.2,7.1,0.0,239,35.5,36.7,42.7,30.21,59.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,15:00,59.9,23.5,24.5,0.0,SW@4.5,7.1,0.0,202,35.6,36.7,42.7,30.21,59.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,15:15,59.8,24.2,25.3,0.0,SW@4.2,6.0,0.0,173,35.7,36.7,42.7,30.21,59.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,15:30,58.6,23.6,25.7,0.0,SW@5.6,10.7,0.0,121,35.8,36.7,42.7,30.21,58.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,15:45,57.3,23.5,26.8,0.0,S@4.9,9.2,0.0,82,35.9,36.8,42.7,30.2,57.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,16:00,53.0,26.3,35.3,0.0,SE@2.4,4.2,0.0,38,36.0,36.8,42.7,30.21,52.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,16:15,48.6,27.5,43.7,0.0,NE@1.9,2.8,0.0,32,36.1,36.8,42.7,30.21,48.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,16:30,47.1,25.5,42.6,0.0,W@1.1,2.8,0.0,7,36.2,36.8,42.7,30.21,47.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,16:45,44.7,25.4,46.4,0.0,SE@0.4,2.8,0.0,3,36.3,36.8,42.7,30.21,44.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,17:00,42.6,25.0,49.5,0.0,SW@1.5,3.1,0.0,0,36.4,36.8,42.7,30.21,42.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,17:15,41.3,24.6,51.2,0.0,SW@0.6,2.4,0.0,0,36.4,36.9,42.7,30.21,41.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,17:30,40.7,24.3,51.6,0.0,N @1.8,2.8,0.0,0,36.5,36.9,42.7,30.21,40.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,17:45,40.0,24.6,53.9,0.0,E@2.9,4.6,0.0,0,36.5,36.9,42.7,30.21,39.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,18:00,40.5,24.3,51.9,0.0,SE@4.3,4.9,0.0,0,36.5,36.9,42.7,30.2,40.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,18:15,41.7,23.9,49.0,0.0,SE@3.9,4.6,0.0,0,36.5,36.9,42.7,30.2,41.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,18:30,41.0,24.4,51.1,0.0,SE@3.3,4.9,0.0,0,36.5,37.0,42.7,30.2,40.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,18:45,43.0,24.3,47.3,0.0,SE@2.5,5.7,0.0,0,36.4,37.0,42.7,30.2,42.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,19:00,41.9,24.0,48.7,0.0,NE@2.4,4.6,0.0,0,36.4,37.0,42.7,30.2,41.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,19:15,43.4,24.4,46.8,0.0,SE@1.2,3.9,0.0,0,36.4,37.0,42.7,30.2,43.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,19:30,43.5,24.4,46.5,0.0,N @3.2,6.7,0.0,0,36.4,37.0,42.7,30.2,43.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,19:45,44.1,24.4,45.5,0.0,NW@1.5,5.3,0.0,0,36.3,37.0,42.7,30.2,44.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,20:00,41.1,24.7,51.8,0.0,NE@1.7,3.9,0.0,0,36.3,37.1,42.7,30.2,41.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,20:15,42.5,24.5,48.7,0.0,S@1.9,5.3,0.0,0,36.3,37.1,42.7,30.2,42.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,20:30,45.3,24.9,44.4,0.0,SW@5.6,7.8,0.0,0,36.3,37.1,42.7,30.2,45.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,20:45,47.6,24.1,39.4,0.0,SW@7.6,10.7,0.0,0,36.2,37.1,42.7,30.2,47.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,21:00,48.0,23.9,38.4,0.0,SW@7.2,10.7,0.0,0,36.2,37.1,42.7,30.2,48.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,21:15,47.8,23.6,38.3,0.0,SW@7.1,10.3,0.0,0,36.2,37.1,42.7,30.2,48.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,21:30,47.5,23.5,38.5,0.0,SW@7.5,13.2,0.0,0,36.2,37.1,42.7,30.2,47.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,21:45,44.1,23.6,44.0,0.0,SW@3.9,6.7,0.0,0,36.1,37.1,42.7,30.2,44.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,22:00,42.1,24.2,48.7,0.0,SW@4.9,8.5,0.0,0,36.1,37.1,42.7,30.21,42.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,22:15,41.6,24.4,50.0,0.0,SW@3.7,6.7,0.0,0,36.1,37.1,42.7,30.2,41.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,22:30,41.5,24.5,50.6,0.0,SW@4.1,7.1,0.0,0,36.1,37.2,42.7,30.2,41.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,22:45,41.0,24.4,51.3,0.0,SW@3.0,5.7,0.0,0,36.1,37.2,42.7,30.2,41.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,23:00,40.2,24.6,53.3,0.0,SW@2.9,4.9,0.0,0,36.1,37.2,42.7,30.19,40.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,23:15,40.1,24.2,52.6,0.0,SW@1.6,3.5,0.0,0,36.1,37.2,42.7,30.19,40.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,23:30,40.3,23.9,51.8,0.0,SW@0.0,1.4,0.0,0,36.1,37.2,42.7,30.19,40.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,23:45,39.3,24.3,54.5,0.0,SW@2.0,3.5,0.0,0,36.1,37.2,42.7,30.18,39.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-08,24:00,38.6,24.1,55.7,0.0,SW@2.3,4.9,0.0,0,36.1,37.2,42.7,30.18,38.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,00:15,37.7,23.9,57.2,0.0,NE@1.9,3.9,0.0,0,36.1,37.2,42.7,30.18,37.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,00:30,41.1,24.1,50.6,0.0,SW@2.2,6.4,0.0,0,36.1,37.2,42.7,30.17,41.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,00:45,45.3,23.7,42.2,0.0,S@6.3,11.4,0.0,0,36.1,37.2,42.7,30.17,45.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,01:00,44.4,23.2,42.8,0.0,S@4.2,6.7,0.0,0,36.1,37.2,42.7,30.17,44.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,01:15,41.8,23.2,47.3,0.0,SE@1.5,3.9,0.0,0,36.0,37.2,42.7,30.17,41.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,01:30,40.7,23.1,49.1,0.0,NE@3.3,4.6,0.0,0,36.0,37.2,42.7,30.17,40.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,01:45,40.1,22.8,49.6,0.0,E@2.5,4.6,0.0,0,36.0,37.2,42.7,30.17,40.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,02:00,38.6,23.0,53.2,0.0,E@2.8,4.2,0.0,0,36.0,37.2,42.7,30.17,38.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,02:15,42.4,22.9,45.6,0.0,SE@3.2,5.3,0.0,0,36.0,37.2,42.7,30.17,42.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,02:30,43.3,22.6,43.5,0.0,SE@3.4,4.2,0.0,0,36.0,37.2,42.7,30.17,43.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,02:45,40.3,23.4,50.5,0.0,S@4.3,7.4,0.0,0,36.0,37.2,42.7,30.17,40.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,03:00,42.8,23.5,46.1,0.0,S@5.9,7.8,0.0,0,35.9,37.2,42.7,30.16,42.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,03:15,43.0,23.1,44.9,0.0,S@4.4,6.4,0.0,0,35.9,37.2,42.7,30.16,43.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,03:30,40.4,23.0,49.6,0.0,W@1.2,4.2,0.0,0,35.9,37.2,42.7,30.16,40.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,03:45,40.5,22.9,49.1,0.0,N@2.4,5.3,0.0,0,35.9,37.2,42.7,30.16,40.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,04:00,41.2,22.8,47.7,0.0,S@2.4,7.1,0.0,0,35.9,37.2,42.7,30.17,41.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,04:15,41.3,23.1,48.0,0.0,S@5.8,6.7,0.0,0,35.9,37.2,42.7,30.17,41.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,04:30,40.7,22.8,48.6,0.0,S@4.9,6.4,0.0,0,35.9,37.2,42.7,30.17,40.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,04:45,39.1,22.9,52.0,0.0,S@4.2,5.3,0.0,0,35.8,37.2,42.7,30.17,39.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,05:00,38.2,22.7,53.4,0.0,S@2.0,4.2,0.0,0,35.8,37.2,42.7,30.18,38.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,05:15,36.5,22.7,56.9,0.0,N @0.0,0.0,0.0,0,35.8,37.2,42.7,30.17,36.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,05:30,38.0,22.9,54.2,0.0,NW@0.4,3.9,0.0,0,35.8,37.2,42.7,30.17,38.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,05:45,37.9,23.1,54.8,0.0,W@0.4,3.1,0.0,0,35.8,37.2,42.7,30.17,37.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,06:00,38.1,23.4,55.0,0.0,NW@0.6,2.4,0.0,0,35.8,37.2,42.7,30.17,38.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,06:15,39.3,23.8,53.4,0.0,SW@1.9,5.3,0.0,0,35.8,37.2,42.7,30.17,39.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,06:30,42.0,23.7,48.0,0.0,SW@3.9,7.1,0.0,1,35.8,37.2,42.7,30.17,42.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,06:45,43.4,23.4,44.9,0.0,SW@5.4,10.3,0.0,5,35.8,37.2,42.7,30.17,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,07:00,45.6,23.2,40.9,0.0,SW@8.0,11.0,0.0,12,35.8,37.2,42.7,30.17,45.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,07:15,45.9,23.4,40.7,0.0,SW@7.8,10.7,0.0,19,35.8,37.2,42.7,30.17,46.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,07:30,45.9,23.7,41.3,0.0,SW@6.7,10.3,0.0,28,35.7,37.2,42.7,30.17,46.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,07:45,45.7,24.1,42.3,0.0,SW@5.8,8.5,0.0,42,35.7,37.2,42.7,30.17,45.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,08:00,47.0,23.5,39.4,0.0,SW@7.4,10.3,0.0,56,35.7,37.2,42.7,30.17,47.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,08:15,47.6,23.6,38.5,0.0,SW@7.3,10.3,0.0,78,35.7,37.2,42.7,30.17,47.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,08:30,47.9,24.3,39.3,0.0,SW@6.0,8.9,0.0,106,35.8,37.2,42.7,30.18,47.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,08:45,48.7,24.9,39.2,0.0,SW@5.7,7.8,0.0,113,35.8,37.1,42.7,30.18,48.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,09:00,48.9,25.3,39.5,0.0,SW@5.3,7.4,0.0,128,35.8,37.1,42.7,30.18,48.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,09:15,49.6,25.9,39.2,0.0,SW@5.1,7.8,0.0,149,35.8,37.1,42.7,30.18,49.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,09:30,50.2,25.9,38.6,0.0,SW@6.4,8.5,0.0,138,35.9,37.1,42.7,30.17,50.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,09:45,51.0,26.2,37.9,0.0,SW@4.3,8.2,0.0,150,35.9,37.1,42.7,30.17,51.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,10:00,52.8,27.1,36.7,0.0,SW@5.0,8.9,0.0,207,36.0,37.1,42.7,30.18,52.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,10:15,54.6,27.0,34.3,0.0,SW@5.2,9.2,0.0,211,36.0,37.1,42.7,30.18,54.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,10:30,56.6,27.4,32.4,0.0,S@4.3,7.1,0.0,266,36.1,37.1,42.7,30.18,56.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,10:45,56.4,27.4,32.7,0.0,SW@5.2,8.2,0.0,227,36.2,37.1,42.7,30.18,56.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,11:00,58.8,27.4,30.0,0.0,SW@4.7,8.2,0.0,311,36.3,37.1,42.7,30.18,58.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,11:15,57.9,27.2,30.6,0.0,S@4.0,8.9,0.0,241,36.4,37.1,42.7,30.17,57.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,11:30,58.1,27.1,30.3,0.0,S@3.7,6.7,0.0,217,36.5,37.1,42.7,30.17,58.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,11:45,58.7,27.1,29.6,0.0,S@3.7,6.4,0.0,262,36.6,37.1,42.7,30.17,58.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,12:00,55.3,30.6,38.7,0.0,NE@5.7,8.9,0.0,199,36.7,37.1,42.8,30.16,54.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,12:15,51.7,30.1,43.2,0.0,NE@6.6,8.9,0.0,105,36.8,37.1,42.8,30.16,51.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,12:30,51.3,30.9,45.4,0.0,NE@5.9,8.5,0.0,191,36.9,37.2,42.8,30.16,51.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,12:45,53.9,30.7,41.0,0.0,NE@7.3,9.9,0.0,358,37.1,37.2,42.8,30.16,53.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,13:00,55.5,30.0,37.4,0.0,NE@7.0,9.6,0.0,400,37.2,37.2,42.8,30.16,55.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,13:15,55.6,30.1,37.6,0.0,NE@6.9,9.9,0.0,402,37.3,37.2,42.8,30.15,54.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,13:30,54.4,29.6,38.4,0.0,N @5.8,9.2,0.0,286,37.4,37.2,42.8,30.16,54.1,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,13:45,54.3,29.5,38.4,0.0,NE@4.4,7.8,0.0,292,37.5,37.2,42.8,30.16,53.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,14:00,53.2,28.8,38.7,0.0,NW@2.3,5.3,0.0,134,37.6,37.3,42.8,30.16,53.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,14:15,52.9,29.0,39.5,0.0,NE@2.0,4.2,0.0,132,37.7,37.3,42.8,30.15,52.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,14:30,52.7,29.3,40.5,0.0,NE@2.6,4.9,0.0,82,37.8,37.3,42.8,30.15,52.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,14:45,51.7,29.8,42.6,0.0,NE@3.3,4.9,0.0,53,37.9,37.3,42.8,30.15,51.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,15:00,50.6,30.6,46.1,0.0,E@3.2,4.6,0.0,33,38.0,37.4,42.8,30.14,50.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,15:15,49.9,31.2,48.4,0.0,E@3.2,5.3,0.0,28,38.1,37.4,42.8,30.14,49.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,15:30,49.7,31.3,48.9,0.0,E@3.1,4.2,0.0,28,38.1,37.4,42.8,30.14,49.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,15:45,49.5,31.2,49.1,0.0,E@2.5,3.5,0.0,37,38.2,37.5,42.8,30.14,49.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,16:00,49.0,31.4,50.3,0.0,E@3.1,4.2,0.0,21,38.3,37.5,42.8,30.14,49.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,16:15,47.9,32.2,54.2,0.0,NE@2.7,3.9,0.0,6,38.3,37.5,42.8,30.14,47.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,16:30,46.6,32.2,56.9,0.0,N @3.1,4.2,0.0,1,38.4,37.6,42.8,30.16,46.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,16:45,45.9,32.4,59.2,0.0,NE@2.1,4.2,0.0,0,38.4,37.6,42.9,30.16,45.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,17:00,45.0,33.4,63.5,0.0,NE@1.5,3.1,0.0,0,38.5,37.6,42.9,30.16,44.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,17:15,44.2,33.7,66.4,0.0,W@0.2,2.1,0.0,0,38.5,37.7,42.9,30.16,44.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,17:30,43.8,34.3,68.8,0.0,S@0.2,1.7,0.0,0,38.5,37.7,42.9,30.15,43.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,17:45,43.7,34.9,70.8,0.0,S@0.1,1.7,0.0,0,38.6,37.7,42.9,30.16,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,18:00,43.9,34.5,69.4,0.0,N @0.0,0.0,0.0,0,38.6,37.8,42.9,30.16,43.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,18:15,43.9,34.8,70.0,0.0,N @0.0,0.0,0.0,0,38.6,37.8,42.9,30.16,43.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,18:30,44.1,34.0,67.5,0.0,N @0.0,0.0,0.0,0,38.6,37.8,42.9,30.15,44.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,18:45,43.7,34.9,70.8,0.0,N @0.0,0.0,0.0,0,38.6,37.9,42.9,30.15,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,19:00,43.4,35.1,72.3,0.0,N @0.0,0.0,0.0,0,38.6,37.9,42.9,30.16,43.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,19:15,43.3,35.2,72.8,0.0,N @0.0,0.0,0.0,0,38.6,37.9,42.9,30.16,43.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,19:30,43.4,34.5,70.6,0.0,W@0.3,2.1,0.0,0,38.6,38.0,42.9,30.16,43.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,19:45,43.7,33.9,68.1,0.0,W@0.1,2.1,0.0,0,38.6,38.0,42.9,30.15,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,20:00,44.3,33.4,65.3,0.0,NE@0.0,1.4,0.0,0,38.7,38.0,42.9,30.15,44.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,20:15,43.9,34.6,69.5,0.0,N @0.0,0.0,0.0,0,38.7,38.0,42.9,30.15,43.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,20:30,43.8,34.7,70.2,0.0,NE@0.8,3.5,0.0,0,38.7,38.1,42.9,30.16,43.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,20:45,44.0,33.7,66.7,0.0,NW@1.2,3.1,0.0,0,38.7,38.1,42.9,30.16,44.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,21:00,44.5,33.2,64.4,0.0,SE@1.3,3.1,0.0,0,38.7,38.1,42.9,30.16,44.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,21:15,44.0,34.0,67.8,0.0,S@0.1,1.7,0.0,0,38.7,38.1,42.9,30.16,43.9,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,21:30,43.7,34.6,70.0,0.0,SW@0.4,3.5,0.0,0,38.7,38.2,42.9,30.15,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,21:45,43.6,33.9,68.4,0.0,S@1.4,3.9,0.0,0,38.7,38.2,42.9,30.15,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,22:00,44.2,32.7,63.9,0.0,S@2.8,4.2,0.0,0,38.7,38.2,42.9,30.15,44.2,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,22:15,43.8,32.0,62.7,0.0,SW@2.1,3.5,0.0,0,38.7,38.2,42.9,30.15,43.8,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,22:30,43.6,31.9,63.1,0.0,SE@2.4,3.9,0.0,0,38.7,38.3,42.9,30.15,43.6,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,22:45,45.0,32.1,60.4,0.0,S@2.7,5.7,0.0,0,38.7,38.3,42.9,30.15,45.0,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,23:00,45.8,32.8,60.3,0.0,SE@2.7,3.5,0.0,0,38.7,38.3,42.9,30.14,45.7,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,23:15,44.5,33.1,64.1,0.0,W@1.4,4.2,0.0,0,38.7,38.3,42.9,30.14,44.5,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,23:30,44.3,35.6,71.1,0.0,SW@1.8,3.9,0.02,0,38.7,38.3,42.9,30.14,44.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,23:45,45.4,40.9,84.0,0.0,SW@2.4,4.6,0.09,0,38.7,38.3,42.9,30.15,45.3,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109
+2019-11-09,24:00,46.4,43.7,90.1,0.0,SW@2.6,4.6,0.1,0,38.7,38.4,42.9,30.15,46.4,"Craigmont (Craigmont SE), Craigmont, Lewis County",300401,Craigmont,2020-01-21 14:17:40.885109

@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-10-21,00:15,34.4,34.3,99.3,0.0,W@0.2,2.1,0.92,0,45.1,34.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,00:30,35.9,35.7,99.3,0.0,N@1.2,3.1,0.93,0,45.1,35.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,00:45,35.1,34.9,99.3,0.0,W@0.8,2.4,0.93,0,45.0,34.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,01:00,33.5,33.3,99.3,0.0,NW@2.0,3.1,0.93,0,44.9,33.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,01:15,34.8,34.6,99.3,0.0,NW@2.3,4.2,0.93,0,44.9,34.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,01:30,33.9,33.7,99.3,0.0,NW@1.3,3.1,0.93,0,44.8,33.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,01:45,33.2,33.0,99.3,0.0,NW@1.0,2.8,0.93,0,44.7,33.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,02:00,32.4,32.2,99.3,0.0,SE@1.4,3.9,0.93,0,44.6,32.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,02:15,31.5,31.2,99.3,0.0,NW@0.1,2.1,0.93,0,44.5,31.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,02:30,31.6,31.2,99.3,0.0,NW@0.0,1.4,0.85,0,44.5,31.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,02:45,32.8,32.6,99.3,0.0,NE@0.4,2.8,0.63,0,44.4,32.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,03:00,32.8,32.7,99.3,0.0,NW@0.1,2.1,0.71,0,44.3,32.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,03:15,33.9,33.7,99.3,0.0,NW@0.8,3.1,0.86,0,44.2,33.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,03:30,33.6,33.4,99.3,0.0,N @0.0,0.0,0.93,0,44.2,33.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,03:45,33.4,33.2,99.3,0.0,NW@0.0,1.4,0.94,0,44.1,33.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,04:00,33.7,33.5,99.3,0.0,NW@0.9,3.1,0.94,0,44.0,33.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,04:15,34.3,34.2,99.3,0.0,NW@1.1,2.8,0.93,0,43.9,34.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,04:30,34.3,34.2,99.3,0.0,N @0.0,0.0,0.93,0,43.8,34.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,04:45,34.7,34.6,99.3,0.0,N @0.0,0.0,0.93,0,43.8,34.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,05:00,34.6,34.5,99.3,0.0,N @0.0,0.0,0.93,0,43.7,34.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,05:15,34.7,34.6,99.3,0.0,N @0.0,0.0,0.93,0,43.6,34.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,05:30,35.1,34.9,99.3,0.0,N @0.0,0.0,0.93,0,43.6,34.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,05:45,35.2,35.0,99.3,0.0,N @0.0,0.0,0.93,0,43.5,34.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,06:00,35.6,35.4,99.3,0.0,N @0.0,0.0,0.93,0,43.4,35.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,06:15,36.0,35.8,99.3,0.0,N @0.0,0.0,0.93,0,43.4,35.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,06:30,36.2,36.0,99.3,0.0,N @0.0,0.0,0.93,2,43.3,35.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,06:45,36.5,36.3,99.3,0.0,N @0.0,0.0,0.94,9,43.3,36.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,07:00,37.1,36.9,99.3,0.0,N @0.0,0.0,0.94,16,43.2,36.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,07:15,37.9,37.7,99.3,0.0,NW@0.3,2.4,0.94,21,43.2,37.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,07:30,38.7,38.6,99.3,0.0,NW@0.0,1.4,0.94,34,43.1,38.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,07:45,39.2,39.0,99.3,0.0,N @0.0,0.0,0.94,54,43.1,39.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,08:00,40.0,39.8,99.3,0.0,N@0.2,2.1,0.94,71,43.1,39.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,08:15,40.7,40.5,99.3,0.0,N @0.0,0.0,0.94,85,43.0,40.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,08:30,41.1,40.9,99.3,0.0,N @0.0,0.0,0.94,108,43.0,41.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,08:45,41.8,41.6,99.3,0.0,N @0.0,0.0,0.94,129,43.0,41.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,09:00,42.1,41.8,98.6,0.0,NW@0.0,1.4,0.94,129,42.9,42.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,09:15,42.6,41.6,96.1,0.0,N @0.0,0.0,0.93,119,42.9,42.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,09:30,42.9,41.2,93.7,0.0,SW@0.0,1.4,0.93,107,42.9,42.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,09:45,43.5,40.9,90.4,0.0,N @0.0,0.0,0.92,134,42.9,43.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,10:00,44.0,40.9,88.6,0.0,S@1.1,3.5,0.91,142,42.9,43.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,10:15,44.2,40.6,86.9,0.0,S@1.6,3.9,0.89,165,42.9,44.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,10:30,44.9,40.9,85.8,0.0,SW@1.3,3.5,0.84,162,43.0,44.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,10:45,45.5,40.9,83.6,0.0,S@0.9,3.5,0.61,206,43.0,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,11:00,45.8,40.5,81.7,0.0,W@1.5,3.1,0.07,216,43.0,45.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,11:15,46.7,40.7,79.5,0.0,S@1.6,3.5,0.0,234,43.1,46.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,11:30,46.5,40.4,79.1,0.0,E@1.7,3.5,0.0,229,43.1,46.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,11:45,47.0,40.5,77.8,0.0,NW@1.7,3.1,0.0,217,43.2,46.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,12:00,47.3,40.7,77.4,0.0,NW@1.8,3.9,0.0,201,43.2,47.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,12:15,47.8,41.0,76.9,0.0,NW@2.0,3.9,0.0,215,43.3,47.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,12:30,48.4,41.0,75.5,0.0,NW@1.8,3.9,0.0,199,43.4,48.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,12:45,48.3,41.0,75.7,0.0,NW@2.1,4.6,0.0,139,43.5,48.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,13:00,48.4,41.0,75.3,0.0,NW@2.2,3.9,0.0,117,43.5,48.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,13:15,48.5,40.8,74.3,0.0,N @1.3,3.1,0.0,128,43.6,48.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,13:30,48.8,40.6,73.2,0.0,NW@2.4,3.5,0.0,139,43.7,48.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,13:45,49.4,41.1,72.8,0.0,N@2.5,4.6,0.0,157,43.8,49.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,14:00,49.5,40.8,71.8,0.0,NW@2.6,5.3,0.04,129,43.9,49.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,14:15,49.7,41.1,72.2,0.0,NW@3.3,4.9,0.13,135,44.0,49.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,14:30,50.3,41.6,71.9,0.0,NW@3.3,4.9,0.17,166,44.1,50.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,14:45,50.7,41.6,70.8,0.0,NW@2.1,3.9,0.01,137,44.2,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,15:00,51.0,41.9,70.7,0.0,NW@2.0,3.5,0.04,156,44.3,51.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,15:15,51.2,42.3,71.5,0.0,NW@2.2,4.9,0.07,113,44.4,51.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,15:30,51.1,42.6,72.4,0.0,N@2.0,4.9,0.0,99,44.5,51.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,15:45,50.9,42.8,73.7,0.0,NE@0.7,3.1,0.0,63,44.6,50.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,16:00,51.0,42.9,73.6,0.0,E@0.0,1.4,0.0,64,44.7,50.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,16:15,50.7,43.3,75.8,0.0,N @0.0,0.0,0.0,32,44.8,50.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,16:30,50.3,44.5,80.6,0.0,N @0.0,0.0,0.0,21,44.9,50.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,16:45,49.4,44.9,84.3,0.0,N @0.0,0.0,0.01,10,45.0,49.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,17:00,48.6,45.1,87.4,0.0,N @0.0,0.0,0.41,3,45.1,48.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,17:15,47.9,45.5,91.1,0.0,N @0.0,0.0,0.61,1,45.2,47.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,17:30,47.5,45.8,93.7,0.0,NE@0.1,2.1,0.96,0,45.2,47.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,17:45,47.3,45.4,92.8,0.01,N@1.3,4.2,0.97,0,45.3,47.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,18:00,47.2,45.6,94.1,0.0,N @0.3,2.1,0.93,0,45.4,47.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,18:15,46.9,45.4,94.5,0.0,N @0.0,0.0,0.92,0,45.5,46.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,18:30,46.5,45.4,96.0,0.0,NW@0.0,1.4,0.92,0,45.5,46.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,18:45,46.2,45.6,97.5,0.0,N @0.0,0.0,0.92,0,45.6,46.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,19:00,46.0,45.7,98.6,0.0,N @0.0,0.0,0.92,0,45.6,45.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,19:15,46.1,45.9,99.2,0.0,N @0.0,0.0,0.92,0,45.7,45.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,19:30,46.3,46.0,99.1,0.0,N@0.2,2.8,0.92,0,45.7,46.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,19:45,46.7,45.8,96.6,0.0,N@1.2,3.1,0.92,0,45.7,46.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,20:00,46.9,45.5,94.8,0.0,NW@0.0,1.7,0.92,0,45.8,46.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,20:15,46.6,45.7,96.4,0.0,N @0.0,0.0,0.92,0,45.8,46.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,20:30,46.5,45.7,97.3,0.0,N @0.0,0.0,0.92,0,45.8,46.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,20:45,46.4,45.9,98.2,0.0,N @0.0,0.0,0.92,0,45.8,46.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,21:00,46.3,46.0,98.8,0.0,N @0.0,0.0,0.92,0,45.8,46.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,21:15,46.3,46.0,98.9,0.0,W@0.0,1.4,0.92,0,45.9,46.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,21:30,46.5,46.0,97.9,0.0,N @0.0,0.0,0.92,0,45.9,46.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,21:45,46.4,46.0,98.5,0.0,N @0.0,0.0,0.92,0,45.9,46.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,22:00,46.3,46.1,99.1,0.0,N @0.0,0.0,0.92,0,45.9,46.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,22:15,46.2,46.0,99.2,0.0,N @0.1,1.7,0.92,0,45.9,46.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,22:30,45.6,45.4,99.2,0.0,N @0.1,1.4,0.91,0,45.9,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,22:45,45.2,45.0,99.2,0.0,N @0.0,0.0,0.92,0,45.9,45.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,23:00,45.1,44.9,99.2,0.0,N @0.0,0.0,0.92,0,45.9,44.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,23:15,45.1,44.9,99.2,0.0,N @0.0,0.0,0.92,0,46.0,44.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,23:30,45.4,45.2,99.2,0.0,NW@0.0,1.7,0.92,0,46.0,45.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,23:45,45.6,45.4,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-21,24:00,45.7,45.5,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,00:15,45.9,45.7,99.3,0.0,N@0.1,2.1,0.92,0,46.0,45.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,00:30,46.0,45.8,99.2,0.0,N @0.0,0.0,0.92,0,46.0,45.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,00:45,46.0,45.8,99.2,0.0,N @0.0,0.0,0.92,0,46.0,45.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,01:00,46.0,45.8,99.2,0.0,S@0.0,1.7,0.92,0,46.0,45.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,01:15,45.9,45.7,99.2,0.0,N @0.0,0.0,0.92,0,46.0,45.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,01:30,46.0,45.8,99.2,0.0,N @0.0,0.0,0.92,0,46.0,45.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,01:45,45.9,45.7,99.2,0.0,N @0.0,0.0,0.92,0,46.0,45.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,02:00,45.9,45.7,99.2,0.0,N @0.0,0.0,0.92,0,46.0,45.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,02:15,45.8,45.6,99.2,0.0,NW@0.1,1.7,0.92,0,46.0,45.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,02:30,45.8,45.6,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,02:45,45.7,45.5,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,03:00,45.7,45.5,99.3,0.0,N @0.0,1.4,0.92,0,46.0,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,03:15,45.7,45.5,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,03:30,45.6,45.4,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,03:45,45.6,45.4,99.3,0.0,N @0.0,0.0,0.92,0,46.0,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,04:00,45.6,45.4,99.3,0.0,S@1.9,5.3,0.92,0,46.0,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,04:15,46.0,45.6,98.5,0.0,NW@1.3,3.5,0.91,0,46.0,45.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,04:30,46.0,45.3,97.1,0.0,SW@0.7,3.1,0.91,0,46.0,45.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,04:45,46.2,45.0,95.5,0.0,S@0.7,3.5,0.91,0,46.0,46.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,05:00,44.9,43.9,96.2,0.0,SE@0.1,2.1,0.91,0,46.0,44.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,05:15,43.7,43.2,98.4,0.0,N @0.0,0.0,0.91,0,46.0,43.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,05:30,44.1,44.0,99.2,0.0,NE@0.0,1.4,0.91,0,46.0,43.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,05:45,44.3,44.1,99.2,0.0,N @0.0,0.0,0.91,0,46.0,44.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,06:00,44.6,44.4,99.3,0.0,NW@0.0,1.4,0.91,0,46.0,44.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,06:15,44.9,44.7,99.3,0.0,NW@0.3,3.1,0.91,0,46.0,44.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,06:30,45.5,45.3,99.1,0.0,NW@2.2,3.9,0.91,2,46.0,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,06:45,45.7,45.0,97.4,0.0,NW@1.7,3.9,0.9,5,46.0,45.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,07:00,45.6,44.3,94.8,0.0,NW@2.6,4.9,0.89,19,46.0,45.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,07:15,45.4,43.9,94.4,0.0,NW@2.4,4.2,0.88,28,46.0,45.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,07:30,45.4,43.6,93.5,0.0,NW@2.3,4.6,0.86,47,46.0,45.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,07:45,45.2,43.5,93.5,0.0,S@0.9,3.5,0.85,65,46.0,45.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,08:00,47.2,44.7,91.0,0.0,N @0.1,1.7,0.85,186,46.0,47.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,08:15,49.1,44.1,82.6,0.0,E@0.2,2.1,0.81,228,46.0,49.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,08:30,50.0,43.6,78.5,0.0,N @1.3,3.5,0.61,263,46.0,50.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,08:45,50.9,44.1,77.5,0.0,NW@1.9,4.2,0.12,311,46.0,51.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,09:00,51.9,44.3,75.2,0.0,SW@2.5,6.0,0.0,342,46.0,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,09:15,52.2,44.1,73.8,0.0,S@2.4,5.3,0.0,360,46.0,52.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,09:30,52.9,44.0,71.7,0.0,S@3.1,7.4,0.0,389,46.0,52.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,09:45,53.1,44.4,72.2,0.0,SW@3.7,7.1,0.0,414,46.0,53.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,10:00,53.2,44.5,72.3,0.0,S@4.2,7.8,0.0,436,46.0,53.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,10:15,53.9,44.5,70.4,0.0,S@4.7,7.8,0.0,458,46.0,53.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,10:30,54.5,43.9,67.5,0.0,S@4.9,8.9,0.0,476,46.0,54.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,10:45,55.6,43.9,64.8,0.0,S@5.0,8.2,0.0,490,46.0,55.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,11:00,56.3,44.0,63.2,0.0,S@4.1,7.8,0.0,502,46.1,56.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,11:15,58.0,43.9,59.1,0.0,S@3.6,6.7,0.0,513,46.1,57.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,11:30,59.0,43.3,55.8,0.0,SE@4.3,8.2,0.0,496,46.2,59.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,11:45,62.9,37.3,38.5,0.0,W@6.7,17.5,0.0,532,46.2,63.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,12:00,65.7,29.4,25.5,0.0,NW@10.0,17.8,0.0,528,46.3,65.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,12:15,65.9,29.4,25.4,0.0,NW@10.3,20.7,0.0,521,46.4,65.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,12:30,65.7,28.1,24.2,0.0,NW@12.0,20.3,0.0,514,46.6,65.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,12:45,66.3,28.7,24.3,0.0,NW@9.3,17.5,0.0,502,46.7,66.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,13:00,66.3,28.4,24.0,0.0,NW@9.2,17.1,0.0,487,46.9,66.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,13:15,66.7,29.2,24.4,0.0,NW@7.2,14.2,0.0,469,47.0,66.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,13:30,66.3,28.6,24.2,0.0,NW@9.5,17.8,0.0,448,47.2,66.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,13:45,65.9,27.9,23.8,0.0,NW@9.9,20.0,0.0,424,47.4,65.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,14:00,66.3,28.6,24.1,0.0,NW@7.7,15.3,0.0,399,47.6,66.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,14:15,66.4,29.0,24.4,0.0,NW@7.6,17.1,0.0,372,47.8,66.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,14:30,65.7,28.5,24.6,0.0,NW@9.1,15.7,0.0,341,48.0,65.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,14:45,64.8,28.4,25.3,0.0,NW@9.9,17.8,0.0,309,48.2,64.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,15:00,64.4,28.9,26.1,0.0,NW@8.7,15.7,0.0,271,48.4,64.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,15:15,63.9,29.1,26.8,0.0,NW@7.5,13.2,0.0,222,48.6,63.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,15:30,63.0,29.5,28.1,0.0,NW@6.5,12.4,0.0,175,48.8,62.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,15:45,62.5,30.1,29.2,0.0,NW@5.8,10.3,0.0,165,48.9,62.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,16:00,61.8,29.8,29.6,0.0,NW@6.9,12.8,0.0,135,49.1,61.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,16:15,60.9,29.6,30.4,0.0,NW@7.6,14.2,0.0,102,49.2,60.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,16:30,59.1,30.4,33.5,0.0,NW@4.7,12.1,0.0,48,49.3,59.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,16:45,57.9,30.2,34.7,0.0,NW@5.8,9.9,0.0,14,49.4,57.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,17:00,56.9,30.5,36.5,0.0,NW@5.8,11.0,0.0,6,49.5,56.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,17:15,55.6,30.7,38.4,0.0,NW@5.9,9.9,0.0,2,49.6,55.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,17:30,56.2,30.1,36.6,0.0,W@7.9,15.7,0.0,0,49.7,56.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,17:45,55.8,30.2,37.3,0.0,NW@6.9,12.4,0.0,0,49.7,55.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,18:00,55.9,30.3,37.4,0.0,NW@6.1,13.5,0.0,0,49.8,56.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,18:15,55.2,30.4,38.5,0.0,NW@3.5,8.2,0.0,0,49.8,55.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,18:30,55.1,30.4,38.7,0.0,NW@4.3,10.3,0.0,0,49.8,55.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,18:45,54.8,30.6,39.3,0.0,NW@4.6,11.4,0.0,0,49.8,54.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,19:00,53.3,31.5,43.1,0.0,NW@2.5,5.7,0.0,0,49.8,53.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,19:15,50.3,32.0,49.2,0.0,NW@2.8,7.8,0.0,0,49.8,50.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,19:30,54.8,29.8,38.2,0.0,NW@5.6,13.2,0.0,0,49.8,54.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,19:45,55.5,29.5,36.8,0.0,NW@6.5,13.5,0.0,0,49.8,55.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,20:00,54.7,29.5,37.8,0.0,NW@4.9,9.9,0.0,0,49.7,54.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,20:15,54.1,29.1,38.0,0.0,NW@5.0,9.6,0.0,0,49.7,54.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,20:30,53.0,29.3,39.9,0.0,W@4.1,7.1,0.0,0,49.7,53.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,20:45,52.4,29.2,40.8,0.0,NW@3.6,8.5,0.0,0,49.6,52.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,21:00,49.9,29.7,45.5,0.0,NW@3.1,4.2,0.0,0,49.6,49.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,21:15,47.4,30.6,52.0,0.0,NW@3.0,4.9,0.0,0,49.5,47.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,21:30,47.2,30.2,51.3,0.0,NW@2.6,4.6,0.0,0,49.5,47.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,21:45,47.1,30.4,51.9,0.0,N@2.9,4.9,0.0,0,49.4,47.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,22:00,48.7,29.5,47.3,0.0,N@3.4,5.7,0.0,0,49.4,48.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,22:15,49.6,29.0,44.7,0.0,NW@4.5,8.2,0.0,0,49.3,49.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,22:30,50.6,28.9,42.9,0.0,NW@3.7,7.4,0.0,0,49.2,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,22:45,49.7,29.2,44.9,0.0,NW@3.5,5.7,0.0,0,49.2,49.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,23:00,47.5,30.0,50.4,0.0,NW@3.2,4.2,0.0,0,49.1,47.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,23:15,44.6,30.2,56.8,0.0,W@1.6,3.5,0.0,0,49.0,44.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,23:30,42.6,29.6,59.7,0.0,SE@1.8,3.9,0.0,0,49.0,42.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,23:45,41.2,30.9,66.6,0.0,N @2.0,3.1,0.0,0,48.9,41.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-22,24:00,40.0,31.2,70.6,0.0,N@1.9,3.9,0.0,0,48.8,39.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,00:15,39.4,31.1,72.0,0.0,N@1.3,3.1,0.0,0,48.7,39.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,00:30,38.5,31.2,74.6,0.0,N @1.1,3.5,0.0,0,48.7,38.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,00:45,36.2,31.5,83.0,0.0,N@1.3,2.8,0.0,0,48.6,35.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,01:00,34.4,31.4,88.6,0.0,NW@1.8,2.8,0.06,0,48.5,34.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,01:15,33.2,31.4,93.0,0.0,NW@1.6,2.4,0.17,0,48.4,33.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,01:30,33.4,31.4,92.5,0.0,W@1.1,2.8,0.29,0,48.3,33.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,01:45,34.3,31.5,89.3,0.0,N@2.3,3.9,0.33,0,48.3,34.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,02:00,33.7,30.9,89.3,0.0,NW@0.6,2.4,0.35,0,48.2,33.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,02:15,32.2,30.6,93.6,0.0,NW@1.7,2.8,0.47,0,48.1,32.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,02:30,32.5,31.3,95.1,0.0,N @1.0,2.4,0.57,0,48.0,32.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,02:45,31.3,29.8,94.9,0.0,N@0.4,2.1,0.65,0,47.9,31.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,03:00,31.5,30.5,96.4,0.0,NW@1.6,3.1,0.73,0,47.8,31.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,03:15,31.4,30.3,96.7,0.0,NW@1.2,2.8,0.77,0,47.7,31.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,03:30,30.9,29.8,96.8,0.0,N@0.9,2.8,0.8,0,47.6,30.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,03:45,30.6,29.5,97.0,0.0,NW@0.7,2.8,0.83,0,47.5,30.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,04:00,30.1,29.1,97.6,0.0,NW@0.2,2.1,0.85,0,47.4,29.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,04:15,29.6,28.7,97.9,0.0,NW@1.2,3.1,0.87,0,47.3,29.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,04:30,30.3,29.4,98.0,0.0,NW@1.1,2.8,0.88,0,47.2,30.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,04:45,31.2,30.1,96.4,0.0,N@1.5,3.1,0.45,0,47.1,31.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,05:00,31.1,29.5,94.6,0.0,NW@2.2,3.5,0.1,0,47.0,31.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,05:15,30.2,28.5,94.7,0.0,N@1.3,3.1,0.06,0,46.9,29.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,05:30,29.9,28.5,96.1,0.0,NW@1.3,3.1,0.05,0,46.7,29.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,05:45,29.7,28.3,96.1,0.0,N@1.5,3.1,0.05,0,46.6,29.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,06:00,30.9,29.3,94.7,0.0,N@2.4,5.3,0.09,0,46.5,30.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,06:15,31.1,29.1,92.7,0.0,NW@1.9,3.5,0.09,0,46.4,30.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,06:30,31.6,29.3,91.4,0.0,NW@1.7,4.9,0.11,3,46.3,31.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,06:45,30.0,28.1,94.1,0.0,N @0.4,2.8,0.03,9,46.2,29.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,07:00,29.5,28.1,96.0,0.0,NW@1.4,3.1,0.04,16,46.1,29.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,07:15,31.2,29.6,94.4,0.0,NW@2.2,3.5,0.1,31,46.0,31.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,07:30,34.9,31.3,86.4,0.0,NW@2.0,4.2,0.66,127,45.8,35.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,07:45,37.4,32.3,81.7,0.0,N@0.5,2.8,0.92,161,45.7,37.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,08:00,41.3,33.3,72.9,0.0,E@0.4,2.8,0.9,188,45.6,41.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,08:15,44.4,33.9,66.4,0.0,NW@1.4,3.5,0.8,226,45.5,44.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,08:30,45.5,33.3,62.2,0.0,NW@2.4,4.2,0.06,262,45.4,45.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,08:45,46.8,32.9,58.2,0.0,NW@1.7,4.2,0.0,296,45.3,46.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,09:00,48.6,32.3,53.1,0.0,W@1.9,3.5,0.0,329,45.2,48.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,09:15,50.4,33.1,51.1,0.0,W@1.7,3.9,0.0,364,45.1,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,09:30,51.7,33.3,49.3,0.0,SW@2.8,4.9,0.0,383,45.0,51.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,09:45,51.1,35.0,53.9,0.0,S@4.4,6.7,0.0,397,44.9,51.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,10:00,50.9,35.2,54.9,0.0,SE@4.3,6.4,0.0,404,44.8,50.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,10:15,51.4,35.1,53.5,0.0,S@4.1,6.4,0.0,422,44.8,51.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,10:30,52.2,35.4,52.6,0.0,S@3.5,5.3,0.0,435,44.8,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,10:45,53.2,35.5,50.8,0.0,S@3.1,6.0,0.0,465,44.7,53.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,11:00,54.2,34.9,47.9,0.0,S@2.7,4.6,0.0,456,44.7,54.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,11:15,55.1,34.0,44.7,0.0,NW@2.9,5.7,0.0,505,44.7,55.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,11:30,56.0,33.1,41.7,0.0,NW@2.7,5.3,0.0,488,44.7,56.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,11:45,56.5,32.9,40.6,0.0,W@3.4,6.0,0.0,468,44.8,56.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,12:00,57.7,31.6,36.9,0.0,NW@3.4,6.0,0.0,483,44.8,57.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,12:15,58.0,30.5,34.9,0.0,N@3.2,6.7,0.0,506,44.9,58.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,12:30,58.5,29.7,33.3,0.0,SW@2.4,4.2,0.0,496,45.0,58.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,12:45,58.8,29.6,32.7,0.0,NW@3.4,6.0,0.0,480,45.1,58.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,13:00,59.2,28.3,30.5,0.0,NE@2.4,4.6,0.0,466,45.3,59.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,13:15,59.8,28.9,30.8,0.0,NE@3.3,7.8,0.0,455,45.4,59.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,13:30,59.4,28.8,30.9,0.0,N@3.2,7.1,0.0,435,45.6,59.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,13:45,59.9,28.8,30.4,0.0,NE@3.0,6.0,0.0,412,45.8,60.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,14:00,60.0,28.3,29.8,0.0,N@2.6,5.7,0.0,388,46.0,59.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,14:15,60.5,28.1,29.0,0.0,NW@2.6,5.7,0.0,360,46.2,60.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,14:30,60.8,27.9,28.5,0.0,W@2.1,4.6,0.0,330,46.4,60.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,14:45,60.8,27.9,28.4,0.0,NW@1.3,3.9,0.0,293,46.6,60.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,15:00,60.3,30.3,31.9,0.0,SW@2.5,4.2,0.0,265,46.8,60.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,15:15,59.7,30.1,32.4,0.0,S@2.6,4.2,0.0,227,47.0,59.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,15:30,59.0,29.4,32.2,0.0,S@2.0,3.9,0.0,190,47.2,58.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,15:45,59.1,29.7,32.6,0.0,SE@2.3,4.6,0.0,161,47.4,58.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,16:00,58.1,30.5,34.9,0.0,S@1.6,3.5,0.0,106,47.6,57.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,16:15,54.7,33.5,44.5,0.0,W@1.6,3.1,0.0,49,47.7,54.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,16:30,50.5,35.0,55.1,0.0,NW@2.3,3.1,0.0,32,47.9,50.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,16:45,47.1,35.4,63.5,0.0,NW@2.1,2.8,0.0,16,48.0,46.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,17:00,45.6,33.5,62.3,0.0,W@2.3,3.1,0.0,4,48.1,45.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,17:15,44.4,33.6,65.6,0.0,NW@2.5,3.9,0.0,1,48.2,44.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,17:30,45.1,32.8,61.9,0.0,W@2.9,3.9,0.0,0,48.3,45.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,17:45,44.3,32.6,63.2,0.0,NW@2.4,3.9,0.0,0,48.4,44.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,18:00,44.2,31.7,61.1,0.0,NW@2.4,3.9,0.0,0,48.4,44.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,18:15,43.6,31.7,62.6,0.0,N@1.1,3.1,0.0,0,48.4,43.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,18:30,40.8,32.9,73.2,0.0,N @0.0,0.0,0.0,0,48.5,40.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,18:45,41.0,32.7,72.1,0.0,N @0.0,0.0,0.0,0,48.5,40.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,19:00,40.9,33.8,75.5,0.0,N@0.3,2.1,0.0,0,48.5,40.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,19:15,40.3,34.6,79.8,0.0,NW@0.7,2.1,0.0,0,48.4,40.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,19:30,40.4,34.5,79.2,0.0,N @0.9,2.4,0.0,0,48.4,40.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,19:45,40.0,35.0,82.2,0.0,NW@1.0,2.4,0.0,0,48.4,39.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,20:00,40.8,35.0,79.8,0.0,N@1.7,3.1,0.0,0,48.3,40.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,20:15,40.6,35.7,82.5,0.0,NW@1.9,2.4,0.0,0,48.3,40.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,20:30,41.5,34.3,75.4,0.0,NW@1.2,3.5,0.0,0,48.3,41.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,20:45,39.3,34.5,82.8,0.0,NW@0.2,1.7,0.0,0,48.2,39.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,21:00,38.5,34.9,87.0,0.0,N @0.0,0.0,0.0,0,48.2,38.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,21:15,38.5,34.6,85.9,0.0,N @0.0,0.0,0.0,0,48.1,38.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,21:30,37.8,34.7,88.5,0.0,N @0.3,2.4,0.0,0,48.0,37.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,21:45,37.2,34.4,89.4,0.0,N @0.0,0.0,0.02,0,48.0,36.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,22:00,36.1,34.3,93.2,0.0,N @0.0,0.0,0.09,0,47.9,35.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,22:15,36.4,34.5,92.7,0.0,N @0.0,0.0,0.1,0,47.9,36.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,22:30,35.8,33.8,92.1,0.0,N @0.0,0.0,0.14,0,47.8,35.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,22:45,35.1,33.4,93.5,0.0,N@1.1,3.1,0.25,0,47.7,35.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,23:00,35.8,33.6,91.5,0.0,N @0.3,2.1,0.21,0,47.7,35.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,23:15,36.6,34.9,93.4,0.0,NW@0.7,2.1,0.13,0,47.6,36.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,23:30,37.8,35.6,91.6,0.0,N @0.3,2.1,0.03,0,47.5,37.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,23:45,37.7,35.5,91.6,0.0,N @0.0,0.0,0.01,0,47.5,37.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-23,24:00,36.6,35.1,94.2,0.0,N@0.6,2.1,0.11,0,47.4,36.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,00:15,34.8,33.5,94.8,0.0,NW@0.0,1.4,0.26,0,47.3,34.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,00:30,34.1,33.2,96.7,0.0,NW@1.0,2.8,0.4,0,47.3,33.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,00:45,34.4,33.6,96.9,0.0,N@0.1,2.1,0.48,0,47.2,34.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,01:00,33.9,33.2,97.0,0.0,NW@0.6,2.1,0.56,0,47.1,33.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,01:15,34.2,33.5,97.2,0.0,NW@0.9,2.1,0.62,0,47.1,34.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,01:30,33.8,33.2,97.9,0.0,NW@1.5,2.1,0.67,0,47.0,33.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,01:45,34.1,33.7,98.4,0.0,NW@0.5,2.1,0.72,0,46.9,33.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,02:00,33.4,32.9,97.8,0.0,N @0.0,0.0,0.76,0,46.9,33.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,02:15,33.5,33.0,97.7,0.0,N@1.4,3.1,0.79,0,46.8,33.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,02:30,32.1,31.3,96.8,0.0,NW@0.3,2.1,0.81,0,46.7,31.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,02:45,31.7,31.0,97.8,0.0,N @0.0,0.0,0.83,0,46.6,31.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,03:00,32.3,31.9,98.5,0.0,NE@0.8,2.8,0.85,0,46.5,32.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,03:15,33.1,32.7,98.2,0.0,N@1.6,4.2,0.87,0,46.5,32.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,03:30,33.6,33.1,98.0,0.0,NW@0.6,3.1,0.87,0,46.4,33.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,03:45,34.8,34.5,98.8,0.0,NW@0.8,3.1,0.87,0,46.3,34.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,04:00,34.9,34.1,97.0,0.0,NW@0.6,2.8,0.86,0,46.2,34.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,04:15,34.1,33.5,97.4,0.0,NW@0.7,2.8,0.87,0,46.1,33.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,04:30,34.7,34.1,97.4,0.0,NW@0.0,1.4,0.87,0,46.0,34.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,04:45,35.6,35.0,97.6,0.0,SE@0.0,1.7,0.86,0,46.0,35.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,05:00,36.5,36.0,98.0,0.0,N @0.0,0.0,0.85,0,45.9,36.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,05:15,37.4,36.7,97.2,0.0,N@0.6,2.1,0.84,0,45.8,37.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,05:30,37.9,36.5,94.8,0.0,NW@1.1,3.5,0.81,0,45.7,37.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,05:45,38.1,36.1,92.5,0.0,SE@0.4,3.1,0.77,0,45.7,37.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,06:00,36.2,34.9,94.6,0.0,NW@1.0,3.1,0.77,0,45.6,36.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,06:15,35.9,34.4,94.2,0.0,NW@1.7,3.5,0.78,0,45.5,35.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,06:30,35.2,33.7,94.0,0.0,N@1.6,3.1,0.79,1,45.4,35.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,06:45,34.2,33.0,95.5,0.0,NW@0.6,2.1,0.81,6,45.4,34.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,07:00,33.4,32.7,97.0,0.0,N@0.6,2.4,0.83,15,45.3,33.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,07:15,33.8,33.4,98.2,0.0,N@0.8,2.4,0.85,24,45.3,33.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,07:30,35.8,35.2,97.7,0.0,N@1.4,3.1,0.86,79,45.2,35.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,07:45,38.6,36.2,90.7,0.0,NW@0.7,2.1,0.84,82,45.2,38.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,08:00,40.6,36.5,85.4,0.0,NW@2.0,3.5,0.71,203,45.1,40.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,08:15,44.5,37.2,75.4,0.0,NE@1.2,3.5,0.04,145,45.0,44.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,08:30,44.6,36.0,71.7,0.0,E@0.3,2.4,0.0,90,44.9,44.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,08:45,45.7,35.5,67.2,0.0,NW@0.4,3.1,0.0,231,44.9,45.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,09:00,47.9,34.8,60.3,0.0,SE@1.5,4.2,0.0,307,44.8,47.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,09:15,48.3,34.8,59.4,0.0,S@2.0,4.6,0.0,282,44.8,48.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,09:30,49.9,34.8,55.9,0.0,SW@1.6,3.1,0.0,354,44.7,49.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,09:45,50.2,34.7,55.2,0.0,SW@1.4,4.2,0.0,347,44.7,50.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,10:00,51.1,35.0,53.8,0.0,SE@3.1,6.7,0.0,420,44.7,51.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,10:15,51.6,35.3,53.5,0.0,SE@2.6,5.3,0.0,427,44.6,51.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,10:30,52.0,35.2,52.4,0.0,E@2.7,4.6,0.0,445,44.6,52.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,10:45,53.3,35.2,50.0,0.0,SE@2.7,5.7,0.0,460,44.6,53.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,11:00,53.6,35.4,49.9,0.0,SE@2.6,5.7,0.0,476,44.6,53.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,11:15,54.7,35.5,48.2,0.0,E@2.7,5.3,0.0,491,44.6,54.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,11:30,54.5,35.6,48.7,0.0,N @2.9,5.3,0.0,521,44.7,54.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,11:45,55.7,35.9,47.2,0.0,SE@2.7,4.9,0.0,429,44.7,55.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,12:00,54.5,35.9,49.2,0.0,SE@2.3,5.7,0.0,225,44.8,54.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,12:15,55.0,36.0,48.7,0.0,S@1.8,3.9,0.0,235,44.9,54.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,12:30,55.1,36.2,48.7,0.0,W@2.5,4.6,0.0,248,45.0,55.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,12:45,55.5,36.2,48.1,0.0,SW@2.5,4.9,0.0,353,45.1,55.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,13:00,57.8,36.3,44.5,0.0,SW@2.8,6.0,0.0,561,45.2,57.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,13:15,58.2,36.0,43.4,0.0,S@3.2,6.7,0.0,498,45.4,58.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,13:30,59.1,35.7,41.4,0.0,SE@2.9,7.4,0.0,447,45.6,59.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,13:45,59.2,35.3,40.6,0.0,N @2.7,4.6,0.0,398,45.7,59.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,14:00,60.1,35.9,40.3,0.0,SE@2.6,4.6,0.0,372,45.9,60.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,14:15,60.7,36.0,39.7,0.0,SE@3.5,6.7,0.0,350,46.1,60.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,14:30,60.8,36.1,39.6,0.0,E@2.6,6.0,0.0,326,46.2,60.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,14:45,61.3,36.2,39.0,0.0,NE@2.2,4.2,0.0,286,46.4,61.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,15:00,60.9,36.2,39.6,0.0,W@2.5,4.6,0.0,253,46.6,60.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,15:15,61.0,36.1,39.3,0.0,W@2.5,4.2,0.0,219,46.8,60.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,15:30,61.1,36.5,39.7,0.0,W@1.7,3.9,0.0,186,47.0,61.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,15:45,60.6,37.2,41.5,0.0,W@1.9,3.9,0.0,153,47.2,60.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,16:00,59.7,37.3,43.1,0.0,W@2.2,3.1,0.0,122,47.4,59.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,16:15,58.3,37.6,45.9,0.0,W@2.4,3.5,0.0,91,47.5,58.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,16:30,55.5,39.4,54.7,0.0,NW@1.8,2.4,0.0,41,47.7,55.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,16:45,51.1,40.0,65.6,0.0,N@1.3,2.1,0.0,12,47.8,50.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,17:00,47.9,40.3,74.8,0.0,NW@1.7,2.4,0.0,6,47.9,47.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,17:15,45.7,39.3,78.3,0.0,NW@0.8,2.4,0.0,2,48.0,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,17:30,45.1,38.9,78.8,0.0,NW@0.5,2.1,0.0,0,48.1,45.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,17:45,43.3,38.6,83.4,0.0,NW@0.3,1.7,0.0,0,48.2,43.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,18:00,42.2,38.7,87.2,0.0,NW@0.3,2.1,0.04,0,48.3,42.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,18:15,41.3,38.5,89.6,0.0,NW@0.0,1.4,0.1,0,48.3,41.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,18:30,40.2,38.3,92.9,0.0,NW@0.8,2.1,0.2,0,48.4,40.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,18:45,39.9,38.4,94.1,0.0,N @0.0,0.0,0.32,0,48.4,39.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,19:00,39.9,38.1,93.3,0.0,N@0.6,2.4,0.41,0,48.4,39.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,19:15,38.9,37.4,94.1,0.0,N @0.0,0.0,0.49,0,48.4,38.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,19:30,38.8,37.6,95.4,0.0,NW@0.9,2.4,0.6,0,48.4,38.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,19:45,40.5,38.2,91.4,0.0,N@1.5,3.1,0.61,0,48.4,40.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,20:00,40.3,37.0,87.7,0.0,N@0.9,2.8,0.53,0,48.4,40.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,20:15,38.4,37.0,94.5,0.0,NW@1.8,2.8,0.59,0,48.3,38.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,20:30,37.8,36.8,96.1,0.0,NW@0.2,2.8,0.67,0,48.3,37.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,20:45,39.4,37.7,93.4,0.0,NW@1.9,3.5,0.71,0,48.3,39.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,21:00,38.2,36.5,93.3,0.0,NW@1.5,2.8,0.73,0,48.2,37.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,21:15,37.1,36.1,96.2,0.0,NW@0.7,2.4,0.78,0,48.2,36.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,21:30,36.7,35.8,96.4,0.0,NW@0.1,2.1,0.81,0,48.1,36.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,21:45,36.1,35.4,97.3,0.0,N @0.0,0.0,0.84,0,48.1,36.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,22:00,36.5,35.8,97.4,0.0,N @0.0,0.0,0.86,0,48.0,36.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,22:15,35.4,34.8,97.4,0.0,N@0.1,2.1,0.88,0,47.9,35.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,22:30,35.7,35.2,98.4,0.0,N @0.0,0.0,0.89,0,47.8,35.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,22:45,35.4,35.0,98.4,0.0,N @0.0,0.0,0.9,0,47.8,35.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,23:00,34.6,34.2,98.3,0.0,N @0.0,0.0,0.91,0,47.7,34.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,23:15,34.8,34.5,99.0,0.0,N @0.0,0.0,0.92,0,47.6,34.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,23:30,34.4,34.2,99.1,0.0,N @0.0,0.0,0.92,0,47.5,34.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,23:45,34.3,34.2,99.3,0.0,N @0.0,0.0,0.93,0,47.5,34.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-24,24:00,33.9,33.7,99.3,0.0,N @0.0,0.0,0.93,0,47.4,33.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,00:15,34.3,34.1,99.3,0.0,N @0.0,0.0,0.94,0,47.3,34.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,00:30,33.3,33.2,99.3,0.0,W@0.4,2.1,0.94,0,47.2,33.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,00:45,33.5,33.3,99.3,0.0,N @0.0,0.0,0.94,0,47.1,33.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,01:00,32.4,32.2,99.3,0.0,W@0.7,3.9,0.94,0,47.0,32.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,01:15,32.4,32.2,99.3,0.0,NW@0.5,2.8,0.94,0,47.0,32.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,01:30,32.6,32.4,99.3,0.0,NW@0.1,1.7,0.95,0,46.9,32.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,01:45,32.6,32.4,99.3,0.0,SE@0.4,3.1,0.95,0,46.8,32.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,02:00,31.2,30.8,99.3,0.0,NW@0.3,2.1,0.95,0,46.7,30.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,02:15,31.1,30.7,99.3,0.0,NW@0.3,2.8,0.95,0,46.6,30.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,02:30,31.4,31.0,99.3,0.0,NW@1.3,2.4,0.95,0,46.5,31.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,02:45,32.3,32.2,99.3,0.0,N@0.5,2.4,0.95,0,46.4,32.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,03:00,32.5,32.4,99.3,0.0,N@0.7,2.4,0.99,0,46.3,32.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,03:15,32.5,32.3,99.3,0.0,N@1.1,2.8,0.84,0,46.3,32.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,03:30,32.4,32.2,99.3,0.0,NW@1.3,2.8,0.53,0,46.2,32.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,03:45,32.6,32.4,99.3,0.0,W@1.1,3.9,0.48,0,46.1,32.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,04:00,32.3,32.1,99.3,0.0,N@0.9,3.9,0.42,0,46.0,32.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,04:15,34.7,34.6,99.3,0.0,N@0.9,2.8,0.78,0,45.9,34.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,04:30,35.6,35.4,99.3,0.0,N@0.9,2.8,0.99,0,45.8,35.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,04:45,34.0,33.8,99.3,0.0,NW@1.0,2.8,1.0,0,45.7,33.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,05:00,32.2,32.0,99.3,0.0,NW@0.9,3.5,1.0,0,45.6,31.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,05:15,31.9,31.6,99.3,0.0,NE@0.1,1.4,1.0,0,45.5,31.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,05:30,31.7,31.4,99.3,0.0,NW@0.4,2.4,0.7,0,45.4,31.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,05:45,31.2,30.8,99.3,0.0,N@0.3,2.1,0.22,0,45.4,30.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,06:00,30.8,30.3,99.3,0.0,NW@0.4,1.7,0.17,0,45.3,30.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,06:15,31.5,31.2,99.3,0.0,NW@1.4,3.1,0.29,0,45.2,31.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,06:30,32.7,32.6,99.3,0.0,NW@2.0,3.1,0.49,2,45.1,32.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,06:45,33.9,33.7,99.3,0.0,N@0.5,2.8,0.72,7,45.0,33.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,07:00,32.8,32.6,99.3,0.0,N @0.0,0.0,0.6,16,44.9,32.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,07:15,33.3,33.1,99.3,0.0,N @0.0,0.0,0.64,32,44.9,33.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,07:30,34.7,34.5,99.3,0.0,N @0.0,0.0,0.93,155,44.7,34.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,07:45,39.8,39.6,99.3,0.0,N @0.0,0.0,1.0,205,44.7,39.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,08:00,43.5,42.4,95.8,0.0,SE@0.0,1.4,1.0,159,44.6,44.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,08:15,41.6,38.9,90.0,0.0,NW@0.4,2.8,1.0,64,44.5,41.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,08:30,40.9,39.0,92.9,0.0,SW@0.2,2.8,1.0,188,44.4,40.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,08:45,43.4,39.9,87.3,0.0,W@0.0,1.4,1.0,119,44.3,43.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,09:00,44.0,39.8,85.3,0.0,S@0.5,2.4,1.0,124,44.2,44.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,09:15,45.9,38.9,76.5,0.0,SE@3.1,4.6,0.99,307,44.2,45.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,09:30,46.8,39.2,74.6,0.0,S@3.0,5.7,0.94,368,44.1,46.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,09:45,47.7,39.5,73.0,0.0,SW@2.1,3.9,0.86,391,44.1,47.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,10:00,49.3,38.6,66.2,0.0,NW@1.8,4.6,0.27,415,44.0,49.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,10:15,49.9,38.5,64.7,0.0,NW@2.4,4.9,0.0,441,44.0,49.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,10:30,52.0,37.9,58.5,0.0,N@2.6,4.9,0.0,458,44.0,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,10:45,53.7,38.6,56.4,0.0,NW@3.6,6.0,0.0,467,44.0,53.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,11:00,56.0,39.7,54.2,0.0,N@3.2,5.3,0.0,478,43.9,56.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,11:15,58.2,40.7,52.2,0.0,NW@3.4,6.4,0.0,484,43.9,58.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,11:30,59.8,41.4,50.3,0.0,N @3.1,6.0,0.0,492,44.0,59.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,11:45,61.0,41.8,49.2,0.0,N@4.0,7.1,0.0,468,44.0,61.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,12:00,62.4,42.3,47.7,0.0,N@3.6,6.7,0.0,471,44.1,62.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,12:15,64.4,42.0,43.9,0.0,N@2.7,5.7,0.0,464,44.1,64.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,12:30,62.2,43.3,49.9,0.0,N @3.0,5.3,0.0,189,44.2,62.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,12:45,57.1,43.9,61.1,0.0,N @2.2,4.9,0.0,115,44.4,57.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,13:00,56.8,43.8,61.6,0.0,NE@1.8,3.9,0.0,98,44.5,56.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,13:15,56.9,44.5,63.1,0.0,W@2.5,6.0,0.0,80,44.7,56.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,13:30,60.6,42.3,50.7,0.0,NW@4.4,12.1,0.0,81,44.9,60.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,13:45,66.1,37.6,34.8,0.0,NW@7.9,13.2,0.0,98,45.1,66.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,14:00,66.9,36.7,32.6,0.0,NW@9.6,19.6,0.0,151,45.3,67.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,14:15,67.0,34.8,30.3,0.0,NW@10.7,18.5,0.0,239,45.4,67.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,14:30,66.8,32.5,27.7,0.0,NW@12.6,22.1,0.0,313,45.6,66.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,14:45,65.1,29.1,25.7,0.0,NW@13.9,22.5,0.0,238,45.8,65.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,15:00,64.4,23.4,20.8,0.0,NW@14.9,25.0,0.0,251,45.9,64.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,15:15,63.8,18.0,16.9,0.0,NW@16.3,27.1,0.0,224,46.1,63.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,15:30,62.8,18.4,17.8,0.0,NW@16.0,24.6,0.0,189,46.2,62.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,15:45,61.9,19.5,19.3,0.0,NW@14.3,24.6,0.0,154,46.3,61.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,16:00,60.9,20.5,20.8,0.0,NW@15.4,23.9,0.0,121,46.4,60.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,16:15,60.0,20.7,21.7,0.0,NW@12.7,24.3,0.0,88,46.6,60.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,16:30,58.8,20.7,22.6,0.0,NW@8.4,16.0,0.0,37,46.7,58.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,16:45,57.9,20.7,23.4,0.0,NW@7.7,16.7,0.0,13,46.8,57.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,17:00,56.6,24.9,29.3,0.0,N@7.4,16.4,0.0,6,46.9,56.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,17:15,53.4,28.8,38.4,0.0,N @6.1,10.7,0.0,2,46.9,53.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,17:30,53.6,27.7,36.7,0.0,N @6.2,15.0,0.0,0,47.0,53.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,17:45,52.4,28.4,39.2,0.0,N@5.0,9.2,0.0,0,47.1,52.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,18:00,50.8,28.4,41.7,0.0,NW@4.0,7.1,0.0,0,47.2,50.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,18:15,50.6,27.9,41.1,0.0,NW@4.2,7.1,0.0,0,47.2,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,18:30,50.6,27.2,40.1,0.0,NW@4.9,8.5,0.0,0,47.2,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,18:45,51.8,23.1,32.3,0.0,NW@6.0,10.7,0.0,0,47.3,51.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,19:00,52.2,23.0,31.8,0.0,NW@6.1,10.7,0.0,0,47.3,52.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,19:15,51.6,23.6,33.2,0.0,NW@5.9,9.9,0.0,0,47.3,51.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,19:30,50.8,24.0,34.9,0.0,NW@5.0,8.9,0.0,0,47.3,50.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,19:45,48.7,24.0,37.5,0.0,NW@4.3,6.4,0.0,0,47.3,48.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,20:00,49.3,23.0,35.3,0.0,NW@5.5,12.4,0.0,0,47.3,49.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,20:15,50.1,23.0,34.3,0.0,NW@6.8,12.4,0.0,0,47.3,50.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,20:30,51.4,23.4,33.3,0.0,NW@8.0,17.1,0.0,0,47.3,51.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,20:45,51.7,23.5,33.0,0.0,W@8.0,13.2,0.0,0,47.2,51.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,21:00,51.9,23.4,32.5,0.0,W@8.3,14.2,0.0,0,47.2,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,21:15,52.0,23.0,31.9,0.0,NW@8.4,16.0,0.0,0,47.2,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,21:30,51.5,22.9,32.4,0.0,NW@6.9,13.5,0.0,0,47.2,51.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,21:45,51.4,22.4,31.9,0.0,NW@7.7,15.3,0.0,0,47.1,51.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,22:00,50.2,23.0,34.1,0.0,NW@6.1,11.7,0.0,0,47.1,50.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,22:15,49.4,23.5,35.8,0.0,NW@6.2,10.3,0.0,0,47.1,49.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,22:30,48.7,23.6,36.9,0.0,NW@5.1,8.2,0.0,0,47.0,48.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,22:45,48.4,24.3,38.5,0.0,NW@5.2,8.5,0.0,0,47.0,48.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,23:00,48.3,25.2,40.1,0.0,NW@5.5,10.7,0.0,0,47.0,48.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,23:15,48.1,25.6,41.1,0.0,NW@5.0,9.2,0.0,0,46.9,48.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,23:30,47.1,25.8,43.0,0.0,NW@4.6,8.2,0.0,0,46.9,47.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,23:45,46.7,26.0,44.1,0.0,NW@5.1,9.9,0.0,0,46.9,46.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-25,24:00,47.5,26.4,43.4,0.0,NW@6.9,14.6,0.0,0,46.8,47.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,00:15,47.9,26.6,43.2,0.0,NW@7.0,11.4,0.0,0,46.8,47.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,00:30,47.9,26.8,43.6,0.0,NW@5.1,8.5,0.0,0,46.8,47.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,00:45,47.3,26.6,44.2,0.0,N@4.1,8.5,0.0,0,46.7,47.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,01:00,45.0,26.7,48.5,0.0,NW@2.5,4.6,0.0,0,46.7,44.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,01:15,44.6,26.7,49.1,0.0,N@3.3,6.7,0.0,0,46.6,44.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,01:30,44.7,26.5,48.5,0.0,NW@2.5,3.5,0.0,0,46.6,44.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,01:45,41.4,27.3,56.7,0.0,N@2.4,5.7,0.0,0,46.5,41.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,02:00,44.0,25.5,47.8,0.0,NW@4.0,6.7,0.0,0,46.5,44.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,02:15,46.7,22.8,38.6,0.0,NW@6.1,11.0,0.0,0,46.4,46.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,02:30,47.4,21.3,35.2,0.0,NW@5.3,9.9,0.0,0,46.4,47.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,02:45,46.3,21.5,37.1,0.0,NW@2.9,5.7,0.0,0,46.3,46.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,03:00,40.2,23.9,51.9,0.0,SE@0.3,2.8,0.0,0,46.3,39.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,03:15,36.1,24.4,62.1,0.0,NE@0.9,2.4,0.0,0,46.2,35.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,03:30,33.3,25.1,71.5,0.0,NW@1.7,3.1,0.0,0,46.1,33.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,03:45,31.1,25.6,80.9,0.0,NW@2.0,2.8,0.0,0,46.1,30.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,04:00,31.3,25.7,80.2,0.0,NW@2.0,2.8,0.0,0,46.0,31.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,04:15,31.5,25.5,78.8,0.0,N@1.5,3.5,0.0,0,46.0,31.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,04:30,31.4,24.9,77.1,0.0,NW@2.6,4.9,0.0,0,45.9,31.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,04:45,32.2,24.4,72.5,0.0,NW@2.3,3.5,0.0,0,45.8,31.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,05:00,31.6,24.2,74.2,0.0,NW@1.9,3.1,0.0,0,45.7,31.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,05:15,32.4,24.2,71.2,0.0,NW@2.6,3.9,0.0,0,45.7,32.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,05:30,29.6,22.7,76.3,0.0,W@1.9,3.1,0.0,0,45.6,29.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,05:45,28.0,22.7,82.9,0.0,NW@2.0,3.9,0.0,0,45.5,27.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,06:00,28.4,23.6,84.3,0.0,NW@0.8,3.5,0.04,0,45.4,28.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,06:15,28.4,23.7,84.6,0.0,NW@2.2,3.9,0.07,0,45.3,28.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,06:30,28.1,23.2,83.9,0.0,NE@1.8,3.5,0.06,2,45.2,27.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,06:45,28.2,23.2,83.8,0.0,NW@1.9,3.5,0.06,7,45.1,27.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,07:00,28.5,23.7,84.0,0.0,N@1.6,3.5,0.05,17,45.0,28.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,07:15,29.7,24.5,82.3,0.0,NW@1.7,3.5,0.03,31,44.9,29.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,07:30,31.4,25.5,79.2,0.0,NW@1.7,2.8,0.0,101,44.8,31.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,07:45,34.5,27.6,75.4,0.0,NW@2.6,4.2,0.0,139,44.7,34.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,08:00,39.5,25.7,57.4,0.0,NW@3.0,4.6,0.0,175,44.6,39.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,08:15,43.9,25.9,49.0,0.0,N @1.4,3.5,0.0,210,44.5,43.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,08:30,47.1,25.5,42.4,0.0,SE@3.3,5.3,0.0,250,44.4,47.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,08:45,47.9,25.0,40.4,0.0,S@2.5,4.2,0.0,288,44.3,47.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,09:00,48.6,24.8,39.1,0.0,SW@2.8,4.2,0.0,314,44.1,48.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,09:15,49.1,24.2,37.3,0.0,W@1.9,3.1,0.0,342,44.0,49.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,09:30,50.4,23.4,34.3,0.0,N @3.1,7.1,0.0,364,44.0,50.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,09:45,49.7,24.4,36.8,0.0,N@3.3,7.8,0.0,330,43.9,49.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,10:00,51.3,25.0,35.6,0.0,N@5.7,9.9,0.0,487,43.8,51.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,10:15,50.3,24.7,36.6,0.0,N@7.5,13.2,0.0,220,43.8,50.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,10:30,50.2,24.8,36.8,0.0,N@7.4,12.1,0.0,218,43.7,50.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,10:45,49.6,24.9,37.8,0.0,N @6.1,9.6,0.0,183,43.7,49.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,11:00,49.3,25.2,38.7,0.0,N @5.3,11.7,0.0,136,43.7,49.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,11:15,49.1,25.3,39.3,0.0,N @5.8,12.8,0.0,134,43.7,49.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,11:30,49.2,25.1,38.7,0.0,N@5.9,9.9,0.0,92,43.7,49.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,11:45,49.1,25.3,39.1,0.0,N @4.5,9.6,0.0,96,43.7,49.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,12:00,49.1,25.3,39.0,0.0,N @5.0,9.2,0.0,107,43.7,49.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,12:15,49.5,24.8,37.8,0.0,N@6.2,11.4,0.0,116,43.8,49.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,12:30,49.6,25.0,37.9,0.0,N @6.5,12.1,0.0,136,43.8,49.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,12:45,50.0,25.2,37.6,0.0,N @6.0,12.8,0.0,178,43.9,50.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,13:00,50.9,24.7,35.7,0.0,N @5.8,11.0,0.0,226,43.9,50.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,13:15,51.3,24.0,34.2,0.0,N @5.7,9.6,0.0,228,43.9,51.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,13:30,52.6,23.4,31.8,0.0,N @5.1,11.0,0.0,315,44.0,52.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,13:45,53.9,22.8,29.5,0.0,N @7.6,12.8,0.0,407,44.0,53.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,14:00,54.3,21.3,27.3,0.0,N @8.1,17.5,0.0,373,44.1,54.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,14:15,54.2,20.6,26.6,0.0,N @7.6,16.0,0.0,346,44.2,54.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,14:30,53.8,20.1,26.4,0.0,N @9.0,15.3,0.0,313,44.2,53.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,14:45,53.7,19.2,25.5,0.0,N @9.2,17.1,0.0,282,44.3,53.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,15:00,53.5,18.6,25.0,0.0,N @9.0,17.8,0.0,237,44.4,53.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,15:15,52.2,18.0,25.6,0.0,N@7.1,15.7,0.0,83,44.4,52.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,15:30,52.3,17.2,24.6,0.0,N@8.0,13.9,0.0,99,44.5,52.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,15:45,51.6,16.0,24.1,0.0,N@8.3,13.9,0.0,37,44.6,51.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,16:00,51.2,15.7,24.0,0.0,N@9.2,16.0,0.0,31,44.7,51.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,16:15,51.2,15.4,23.8,0.0,N@8.2,14.6,0.0,51,44.8,51.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,16:30,50.9,15.2,23.7,0.0,N@8.9,15.0,0.0,28,44.9,51.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,16:45,50.4,14.7,23.8,0.0,N@8.5,14.2,0.0,12,44.9,50.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,17:00,50.1,14.7,24.0,0.0,N@8.1,14.6,0.0,5,45.0,50.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,17:15,48.4,15.1,25.9,0.0,N@5.3,11.4,0.0,1,45.0,48.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,17:30,47.9,15.1,26.5,0.0,N@6.3,12.1,0.0,0,45.1,47.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,17:45,47.7,15.2,26.8,0.0,N@6.5,10.3,0.0,0,45.1,47.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,18:00,46.8,15.4,28.0,0.0,NW@6.3,11.4,0.0,0,45.2,46.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,18:15,46.9,15.7,28.3,0.0,N@6.2,11.4,0.0,0,45.2,46.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,18:30,45.9,15.7,29.3,0.0,NW@5.4,7.8,0.0,0,45.2,46.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,18:45,45.7,16.5,30.6,0.0,NW@5.4,13.2,0.0,0,45.2,45.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,19:00,45.7,17.2,31.5,0.0,NW@5.0,8.2,0.0,0,45.2,45.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,19:15,45.5,17.2,31.7,0.0,N@4.6,8.5,0.0,0,45.2,45.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,19:30,44.2,18.2,34.9,0.0,N@3.9,6.7,0.0,0,45.2,44.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,19:45,44.3,19.4,36.6,0.0,N@3.5,6.4,0.0,0,45.2,44.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,20:00,42.9,20.0,39.6,0.0,NW@2.9,5.3,0.0,0,45.2,42.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,20:15,39.8,21.3,47.2,0.0,N @2.1,3.9,0.0,0,45.1,39.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,20:30,40.0,20.4,44.9,0.0,N@3.8,7.1,0.0,0,45.1,40.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,20:45,42.3,20.1,40.7,0.0,NW@4.1,6.7,0.0,0,45.1,42.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,21:00,42.2,20.9,42.3,0.0,N@4.0,6.7,0.0,0,45.0,42.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,21:15,42.9,21.7,42.5,0.0,N@4.4,8.2,0.0,0,45.0,42.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,21:30,40.6,22.4,47.9,0.0,N @3.0,5.7,0.0,0,45.0,40.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,21:45,39.3,22.6,50.8,0.0,N @2.4,5.7,0.0,0,44.9,39.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,22:00,36.1,22.9,58.2,0.0,NE@1.7,4.2,0.0,0,44.9,35.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,22:15,37.0,23.2,57.1,0.0,N @1.7,4.6,0.0,0,44.8,36.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,22:30,32.9,23.9,69.3,0.0,NW@1.8,3.5,0.0,0,44.7,32.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,22:45,29.9,24.1,80.0,0.0,NW@2.6,3.5,0.0,0,44.7,29.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,23:00,31.6,24.3,74.3,0.0,NW@2.9,4.2,0.0,0,44.6,31.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,23:15,34.4,23.8,64.7,0.0,N@2.6,3.5,0.0,0,44.6,34.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,23:30,37.5,23.4,56.2,0.0,N@3.3,7.8,0.0,0,44.5,37.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,23:45,37.9,22.9,54.4,0.0,NW@3.1,4.6,0.0,0,44.4,37.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-26,24:00,37.6,22.7,54.5,0.0,NW@3.3,5.3,0.0,0,44.4,37.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,00:15,34.6,23.2,62.8,0.0,NW@1.8,3.5,0.0,0,44.3,34.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,00:30,32.7,23.0,67.1,0.0,SW@0.1,2.8,0.0,0,44.2,32.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,00:45,30.0,22.2,73.7,0.0,NE@0.4,3.1,0.0,0,44.1,29.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,01:00,29.2,22.6,77.9,0.0,N @0.0,0.0,0.0,0,44.0,29.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,01:15,29.7,23.0,77.0,0.0,N @0.0,0.0,0.0,0,43.9,29.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,01:30,32.2,23.6,70.3,0.0,NW@1.7,6.0,0.0,0,43.9,32.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,01:45,33.5,22.3,63.1,0.0,SE@2.6,5.3,0.0,0,43.8,33.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,02:00,32.5,23.1,67.8,0.0,NE@0.8,3.9,0.0,0,43.7,32.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,02:15,34.9,24.3,64.8,0.0,N @2.6,6.7,0.0,0,43.6,34.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,02:30,37.9,23.9,56.8,0.0,N@4.3,8.2,0.0,0,43.5,37.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,02:45,40.0,23.1,50.5,0.0,NW@4.6,7.4,0.0,0,43.4,40.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,03:00,39.7,22.8,50.5,0.0,N@3.0,5.7,0.0,0,43.3,39.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,03:15,35.1,23.3,61.8,0.0,NE@1.5,3.5,0.0,0,43.2,34.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,03:30,33.6,23.1,64.9,0.0,N@2.4,4.6,0.0,0,43.1,33.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,03:45,37.2,23.0,56.2,0.0,N@4.2,7.1,0.0,0,43.0,37.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,04:00,36.9,22.9,56.5,0.0,NW@3.4,5.7,0.0,0,42.9,36.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,04:15,34.0,22.0,60.8,0.0,NW@4.2,6.0,0.0,0,42.8,34.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,04:30,36.4,22.2,56.0,0.0,NW@4.9,7.4,0.0,0,42.7,36.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,04:45,36.7,22.3,55.7,0.0,NW@3.9,6.7,0.0,0,42.6,36.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,05:00,34.4,22.0,60.3,0.0,NW@2.8,4.2,0.0,0,42.6,34.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,05:15,34.6,22.8,61.7,0.0,NW@3.9,6.7,0.0,0,42.5,34.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,05:30,35.9,21.9,56.5,0.0,NW@4.4,6.7,0.0,0,42.4,35.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,05:45,35.9,21.8,56.2,0.0,NW@4.3,6.7,0.0,0,42.3,35.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,06:00,35.5,21.5,56.4,0.0,NW@4.0,6.7,0.0,0,42.2,35.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,06:15,35.6,21.0,55.1,0.0,NW@3.3,6.4,0.0,0,42.1,35.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,06:30,32.9,20.8,60.9,0.0,SW@1.7,3.1,0.0,1,42.1,32.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,06:45,30.2,21.0,69.3,0.0,E@0.8,3.1,0.0,7,42.0,29.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,07:00,29.1,21.6,74.8,0.0,N@1.0,2.8,0.0,15,41.9,28.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,07:15,29.3,22.0,75.5,0.0,NW@1.8,2.8,0.0,29,41.8,29.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,07:30,29.7,22.7,76.1,0.0,N@0.7,2.4,0.0,94,41.7,29.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,07:45,32.1,24.8,74.2,0.0,N@0.7,2.4,0.0,134,41.7,32.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,08:00,36.4,24.7,62.3,0.0,N@1.7,2.8,0.0,177,41.6,36.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,08:15,42.3,23.3,46.7,0.0,S@0.6,3.5,0.0,208,41.5,42.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,08:30,42.2,24.3,48.8,0.0,S@1.8,3.9,0.0,228,41.4,42.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,08:45,43.0,23.7,46.2,0.0,SE@4.4,6.7,0.0,273,41.3,42.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,09:00,43.8,22.3,42.1,0.0,SE@3.7,5.7,0.0,286,41.3,43.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,09:15,44.9,22.4,40.5,0.0,SE@2.8,7.8,0.0,347,41.2,45.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,09:30,46.0,22.0,38.3,0.0,E@2.2,4.2,0.0,373,41.1,46.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,09:45,46.7,21.6,36.7,0.0,SE@2.6,4.6,0.0,398,41.0,46.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,10:00,46.5,21.7,37.2,0.0,NW@3.3,6.0,0.0,421,41.0,46.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,10:15,47.0,21.0,35.4,0.0,NW@3.8,5.7,0.0,440,40.9,46.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,10:30,47.8,21.2,34.6,0.0,NE@3.2,6.7,0.0,458,40.9,47.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,10:45,48.3,20.6,33.0,0.0,NE@3.3,7.1,0.0,472,40.9,48.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,11:00,48.7,20.3,32.3,0.0,NE@3.7,7.8,0.0,483,40.9,48.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,11:15,49.6,19.8,30.5,0.0,NE@4.0,9.2,0.0,491,40.9,49.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,11:30,49.5,18.9,29.4,0.0,NW@4.5,7.4,0.0,496,40.9,49.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,11:45,49.7,19.0,29.3,0.0,NW@3.6,6.7,0.0,498,40.9,49.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,12:00,49.9,18.6,28.6,0.0,N @3.6,7.4,0.0,497,41.0,49.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,12:15,50.6,17.8,26.9,0.0,NW@2.9,5.7,0.0,492,41.0,50.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,12:30,51.0,18.1,26.9,0.0,NE@3.3,6.4,0.0,483,41.1,51.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,12:45,51.7,18.5,26.7,0.0,NW@3.3,9.6,0.0,472,41.2,51.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,13:00,51.9,19.4,27.4,0.0,S@4.2,8.2,0.0,457,41.3,51.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,13:15,51.8,20.1,28.5,0.0,S@4.7,8.5,0.0,439,41.4,51.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,13:30,51.8,19.3,27.4,0.0,S@4.0,7.1,0.0,420,41.6,51.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,13:45,52.0,19.6,27.6,0.0,S@3.8,6.4,0.0,398,41.7,51.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,14:00,52.2,18.5,26.2,0.0,SE@3.3,6.7,0.0,375,41.9,52.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,14:15,52.2,18.6,26.3,0.0,S@3.3,7.1,0.0,347,42.1,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,14:30,52.3,19.0,26.6,0.0,S@4.3,8.2,0.0,316,42.2,52.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,14:45,51.9,20.6,29.0,0.0,S@3.5,6.0,0.0,279,42.4,51.7,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,15:00,51.9,19.2,27.2,0.0,S@3.1,6.7,0.0,254,42.6,51.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,15:15,50.8,19.8,29.1,0.0,SE@3.6,5.3,0.0,204,42.8,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,15:30,50.8,18.8,28.0,0.0,S@2.8,5.3,0.0,187,42.9,50.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,15:45,50.9,18.4,27.3,0.0,SE@2.0,4.2,0.0,146,43.1,50.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,16:00,49.7,19.5,29.9,0.0,S@1.2,4.2,0.0,108,43.3,49.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,16:15,49.1,23.1,35.7,0.0,N @0.0,0.0,0.0,81,43.4,48.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,16:30,40.9,27.2,57.8,0.0,N @0.0,0.0,0.0,20,43.5,40.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,16:45,36.5,26.8,67.7,0.0,N @0.0,0.0,0.0,12,43.7,36.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,17:00,36.2,25.1,63.8,0.0,N @0.0,0.0,0.0,3,43.8,35.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,17:15,35.2,24.1,63.6,0.0,N@0.0,1.4,0.0,1,43.9,34.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,17:30,34.8,22.7,61.0,0.0,NW@2.3,3.5,0.0,0,43.9,34.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,17:45,33.8,22.6,63.1,0.0,NW@2.1,3.5,0.0,0,44.0,33.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,18:00,32.3,22.3,66.3,0.0,NW@1.0,2.1,0.0,0,44.1,31.9,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,18:15,31.6,22.2,68.2,0.0,NW@1.6,3.1,0.0,0,44.1,31.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,18:30,32.4,22.1,65.4,0.0,N@1.7,3.1,0.0,0,44.1,32.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,18:45,33.7,21.0,59.2,0.0,N @1.9,2.4,0.0,0,44.1,33.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,19:00,31.1,21.3,67.4,0.0,NW@2.4,3.1,0.0,0,44.1,30.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,19:15,29.7,21.9,73.9,0.0,NW@2.1,3.1,0.0,0,44.1,29.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,19:30,30.0,21.3,70.8,0.0,N @1.7,2.4,0.0,0,44.0,29.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,19:45,29.4,21.0,72.1,0.0,NW@0.7,2.8,0.0,0,44.0,29.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,20:00,28.0,21.4,78.1,0.0,NW@2.1,3.1,0.0,0,44.0,27.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,20:15,28.1,21.4,78.0,0.0,NW@1.5,2.8,0.0,0,43.9,27.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,20:30,27.0,21.6,82.4,0.0,NW@0.8,2.8,0.0,0,43.8,26.8,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,20:45,26.3,21.4,84.4,0.0,N @0.0,0.0,0.06,0,43.8,26.1,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,21:00,28.1,21.1,76.8,0.0,NW@2.4,3.9,0.01,0,43.7,28.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,21:15,30.8,20.7,66.4,0.0,NW@1.8,3.5,0.0,0,43.6,30.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,21:30,28.8,20.7,73.0,0.0,NW@0.4,2.1,0.0,0,43.5,28.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,21:45,26.8,21.4,82.3,0.0,NW@1.1,2.4,0.02,0,43.4,26.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,22:00,26.8,20.9,80.8,0.0,NW@0.6,2.8,0.03,0,43.4,26.6,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,22:15,24.7,20.1,86.1,0.0,N @0.0,0.0,0.01,0,43.3,24.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,22:30,24.5,20.4,88.2,0.0,N @0.0,0.0,0.0,0,43.2,24.3,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,22:45,25.1,21.2,88.4,0.0,N @0.0,0.0,0.0,0,43.1,25.0,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,23:00,26.7,22.5,87.1,0.0,N @0.0,0.0,0.05,0,43.0,26.5,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,23:15,28.6,23.3,82.4,0.0,N @0.0,0.0,0.02,0,42.9,28.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,23:30,28.4,24.0,85.6,0.0,N @0.0,0.0,0.0,0,42.8,28.2,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,23:45,27.7,24.0,88.4,0.0,N @0.0,0.0,0.03,0,42.7,27.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249
+2019-10-27,24:00,26.7,23.0,88.9,0.0,N @0.0,0.0,0.0,0,42.6,26.4,"Brewster.N (Brewster Flat), Okanogan County",330171,Brewster.S,2020-01-21 21:14:36.431249

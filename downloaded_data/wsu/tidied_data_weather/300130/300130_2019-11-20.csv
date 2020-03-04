@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F, Atm. Press. inHg, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-11-20,00:15,39.9,38.8,95.9,0.0,N @0.0,0.0,0.8,0,47.6,30.01,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,00:30,39.9,38.5,94.8,0.0,SE@0.0,1.4,0.78,0,47.5,30.01,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,00:45,39.9,37.3,90.5,0.0,SE@0.0,2.1,0.74,0,47.5,30.02,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,01:00,39.9,36.3,86.9,0.0,S@0.2,3.1,0.69,0,47.4,30.03,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,01:15,39.9,35.8,85.3,0.0,S@0.1,2.8,0.64,0,47.4,30.03,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,01:30,39.9,36.0,85.8,0.0,SE@0.3,4.2,0.59,0,47.3,30.03,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,01:45,39.8,35.9,85.8,0.0,S@0.2,4.9,0.54,0,47.3,30.04,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,02:00,39.7,35.8,85.7,0.0,SE@0.3,2.8,0.46,0,47.2,30.04,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,02:15,39.7,34.9,82.7,0.0,S@2.1,4.2,0.33,0,47.2,30.04,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,02:30,39.9,33.9,79.1,0.0,S@2.2,5.7,0.1,0,47.1,30.05,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,02:45,39.6,34.6,81.9,0.0,SE@0.2,2.1,0.0,0,47.1,30.05,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,03:00,39.6,34.6,82.4,0.0,SE@0.8,4.2,0.0,0,47.1,30.04,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,03:15,39.8,34.8,81.8,0.0,S@1.5,6.0,0.0,0,47.0,30.04,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,03:30,39.8,34.1,79.8,0.0,S@0.1,2.4,0.0,0,47.0,30.05,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,03:45,39.7,34.5,81.5,0.0,N @0.0,0.0,0.0,0,46.9,30.06,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,04:00,39.4,34.2,81.6,0.0,SE@1.7,5.7,0.0,0,46.9,30.05,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,04:15,39.5,33.7,79.4,0.0,S@2.5,4.9,0.0,0,46.9,30.05,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,04:30,39.6,33.5,78.5,0.0,S@1.6,3.5,0.0,0,46.8,30.06,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,04:45,39.5,33.1,77.5,0.0,S@2.0,3.9,0.0,0,46.8,30.06,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,05:00,39.4,33.1,78.0,0.0,S@0.1,2.4,0.0,0,46.7,30.07,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,05:15,39.3,33.9,80.7,0.0,N @0.0,0.0,0.0,0,46.7,30.07,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,05:30,39.4,34.1,81.3,0.0,E@0.0,1.7,0.0,0,46.7,30.07,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,05:45,39.5,34.4,82.1,0.0,S@0.0,1.4,0.0,0,46.6,30.07,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,06:00,39.7,34.2,80.7,0.0,S@0.1,2.4,0.0,0,46.6,30.07,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,06:15,39.8,34.3,80.7,0.0,N @0.0,0.0,0.0,0,46.6,30.08,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,06:30,39.7,33.8,79.2,0.0,S@0.0,3.1,0.0,0,46.5,30.09,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,06:45,39.5,33.5,78.9,0.0,S@1.2,5.3,0.0,0,46.5,30.09,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,07:00,39.4,33.3,78.5,0.0,S@1.4,6.7,0.0,1,46.5,30.1,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,07:15,39.3,33.3,78.8,0.0,S@1.3,5.7,0.0,4,46.5,30.1,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,07:30,39.4,33.0,77.7,0.0,S@2.2,7.1,0.0,8,46.4,30.11,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,07:45,39.3,33.0,78.0,0.0,S@1.1,7.4,0.0,12,46.4,30.11,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,08:00,39.5,32.8,76.7,0.0,S@3.1,6.4,0.0,18,46.4,30.12,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,08:15,39.6,32.6,75.8,0.0,S@2.1,6.0,0.0,20,46.3,30.13,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,08:30,39.7,32.5,75.3,0.0,S@1.0,4.2,0.0,25,46.3,30.13,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,08:45,39.9,32.2,73.8,0.0,S@1.4,6.0,0.0,30,46.3,30.13,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,09:00,40.0,32.0,72.7,0.0,S@3.4,5.7,0.0,44,46.2,30.13,39.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,09:15,40.4,32.3,72.6,0.0,S@2.4,4.9,0.0,54,46.2,30.14,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,09:30,40.8,32.6,72.5,0.0,S@3.0,5.7,0.0,78,46.2,30.13,40.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,09:45,41.0,32.4,71.3,0.0,S@3.2,6.7,0.0,83,46.2,30.14,40.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,10:00,41.6,33.1,71.8,0.0,S@3.4,7.1,0.0,155,46.1,30.14,41.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,10:15,42.0,32.5,68.7,0.0,S@3.7,6.4,0.0,173,46.1,30.14,41.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,10:30,42.1,32.7,69.2,0.0,S@2.8,5.3,0.0,130,46.1,30.15,41.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,10:45,42.5,32.9,68.6,0.0,S@3.3,6.0,0.0,174,46.0,30.14,42.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,11:00,42.5,32.6,67.6,0.0,S@3.0,4.9,0.0,150,46.0,30.15,42.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,11:15,43.0,32.6,66.4,0.0,S@2.2,4.9,0.0,171,46.0,30.15,42.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,11:30,43.3,33.0,67.0,0.0,S@3.0,6.0,0.0,162,46.0,30.14,43.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,11:45,43.1,32.8,66.8,0.0,SW@2.6,4.9,0.0,149,46.0,30.14,42.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,12:00,43.1,33.1,67.5,0.0,SW@2.5,4.9,0.0,140,46.0,30.14,42.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,12:15,43.3,33.6,68.3,0.0,S@2.8,5.3,0.0,148,45.9,30.14,43.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,12:30,43.3,34.0,69.2,0.0,S@3.4,5.3,0.0,146,45.9,30.13,43.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,12:45,43.2,33.7,68.9,0.0,S@3.5,6.0,0.0,133,45.9,30.12,42.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,13:00,43.3,33.7,68.6,0.0,S@3.3,6.4,0.0,132,45.9,30.12,43.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,13:15,43.4,33.0,66.3,0.0,S@3.1,6.7,0.0,126,45.9,30.13,43.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,13:30,43.8,33.4,66.6,0.0,S@1.6,4.2,0.0,109,45.9,30.12,43.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,13:45,43.5,33.1,66.4,0.0,S@2.6,4.9,0.0,87,46.0,30.12,43.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,14:00,43.4,33.1,66.7,0.0,S@1.7,4.6,0.0,87,46.0,30.12,43.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,14:15,43.9,33.7,66.9,0.0,S@0.7,2.8,0.0,94,46.0,30.12,43.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,14:30,44.0,33.8,66.9,0.0,S@0.6,3.5,0.0,90,46.0,30.12,43.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,14:45,44.1,34.1,67.7,0.0,S@0.9,3.5,0.0,73,46.0,30.12,43.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,15:00,43.9,34.3,68.7,0.0,SE@0.7,3.9,0.0,68,46.1,30.12,43.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,15:15,43.9,34.5,69.2,0.0,SE@0.2,3.1,0.0,51,46.1,30.12,43.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,15:30,43.7,34.5,69.7,0.0,S@0.3,3.1,0.0,36,46.1,30.12,43.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,15:45,42.8,34.5,72.0,0.0,E@0.0,1.4,0.0,23,46.1,30.13,42.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,16:00,41.5,34.3,75.3,0.0,N @0.0,0.0,0.0,18,46.1,30.12,41.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,16:15,40.6,34.7,79.2,0.0,N @0.0,0.0,0.0,12,46.2,30.12,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,16:30,39.5,34.5,82.1,0.0,N @0.0,0.0,0.0,4,46.2,30.12,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,16:45,38.6,34.8,86.0,0.0,N @0.0,0.0,0.01,1,46.2,30.12,38.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,17:00,37.2,34.3,88.9,0.0,N @0.0,0.0,0.09,0,46.3,30.11,36.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,17:15,35.7,33.4,91.4,0.0,N @0.0,0.0,0.16,0,46.3,30.11,35.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,17:30,35.0,33.2,93.3,0.0,NE@0.8,3.1,0.24,0,46.3,30.11,34.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,17:45,34.9,32.7,91.7,0.0,NE@1.8,3.1,0.31,0,46.3,30.12,34.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,18:00,33.7,32.1,93.9,0.0,NE@1.2,3.5,0.37,0,46.3,30.12,33.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,18:15,32.8,31.7,95.7,0.0,NE@0.1,1.7,0.44,0,46.4,30.12,32.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,18:30,32.7,31.9,97.1,0.0,NE@0.4,3.9,0.5,0,46.4,30.12,32.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,18:45,32.8,32.0,96.9,0.0,NE@1.7,3.1,0.55,0,46.4,30.12,32.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,19:00,33.3,32.4,96.6,0.0,NE@2.0,4.2,0.55,0,46.4,30.13,32.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,19:15,33.4,32.4,95.8,0.0,NE@1.8,3.5,0.56,0,46.3,30.13,33.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,19:30,32.6,31.6,96.0,0.0,NE@1.1,2.8,0.58,0,46.3,30.12,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,19:45,32.6,31.8,96.7,0.0,NE@2.3,3.5,0.63,0,46.3,30.12,32.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,20:00,32.6,31.5,95.7,0.0,NE@2.2,3.9,0.65,0,46.3,30.12,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,20:15,32.3,31.4,96.5,0.0,NE@2.2,3.9,0.67,0,46.3,30.12,31.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,20:30,32.2,31.4,97.0,0.0,N @0.0,0.0,0.69,0,46.2,30.12,31.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,20:45,31.9,31.1,97.3,0.0,NE@0.7,3.9,0.71,0,46.2,30.12,31.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,21:00,31.8,31.3,98.2,0.0,NE@3.1,3.9,0.72,0,46.1,30.12,31.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,21:15,31.0,30.3,98.0,0.0,NE@0.8,3.5,0.73,0,46.1,30.12,30.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,21:30,30.9,30.3,98.9,0.0,NE@1.4,3.5,0.75,0,46.1,30.12,30.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,21:45,30.6,30.2,99.5,0.0,NE@2.3,4.2,0.76,0,46.0,30.12,30.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,22:00,30.3,29.8,99.7,0.0,NE@2.5,3.9,0.77,0,46.0,30.11,29.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,22:15,29.9,29.4,99.8,0.0,NE@1.3,4.2,0.78,0,45.9,30.12,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,22:30,30.0,29.5,99.8,0.0,SW@0.0,1.4,0.77,0,45.9,30.12,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,22:45,29.8,29.3,99.8,0.0,NE@1.3,4.2,0.03,0,45.8,30.12,29.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,23:00,29.1,28.5,99.8,0.0,N @0.0,0.0,0.0,0,45.7,30.12,28.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,23:15,29.2,28.6,99.8,0.0,NE@1.4,3.1,0.0,0,45.7,30.11,28.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,23:30,29.4,28.8,99.8,0.0,N @0.1,1.4,0.0,0,45.6,30.12,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,23:45,29.2,28.6,99.8,0.0,NE@0.5,3.5,0.0,0,45.5,30.12,28.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-20,24:00,28.4,27.8,99.8,0.0,NE@0.5,3.1,0.0,0,45.5,30.13,27.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,00:15,28.6,28.0,99.8,0.0,NE@0.6,3.5,0.0,0,45.4,30.13,28.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,00:30,28.8,28.1,99.8,0.0,NE@2.6,3.9,0.0,0,45.4,30.13,28.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,00:45,28.5,27.9,99.8,0.0,NE@0.9,3.1,0.0,0,45.3,30.12,28.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,01:00,28.9,28.2,99.8,0.0,NE@0.7,2.8,0.0,0,45.2,30.12,28.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,01:15,28.5,27.8,99.8,0.0,NE@0.5,2.4,0.0,0,45.2,30.12,27.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,01:30,28.8,28.2,99.8,0.0,NE@0.3,2.1,0.0,0,45.1,30.11,28.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,01:45,29.3,28.8,99.8,0.0,S@0.7,2.1,0.0,0,45.1,30.11,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,02:00,29.9,29.5,99.8,0.0,E@0.0,1.4,0.0,0,45.0,30.11,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,02:15,29.8,29.3,99.8,0.0,E@0.1,2.1,0.0,0,44.9,30.11,29.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,02:30,29.9,29.4,99.8,0.0,E@0.3,2.8,0.0,0,44.9,30.12,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,02:45,30.4,30.0,99.8,0.0,E@0.7,2.8,0.01,0,44.8,30.12,29.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,03:00,31.1,30.8,99.8,0.0,N @0.0,0.0,0.05,0,44.7,30.11,30.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,03:15,31.8,31.7,99.8,0.0,S@0.5,5.3,0.09,0,44.7,30.11,31.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,03:30,32.3,32.3,99.8,0.0,S@0.4,2.4,0.1,0,44.6,30.11,31.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,03:45,31.6,31.3,99.8,0.0,E@0.0,1.4,0.0,0,44.5,30.11,31.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,04:00,30.7,30.3,99.8,0.0,E@0.2,2.1,0.0,0,44.5,30.11,30.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,04:15,30.3,29.9,99.8,0.0,E@0.4,2.1,0.0,0,44.4,30.11,29.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,04:30,30.2,29.8,99.8,0.0,N @0.0,0.0,0.0,0,44.4,30.11,29.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,04:45,30.2,29.8,99.8,0.0,N @0.0,0.0,0.0,0,44.3,30.11,29.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,05:00,30.0,29.5,99.8,0.0,N @0.0,0.0,0.0,0,44.2,30.11,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,05:15,29.9,29.4,99.8,0.0,N @0.0,0.0,0.0,0,44.2,30.11,29.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,05:30,29.4,28.9,99.8,0.0,N @0.0,0.0,0.0,0,44.1,30.11,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,05:45,29.4,28.9,99.8,0.0,N @0.0,0.0,0.0,0,44.1,30.11,28.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,06:00,28.3,27.6,99.8,0.0,N @0.0,1.4,0.0,0,44.0,30.11,27.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,06:15,27.7,27.0,99.9,0.0,NE@0.0,1.4,0.0,0,44.0,30.11,27.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,06:30,27.3,26.5,99.9,0.0,N @0.0,0.0,0.0,0,43.9,30.11,26.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,06:45,27.9,27.1,99.9,0.0,N @0.0,0.0,0.0,0,43.8,30.12,27.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,07:00,28.1,27.4,99.9,0.0,N @0.0,0.0,0.0,2,43.8,30.12,27.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,07:15,28.5,27.9,99.9,0.0,N @0.0,0.0,0.0,5,43.7,30.12,27.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,07:30,29.4,28.8,99.9,0.0,N @0.0,0.0,0.0,15,43.7,30.12,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,07:45,30.4,30.0,99.8,0.0,N @0.0,0.0,0.05,24,43.7,30.12,29.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,08:00,30.8,30.5,99.8,0.0,N @0.0,0.0,0.09,25,43.6,30.12,30.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,08:15,31.2,31.0,99.8,0.0,S@0.4,3.5,0.15,32,43.6,30.12,30.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,08:30,31.3,31.1,99.8,0.0,S@0.5,2.8,0.22,40,43.5,30.12,30.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,08:45,31.3,31.0,99.6,0.0,N @0.0,0.0,0.25,52,43.5,30.12,30.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,09:00,32.0,31.8,99.1,0.0,N @0.0,0.0,0.58,91,43.4,30.12,31.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,09:15,32.2,31.7,97.9,0.0,N @0.0,0.0,0.73,71,43.4,30.13,31.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,09:30,32.2,31.4,96.8,0.0,N @0.0,0.0,0.9,48,43.3,30.13,31.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,09:45,32.4,31.4,96.0,0.0,E@0.0,1.4,0.88,43,43.3,30.13,31.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,10:00,32.6,31.2,94.4,0.0,N @0.0,0.0,0.87,63,43.2,30.13,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,10:15,33.2,31.2,92.6,0.0,NE@0.3,3.5,0.9,91,43.2,30.14,32.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,10:30,33.4,30.7,89.6,0.0,NE@0.6,2.8,0.9,98,43.1,30.13,32.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,10:45,34.4,31.5,89.0,0.0,E@1.2,3.9,0.84,144,43.1,30.13,33.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,11:00,35.2,31.8,87.4,0.0,E@2.6,5.3,0.75,166,43.0,30.12,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,11:15,36.1,32.4,86.2,0.0,E@2.4,3.9,0.72,184,43.0,30.11,35.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,11:30,37.3,33.4,85.5,0.0,S@1.2,4.2,0.7,189,43.0,30.11,36.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,11:45,37.8,33.8,85.4,0.0,SW@2.0,4.2,0.64,198,42.9,30.11,37.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,12:00,37.5,32.9,83.2,0.0,SW@2.8,4.9,0.51,212,42.9,30.11,37.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,12:15,37.5,32.5,82.0,0.0,W@2.1,4.6,0.36,219,42.9,30.11,37.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,12:30,38.0,32.5,80.4,0.0,S@1.8,4.2,0.27,213,42.8,30.11,37.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,12:45,38.1,32.6,80.4,0.0,SW@2.3,5.3,0.21,191,42.8,30.1,37.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,13:00,38.6,32.3,77.9,0.0,SW@2.3,4.6,0.08,188,42.8,30.1,38.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,13:15,38.8,31.8,75.6,0.0,SW@2.0,3.9,0.0,160,42.7,30.1,38.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,13:30,39.0,31.6,74.6,0.0,W@1.9,4.9,0.0,163,42.7,30.1,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,13:45,39.1,31.4,73.8,0.0,N @1.2,3.1,0.0,120,42.7,30.1,38.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,14:00,39.2,32.0,75.1,0.0,NW@1.5,3.5,0.0,117,42.7,30.1,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,14:15,39.4,32.3,75.4,0.0,NE@1.5,3.9,0.0,126,42.7,30.1,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,14:30,40.4,32.7,73.6,0.0,N @0.8,3.9,0.0,236,42.7,30.1,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,14:45,40.8,32.7,72.4,0.0,E@0.6,3.5,0.0,157,42.7,30.1,40.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,15:00,40.4,33.0,74.6,0.0,E@0.7,2.8,0.0,119,42.7,30.1,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,15:15,40.7,33.4,75.1,0.0,S@0.6,2.8,0.0,115,42.7,30.1,40.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,15:30,41.8,33.7,72.7,0.0,S@0.5,3.1,0.0,132,42.7,30.1,41.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,15:45,41.6,33.7,73.5,0.0,S@0.0,1.7,0.0,89,42.7,30.11,41.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,16:00,41.6,33.8,73.7,0.0,N @0.0,0.0,0.0,54,42.7,30.11,41.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,16:15,39.3,33.6,79.9,0.0,N @0.0,0.0,0.0,17,42.8,30.1,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,16:30,37.8,33.7,85.1,0.0,N @0.0,0.0,0.0,6,42.8,30.1,37.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,16:45,36.8,33.6,88.0,0.0,N @0.0,0.0,0.0,1,42.8,30.1,36.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,17:00,35.1,32.9,91.4,0.0,N @0.0,0.0,0.03,0,42.9,30.1,34.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,17:15,34.0,32.7,95.0,0.0,N @0.0,0.0,0.12,0,42.9,30.1,33.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,17:30,33.0,32.1,96.4,0.0,N @0.0,0.0,0.2,0,42.9,30.1,32.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,17:45,31.9,31.1,97.4,0.0,N @0.0,0.0,0.29,0,43.0,30.1,31.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,18:00,31.7,31.3,99.0,0.0,N @0.0,0.0,0.39,0,43.0,30.1,31.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,18:15,31.3,31.0,99.6,0.0,N @0.0,0.0,0.47,0,43.0,30.1,30.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,18:30,31.0,30.6,99.8,0.0,N @0.0,0.0,0.54,0,43.1,30.11,30.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,18:45,30.8,30.5,99.8,0.0,N @0.0,0.0,0.59,0,43.1,30.11,30.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,19:00,31.1,30.8,99.8,0.0,N @0.0,0.0,0.65,0,43.1,30.11,30.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,19:15,31.5,31.3,99.8,0.0,N @0.0,0.0,0.19,0,43.1,30.1,31.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,19:30,31.5,31.3,99.8,0.0,N @2.0,3.9,0.03,0,43.1,30.1,31.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,19:45,31.5,31.2,99.7,0.0,NE@0.9,3.5,0.03,0,43.1,30.11,31.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,20:00,30.6,30.3,99.8,0.0,NE@0.4,3.1,0.0,0,43.1,30.11,30.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,20:15,30.6,30.2,99.8,0.0,N @0.0,0.0,0.0,0,43.1,30.11,30.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,20:30,29.4,28.9,99.8,0.0,N @0.0,0.0,0.0,0,43.1,30.12,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,20:45,29.3,28.8,99.8,0.0,N @0.0,0.0,0.0,0,43.1,30.12,28.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,21:00,28.9,28.3,99.8,0.0,N @0.0,0.0,0.0,0,43.1,30.13,28.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,21:15,28.8,28.2,99.8,0.0,N @0.0,0.0,0.0,0,43.0,30.14,28.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,21:30,29.0,28.4,99.8,0.0,N @0.0,0.0,0.0,0,43.0,30.14,28.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,21:45,29.8,29.4,99.8,0.0,N @0.0,0.0,0.0,0,43.0,30.15,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,22:00,29.3,28.7,99.8,0.0,N @0.0,0.0,0.0,0,43.0,30.15,28.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,22:15,28.9,28.3,99.8,0.0,N @0.0,0.0,0.0,0,42.9,30.15,28.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,22:30,28.7,28.0,99.8,0.0,N @0.0,0.0,0.0,0,42.9,30.16,28.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,22:45,28.6,27.9,99.8,0.0,N @0.0,0.0,0.0,0,42.9,30.16,28.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,23:00,28.6,28.0,99.8,0.0,N @0.0,0.0,0.0,0,42.8,30.16,28.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,23:15,28.9,28.3,99.8,0.0,N @0.0,0.0,0.0,0,42.8,30.17,28.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,23:30,29.4,28.8,99.8,0.0,N @0.0,0.0,0.0,0,42.8,30.17,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,23:45,29.3,28.7,99.8,0.0,N @0.0,0.0,0.0,0,42.8,30.17,28.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-21,24:00,28.5,27.9,99.8,0.0,N @0.0,0.0,0.0,0,42.7,30.17,28.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,00:15,27.8,27.1,99.8,0.0,N @0.0,0.0,0.0,0,42.7,30.18,27.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,00:30,27.4,26.6,99.9,0.0,N @0.0,0.0,0.0,0,42.6,30.18,26.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,00:45,27.4,26.6,99.9,0.0,N @0.0,0.0,0.0,0,42.6,30.18,26.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,01:00,27.4,26.6,99.9,0.0,NE@0.2,2.8,0.0,0,42.6,30.19,26.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,01:15,27.7,26.9,99.9,0.0,N @0.0,0.0,0.0,0,42.5,30.19,27.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,01:30,27.2,26.4,99.9,0.0,N @0.0,0.0,0.0,0,42.5,30.19,26.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,01:45,27.1,26.3,99.9,0.0,N @0.0,0.0,0.0,0,42.5,30.2,26.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,02:00,26.9,26.0,99.9,0.0,N @0.0,0.0,0.0,0,42.4,30.21,26.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,02:15,26.6,25.7,99.9,0.0,NE@0.0,1.4,0.0,0,42.4,30.21,26.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,02:30,26.2,25.2,99.9,0.0,NE@0.0,1.4,0.0,0,42.4,30.21,25.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,02:45,26.6,25.6,99.9,0.0,NE@0.0,1.4,0.0,0,42.3,30.21,25.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,03:00,26.2,25.2,99.9,0.0,N @0.0,0.0,0.0,0,42.3,30.21,25.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,03:15,26.4,25.4,99.9,0.0,N @0.0,0.0,0.0,0,42.2,30.21,25.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,03:30,26.4,25.5,99.9,0.0,N @0.0,0.0,0.0,0,42.2,30.21,25.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,03:45,25.8,24.8,99.9,0.0,N @0.0,0.0,0.0,0,42.2,30.21,25.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,04:00,26.4,25.4,99.9,0.0,NE@0.4,3.1,0.0,0,42.1,30.21,25.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,04:15,26.1,25.1,99.9,0.0,N @0.0,0.0,0.0,0,42.1,30.21,25.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,04:30,26.2,25.2,99.9,0.0,N @0.0,0.0,0.0,0,42.1,30.21,25.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,04:45,26.0,25.0,99.9,0.0,N @0.0,0.0,0.0,0,42.0,30.22,25.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,05:00,25.5,24.5,99.7,0.0,N @0.0,0.0,0.0,0,42.0,30.21,25.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,05:15,25.8,24.8,99.9,0.0,N @0.0,0.0,0.0,0,42.0,30.22,25.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,05:30,26.0,25.0,99.9,0.0,N @0.0,0.0,0.0,0,42.0,30.23,25.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,05:45,25.5,24.5,99.9,0.0,N @0.0,0.0,0.0,0,41.9,30.23,24.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,06:00,25.1,23.9,99.9,0.0,N @0.0,0.0,0.0,0,41.9,30.23,24.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,06:15,25.3,24.2,99.9,0.0,N @0.0,0.0,0.0,0,41.9,30.24,24.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,06:30,25.1,24.0,99.9,0.0,N @0.0,0.0,0.0,0,41.8,30.25,24.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,06:45,25.2,24.1,99.9,0.0,N @0.0,0.0,0.0,0,41.8,30.26,24.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,07:00,26.3,25.3,99.9,0.0,NE@1.9,3.5,0.0,2,41.8,30.27,25.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,07:15,24.8,23.6,99.3,0.0,NE@1.0,2.4,0.0,6,41.7,30.27,24.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,07:30,26.2,25.3,99.9,0.0,E@0.5,2.4,0.0,12,41.7,30.28,25.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,07:45,26.6,25.7,99.9,0.0,NE@0.2,2.1,0.0,21,41.7,30.28,26.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,08:00,27.6,26.8,99.9,0.0,N @0.0,0.0,0.0,39,41.6,30.28,26.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,08:15,29.6,29.1,99.8,0.0,SW@0.8,2.8,0.0,101,41.6,30.29,28.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,08:30,30.2,29.4,98.1,0.0,SW@2.1,4.2,0.0,108,41.6,30.3,29.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,08:45,30.5,29.3,96.6,0.0,SW@2.0,3.5,0.0,111,41.6,30.3,29.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,09:00,31.3,29.9,95.4,0.0,S@0.4,2.4,0.52,125,41.5,30.3,30.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,09:15,31.6,30.2,95.3,0.0,N @0.0,0.0,0.92,62,41.5,30.3,31.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,09:30,32.9,31.6,94.7,0.0,E@0.6,3.1,0.89,115,41.5,30.31,32.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,09:45,34.5,32.6,92.5,0.0,SE@0.5,2.8,0.87,198,41.5,30.3,33.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,10:00,34.9,32.5,90.8,0.0,S@1.5,3.9,0.95,165,41.4,30.31,34.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,10:15,35.5,33.2,91.5,0.0,S@1.7,4.6,0.99,209,41.4,30.31,34.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,10:30,37.1,33.5,86.8,0.0,S@1.8,4.9,0.9,280,41.4,30.3,36.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,10:45,37.9,33.5,84.0,0.0,S@2.4,4.9,0.73,364,41.3,30.31,37.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,11:00,38.5,33.6,82.2,0.0,W@3.2,5.3,0.66,377,41.3,30.31,37.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,11:15,38.6,33.6,82.3,0.0,W@3.2,5.7,0.64,384,41.3,30.3,38.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,11:30,38.1,33.8,84.4,0.0,W@2.8,4.9,0.62,389,41.3,30.3,37.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,11:45,39.0,33.6,80.9,0.0,W@3.0,5.7,0.54,394,41.3,30.31,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,12:00,39.5,33.7,79.8,0.0,W@2.9,5.3,0.43,391,41.2,30.31,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,12:15,38.8,34.0,82.8,0.0,W@3.3,5.3,0.32,384,41.2,30.31,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,12:30,38.3,33.9,83.8,0.0,W@3.2,4.9,0.24,378,41.2,30.31,38.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,12:45,38.6,33.5,81.7,0.0,NW@3.0,4.9,0.2,367,41.2,30.32,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,13:00,39.0,33.5,80.7,0.0,W@2.5,5.3,0.16,354,41.1,30.32,38.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,13:15,39.3,33.4,79.0,0.0,W@2.4,4.2,0.13,337,41.1,30.33,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,13:30,39.0,33.1,79.0,0.0,W@2.6,4.6,0.04,316,41.1,30.33,38.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,13:45,39.9,33.2,76.6,0.0,SW@1.0,4.2,0.0,295,41.1,30.32,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,14:00,40.6,33.2,74.5,0.0,SW@1.8,4.6,0.0,272,41.0,30.32,40.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,14:15,37.9,32.0,79.0,0.0,S@3.0,6.4,0.0,221,41.0,30.32,37.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,14:30,32.3,30.9,94.7,0.0,S@3.0,6.0,0.0,102,41.0,30.31,31.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,14:45,31.3,31.0,99.6,0.0,S@2.0,4.9,0.0,86,41.0,30.3,30.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,15:00,31.2,30.9,99.8,0.0,S@0.6,3.1,0.0,71,41.0,30.29,30.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,15:15,31.4,31.2,99.8,0.0,N @0.0,0.0,0.0,56,41.0,30.29,30.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,15:30,31.5,31.2,99.8,0.0,N @0.0,1.7,0.04,40,41.0,30.29,30.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,15:45,31.5,31.3,99.8,0.0,N@1.5,3.9,0.12,28,41.0,30.29,31.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,16:00,31.6,31.4,99.8,0.0,N@3.8,5.7,0.17,16,41.0,30.29,31.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,16:15,30.8,30.5,99.8,0.0,N@4.0,6.7,0.09,7,41.0,30.29,30.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,16:30,30.2,29.8,99.8,0.0,N @4.3,6.7,0.04,2,41.0,30.3,29.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,16:45,30.3,30.0,99.8,0.0,N@3.5,6.7,0.04,1,41.0,30.31,29.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,17:00,30.5,30.1,99.9,0.0,N@2.5,4.2,0.02,0,41.0,30.32,30.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,17:15,30.2,29.7,99.9,0.0,NW@1.0,3.9,0.0,0,41.1,30.34,29.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,17:30,29.9,29.5,99.9,0.0,SW@1.9,3.9,0.0,0,41.1,30.36,29.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,17:45,29.6,29.2,99.9,0.0,S@1.0,3.1,0.0,0,41.1,30.37,29.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,18:00,29.8,29.4,99.9,0.0,S@1.7,4.6,0.0,0,41.1,30.36,29.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,18:15,30.0,29.5,99.9,0.0,S@0.3,4.2,0.0,0,41.1,30.35,29.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,18:30,29.9,29.5,99.9,0.0,S@1.7,5.3,0.0,0,41.1,30.33,29.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,18:45,29.7,29.2,99.9,0.0,SE@1.6,3.5,0.0,0,41.1,30.32,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,19:00,29.5,29.0,99.9,0.0,S@1.5,4.2,0.0,0,41.2,30.32,29.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,19:15,29.5,28.9,99.9,0.0,SE@0.4,3.1,0.0,0,41.2,30.31,29.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,19:30,29.3,28.8,99.9,0.0,N@1.2,3.9,0.0,0,41.2,30.31,28.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,19:45,29.0,28.4,99.9,0.0,N @2.2,4.9,0.0,0,41.2,30.31,28.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,20:00,28.4,27.7,99.9,0.0,N @3.4,5.7,0.0,0,41.2,30.31,28.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,20:15,28.1,27.4,99.9,0.0,N @4.0,6.0,0.0,0,41.2,30.31,27.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,20:30,28.4,27.8,99.9,0.0,N @4.5,8.2,0.0,0,41.2,30.32,27.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,20:45,28.4,27.7,99.9,0.0,N @4.0,6.4,0.0,0,41.2,30.32,28.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,21:00,28.1,27.4,99.9,0.0,NE@2.1,3.9,0.0,0,41.2,30.33,27.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,21:15,27.5,26.7,99.9,0.0,SW@1.3,3.1,0.0,0,41.2,30.34,27.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,21:30,27.6,26.8,99.9,0.0,S@2.2,3.9,0.0,0,41.2,30.36,27.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,21:45,28.0,27.3,99.9,0.0,S@1.9,3.9,0.0,0,41.2,30.36,27.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,22:00,28.3,27.7,99.9,0.0,S@2.0,4.9,0.0,0,41.1,30.35,27.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,22:15,28.7,28.1,99.9,0.0,S@1.1,6.4,0.0,0,41.1,30.35,28.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,22:30,28.6,28.0,99.9,0.0,S@1.5,4.2,0.0,0,41.1,30.34,28.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,22:45,28.3,27.6,99.9,0.0,S@2.3,4.9,0.0,0,41.1,30.34,27.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,23:00,28.1,27.3,99.9,0.0,S@1.0,4.6,0.0,0,41.1,30.33,27.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,23:15,27.8,27.0,99.9,0.0,N @0.0,0.0,0.0,0,41.1,30.33,27.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,23:30,27.6,26.8,99.9,0.0,NW@0.2,3.1,0.0,0,41.1,30.34,27.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,23:45,27.8,27.0,99.9,0.0,NW@1.5,3.9,0.0,0,41.1,30.34,27.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-22,24:00,27.7,27.0,99.9,0.0,NW@2.5,5.3,0.0,0,41.0,30.35,27.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,00:15,27.8,27.1,99.9,0.0,N@3.4,5.7,0.0,0,41.0,30.34,27.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,00:30,27.8,27.1,99.9,0.0,N@2.1,4.6,0.0,0,41.0,30.35,27.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,00:45,28.0,27.3,99.9,0.0,N @0.1,2.1,0.0,0,41.0,30.35,27.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,01:00,28.0,27.2,99.9,0.0,N @0.0,0.0,0.0,0,41.0,30.35,27.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,01:15,27.9,27.2,99.9,0.0,N @0.0,0.0,0.0,0,41.0,30.35,27.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,01:30,27.9,27.2,99.9,0.0,SE@0.1,1.7,0.0,0,41.0,30.35,27.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,01:45,27.7,27.0,99.9,0.0,SW@0.0,1.4,0.0,0,40.9,30.34,27.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,02:00,27.6,26.8,99.9,0.0,S@1.4,4.9,0.0,0,40.9,30.34,27.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,02:15,27.5,26.7,99.9,0.0,S@2.4,4.9,0.0,0,40.9,30.34,27.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,02:30,27.6,26.8,99.9,0.0,S@0.1,2.1,0.0,0,40.9,30.33,27.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,02:45,27.4,26.6,99.9,0.0,N @0.0,0.0,0.0,0,40.9,30.32,26.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,03:00,27.1,26.3,99.9,0.0,N@1.3,3.9,0.0,0,40.9,30.32,26.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,03:15,26.8,25.9,99.9,0.0,N@2.3,4.9,0.0,0,40.8,30.31,26.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,03:30,26.6,25.7,99.9,0.0,N@3.5,5.7,0.0,0,40.8,30.32,26.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,03:45,26.5,25.6,99.9,0.0,N @3.5,6.0,0.0,0,40.8,30.32,26.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,04:00,26.5,25.6,99.9,0.0,NE@0.3,3.1,0.0,0,40.8,30.31,26.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,04:15,26.6,25.7,99.9,0.0,SW@0.6,3.1,0.0,0,40.8,30.32,26.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,04:30,26.8,25.9,99.9,0.0,N @0.0,0.0,0.0,0,40.8,30.33,26.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,04:45,26.9,26.0,99.9,0.0,N @0.0,0.0,0.0,0,40.8,30.33,26.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,05:00,26.9,26.1,99.9,0.0,SW@0.0,1.4,0.0,0,40.7,30.33,26.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,05:15,26.9,26.0,99.9,0.0,N @0.0,0.0,0.0,0,40.7,30.33,26.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,05:30,27.0,26.1,99.9,0.0,N @0.0,0.0,0.0,0,40.7,30.35,26.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,05:45,27.4,26.6,99.9,0.0,N @0.0,0.0,0.0,0,40.7,30.36,26.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,06:00,27.4,26.6,99.9,0.0,S@0.0,1.4,0.0,0,40.7,30.36,26.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,06:15,27.3,26.5,99.9,0.0,N @0.0,0.0,0.0,0,40.7,30.36,26.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,06:30,27.1,26.3,99.9,0.0,S@0.6,3.5,0.0,0,40.6,30.34,26.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,06:45,26.8,25.9,99.9,0.0,SW@1.4,5.3,0.0,0,40.6,30.32,26.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,07:00,26.4,25.5,99.9,0.0,SW@1.8,3.9,0.0,1,40.6,30.32,26.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,07:15,26.3,25.3,99.9,0.0,E@0.1,2.1,0.0,3,40.6,30.32,25.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,07:30,26.0,25.0,99.9,0.0,N @1.6,3.9,0.0,6,40.6,30.32,25.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,07:45,25.9,24.9,99.9,0.0,N @3.9,6.0,0.0,24,40.6,30.33,25.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,08:00,26.1,25.1,99.9,0.0,N @3.0,5.7,0.0,40,40.6,30.33,25.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,08:15,28.1,27.4,99.9,0.0,N @0.6,3.9,0.0,116,40.5,30.34,27.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,08:30,29.0,28.5,99.9,0.0,SW@0.4,3.1,0.0,129,40.5,30.34,28.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,08:45,29.0,28.4,99.9,0.0,SW@2.5,5.3,0.0,142,40.5,30.34,28.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,09:00,29.0,28.4,99.9,0.0,W@0.6,3.1,0.0,184,40.5,30.35,28.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,09:15,29.4,28.9,99.9,0.0,S@0.0,1.7,0.34,202,40.5,30.34,28.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,09:30,29.8,29.3,99.9,0.0,N @0.0,0.0,0.18,127,40.5,30.33,29.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,09:45,30.1,29.7,99.9,0.0,NW@0.3,3.5,0.13,114,40.5,30.32,29.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,10:00,29.5,29.0,99.9,0.0,W@1.3,4.9,0.11,153,40.4,30.32,29.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,10:15,30.3,29.9,99.9,0.0,S@2.7,4.6,0.22,206,40.4,30.32,29.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,10:30,30.1,29.7,99.9,0.0,S@2.7,6.4,0.28,169,40.4,30.33,29.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,10:45,30.0,29.5,99.9,0.0,S@2.5,5.7,0.24,190,40.4,30.31,29.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,11:00,30.5,30.1,99.9,0.0,W@0.6,3.5,0.42,242,40.4,30.3,29.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,11:15,30.9,30.6,99.8,0.0,NW@3.1,6.4,0.69,202,40.4,30.3,30.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,11:30,30.7,30.4,99.8,0.0,N@4.4,7.8,0.64,180,40.4,30.3,30.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,11:45,31.2,30.9,99.8,0.0,N@3.3,6.7,0.71,228,40.4,30.31,30.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,12:00,32.1,32.1,99.8,0.0,NE@0.6,3.5,0.87,276,40.3,30.3,31.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,12:15,33.9,33.9,99.8,0.0,S@2.1,4.2,0.79,342,40.3,30.28,33.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,12:30,33.7,33.6,99.8,0.0,SW@1.9,4.6,0.69,208,40.3,30.28,33.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,12:45,33.2,33.2,99.8,0.0,SW@0.2,3.5,0.66,220,40.3,30.28,32.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,13:00,33.6,33.6,99.8,0.0,N @0.0,0.0,0.68,209,40.3,30.28,33.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,13:15,34.0,33.9,99.8,0.0,N @0.0,0.0,0.7,163,40.3,30.28,33.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,13:30,34.4,34.4,99.8,0.0,E@0.2,3.1,0.7,144,40.3,30.28,34.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,13:45,34.7,34.7,99.8,0.0,N @0.0,0.0,0.71,126,40.3,30.28,34.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,14:00,35.0,35.0,99.8,0.0,E@0.1,3.5,0.71,116,40.4,30.27,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,14:15,35.3,35.2,99.8,0.0,W@0.0,1.4,0.7,132,40.4,30.26,34.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,14:30,35.4,35.4,99.8,0.0,N @0.0,0.0,0.68,95,40.4,30.24,35.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,14:45,35.3,35.2,99.8,0.0,N @0.0,0.0,0.67,88,40.4,30.25,35.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,15:00,35.6,35.6,99.8,0.0,E@0.1,3.1,0.66,79,40.4,30.24,35.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,15:15,36.6,36.5,99.8,0.0,N @0.0,0.0,0.66,78,40.5,30.23,36.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,15:30,38.2,38.1,99.7,0.0,W@0.0,1.4,0.65,86,40.5,30.23,38.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,15:45,37.4,37.4,99.8,0.0,SW@0.2,3.5,0.62,39,40.5,30.24,37.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,16:00,35.7,35.7,99.8,0.0,N @0.0,0.0,0.62,16,40.6,30.24,35.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,16:15,35.4,35.4,99.8,0.0,NE@0.0,1.7,0.65,8,40.6,30.23,35.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,16:30,35.0,35.0,99.8,0.0,N @0.0,0.0,0.67,3,40.7,30.23,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,16:45,35.7,35.6,99.8,0.0,N @0.0,0.0,0.69,0,40.7,30.23,35.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,17:00,36.5,36.5,99.8,0.0,SW@0.5,4.2,0.72,0,40.7,30.23,36.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,17:15,35.1,35.1,99.8,0.0,W@0.0,1.4,0.73,0,40.8,30.23,34.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,17:30,33.7,33.6,99.8,0.0,N @0.0,0.0,0.75,0,40.8,30.23,33.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,17:45,33.8,33.7,99.8,0.0,N @0.0,2.1,0.77,0,40.9,30.23,33.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,18:00,33.0,33.0,99.8,0.0,N @0.0,0.0,0.78,0,40.9,30.23,32.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,18:15,32.2,32.1,99.8,0.0,SE@0.6,5.7,0.79,0,40.9,30.22,31.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,18:30,31.5,31.3,99.9,0.0,E@0.7,5.3,0.79,0,41.0,30.22,31.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,18:45,31.2,30.9,99.9,0.0,E@2.4,5.3,0.22,0,41.0,30.21,30.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,19:00,31.4,31.1,99.9,0.0,NE@1.5,5.3,0.09,0,41.0,30.2,30.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,19:15,31.3,31.1,99.9,0.0,NE@1.6,4.2,0.09,0,41.0,30.2,30.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,19:30,31.0,30.7,99.9,0.0,NE@0.9,4.2,0.07,0,41.0,30.2,30.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,19:45,31.2,31.0,99.9,0.0,NE@0.7,3.5,0.07,0,41.0,30.2,30.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,20:00,34.6,34.6,99.8,0.0,E@0.7,2.8,0.41,0,41.0,30.19,34.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,20:15,39.3,39.2,99.8,0.0,SE@0.7,3.9,0.82,0,41.1,30.19,39.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,20:30,41.2,41.1,99.7,0.0,SE@0.3,5.3,0.77,0,41.1,30.19,42.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,20:45,42.0,41.9,99.7,0.0,SE@0.0,1.4,0.73,0,41.1,30.19,43.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,21:00,44.0,41.0,89.2,0.0,SE@0.3,6.4,0.62,0,41.1,30.19,44.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,21:15,45.9,33.9,62.5,0.0,S@1.4,5.3,0.4,0,41.0,30.2,45.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,21:30,46.4,33.2,59.8,0.0,S@1.5,5.7,0.05,0,41.0,30.2,45.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,21:45,46.7,32.5,57.4,0.0,S@1.8,5.7,0.0,0,41.0,30.21,46.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,22:00,46.0,32.6,59.2,0.0,SE@0.3,2.8,0.0,0,41.0,30.21,45.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,22:15,46.2,32.7,59.1,0.0,S@1.8,5.7,0.0,0,41.0,30.2,45.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,22:30,45.3,33.2,62.2,0.0,SE@2.0,3.9,0.0,0,41.0,30.19,44.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,22:45,42.6,33.6,70.0,0.0,SE@0.5,3.1,0.0,0,41.0,30.18,42.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,23:00,44.4,33.4,65.1,0.0,SE@1.7,4.6,0.0,0,41.0,30.17,43.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,23:15,45.0,33.9,64.9,0.0,SE@1.1,5.7,0.0,0,40.9,30.17,44.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,23:30,46.1,33.5,61.3,0.0,S@2.6,4.9,0.0,0,40.9,30.17,45.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,23:45,46.9,32.5,57.0,0.0,S@3.0,4.9,0.0,0,40.9,30.18,46.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-23,24:00,46.8,32.4,57.1,0.0,S@1.2,3.9,0.0,0,40.9,30.18,46.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,00:15,47.4,31.7,54.3,0.0,S@3.3,6.4,0.0,0,40.9,30.18,47.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,00:30,47.7,32.5,55.3,0.0,S@3.3,6.7,0.0,0,40.9,30.18,47.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,00:45,46.6,33.6,60.3,0.0,SE@3.1,7.4,0.0,0,40.9,30.17,46.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,01:00,47.2,33.4,58.5,0.0,SE@4.2,12.1,0.0,0,40.8,30.17,46.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,01:15,48.7,32.1,52.4,0.0,S@5.2,9.6,0.0,0,40.8,30.17,48.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,01:30,48.2,32.2,53.7,0.0,S@4.7,10.7,0.0,0,40.8,30.17,47.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,01:45,48.4,31.6,52.0,0.0,S@5.6,10.3,0.0,0,40.8,30.17,48.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,02:00,48.9,30.8,49.3,0.0,S@6.4,13.2,0.0,0,40.8,30.17,48.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,02:15,49.0,31.1,49.8,0.0,S@6.1,12.4,0.0,0,40.8,30.17,48.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,02:30,48.3,32.0,53.0,0.0,S@5.0,9.9,0.0,0,40.8,30.17,48.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,02:45,47.8,32.6,55.3,0.0,S@4.8,10.3,0.0,0,40.8,30.17,47.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,03:00,47.9,32.6,55.1,0.0,SE@4.5,10.3,0.0,0,40.8,30.16,47.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,03:15,47.8,32.9,56.1,0.0,SE@3.6,7.8,0.0,0,40.8,30.16,47.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,03:30,47.5,32.9,56.8,0.0,S@3.4,8.2,0.0,0,40.8,30.15,47.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,03:45,47.5,32.6,55.9,0.0,SE@3.6,8.5,0.0,0,40.8,30.14,47.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,04:00,49.2,30.5,48.3,0.0,S@5.7,13.2,0.0,0,40.8,30.13,48.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,04:15,49.7,30.3,46.8,0.0,S@5.4,11.7,0.0,0,40.8,30.14,49.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,04:30,50.3,29.7,44.8,0.0,S@5.3,12.4,0.0,0,40.9,30.13,50.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,04:45,50.9,29.5,43.5,0.0,S@6.9,16.4,0.0,0,40.9,30.13,50.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,05:00,51.3,30.8,45.2,0.0,S@6.7,12.8,0.0,0,40.9,30.13,51.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,05:15,51.4,31.5,46.3,0.0,S@7.8,16.7,0.0,0,40.9,30.13,51.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,05:30,51.0,31.4,46.9,0.0,S@6.1,11.0,0.0,0,40.9,30.13,50.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,05:45,50.8,31.6,47.5,0.0,S@5.4,12.8,0.0,0,41.0,30.13,50.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,06:00,50.5,31.5,47.9,0.0,S@4.3,11.4,0.0,0,41.0,30.14,50.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,06:15,50.0,32.1,50.0,0.0,SE@1.7,4.2,0.0,0,41.0,30.15,49.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,06:30,49.6,32.8,52.2,0.0,S@2.5,7.1,0.0,0,41.0,30.16,49.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,06:45,49.5,33.0,52.8,0.0,S@3.3,8.2,0.0,0,41.1,30.16,49.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,07:00,49.2,33.2,53.8,0.0,S@2.3,5.3,0.0,1,41.1,30.16,48.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,07:15,49.3,33.9,55.2,0.0,S@3.3,6.0,0.0,2,41.1,30.17,49.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,07:30,49.6,34.2,55.2,0.0,S@2.6,5.3,0.0,3,41.1,30.17,49.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,07:45,49.3,34.7,57.0,0.0,S@1.2,4.6,0.0,10,41.2,30.18,48.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,08:00,49.2,35.3,58.5,0.0,S@3.2,8.9,0.0,29,41.2,30.18,48.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,08:15,49.5,36.0,59.5,0.0,S@5.1,9.2,0.0,50,41.2,30.19,49.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,08:30,49.3,36.4,61.0,0.0,S@4.4,7.8,0.0,49,41.3,30.19,49.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,08:45,49.1,37.0,62.8,0.0,S@4.1,7.8,0.0,38,41.3,30.2,48.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,09:00,48.9,37.4,64.4,0.0,S@3.9,6.4,0.0,60,41.3,30.21,48.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,09:15,48.6,37.7,65.6,0.0,S@1.1,4.6,0.0,66,41.3,30.22,48.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,09:30,48.8,38.5,67.4,0.0,S@3.4,8.9,0.0,124,41.4,30.22,48.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,09:45,49.1,39.8,70.0,0.0,S@4.8,10.3,0.0,190,41.4,30.22,48.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,10:00,50.0,40.3,69.1,0.0,S@4.4,8.2,0.0,208,41.4,30.23,49.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,10:15,49.9,40.4,69.4,0.0,S@3.3,6.0,0.0,185,41.5,30.23,49.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,10:30,50.3,40.6,69.2,0.0,S@3.2,7.1,0.0,232,41.5,30.23,50.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,10:45,51.0,40.9,67.9,0.0,S@3.7,7.1,0.0,303,41.5,30.23,50.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,11:00,51.6,40.7,66.3,0.0,S@4.2,7.4,0.0,331,41.6,30.22,51.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,11:15,52.2,40.7,64.7,0.0,S@4.2,7.1,0.0,345,41.6,30.22,51.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,11:30,52.5,40.8,64.1,0.0,S@3.3,7.4,0.0,267,41.6,30.21,52.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,11:45,52.5,40.5,63.4,0.0,S@3.5,7.1,0.0,267,41.7,30.21,52.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,12:00,53.3,40.1,60.7,0.0,S@3.8,8.2,0.0,297,41.7,30.2,53.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,12:15,53.3,38.9,57.9,0.0,S@4.2,7.1,0.0,285,41.8,30.19,53.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,12:30,54.7,38.6,54.5,0.0,S@4.1,7.4,0.0,370,41.8,30.19,54.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,12:45,54.4,38.0,53.8,0.0,S@5.7,9.2,0.0,335,41.9,30.18,54.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,13:00,54.5,37.8,53.1,0.0,SW@5.7,9.9,0.0,360,41.9,30.19,54.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,13:15,55.0,36.3,49.1,0.0,SW@5.8,11.0,0.0,341,42.0,30.18,54.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,13:30,55.5,35.7,47.2,0.0,SW@4.1,8.2,0.0,325,42.1,30.18,55.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,13:45,55.7,32.1,40.5,0.0,W@3.9,8.2,0.0,298,42.1,30.18,55.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,14:00,55.2,29.3,36.9,0.0,W@3.3,7.1,0.0,241,42.2,30.17,54.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,14:15,55.5,30.4,38.1,0.0,SW@4.1,7.8,0.0,245,42.3,30.17,55.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,14:30,55.0,30.3,38.5,0.0,SW@5.2,8.5,0.0,215,42.4,30.16,54.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,14:45,54.7,31.4,40.9,0.0,W@3.2,7.8,0.0,136,42.5,30.16,54.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,15:00,52.5,29.4,40.7,0.0,SW@3.4,7.4,0.0,39,42.5,30.16,52.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,15:15,51.2,26.7,38.3,0.0,SW@2.3,7.8,0.0,22,42.6,30.17,51.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,15:30,50.2,27.8,41.8,0.0,SW@3.1,6.4,0.0,26,42.7,30.17,49.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,15:45,50.1,29.2,44.3,0.0,SW@3.5,6.0,0.0,21,42.8,30.16,49.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,16:00,49.3,29.6,46.2,0.0,S@1.5,4.2,0.0,14,42.9,30.16,49.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,16:15,47.8,31.0,51.8,0.0,N @0.0,0.0,0.0,4,43.0,30.15,47.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,16:30,46.2,31.7,56.8,0.0,N @0.0,0.0,0.0,2,43.1,30.14,45.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,16:45,44.7,31.8,60.3,0.0,N @0.0,0.0,0.0,0,43.1,30.14,44.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,17:00,44.2,31.5,60.7,0.0,SE@0.3,2.1,0.0,0,43.2,30.14,43.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,17:15,43.9,31.9,62.6,0.0,SE@0.0,1.4,0.0,0,43.3,30.13,43.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,17:30,43.0,32.5,66.0,0.0,S@0.1,1.7,0.0,0,43.3,30.13,42.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,17:45,42.0,32.8,69.5,0.0,E@0.1,2.1,0.0,0,43.4,30.14,41.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,18:00,41.7,32.9,70.6,0.0,SW@0.1,1.7,0.0,0,43.5,30.14,41.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,18:15,41.8,32.7,69.7,0.0,S@1.1,4.9,0.0,0,43.5,30.14,41.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,18:30,41.9,32.8,69.9,0.0,SE@0.4,2.4,0.0,0,43.6,30.14,41.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,18:45,40.3,32.6,73.7,0.0,SE@0.2,2.4,0.0,0,43.6,30.14,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,19:00,40.3,33.0,74.8,0.0,SE@0.7,2.8,0.0,0,43.6,30.14,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,19:15,40.6,33.3,74.9,0.0,SE@0.7,3.5,0.0,0,43.6,30.14,40.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,19:30,41.2,33.3,73.2,0.0,SE@1.4,5.3,0.0,0,43.7,30.14,40.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,19:45,41.3,32.8,71.5,0.0,SE@2.2,4.2,0.0,0,43.7,30.14,40.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,20:00,40.1,32.4,73.8,0.0,SE@0.8,4.2,0.0,0,43.7,30.13,39.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,20:15,39.5,32.1,74.6,0.0,SE@0.9,3.9,0.0,0,43.7,30.13,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,20:30,40.0,32.1,73.1,0.0,SE@3.1,5.3,0.0,0,43.7,30.13,39.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,20:45,39.5,31.7,73.2,0.0,SE@2.4,7.4,0.0,0,43.7,30.13,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,21:00,39.7,31.8,73.1,0.0,SE@3.1,6.7,0.0,0,43.6,30.13,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,21:15,39.4,31.6,73.3,0.0,S@3.0,7.1,0.0,0,43.6,30.13,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,21:30,38.7,31.5,75.3,0.0,SE@1.8,4.2,0.0,0,43.6,30.13,38.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,21:45,38.6,31.4,75.2,0.0,SE@1.0,3.1,0.0,0,43.6,30.12,38.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,22:00,39.1,31.3,73.3,0.0,SE@1.7,6.4,0.0,0,43.6,30.13,38.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,22:15,39.0,31.3,73.5,0.0,SE@2.0,4.6,0.0,0,43.5,30.12,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,22:30,39.4,31.3,72.4,0.0,S@3.7,7.8,0.0,0,43.5,30.11,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,22:45,39.2,31.2,72.8,0.0,SE@2.9,6.4,0.0,0,43.5,30.11,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,23:00,39.1,31.2,72.9,0.0,SE@3.2,7.4,0.0,0,43.4,30.11,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,23:15,39.2,31.2,72.8,0.0,SE@3.1,6.0,0.0,0,43.4,30.11,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,23:30,38.7,31.4,74.9,0.0,SE@2.2,8.5,0.0,0,43.4,30.11,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,23:45,38.3,31.5,76.1,0.0,SE@2.1,4.9,0.0,0,43.3,30.1,37.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-24,24:00,38.0,31.7,77.7,0.0,SE@1.5,5.7,0.0,0,43.3,30.1,37.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,00:15,38.6,31.9,76.4,0.0,SE@1.6,4.2,0.0,0,43.3,30.09,38.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,00:30,38.9,31.9,75.8,0.0,SE@0.7,2.8,0.0,0,43.2,30.09,38.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,00:45,39.3,32.1,75.0,0.0,SE@1.6,5.7,0.0,0,43.2,30.09,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,01:00,39.6,32.0,74.0,0.0,SE@2.6,6.4,0.0,0,43.1,30.08,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,01:15,39.9,32.1,73.5,0.0,SE@2.4,5.7,0.0,0,43.1,30.08,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,01:30,40.2,31.8,71.8,0.0,S@3.2,5.3,0.0,0,43.1,30.08,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,01:45,40.1,31.7,71.6,0.0,S@3.6,7.1,0.0,0,43.0,30.08,39.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,02:00,39.8,31.7,72.4,0.0,SE@2.9,5.3,0.0,0,43.0,30.08,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,02:15,40.1,31.9,72.1,0.0,S@3.3,5.7,0.0,0,43.0,30.08,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,02:30,40.1,32.3,73.6,0.0,SE@2.7,6.0,0.0,0,42.9,30.08,39.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,02:45,39.9,32.7,75.2,0.0,SE@2.2,5.3,0.0,0,42.9,30.08,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,03:00,40.0,32.6,74.8,0.0,SE@2.4,5.7,0.0,0,42.9,30.07,39.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,03:15,40.1,32.6,74.4,0.0,SE@2.2,6.7,0.0,0,42.8,30.07,39.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,03:30,39.8,32.8,76.0,0.0,SE@1.9,4.9,0.0,0,42.8,30.07,39.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,03:45,39.9,32.9,76.0,0.0,SE@2.9,7.1,0.0,0,42.8,30.06,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,04:00,39.6,33.1,77.2,0.0,SE@2.0,4.6,0.0,0,42.7,30.06,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,04:15,39.5,33.1,77.6,0.0,SE@2.0,4.9,0.0,0,42.7,30.06,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,04:30,39.6,33.2,77.6,0.0,SE@2.5,6.0,0.0,0,42.7,30.06,39.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,04:45,39.2,33.2,78.7,0.0,SE@1.7,4.9,0.0,0,42.6,30.05,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,05:00,38.8,33.2,80.1,0.0,SE@0.5,3.5,0.0,0,42.6,30.05,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,05:15,38.6,33.5,81.7,0.0,SE@2.0,4.9,0.0,0,42.6,30.05,38.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,05:30,38.7,33.6,81.8,0.0,SE@2.3,4.2,0.0,0,42.5,30.04,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,05:45,38.8,33.7,81.6,0.0,SE@1.1,3.5,0.0,0,42.5,30.04,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,06:00,38.9,33.7,81.3,0.0,SE@0.9,4.6,0.0,0,42.5,30.04,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,06:15,39.2,33.8,81.0,0.0,SE@1.1,5.7,0.0,0,42.5,30.04,38.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,06:30,39.9,33.9,79.1,0.0,SE@3.0,6.0,0.0,0,42.5,30.04,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,06:45,40.2,33.8,77.6,0.0,S@3.4,9.6,0.0,0,42.4,30.04,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,07:00,40.4,33.7,76.7,0.0,S@2.8,6.7,0.0,1,42.4,30.05,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,07:15,40.2,34.1,78.6,0.0,S@3.2,8.9,0.0,2,42.4,30.05,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,07:30,40.1,34.9,81.5,0.0,S@3.0,8.9,0.0,7,42.4,30.05,39.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,07:45,40.1,35.3,83.0,0.0,SE@0.9,3.5,0.0,10,42.4,30.05,39.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,08:00,40.1,35.7,84.2,0.0,SE@0.2,2.4,0.0,29,42.3,30.05,39.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,08:15,40.2,36.0,84.5,0.0,S@0.3,3.1,0.0,55,42.3,30.06,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,08:30,40.2,36.3,85.6,0.0,SE@1.2,4.2,0.14,51,42.3,30.06,39.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,08:45,39.9,37.0,89.4,0.0,SE@0.8,4.6,0.38,33,42.3,30.07,39.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,09:00,39.5,37.7,93.3,0.01,S@2.4,7.4,0.78,20,42.3,30.07,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,09:15,39.5,38.7,97.1,0.0,S@1.4,3.9,0.85,65,42.3,30.07,39.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,09:30,40.0,39.4,97.5,0.0,SE@2.1,4.9,0.85,79,42.2,30.07,39.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,09:45,40.3,39.7,97.9,0.0,SE@0.7,3.9,0.87,89,42.2,30.08,39.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,10:00,40.3,39.8,97.7,0.0,SE@0.8,4.2,0.86,79,42.2,30.07,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,10:15,40.2,39.4,97.2,0.0,SE@1.1,6.7,0.85,93,42.2,30.07,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,10:30,40.4,39.8,97.4,0.0,SE@1.8,3.9,0.81,95,42.2,30.07,40.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,10:45,40.4,39.5,96.4,0.0,S@2.5,4.6,0.81,72,42.2,30.07,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,11:00,40.4,39.3,95.9,0.0,S@2.5,5.7,0.85,102,42.2,30.07,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,11:15,40.4,39.0,94.7,0.0,S@3.4,8.2,0.84,166,42.2,30.06,40.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,11:30,40.7,38.8,92.8,0.0,S@3.3,7.4,0.8,190,42.2,30.06,40.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,11:45,41.4,39.2,91.6,0.0,SE@2.8,5.3,0.73,197,42.2,30.06,41.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,12:00,42.8,39.6,88.3,0.0,S@2.9,7.1,0.57,232,42.2,30.05,42.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,12:15,43.2,39.4,86.2,0.0,S@3.1,6.7,0.22,183,42.2,30.05,42.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,12:30,43.4,39.2,85.1,0.0,S@3.4,7.4,0.01,151,42.2,30.05,43.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,12:45,43.7,38.5,82.0,0.0,S@3.5,7.4,0.0,152,42.2,30.04,43.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,13:00,43.8,38.0,79.8,0.0,S@3.5,6.4,0.0,149,42.2,30.04,43.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,13:15,43.8,37.3,77.7,0.0,S@3.4,6.0,0.0,133,42.2,30.04,43.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,13:30,43.8,37.7,79.1,0.0,S@2.3,5.3,0.06,123,42.2,30.03,43.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,13:45,43.7,38.6,81.9,0.0,S@1.9,5.3,0.1,88,42.3,30.03,43.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,14:00,43.6,38.8,82.9,0.0,SE@0.3,3.5,0.11,48,42.3,30.02,43.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,14:15,43.1,38.9,84.9,0.0,S@0.3,2.4,0.24,16,42.3,30.02,42.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,14:30,42.4,38.7,86.4,0.02,SW@1.5,7.1,0.79,14,42.4,30.02,42.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,14:45,40.9,37.8,88.7,0.0,S@0.6,3.5,0.78,38,42.4,30.02,40.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,15:00,40.3,38.0,91.4,0.01,S@0.0,1.4,0.76,19,42.4,30.01,39.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,15:15,39.4,37.4,92.3,0.01,N @0.0,0.0,0.79,12,42.5,30.01,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,15:30,39.6,35.9,86.6,0.0,SW@2.6,7.4,0.77,8,42.5,30.01,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,15:45,39.2,34.1,81.8,0.0,SW@4.0,8.9,0.63,5,42.6,30.01,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,16:00,38.7,34.2,83.8,0.0,SW@0.9,5.3,0.63,5,42.6,30.01,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,16:15,38.5,34.9,86.7,0.0,E@0.0,1.4,0.64,3,42.6,30.01,38.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,16:30,38.1,35.2,89.3,0.0,E@1.1,3.5,0.64,1,42.7,30.01,37.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,16:45,38.6,34.3,84.4,0.0,NE@2.6,4.9,0.62,0,42.7,30.01,38.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,17:00,38.9,33.6,81.2,0.0,NE@0.8,2.8,0.56,0,42.7,30.01,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,17:15,38.9,33.6,81.2,0.0,N @0.0,0.0,0.53,0,42.8,30.01,38.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,17:30,39.2,33.8,80.5,0.01,N@3.5,9.6,0.54,0,42.8,30.02,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,17:45,39.2,33.5,79.9,0.0,NE@3.2,7.8,0.72,0,42.8,30.02,38.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,18:00,37.8,34.1,86.2,0.0,NE@0.5,2.8,0.75,0,42.8,30.02,37.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,18:15,37.9,34.5,87.2,0.0,N @0.5,2.8,0.8,0,42.9,30.03,37.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,18:30,37.7,34.9,89.3,0.0,S@0.4,2.1,0.79,0,42.9,30.03,37.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,18:45,37.5,34.4,88.4,0.01,NW@2.5,9.6,0.78,0,42.9,30.04,37.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,19:00,35.6,34.4,95.4,0.05,N@4.7,7.8,0.85,0,42.9,30.04,35.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,19:15,35.1,34.7,98.3,0.02,NE@2.1,5.7,0.75,0,42.9,30.03,34.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,19:30,35.2,35.1,99.7,0.0,N @1.4,4.2,0.64,0,42.9,30.03,34.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,19:45,35.0,34.8,99.3,0.01,E@1.6,4.2,0.59,0,42.9,30.03,34.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,20:00,35.1,34.9,99.3,0.0,SE@1.5,4.2,0.6,0,42.9,30.03,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,20:15,35.3,35.0,99.1,0.01,SE@0.2,2.1,0.61,0,42.9,30.03,34.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,20:30,35.8,35.6,99.5,0.0,SW@1.1,4.9,0.62,0,42.9,30.04,35.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,20:45,36.1,35.8,98.8,0.0,SW@1.2,3.5,0.62,0,42.9,30.04,35.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,21:00,36.3,36.1,99.5,0.0,SW@0.5,2.4,0.62,0,42.9,30.04,35.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,21:15,36.4,36.3,99.6,0.0,S@2.7,5.3,0.62,0,42.9,30.04,36.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,21:30,36.5,36.0,98.1,0.0,SW@3.0,5.7,0.62,0,42.8,30.04,36.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,21:45,36.3,35.8,98.1,0.0,S@2.8,6.0,0.62,0,42.8,30.05,35.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,22:00,36.1,35.3,97.0,0.0,SW@3.1,4.9,0.62,0,42.8,30.05,35.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,22:15,35.8,34.5,94.9,0.0,SW@2.7,4.6,0.63,0,42.8,30.05,35.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,22:30,35.6,34.6,96.1,0.0,S@1.5,4.2,0.63,0,42.7,30.05,35.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,22:45,35.6,34.9,97.5,0.0,S@0.2,2.8,0.64,0,42.7,30.05,35.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,23:00,35.2,35.0,99.1,0.0,N @0.0,0.0,0.64,0,42.7,30.04,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,23:15,34.8,34.7,99.7,0.0,N @0.0,0.0,0.65,0,42.6,30.04,34.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,23:30,34.3,34.3,99.7,0.0,SE@0.0,1.4,0.66,0,42.6,30.04,33.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,23:45,34.2,34.1,99.7,0.0,S@0.1,2.4,0.67,0,42.6,30.04,33.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-25,24:00,34.4,33.8,97.9,0.0,S@0.8,6.0,0.68,0,42.6,30.04,33.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,00:15,34.0,32.8,95.3,0.0,S@0.3,3.9,0.68,0,42.5,30.03,33.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,00:30,33.4,32.5,96.6,0.0,SE@0.0,2.4,0.69,0,42.5,30.03,32.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,00:45,33.1,32.4,97.1,0.0,SE@0.4,3.9,0.69,0,42.5,30.03,32.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,01:00,32.7,32.1,97.5,0.0,W@0.0,1.7,0.7,0,42.4,30.03,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,01:15,32.6,31.9,97.4,0.0,SE@0.0,2.1,0.72,0,42.4,30.03,32.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,01:30,32.7,31.9,96.6,0.0,N @0.0,0.0,0.74,0,42.4,30.03,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,01:45,32.7,31.8,96.6,0.0,N @0.0,0.0,0.75,0,42.4,30.03,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,02:00,32.8,31.6,95.2,0.0,N @0.0,0.0,0.76,0,42.3,30.03,32.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,02:15,32.7,31.6,95.6,0.0,N @0.0,0.0,0.77,0,42.3,30.03,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,02:30,33.0,31.7,94.8,0.0,N @0.0,0.0,0.78,0,42.3,30.03,32.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,02:45,32.8,31.5,94.8,0.0,N @0.0,0.0,0.79,0,42.2,30.02,32.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,03:00,33.3,31.4,92.7,0.0,SE@0.5,5.3,0.79,0,42.2,30.02,32.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,03:15,33.3,31.2,91.9,0.0,SE@1.0,3.9,0.79,0,42.2,30.02,32.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,03:30,33.3,30.8,90.4,0.0,SE@1.0,5.7,0.79,0,42.1,30.01,32.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,03:45,33.0,30.7,91.5,0.0,SE@0.5,5.3,0.79,0,42.1,30.01,32.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,04:00,32.7,30.8,92.6,0.0,SE@0.3,3.1,0.8,0,42.1,30.01,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,04:15,32.6,30.7,92.5,0.0,SE@0.5,3.5,0.8,0,42.0,30.0,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,04:30,32.7,30.6,91.8,0.0,SE@0.3,2.8,0.8,0,42.0,30.0,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,04:45,32.9,30.6,91.1,0.0,S@1.6,3.9,0.81,0,42.0,29.99,32.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,05:00,33.7,30.6,88.3,0.0,S@1.8,6.4,0.81,0,41.9,29.99,33.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,05:15,33.2,30.3,88.9,0.0,S@0.9,4.2,0.81,0,41.9,29.98,32.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,05:30,33.0,30.2,89.1,0.0,S@0.7,3.5,0.8,0,41.9,29.98,32.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,05:45,32.9,29.9,88.6,0.0,SE@0.4,3.1,0.8,0,41.8,29.97,32.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,06:00,32.8,29.7,88.2,0.0,SE@0.7,4.6,0.12,0,41.8,29.97,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,06:15,32.7,29.6,88.2,0.0,SE@0.5,4.2,0.0,0,41.7,29.96,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,06:30,32.8,29.6,87.8,0.0,SE@0.9,4.6,0.0,0,41.7,29.96,32.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,06:45,33.3,29.4,85.3,0.0,SE@0.5,3.1,0.0,0,41.6,29.96,32.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,07:00,33.1,29.0,84.8,0.0,S@1.3,4.6,0.0,1,41.6,29.96,32.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,07:15,32.7,29.1,86.7,0.0,S@0.5,3.1,0.0,3,41.6,29.96,32.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,07:30,33.0,29.3,86.3,0.0,N @0.0,0.0,0.0,7,41.5,29.95,32.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,07:45,33.2,29.4,85.9,0.0,N @0.0,0.0,0.05,15,41.5,29.95,32.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,08:00,33.6,30.1,86.8,0.0,N @0.0,0.0,0.09,42,41.5,29.94,32.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,08:15,36.5,30.6,78.9,0.0,SE@0.0,1.7,0.13,109,41.4,29.94,35.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,08:30,38.1,29.5,70.8,0.0,SE@0.2,2.1,0.51,123,41.4,29.94,37.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,08:45,38.8,29.4,68.6,0.0,SE@0.7,2.8,0.74,140,41.3,29.93,38.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,09:00,39.4,29.3,66.8,0.0,SE@1.2,3.9,0.69,157,41.3,29.93,38.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,09:15,39.4,29.0,66.1,0.0,SE@0.3,2.8,0.7,83,41.3,29.92,39.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,09:30,39.9,28.8,64.2,0.0,E@2.1,4.2,0.67,123,41.2,29.92,39.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,09:45,41.6,28.6,59.6,0.0,SE@0.7,3.9,0.62,208,41.2,29.91,41.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,10:00,41.7,27.9,57.6,0.0,SE@1.0,3.5,0.55,179,41.2,29.91,41.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,10:15,42.6,28.3,56.7,0.0,SE@1.5,4.6,0.43,219,41.1,29.9,41.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,10:30,42.6,26.9,53.4,0.0,SE@1.2,3.5,0.13,205,41.1,29.89,42.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,10:45,42.7,26.2,51.7,0.0,SE@1.8,6.0,0.0,288,41.1,29.88,42.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,11:00,43.1,25.9,50.2,0.0,SE@2.5,5.7,0.0,258,41.0,29.88,42.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,11:15,43.7,27.2,52.0,0.0,S@1.9,5.7,0.0,298,41.0,29.87,43.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,11:30,44.5,25.6,47.0,0.0,SE@2.4,5.7,0.0,352,41.0,29.86,44.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,11:45,45.0,24.4,44.0,0.0,SE@2.0,4.6,0.0,355,40.9,29.85,44.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,12:00,45.1,24.3,43.6,0.0,SE@2.8,6.0,0.0,342,40.9,29.85,44.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,12:15,44.6,23.4,42.9,0.0,SE@3.2,7.4,0.0,308,40.9,29.83,44.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,12:30,45.2,23.9,42.7,0.0,SE@1.7,4.2,0.0,294,40.9,29.82,44.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,12:45,45.2,23.3,41.8,0.0,E@2.5,5.3,0.0,305,40.9,29.81,44.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,13:00,44.8,23.8,43.1,0.0,E@1.3,4.9,0.0,277,40.8,29.8,44.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,13:15,45.0,24.2,43.5,0.0,NE@2.5,6.4,0.0,272,40.8,29.79,44.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,13:30,44.2,23.3,43.3,0.0,NE@4.1,6.7,0.0,242,40.8,29.78,43.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,13:45,44.1,24.2,45.2,0.0,NE@3.5,6.7,0.0,219,40.8,29.77,43.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,14:00,43.7,24.7,46.9,0.0,E@3.2,7.4,0.0,162,40.8,29.77,43.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,14:15,43.1,25.1,48.7,0.0,E@2.1,5.3,0.0,140,40.8,29.76,42.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,14:30,42.9,24.5,47.7,0.0,E@2.4,4.9,0.0,130,40.9,29.76,42.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,14:45,42.6,23.4,46.3,0.0,E@2.6,5.7,0.0,112,40.9,29.75,42.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,15:00,42.2,22.4,45.1,0.0,E@2.8,6.0,0.0,96,40.9,29.74,41.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,15:15,41.8,23.2,47.3,0.0,E@0.9,4.2,0.0,78,41.0,29.73,41.4,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,15:30,41.5,23.0,47.5,0.0,N @2.3,5.3,0.0,50,41.0,29.71,41.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,15:45,40.4,26.8,58.2,0.0,N @3.0,5.7,0.0,28,41.0,29.71,39.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,16:00,39.1,26.0,59.0,0.0,NE@2.0,3.9,0.0,14,41.1,29.7,38.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,16:15,38.2,27.1,64.0,0.0,N @3.2,4.9,0.0,5,41.1,29.69,37.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,16:30,37.6,27.2,65.9,0.0,N @2.8,4.2,0.0,1,41.1,29.69,37.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,16:45,35.2,28.0,74.9,0.0,NE@0.1,2.8,0.0,0,41.2,29.69,34.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,17:00,35.1,27.2,72.6,0.0,N @1.9,4.9,0.0,0,41.2,29.68,34.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,17:15,35.6,26.4,68.9,0.0,NE@2.9,6.0,0.0,0,41.3,29.68,35.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,17:30,35.1,26.1,69.6,0.0,NE@3.4,6.4,0.0,0,41.3,29.67,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,17:45,35.1,25.7,68.1,0.0,N @2.6,4.6,0.0,0,41.3,29.66,34.7,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,18:00,35.2,25.1,66.3,0.0,N @2.9,6.4,0.0,0,41.3,29.66,34.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,18:15,35.7,24.9,64.6,0.0,N @2.9,4.9,0.0,0,41.4,29.65,35.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,18:30,35.4,24.8,65.0,0.0,NE@2.0,4.2,0.0,0,41.4,29.65,35.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,18:45,36.0,24.5,62.5,0.0,NE@2.7,4.9,0.0,0,41.4,29.64,35.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,19:00,36.2,24.2,61.3,0.0,NE@3.3,4.9,0.0,0,41.4,29.63,35.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,19:15,36.0,24.3,62.1,0.0,NE@2.4,5.3,0.0,0,41.4,29.62,35.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,19:30,35.6,24.5,63.6,0.0,N @3.6,6.4,0.0,0,41.4,29.61,35.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,19:45,35.6,24.3,63.3,0.0,N @3.5,7.1,0.0,0,41.4,29.6,35.2,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,20:00,36.1,23.7,60.4,0.0,NE@3.5,7.4,0.0,0,41.4,29.59,35.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,20:15,35.6,24.0,62.2,0.0,NE@1.5,5.3,0.0,0,41.4,29.58,35.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,20:30,35.9,23.4,60.2,0.0,NE@3.4,8.9,0.0,0,41.4,29.57,35.5,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,20:45,36.0,23.2,59.5,0.0,NE@3.5,6.7,0.0,0,41.4,29.57,35.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,21:00,35.7,23.6,61.1,0.0,N @2.7,6.0,0.0,0,41.4,29.56,35.3,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,21:15,35.3,23.6,61.9,0.0,N @2.4,4.2,0.0,0,41.4,29.56,34.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,21:30,35.4,23.8,62.2,0.0,NE@2.9,7.1,0.0,0,41.4,29.55,35.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,21:45,36.3,22.8,57.7,0.0,NE@4.1,8.5,0.0,0,41.3,29.55,36.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,22:00,36.2,22.6,57.4,0.0,NE@0.6,3.5,0.0,0,41.3,29.55,35.8,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,22:15,37.0,22.1,54.4,0.0,SE@1.7,7.1,0.0,0,41.3,29.55,36.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,22:30,36.5,22.3,55.8,0.0,E@1.2,3.5,0.0,0,41.3,29.54,36.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,22:45,36.1,23.1,59.0,0.0,NE@2.2,4.6,0.0,0,41.2,29.53,35.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,23:00,35.4,23.6,61.9,0.0,N @2.9,4.2,0.0,0,41.2,29.52,35.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,23:15,35.3,23.9,62.8,0.0,N @3.4,5.3,0.0,0,41.2,29.51,34.9,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,23:30,35.5,24.0,62.6,0.0,N @3.9,7.8,0.0,0,41.2,29.5,35.1,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,23:45,36.0,23.4,59.9,0.0,NE@2.0,6.4,0.0,0,41.1,29.5,35.6,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199
+2019-11-26,24:00,36.4,23.0,57.9,0.0,NE@2.9,4.9,0.0,0,41.1,29.49,36.0,"WallaWalla (Walla Walla), Walla Walla County",300130,WallaWalla,2020-01-21 14:43:20.918199

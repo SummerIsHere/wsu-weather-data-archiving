@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-09-14,00:15,59.4,49.9,70.7,0.0,NW@0.0,5.7,0.0,0,69.7,59.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,00:30,61.4,48.5,62.5,0.0,NW@0.5,7.8,0.0,0,69.7,61.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,00:45,60.6,48.6,64.7,0.0,W@1.7,9.9,0.0,0,69.7,60.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,01:00,62.5,47.9,58.6,0.0,NW@2.7,10.3,0.0,0,69.7,62.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,01:15,63.7,46.7,53.9,0.0,W@7.7,12.8,0.0,0,69.7,63.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,01:30,64.5,46.0,50.9,0.0,SW@9.5,13.9,0.0,0,69.7,64.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,01:45,64.2,46.1,51.8,0.0,W@7.3,14.2,0.0,0,69.7,64.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,02:00,64.2,45.8,51.2,0.0,W@0.1,7.8,0.0,0,69.7,64.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,02:15,64.6,45.0,48.9,0.0,W@0.6,9.2,0.0,0,69.6,64.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,02:30,64.4,44.9,49.0,0.0,W@0.1,5.3,0.0,0,69.6,64.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,02:45,63.7,44.3,49.0,0.0,W@0.5,11.0,0.0,0,69.6,63.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,03:00,64.0,44.3,48.6,0.0,W@0.0,1.4,0.0,0,69.6,64.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,03:15,64.2,44.2,48.1,0.0,W@0.3,9.2,0.0,0,69.6,64.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,03:30,64.1,44.0,48.0,0.0,W@0.5,9.2,0.0,0,69.6,64.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,03:45,63.2,44.4,50.2,0.0,N @0.0,0.0,0.0,0,69.5,63.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,04:00,64.2,43.6,46.9,0.0,N @0.0,0.0,0.0,0,69.5,64.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,04:15,62.8,44.9,51.9,0.0,W@0.9,11.4,0.0,0,69.5,62.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,04:30,63.9,44.0,48.3,0.0,W@1.9,13.2,0.0,0,69.5,64.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,04:45,63.8,43.9,48.2,0.0,W@0.9,9.6,0.0,0,69.5,63.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,05:00,61.3,45.9,56.7,0.0,SW@0.2,5.3,0.0,0,69.5,61.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,05:15,60.2,46.5,60.5,0.0,SW@0.2,7.1,0.0,0,69.4,60.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,05:30,59.7,46.9,62.5,0.0,N @0.0,0.0,0.0,0,69.4,59.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,05:45,59.6,46.5,61.8,0.0,N @0.0,0.0,0.0,4,69.4,59.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,06:00,61.7,44.9,54.0,0.0,NE@0.1,7.8,0.0,14,69.4,61.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,06:15,57.4,48.4,71.8,0.0,N @0.0,0.0,0.0,28,69.4,57.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,06:30,57.7,48.8,72.2,0.0,N @0.0,0.0,0.0,41,69.3,57.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,06:45,57.7,50.9,78.0,0.0,N @0.0,0.0,0.0,65,69.3,57.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,07:00,59.1,51.7,76.4,0.0,N @0.0,0.0,0.0,83,69.3,59.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,07:15,60.6,51.4,71.8,0.0,N @0.0,0.0,0.0,105,69.3,60.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,07:30,61.2,54.3,78.2,0.0,N @0.0,0.0,0.0,110,69.3,61.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,07:45,62.0,54.7,76.9,0.0,N @0.0,0.0,0.0,108,69.2,62.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,08:00,62.6,54.5,74.8,0.0,N @0.0,0.0,0.0,107,69.2,62.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,08:15,63.6,52.4,66.9,0.0,N @0.0,0.0,0.0,151,69.2,63.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,08:30,64.4,50.5,60.7,0.0,N @0.0,0.0,0.0,171,69.2,64.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,08:45,64.9,51.2,61.2,0.0,N @0.0,0.0,0.0,215,69.2,64.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,09:00,66.0,49.8,55.8,0.0,N @0.0,0.0,0.0,240,69.1,66.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,09:15,66.6,48.9,52.9,0.0,N @0.0,0.0,0.0,250,69.1,66.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,09:30,67.3,50.0,53.7,0.0,N @0.0,0.0,0.0,306,69.1,67.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,09:45,68.1,48.8,50.1,0.0,N @0.0,0.0,0.0,282,69.1,68.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,10:00,67.7,49.1,51.3,0.0,N @0.0,0.0,0.0,293,69.0,67.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,10:15,68.4,48.8,49.5,0.0,N @0.0,0.0,0.0,325,69.0,68.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,10:30,69.2,48.6,47.9,0.0,N @0.0,0.0,0.0,321,69.0,69.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,10:45,69.6,48.6,47.2,0.0,N @0.0,0.0,0.0,323,69.0,69.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,11:00,69.2,47.2,45.3,0.0,N @0.0,0.0,0.0,324,69.0,69.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,11:15,69.4,46.9,44.5,0.0,N @0.0,0.0,0.0,244,68.9,69.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,11:30,69.0,47.9,46.9,0.0,N @0.0,0.0,0.0,229,68.9,69.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,11:45,69.4,47.0,44.8,0.0,N @0.0,0.0,0.0,229,68.9,69.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,12:00,69.5,47.6,45.5,0.0,N @0.0,0.0,0.0,228,68.9,69.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,12:15,69.6,47.7,45.7,0.0,N @0.0,0.0,0.0,222,68.9,69.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,12:30,69.8,47.3,44.7,0.0,N @0.0,0.0,0.0,222,68.9,69.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,12:45,70.1,49.6,48.1,0.0,N @0.0,0.0,0.0,242,68.9,70.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,13:00,70.4,47.9,44.7,0.0,N @0.0,0.0,0.0,280,68.9,70.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,13:15,71.3,47.7,43.1,0.0,N @0.0,0.0,0.0,304,68.9,71.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,13:30,71.6,48.4,43.7,0.0,N @0.0,0.0,0.0,292,68.9,71.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,13:45,71.2,51.0,48.7,0.0,SW@0.1,4.9,0.0,331,68.9,71.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,14:00,71.4,50.1,46.8,0.0,SW@0.3,5.3,0.0,330,68.9,71.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,14:15,72.1,49.2,44.3,0.0,SW@0.1,5.3,0.0,422,68.9,72.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,14:30,71.6,51.6,49.2,0.0,SW@0.1,3.5,0.0,248,68.9,71.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,14:45,70.8,52.2,51.8,0.0,N @0.0,0.0,0.0,207,68.9,70.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,15:00,70.4,54.2,56.5,0.0,N @0.0,0.0,0.0,216,68.9,70.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,15:15,71.5,51.8,49.8,0.0,N @0.0,0.0,0.0,260,68.9,71.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,15:30,71.4,52.2,50.7,0.0,N @0.0,0.0,0.0,192,68.9,71.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,15:45,70.9,53.0,53.1,0.0,N @0.0,0.0,0.0,145,68.9,71.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,16:00,71.0,51.6,50.2,0.0,N @0.0,0.0,0.0,176,68.9,71.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,16:15,71.5,49.8,46.2,0.0,N @0.0,0.0,0.0,136,68.9,71.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,16:30,70.9,54.0,55.0,0.0,N @0.0,0.0,0.0,122,68.9,70.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,16:45,69.0,55.9,63.0,0.0,N @0.0,0.0,0.0,101,69.0,69.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,17:00,69.0,55.1,61.0,0.0,N @0.0,0.0,0.0,99,69.0,69.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,17:15,68.1,55.6,64.3,0.0,N @0.0,0.0,0.0,85,69.0,68.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,17:30,66.2,53.3,63.1,0.0,N @0.0,0.0,0.0,52,69.0,66.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,17:45,65.7,53.0,63.4,0.0,N @0.0,0.0,0.0,32,69.0,65.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,18:00,63.7,55.2,73.9,0.0,N @0.0,0.0,0.0,18,69.1,63.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,18:15,63.6,53.7,70.0,0.0,N @0.0,0.0,0.0,5,69.1,63.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,18:30,62.1,54.5,76.1,0.0,N @0.0,0.0,0.0,0,69.1,62.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,18:45,60.7,54.8,80.9,0.0,N @0.0,0.0,0.0,0,69.1,60.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,19:00,59.5,54.9,84.6,0.0,N @0.0,0.0,0.0,0,69.1,59.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,19:15,58.7,55.2,87.9,0.0,N @0.0,0.0,0.0,0,69.2,58.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,19:30,58.8,54.8,86.4,0.0,N @0.0,0.0,0.0,0,69.2,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,19:45,58.7,55.0,87.7,0.0,N @0.0,0.0,0.0,0,69.2,58.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,20:00,58.8,54.8,86.6,0.0,N @0.0,0.0,0.0,0,69.2,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,20:15,59.2,55.2,86.3,0.0,N @0.0,0.0,0.0,0,69.2,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,20:30,59.2,55.2,86.5,0.0,N @0.0,0.0,0.0,0,69.2,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,20:45,59.6,54.7,83.6,0.0,N @0.0,0.0,0.0,0,69.3,59.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,21:00,59.2,54.2,83.4,0.0,N @0.0,0.0,0.0,0,69.3,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,21:15,59.4,53.3,80.1,0.0,N @0.0,0.0,0.0,0,69.3,59.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,21:30,58.5,53.8,84.3,0.0,N @0.0,0.0,0.0,0,69.3,58.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,21:45,58.6,53.5,83.1,0.0,N @0.0,0.0,0.0,0,69.3,58.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,22:00,58.1,53.9,85.9,0.0,N @0.0,0.0,0.0,0,69.3,58.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,22:15,57.3,53.9,88.2,0.0,N @0.0,0.0,0.0,0,69.3,57.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,22:30,57.1,54.3,90.0,0.0,N @0.0,0.0,0.0,0,69.3,57.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,22:45,56.8,53.7,89.4,0.0,N @0.0,0.0,0.0,0,69.4,56.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,23:00,57.4,52.7,84.1,0.0,N @0.0,0.0,0.0,0,69.4,57.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,23:15,58.2,52.4,80.8,0.0,N @0.0,0.0,0.0,0,69.4,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,23:30,57.1,53.2,86.7,0.0,N @0.0,0.0,0.0,0,69.4,57.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,23:45,57.1,52.6,84.8,0.0,N @0.0,0.0,0.0,0,69.4,57.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-14,24:00,57.0,52.4,84.6,0.0,N @0.0,0.0,0.0,0,69.4,57.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,00:15,56.5,52.2,85.4,0.0,N @0.0,0.0,0.0,0,69.3,56.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,00:30,57.3,50.8,78.8,0.0,N @0.0,0.0,0.0,0,69.4,57.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,00:45,56.7,51.4,82.3,0.0,N @0.0,0.0,0.0,0,69.3,56.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,01:00,56.1,51.2,83.3,0.0,N @0.0,0.0,0.0,0,69.3,56.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,01:15,56.1,50.5,81.3,0.0,N @0.0,0.0,0.0,0,69.3,56.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,01:30,55.7,50.8,83.5,0.0,N @0.0,0.0,0.0,0,69.3,55.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,01:45,54.9,50.6,85.3,0.0,N @0.0,0.0,0.0,0,69.3,54.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,02:00,53.8,50.0,86.9,0.0,N @0.0,0.0,0.0,0,69.3,53.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,02:15,52.9,48.9,86.3,0.0,N @0.0,0.0,0.0,0,69.3,52.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,02:30,52.4,48.5,86.5,0.0,N @0.0,0.0,0.0,0,69.3,52.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,02:45,51.3,48.4,89.7,0.0,N @0.0,0.0,0.06,0,69.3,51.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,03:00,51.3,48.3,89.3,0.0,N @0.0,0.0,0.04,0,69.3,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,03:15,50.5,48.1,91.6,0.0,N @0.0,0.0,0.14,0,69.3,50.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,03:30,50.9,48.2,90.3,0.0,N @0.0,0.0,0.09,0,69.2,50.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,03:45,51.0,48.5,91.0,0.0,N @0.0,0.0,0.1,0,69.2,50.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,04:00,51.4,48.5,89.8,0.0,N @0.0,0.0,0.02,0,69.2,51.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,04:15,51.4,48.5,89.9,0.0,N @0.0,0.0,0.01,0,69.2,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,04:30,52.7,50.1,90.8,0.0,N @0.0,0.0,0.0,0,69.2,52.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,04:45,54.2,51.8,91.4,0.0,N @0.0,0.0,0.0,0,69.1,54.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,05:00,55.3,51.8,87.8,0.0,N @0.0,0.0,0.0,0,69.1,55.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,05:15,57.1,50.6,78.8,0.0,N @0.0,0.0,0.0,0,69.1,57.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,05:30,58.2,50.2,74.7,0.0,N @0.0,0.0,0.0,1,69.1,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,05:45,57.6,50.9,78.4,0.0,N @0.0,0.0,0.0,10,69.1,57.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,06:00,57.5,51.3,79.5,0.0,N @0.0,0.0,0.0,32,69.0,57.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,06:15,55.7,51.9,87.1,0.0,N @0.0,0.0,0.0,37,69.0,55.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,06:30,55.9,52.1,86.8,0.0,SE@0.0,1.4,0.0,69,69.0,55.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,06:45,56.9,52.8,85.9,0.0,N @0.0,0.0,0.0,113,68.9,56.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,07:00,59.7,52.8,77.9,0.0,N @0.0,0.0,0.0,156,68.9,59.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,07:15,60.1,53.0,77.4,0.0,N @0.0,0.0,0.0,134,68.9,60.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,07:30,60.8,53.8,77.8,0.0,N @0.0,0.0,0.0,124,68.9,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,07:45,60.3,53.1,77.2,0.0,S@1.1,7.8,0.0,112,68.8,60.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,08:00,60.8,52.2,73.2,0.0,S@1.9,9.2,0.0,135,68.8,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,08:15,60.8,53.2,76.1,0.0,S@2.8,10.3,0.0,139,68.8,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,08:30,60.5,53.0,76.0,0.0,S@4.2,11.4,0.0,117,68.8,60.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,08:45,61.7,52.2,70.9,0.0,S@2.9,9.2,0.0,135,68.7,61.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,09:00,62.7,52.5,69.1,0.0,SW@1.9,9.6,0.0,186,68.7,62.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,09:15,61.4,53.6,75.3,0.0,N @0.0,0.0,0.0,180,68.7,61.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,09:30,60.3,54.4,80.7,0.0,NW@1.7,8.2,0.25,161,68.7,60.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,09:45,60.2,54.9,82.4,0.0,N @0.0,0.0,0.97,169,68.6,60.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,10:00,60.3,54.8,82.0,0.0,N @0.0,0.0,1.0,239,68.6,60.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,10:15,60.5,54.9,81.6,0.0,N @0.0,0.0,1.0,176,68.6,60.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,10:30,60.8,54.9,80.8,0.0,N @0.0,0.0,0.86,134,68.6,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,10:45,61.3,54.0,76.7,0.0,N @0.0,0.0,0.07,168,68.5,61.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,11:00,61.6,55.0,79.1,0.0,N @0.0,0.0,0.0,122,68.5,61.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,11:15,61.9,55.0,78.2,0.0,N @0.0,0.0,0.0,162,68.5,61.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,11:30,62.2,54.6,76.0,0.0,N @0.0,0.0,0.0,192,68.5,62.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,11:45,62.9,55.4,76.3,0.0,N @0.0,0.0,0.0,175,68.5,62.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,12:00,63.4,55.2,74.7,0.0,N @0.0,0.0,0.0,172,68.5,63.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,12:15,63.6,54.0,70.8,0.0,W@2.9,11.7,0.0,153,68.4,63.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,12:30,62.0,51.3,68.0,0.0,W@5.8,10.7,0.0,159,68.4,62.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,12:45,62.2,50.8,66.1,0.0,W@3.9,9.2,0.0,165,68.4,62.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,13:00,63.3,50.2,62.2,0.0,W@0.8,8.5,0.16,206,68.4,63.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,13:15,64.0,50.3,60.9,0.0,W@0.7,9.2,0.11,221,68.4,64.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,13:30,63.4,53.3,69.6,0.0,NW@3.9,11.4,0.01,199,68.4,63.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,13:45,61.7,53.5,74.2,0.0,NW@9.0,12.1,0.26,170,68.4,61.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,14:00,61.6,52.1,71.0,0.0,NW@7.3,10.7,0.25,188,68.4,61.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,14:15,61.5,51.3,68.9,0.0,NW@5.3,8.5,0.03,141,68.4,61.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,14:30,61.5,50.7,67.7,0.0,NW@0.3,5.3,0.03,124,68.4,61.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,14:45,61.0,51.3,70.3,0.0,NW@0.1,5.7,0.83,120,68.4,61.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,15:00,59.5,52.7,78.1,0.0,NW@7.1,10.7,1.0,84,68.3,59.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,15:15,59.3,53.1,79.8,0.0,NW@0.2,4.2,1.0,90,68.3,59.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,15:30,59.7,54.1,81.6,0.0,N @0.0,0.0,1.0,75,68.3,59.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,15:45,59.2,55.3,86.9,0.0,N @0.0,0.0,0.94,64,68.4,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,16:00,59.1,55.3,87.1,0.0,N @0.0,0.0,0.95,61,68.3,59.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,16:15,59.5,55.7,87.2,0.0,N @0.0,0.0,1.0,47,68.4,59.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,16:30,59.2,55.4,87.2,0.0,N @0.0,0.0,1.0,40,68.3,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,16:45,58.9,55.0,86.9,0.0,N @0.0,0.0,1.0,45,68.3,58.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,17:00,58.6,52.9,81.5,0.0,N @0.0,0.0,0.96,45,68.3,58.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,17:15,57.5,52.6,83.7,0.0,S@2.9,10.3,0.37,27,68.4,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,17:30,56.9,52.2,84.2,0.0,S@7.8,11.0,0.16,23,68.4,56.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,17:45,57.0,52.1,83.6,0.0,S@6.4,10.7,0.22,26,68.4,57.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,18:00,56.9,52.0,83.6,0.0,SW@1.4,8.2,0.57,16,68.4,56.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,18:15,56.5,52.1,85.1,0.0,SW@6.4,11.0,0.33,6,68.4,56.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,18:30,56.8,52.1,84.3,0.0,W@0.5,6.4,0.19,0,68.4,56.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,18:45,56.0,53.1,90.0,0.0,N @0.0,0.0,0.17,0,68.4,55.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,19:00,56.2,52.9,88.4,0.0,N @0.0,0.0,0.02,0,68.4,56.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,19:15,55.3,52.9,91.5,0.0,N @0.0,0.0,0.0,0,68.4,55.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,19:30,54.9,52.7,92.1,0.0,N @0.0,0.0,0.01,0,68.4,54.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,19:45,54.4,53.0,94.9,0.0,N @0.0,0.0,0.09,0,68.4,54.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,20:00,54.7,52.8,93.2,0.0,S@1.2,6.4,0.05,0,68.4,54.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,20:15,56.0,51.9,86.1,0.0,SW@0.2,4.2,0.0,0,68.4,56.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,20:30,55.4,51.9,87.7,0.0,S@2.6,8.2,0.0,0,68.4,55.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,20:45,55.7,52.2,87.9,0.0,SW@4.0,9.9,0.0,0,68.3,55.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,21:00,55.5,52.1,88.0,0.0,NW@0.0,3.9,0.0,0,68.3,55.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,21:15,56.3,51.3,83.3,0.0,W@1.1,8.9,0.25,0,68.4,56.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,21:30,56.8,50.7,79.9,0.0,SW@0.4,6.0,0.08,0,68.4,56.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,21:45,55.8,51.3,84.5,0.0,SW@2.2,6.7,0.0,0,68.3,55.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,22:00,55.7,51.3,85.2,0.0,SW@1.6,6.4,0.2,0,68.3,55.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,22:15,55.3,52.1,88.9,0.0,SW@1.0,5.3,0.25,0,68.3,55.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,22:30,55.2,52.3,89.9,0.0,N @0.0,0.0,0.67,0,68.3,55.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,22:45,54.9,52.4,91.2,0.0,N @0.0,0.0,0.47,0,68.3,54.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,23:00,54.4,53.2,95.5,0.0,N @0.0,0.0,0.36,0,68.3,54.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,23:15,55.0,52.8,92.2,0.0,SW@2.0,7.1,0.08,0,68.3,55.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,23:30,55.4,52.3,89.2,0.0,SW@0.5,6.7,0.66,0,68.3,55.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,23:45,55.3,52.2,89.4,0.0,N @0.0,0.0,0.89,0,68.2,55.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-15,24:00,55.0,52.3,90.6,0.0,N @0.0,0.0,0.81,0,68.2,54.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,00:15,54.2,52.5,94.0,0.0,N @0.0,0.0,1.0,0,68.2,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,00:30,54.3,52.6,93.9,0.0,N @0.0,0.0,1.0,0,68.2,54.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,00:45,53.8,52.6,95.5,0.0,N @0.0,0.0,1.0,0,68.2,53.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,01:00,54.5,52.0,91.2,0.0,N @0.0,0.0,1.0,0,68.2,54.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,01:15,54.6,51.4,88.8,0.0,N @0.0,0.0,0.97,0,68.2,54.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,01:30,54.3,51.2,88.9,0.0,N @0.0,0.0,0.86,0,68.1,54.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,01:45,53.8,50.9,89.9,0.0,N @0.0,0.0,0.28,0,68.1,53.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,02:00,54.1,51.0,89.1,0.0,N @0.0,0.0,0.0,0,68.1,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,02:15,54.2,50.7,87.8,0.0,N @0.0,0.0,0.0,0,68.1,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,02:30,53.4,50.2,88.9,0.0,N @0.0,0.0,0.04,0,68.1,53.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,02:45,51.2,50.1,96.1,0.0,N @0.0,0.0,0.38,0,68.0,51.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,03:00,51.1,50.3,97.0,0.0,N @0.0,0.0,0.69,0,68.0,51.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,03:15,50.5,49.8,97.3,0.0,N @0.0,0.0,0.82,0,68.0,50.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,03:30,50.3,49.5,97.2,0.0,N @0.0,0.0,0.87,0,68.0,50.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,03:45,50.2,49.6,97.6,0.0,N @0.0,0.0,0.9,0,68.0,50.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,04:00,50.6,50.1,97.9,0.0,N @0.0,0.0,0.93,0,67.9,50.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,04:15,50.5,49.6,96.6,0.0,N @0.0,0.0,0.94,0,67.9,50.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,04:30,50.3,49.3,96.4,0.0,N @0.0,0.0,0.97,0,67.9,50.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,04:45,50.1,49.4,97.3,0.0,N @0.0,0.0,1.0,0,67.9,50.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,05:00,49.5,48.9,97.7,0.0,N @0.0,0.0,1.0,0,67.9,49.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,05:15,48.5,48.0,98.0,0.0,N @0.0,0.0,1.0,0,67.8,48.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,05:30,47.9,47.5,98.2,0.0,N @0.0,0.0,1.0,0,67.8,47.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,05:45,47.4,46.9,97.9,0.0,N @0.0,0.0,1.0,3,67.8,47.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,06:00,46.6,46.1,97.9,0.0,N @0.0,0.0,1.0,11,67.8,46.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,06:15,47.6,47.3,98.6,0.0,N @0.0,0.0,1.0,20,67.8,47.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,06:30,49.2,48.8,98.6,0.0,N @0.0,0.0,1.0,29,67.7,49.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,06:45,51.0,50.3,97.6,0.0,N @0.0,0.0,1.0,56,67.7,50.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,07:00,51.9,51.0,96.6,0.0,N @0.0,0.0,1.0,60,67.7,51.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,07:15,52.8,51.6,95.6,0.0,N @0.0,0.0,1.0,70,67.6,52.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,07:30,53.4,52.3,95.9,0.0,N @0.0,0.0,1.0,78,67.6,53.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,07:45,54.1,52.7,94.6,0.0,N @0.0,0.0,1.0,89,67.6,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,08:00,54.9,53.4,94.7,0.0,N @0.0,0.0,0.97,111,67.6,54.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,08:15,55.2,51.9,88.6,0.0,N @0.0,0.0,0.88,127,67.5,55.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,08:30,55.4,51.0,84.8,0.0,N @0.0,0.0,0.13,142,67.5,55.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,08:45,55.9,51.1,83.9,0.0,N @0.0,0.0,0.0,205,67.5,55.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,09:00,56.3,51.3,83.2,0.0,N @0.0,0.0,0.0,214,67.5,56.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,09:15,56.7,51.2,81.9,0.0,N @0.0,0.0,0.0,230,67.4,56.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,09:30,56.8,51.1,81.0,0.0,N @0.0,0.0,0.0,271,67.4,56.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,09:45,57.6,50.7,77.7,0.0,N @0.0,0.0,0.0,261,67.4,57.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,10:00,58.3,51.6,78.3,0.0,N @0.0,0.0,0.0,288,67.3,58.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,10:15,58.7,51.4,76.7,0.0,N @0.0,0.0,0.0,286,67.3,58.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,10:30,60.2,51.2,72.2,0.0,N @0.0,0.0,0.0,544,67.3,60.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,10:45,62.0,50.9,66.9,0.0,N @0.0,0.0,0.0,495,67.3,61.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,11:00,61.5,51.0,68.3,0.0,N @0.0,0.0,0.0,427,67.2,61.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,11:15,62.3,50.7,65.5,0.0,N @0.0,0.0,0.0,508,67.2,62.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,11:30,63.0,49.0,60.3,0.0,N @0.0,0.0,0.0,517,67.2,62.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,11:45,64.5,46.8,52.6,0.0,N @0.0,0.0,0.0,641,67.2,64.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,12:00,65.4,46.5,50.3,0.0,N @0.0,0.0,0.0,785,67.2,65.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,12:15,65.3,46.4,50.4,0.0,N @0.0,0.0,0.0,587,67.2,65.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,12:30,65.7,44.5,46.2,0.0,N @0.0,0.0,0.0,602,67.1,65.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,12:45,66.9,45.7,46.2,0.0,N @0.0,0.0,0.0,697,67.1,66.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,13:00,65.8,47.8,52.1,0.0,N @0.0,0.0,0.0,456,67.1,65.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,13:15,65.1,48.3,54.4,0.0,N @0.0,0.0,0.0,365,67.1,65.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,13:30,65.5,48.1,53.1,0.0,N @0.0,0.0,0.0,409,67.1,65.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,13:45,67.0,48.4,51.2,0.0,N @0.0,0.0,0.0,639,67.1,67.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,14:00,65.3,48.4,54.3,0.0,N @0.0,0.0,0.0,295,67.1,65.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,14:15,66.0,48.8,53.7,0.0,SE@0.0,1.4,0.0,473,67.1,66.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,14:30,67.2,48.1,50.3,0.0,SE@1.5,10.3,0.0,475,67.1,67.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,14:45,65.2,48.5,54.6,0.0,SE@0.0,3.1,0.0,252,67.1,65.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,15:00,64.9,48.8,55.8,0.0,S@1.1,7.1,0.0,264,67.1,64.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,15:15,65.6,49.8,56.6,0.0,SE@2.1,6.7,0.0,374,67.1,65.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,15:30,66.8,48.9,52.4,0.0,S@4.3,7.8,0.0,426,67.1,66.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,15:45,65.1,50.2,58.4,0.0,S@1.1,8.5,0.0,329,67.1,65.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,16:00,65.0,51.0,60.4,0.0,S@0.2,7.4,0.0,366,67.1,64.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,16:15,64.8,50.6,60.0,0.0,S@0.7,7.8,0.0,333,67.2,64.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,16:30,64.3,50.6,61.1,0.0,S@0.4,7.4,0.0,282,67.2,64.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,16:45,63.0,50.8,64.4,0.0,S@0.3,7.4,0.0,167,67.2,63.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,17:00,60.2,50.2,69.4,0.0,S@0.0,1.4,0.0,47,67.2,60.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,17:15,58.9,49.5,70.9,0.0,N @0.0,0.0,0.0,35,67.3,58.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,17:30,58.2,50.2,74.4,0.0,N @0.0,0.0,0.0,29,67.3,58.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,17:45,59.1,50.6,73.5,0.0,S@1.0,7.4,0.0,24,67.3,59.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,18:00,58.9,50.1,72.7,0.0,S@0.6,6.4,0.0,14,67.3,58.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,18:15,57.6,50.7,77.6,0.0,N @0.0,0.0,0.0,7,67.4,57.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,18:30,56.6,50.8,80.6,0.0,N @0.0,0.0,0.0,1,67.4,56.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,18:45,56.6,51.0,81.4,0.0,N @0.0,0.0,0.0,0,67.4,56.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,19:00,56.3,51.1,82.5,0.0,S@1.7,6.4,0.0,0,67.5,56.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,19:15,56.4,50.9,81.7,0.0,SW@3.8,8.2,0.0,0,67.5,56.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,19:30,56.0,50.6,82.1,0.0,SW@3.2,6.7,0.0,0,67.5,56.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,19:45,54.6,48.6,80.3,0.0,W@1.1,6.4,0.0,0,67.5,54.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,20:00,52.8,47.4,81.8,0.0,N @0.0,0.0,0.0,0,67.6,52.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,20:15,52.3,47.0,82.1,0.0,N @0.0,0.0,0.0,0,67.6,52.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,20:30,52.6,46.4,79.3,0.0,S@0.6,6.7,0.0,0,67.6,52.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,20:45,53.3,45.5,74.8,0.0,SW@4.4,6.4,0.0,0,67.6,53.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,21:00,53.1,45.8,76.2,0.0,SW@3.2,6.7,0.0,0,67.7,53.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,21:15,53.6,45.0,72.6,0.0,SW@3.4,6.7,0.0,0,67.7,53.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,21:30,55.3,43.6,64.7,0.0,SW@6.2,10.3,0.0,0,67.7,55.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,21:45,54.6,43.7,66.5,0.0,SW@5.9,8.9,0.0,0,67.7,54.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,22:00,52.6,44.2,73.0,0.0,SW@3.9,5.3,0.0,0,67.7,52.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,22:15,52.2,44.0,73.5,0.0,SW@1.3,5.3,0.0,0,67.7,52.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,22:30,52.7,43.8,71.4,0.0,SW@5.0,6.7,0.0,0,67.7,52.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,22:45,54.3,43.3,66.4,0.0,W@4.2,7.4,0.0,0,67.7,54.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,23:00,51.8,45.2,78.3,0.0,N @0.0,0.0,0.0,0,67.7,51.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,23:15,48.3,45.2,88.8,0.0,N @0.0,0.0,0.08,0,67.7,48.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,23:30,47.2,44.7,90.9,0.0,N @0.0,0.0,0.26,0,67.7,47.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,23:45,48.0,45.9,92.4,0.0,N @0.0,0.0,0.43,0,67.7,47.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-16,24:00,47.2,45.5,93.6,0.0,N @0.0,0.0,0.66,0,67.7,47.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,00:15,46.6,44.9,93.9,0.0,N @0.0,0.0,0.75,0,67.7,46.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,00:30,46.9,45.3,94.1,0.0,N @0.0,0.0,0.73,0,67.7,46.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,00:45,47.1,44.9,92.2,0.0,N @0.0,0.0,0.66,0,67.7,47.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,01:00,46.1,43.9,91.7,0.0,N @0.0,0.0,0.52,0,67.7,46.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,01:15,46.6,44.2,91.2,0.0,N @0.0,0.0,0.46,0,67.7,46.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,01:30,49.8,46.2,87.3,0.0,N @0.0,0.0,0.17,0,67.7,49.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,01:45,46.5,44.3,92.0,0.0,N @0.0,0.0,0.34,0,67.7,46.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,02:00,46.2,45.3,96.7,0.0,N @0.0,0.0,0.75,0,67.6,45.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,02:15,47.3,44.1,88.4,0.0,N @0.0,0.0,0.84,0,67.6,47.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,02:30,46.6,42.8,86.6,0.0,N @0.0,0.0,0.54,0,67.6,46.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,02:45,46.9,43.1,86.4,0.0,N @0.0,0.0,0.08,0,67.6,46.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,03:00,49.2,42.8,78.2,0.0,N @0.0,0.0,0.0,0,67.6,49.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,03:15,49.4,43.5,80.0,0.0,N @0.0,0.0,0.0,0,67.5,49.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,03:30,47.9,43.7,85.4,0.0,N @0.0,0.0,0.0,0,67.5,47.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,03:45,48.4,43.6,83.5,0.0,N @0.0,0.0,0.0,0,67.5,48.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,04:00,46.9,44.1,89.7,0.0,N @0.0,0.0,0.0,0,67.5,46.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,04:15,46.5,44.8,93.5,0.0,N @0.0,0.0,0.06,0,67.4,46.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,04:30,46.0,45.0,96.4,0.0,N @0.0,0.0,0.25,0,67.4,45.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,04:45,46.9,45.6,95.2,0.0,N @0.0,0.0,0.24,0,67.4,46.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,05:00,48.4,45.5,89.4,0.0,N @0.0,0.0,0.05,0,67.3,48.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,05:15,50.3,45.5,83.6,0.0,N @0.0,0.0,0.0,0,67.3,50.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,05:30,49.0,45.5,87.8,0.0,N @0.0,0.0,0.0,0,67.3,48.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,05:45,47.8,45.5,91.9,0.0,N @0.0,0.0,0.02,3,67.2,47.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,06:00,47.4,45.6,93.6,0.0,N @0.0,0.0,0.19,9,67.2,47.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,06:15,45.9,44.2,93.6,0.0,N @0.0,0.0,0.6,20,67.2,45.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,06:30,45.4,44.3,95.8,0.0,N @0.0,0.0,0.83,22,67.2,45.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,06:45,48.4,45.2,88.8,0.0,N @0.0,0.0,0.84,59,67.1,48.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,07:00,50.5,46.3,85.3,0.0,N @0.0,0.0,0.42,168,67.1,50.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,07:15,53.0,46.3,77.9,0.0,N @0.0,0.0,0.0,221,67.0,52.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,07:30,55.2,45.8,70.6,0.0,N @0.0,0.0,0.0,272,67.0,55.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,07:45,57.2,45.9,65.7,0.0,N @0.0,0.0,0.0,311,67.0,57.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,08:00,57.6,46.8,67.3,0.0,S@0.6,4.9,0.0,349,66.9,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,08:15,58.7,46.8,64.5,0.0,SE@2.2,7.8,0.0,396,66.9,58.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,08:30,59.2,47.1,64.2,0.0,SE@1.2,6.0,0.0,353,66.9,59.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,08:45,58.4,47.0,65.8,0.0,S@6.0,12.1,0.0,359,66.8,58.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,09:00,59.4,47.4,64.4,0.0,S@6.7,11.7,0.0,541,66.8,59.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,09:15,60.1,48.4,65.2,0.0,S@3.3,9.6,0.0,512,66.8,60.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,09:30,62.1,48.4,60.7,0.0,S@7.5,12.4,0.0,732,66.7,62.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,09:45,61.4,47.0,59.3,0.0,S@9.0,17.1,0.0,473,66.7,61.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,10:00,61.0,47.2,60.3,0.0,S@7.5,11.0,0.0,400,66.7,61.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,10:15,60.6,47.3,61.5,0.0,S@6.7,12.1,0.0,250,66.7,60.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,10:30,60.6,47.0,60.8,0.0,S@7.3,11.4,0.0,242,66.6,60.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,10:45,60.8,47.2,60.8,0.0,S@6.4,10.7,0.0,244,66.6,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,11:00,60.8,48.3,63.3,0.0,S@6.0,9.2,0.0,264,66.6,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,11:15,59.9,49.1,67.3,0.0,S@5.1,8.9,0.67,163,66.5,59.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,11:30,58.9,48.7,68.9,0.0,S@4.2,9.2,0.67,106,66.5,58.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,11:45,57.5,49.8,75.4,0.01,S@6.0,10.7,0.97,104,66.5,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,12:00,56.5,51.0,81.8,0.01,S@6.4,9.6,1.0,198,66.5,56.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,12:15,57.3,52.1,82.5,0.0,S@3.7,7.8,1.0,254,66.4,57.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,12:30,57.4,52.0,82.3,0.01,S@4.0,6.4,0.98,213,66.4,57.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,12:45,57.5,52.4,83.0,0.0,S@1.9,5.7,0.93,151,66.4,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,13:00,57.9,52.4,81.8,0.0,S@2.1,12.1,0.65,223,66.4,57.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,13:15,58.0,50.3,75.5,0.0,S@9.9,16.4,0.0,265,66.4,58.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,13:30,57.6,49.7,74.9,0.0,S@9.1,15.0,0.0,203,66.4,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,13:45,58.2,49.7,73.2,0.0,S@9.5,13.9,0.0,249,66.4,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,14:00,58.3,50.6,75.4,0.0,S@7.7,13.2,0.0,272,66.3,58.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,14:15,60.6,52.0,73.1,0.0,SE@5.9,9.9,0.0,617,66.3,60.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,14:30,62.2,50.5,65.5,0.0,SE@4.6,10.3,0.0,719,66.3,62.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,14:45,61.1,50.8,68.9,0.0,S@4.2,11.7,0.0,313,66.3,61.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,15:00,59.2,50.7,73.4,0.0,SE@5.5,10.3,0.0,181,66.4,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,15:15,58.9,50.6,73.8,0.0,S@4.9,8.2,0.0,143,66.3,58.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,15:30,58.8,50.4,73.6,0.0,S@6.1,9.9,0.0,129,66.3,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,15:45,58.7,50.5,74.0,0.0,S@4.7,7.4,0.0,98,66.4,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,16:00,58.8,51.0,75.1,0.0,SE@2.8,6.4,0.05,75,66.3,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,16:15,58.7,51.5,76.8,0.0,N @0.0,0.0,0.03,67,66.4,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,16:30,58.8,50.4,73.5,0.0,N @0.0,0.0,0.0,59,66.4,58.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,16:45,58.9,49.3,70.5,0.0,SE@5.1,9.6,0.0,100,66.4,58.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,17:00,59.1,49.6,70.6,0.0,SE@4.6,7.8,0.0,101,66.4,59.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,17:15,59.2,50.1,71.6,0.0,SE@0.0,2.4,0.0,49,66.4,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,17:30,59.0,49.4,70.3,0.0,N @0.0,0.0,0.0,17,66.4,59.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,17:45,58.1,49.9,74.1,0.0,N @0.0,0.0,0.0,12,66.4,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,18:00,58.2,49.4,72.4,0.0,N @0.0,0.0,0.0,5,66.4,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,18:15,57.7,50.1,75.6,0.0,N @0.0,0.0,0.0,1,66.4,57.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,18:30,56.5,51.7,83.7,0.0,N @0.0,0.0,0.0,0,66.4,56.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,18:45,56.3,52.0,85.3,0.0,N @0.0,0.0,0.0,0,66.4,56.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,19:00,56.1,51.4,84.0,0.0,N @0.0,0.0,0.0,0,66.4,56.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,19:15,55.9,51.4,84.8,0.0,N @0.0,0.0,0.0,0,66.5,55.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,19:30,54.9,50.7,85.8,0.0,N @0.0,0.0,0.0,0,66.5,54.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,19:45,54.1,50.7,87.9,0.0,N @0.0,0.0,0.0,0,66.5,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,20:00,53.9,50.8,89.4,0.0,N @0.0,0.0,0.0,0,66.5,53.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,20:15,54.6,49.9,84.0,0.0,S@1.8,5.3,0.0,0,66.5,54.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,20:30,55.3,49.2,79.7,0.0,S@4.3,6.4,0.0,0,66.5,55.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,20:45,55.9,49.2,78.2,0.0,S@2.4,6.4,0.0,0,66.5,56.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,21:00,53.9,49.3,84.4,0.0,N @0.0,0.0,0.0,0,66.5,53.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,21:15,52.7,48.8,86.4,0.0,N @0.0,0.0,0.02,0,66.5,52.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,21:30,51.0,48.0,89.4,0.0,SW@0.1,2.4,0.08,0,66.5,50.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,21:45,51.9,49.1,90.1,0.0,N @0.0,0.0,0.02,0,66.5,51.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,22:00,53.8,49.7,86.0,0.0,N @0.0,0.0,0.0,0,66.5,53.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,22:15,53.3,49.3,86.3,0.0,NW@0.0,2.1,0.0,0,66.5,53.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,22:30,53.7,48.9,83.8,0.0,N @0.0,0.0,0.0,0,66.5,53.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,22:45,52.7,49.3,88.2,0.0,N @0.0,0.0,0.27,0,66.5,52.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,23:00,52.4,49.3,89.2,0.0,N @0.0,0.0,1.0,0,66.5,52.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,23:15,52.3,50.2,92.5,0.0,N @0.0,0.0,1.0,0,66.5,52.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,23:30,52.2,50.4,93.3,0.01,N @0.0,0.0,1.0,0,66.5,52.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,23:45,52.2,50.6,94.2,0.0,N @0.0,0.0,1.0,0,66.5,52.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-17,24:00,52.1,50.7,94.9,0.0,N @0.0,0.0,1.0,0,66.5,52.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,00:15,52.1,50.4,93.6,0.0,N @0.0,0.0,1.0,0,66.5,52.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,00:30,52.0,50.6,95.1,0.0,N @0.0,0.0,1.0,0,66.5,51.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,00:45,52.0,51.1,96.8,0.0,N @0.0,0.0,1.0,0,66.5,51.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,01:00,51.8,51.1,97.2,0.0,N @0.0,0.0,1.0,0,66.4,51.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,01:15,51.7,51.2,97.9,0.0,N @0.0,0.0,1.0,0,66.4,51.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,01:30,51.5,51.0,98.1,0.0,N @0.0,0.0,1.0,0,66.4,51.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,01:45,51.4,51.0,98.5,0.0,N @0.0,0.0,1.0,0,66.4,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,02:00,51.3,51.1,99.1,0.0,N @0.0,0.0,1.0,0,66.4,51.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,02:15,51.6,51.4,99.1,0.0,N @0.0,0.0,1.0,0,66.4,51.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,02:30,51.5,51.3,98.9,0.0,N @0.0,0.0,1.0,0,66.4,51.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,02:45,51.7,51.4,98.6,0.0,N @0.0,0.0,1.0,0,66.3,51.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,03:00,51.3,51.1,99.0,0.0,N @0.0,0.0,1.0,0,66.3,51.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,03:15,51.6,51.4,99.2,0.0,N @0.0,0.0,1.0,0,66.3,51.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,03:30,52.1,51.9,99.2,0.0,N @0.0,0.0,1.0,0,66.3,52.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,03:45,52.4,52.2,99.2,0.0,N @0.0,0.0,1.0,0,66.3,52.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,04:00,52.5,52.3,99.2,0.0,N @0.0,0.0,1.0,0,66.2,52.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,04:15,52.5,52.3,99.2,0.0,N @0.0,0.0,1.0,0,66.2,52.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,04:30,51.7,51.5,99.2,0.0,N @0.0,0.0,1.0,0,66.2,51.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,04:45,50.7,50.5,99.2,0.0,N @0.0,0.0,1.0,0,66.2,50.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,05:00,50.3,50.1,99.3,0.0,N @0.0,0.0,1.0,0,66.2,50.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,05:15,50.3,50.1,99.2,0.0,N @0.0,0.0,1.0,0,66.2,50.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,05:30,50.5,50.3,99.3,0.0,N @0.0,0.0,1.0,0,66.1,50.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,05:45,50.9,50.7,99.3,0.0,N @0.0,0.0,1.0,2,66.1,50.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,06:00,50.4,50.3,99.3,0.0,N @0.0,0.0,1.0,8,66.1,50.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,06:15,49.4,49.2,99.3,0.0,N @0.0,0.0,1.0,22,66.1,49.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,06:30,49.9,49.7,99.3,0.0,N @0.0,0.0,1.0,95,66.1,49.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,06:45,51.5,51.3,99.3,0.0,N @0.0,0.0,1.0,150,66.0,51.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,07:00,53.0,52.8,99.3,0.0,N @0.0,0.0,1.0,138,66.0,53.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,07:15,53.8,53.6,99.2,0.0,N @0.0,0.0,1.0,186,66.0,53.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,07:30,54.8,54.1,97.3,0.0,N @0.0,0.0,1.0,262,66.0,54.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,07:45,56.0,53.4,91.1,0.0,N @0.0,0.0,1.0,303,66.0,56.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,08:00,56.6,53.1,87.9,0.0,N @0.0,0.0,1.0,341,65.9,56.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,08:15,57.9,52.5,82.1,0.0,N @0.0,0.0,0.99,379,65.9,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,08:30,58.6,52.0,78.5,0.0,N @0.0,0.0,0.89,413,65.9,58.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,08:45,58.8,52.3,79.1,0.0,N @0.0,0.0,0.23,467,65.9,58.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,09:00,59.6,52.2,76.4,0.0,N @0.0,0.0,0.0,519,65.8,59.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,09:15,59.4,52.0,76.3,0.0,N @0.0,0.0,0.0,480,65.8,59.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,09:30,61.3,52.4,72.4,0.0,N @0.0,0.0,0.0,645,65.8,61.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,09:45,61.5,52.0,70.9,0.0,N @0.0,0.0,0.0,670,65.8,61.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,10:00,61.9,50.7,66.8,0.0,N @0.0,0.0,0.0,453,65.8,61.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,10:15,60.9,51.0,69.9,0.0,N @0.0,0.0,0.0,155,65.8,60.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,10:30,60.4,50.7,70.2,0.0,N @0.0,0.0,0.0,227,65.7,60.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,10:45,63.0,50.7,64.2,0.0,N @0.0,0.0,0.0,546,65.7,62.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,11:00,63.5,49.1,59.3,0.0,N @0.0,0.0,0.0,514,65.7,63.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,11:15,63.8,49.8,60.1,0.0,N @0.0,0.0,0.0,396,65.7,63.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,11:30,62.8,49.5,61.7,0.0,N @0.0,0.0,0.0,288,65.7,62.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,11:45,63.4,49.1,59.5,0.0,N @0.0,0.0,0.16,365,65.7,63.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,12:00,65.7,48.6,53.8,0.0,N @0.0,0.0,0.0,639,65.6,65.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,12:15,65.1,47.3,52.3,0.0,N @0.0,0.0,0.04,577,65.6,65.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,12:30,66.1,48.3,52.6,0.0,W@0.1,6.0,0.0,737,65.6,66.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,12:45,65.6,47.9,52.7,0.0,NW@0.3,5.3,0.0,732,65.6,65.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,13:00,66.1,47.1,50.2,0.0,N @0.0,0.0,0.0,501,65.6,66.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,13:15,66.1,46.1,48.4,0.0,N @0.0,0.0,0.0,607,65.6,66.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,13:30,68.0,46.6,46.3,0.0,N @0.0,0.0,0.0,681,65.6,67.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,13:45,68.2,47.4,47.2,0.0,N @0.0,0.0,0.0,667,65.6,68.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,14:00,66.8,48.2,51.2,0.0,N@0.0,1.4,0.0,437,65.6,66.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,14:15,66.7,49.2,53.3,0.0,NW@1.6,7.4,0.0,486,65.6,66.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,14:30,65.2,49.9,57.6,0.0,NW@4.6,9.2,0.0,217,65.6,65.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,14:45,63.3,50.6,63.2,0.0,N@7.2,10.3,0.0,135,65.6,63.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,15:00,62.9,50.8,64.5,0.0,NW@5.8,9.9,0.0,142,65.6,63.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,15:15,63.0,50.0,62.2,0.0,N@6.6,9.2,0.0,144,65.6,63.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,15:30,62.7,50.3,63.9,0.0,NW@4.2,8.2,0.0,119,65.7,62.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,15:45,62.2,50.4,65.1,0.0,NW@5.3,8.5,0.0,98,65.7,62.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,16:00,61.7,50.1,65.5,0.0,NW@5.0,7.1,0.0,74,65.7,61.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,16:15,61.4,51.2,69.1,0.0,NW@3.9,9.6,0.0,58,65.7,61.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,16:30,61.1,51.6,70.8,0.0,NW@0.1,5.7,0.0,44,65.7,61.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,16:45,61.1,51.4,70.2,0.0,N @0.0,0.0,0.03,42,65.8,61.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,17:00,60.6,50.5,69.2,0.0,NW@0.3,6.4,0.57,46,65.8,60.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,17:15,59.8,50.1,70.1,0.0,N @0.0,0.0,1.0,47,65.8,59.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,17:30,59.2,52.9,79.5,0.0,N @0.0,0.0,1.0,43,65.8,59.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,17:45,57.9,54.2,87.4,0.0,N @0.0,0.0,1.0,32,65.8,57.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,18:00,57.3,53.3,86.6,0.0,N @0.0,0.0,1.0,19,65.9,57.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,18:15,56.9,51.1,80.8,0.0,N @0.0,0.0,0.96,8,65.9,56.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,18:30,55.8,50.7,83.0,0.0,NW@0.0,2.8,0.93,1,65.9,55.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,18:45,54.8,50.5,85.5,0.0,N @0.0,0.0,0.9,0,66.0,54.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,19:00,52.8,49.8,89.6,0.0,N @0.0,0.0,0.87,0,66.0,52.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,19:15,51.4,49.3,92.6,0.0,N @0.0,0.0,0.87,0,66.0,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,19:30,51.6,49.3,91.8,0.0,N @0.0,0.0,0.85,0,66.0,51.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,19:45,53.7,50.0,87.2,0.0,W@0.5,3.9,0.73,0,66.1,53.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,20:00,53.3,49.9,88.0,0.0,SW@0.1,2.8,0.33,0,66.1,53.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,20:15,52.3,50.4,93.1,0.0,N @0.0,0.0,0.13,0,66.1,52.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,20:30,52.8,50.5,91.7,0.0,N @0.0,0.0,0.02,0,66.1,52.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,20:45,53.0,50.3,90.3,0.0,W@0.2,4.6,0.0,0,66.1,53.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,21:00,54.0,50.3,87.2,0.0,N @0.0,0.0,0.0,0,66.1,54.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,21:15,54.2,50.4,86.6,0.0,W@0.3,4.9,0.0,0,66.1,54.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,21:30,52.6,49.8,90.2,0.0,W@0.0,2.8,0.02,0,66.2,52.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,21:45,50.5,49.0,94.4,0.0,N @0.0,0.0,0.2,0,66.2,50.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,22:00,50.9,49.3,94.3,0.0,N @0.0,0.0,0.3,0,66.2,50.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,22:15,49.5,48.3,95.8,0.0,N @0.0,0.0,0.51,0,66.2,49.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,22:30,49.4,48.6,97.0,0.0,N @0.0,0.0,0.73,0,66.2,49.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,22:45,49.5,48.6,96.7,0.0,N @0.0,0.0,0.82,0,66.2,49.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,23:00,48.9,47.9,96.3,0.0,N @0.0,0.0,0.86,0,66.2,48.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,23:15,48.6,48.1,98.0,0.0,N @0.0,0.0,0.89,0,66.2,48.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,23:30,49.7,49.3,98.4,0.0,N @0.0,0.0,0.9,0,66.2,49.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,23:45,49.9,49.5,98.3,0.0,N @0.0,0.0,0.92,0,66.1,49.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-18,24:00,48.9,48.5,98.6,0.0,N @0.0,0.0,0.93,0,66.1,48.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,00:15,49.3,48.9,98.4,0.0,N @0.0,0.0,0.94,0,66.1,49.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,00:30,49.0,48.4,97.5,0.0,N @0.0,0.0,0.94,0,66.1,49.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,00:45,48.1,47.7,98.3,0.0,N @0.0,0.0,0.95,0,66.1,48.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,01:00,49.3,48.7,98.0,0.0,N @0.0,0.0,0.98,0,66.1,49.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,01:15,48.0,47.3,97.2,0.0,N @0.0,0.0,1.0,0,66.1,47.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,01:30,48.2,47.3,96.6,0.0,N @0.0,0.0,1.0,0,66.1,48.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,01:45,47.2,46.5,97.5,0.0,N @0.0,0.0,1.0,0,66.0,47.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,02:00,47.5,47.1,98.5,0.0,N @0.0,0.0,1.0,0,66.0,47.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,02:15,48.5,47.6,96.5,0.0,N @0.0,0.0,1.0,0,66.0,48.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,02:30,48.2,47.0,95.6,0.0,N @0.0,0.0,1.0,0,66.0,48.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,02:45,47.3,46.3,96.1,0.0,N @0.0,0.0,1.0,0,66.0,47.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,03:00,46.2,45.6,97.9,0.0,N @0.0,0.0,1.0,0,66.0,46.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,03:15,45.7,45.3,98.6,0.0,N @0.0,0.0,1.0,0,65.9,45.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,03:30,45.8,45.6,99.2,0.0,N @0.0,0.0,1.0,0,65.9,45.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,03:45,47.5,47.3,99.2,0.0,N @0.0,0.0,1.0,0,65.9,47.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,04:00,45.8,45.2,97.7,0.0,N @0.0,0.0,1.0,0,65.9,45.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,04:15,44.8,44.6,99.2,0.0,N @0.0,0.0,1.0,0,65.8,44.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,04:30,45.3,45.1,99.3,0.0,N @0.0,0.0,1.0,0,65.8,45.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,04:45,46.2,46.0,99.3,0.0,N @0.0,0.0,1.0,0,65.8,46.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,05:00,45.9,45.7,99.3,0.0,N @0.0,0.0,1.0,0,65.8,45.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,05:15,45.9,45.7,99.2,0.0,N @0.0,0.0,1.0,0,65.7,45.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,05:30,45.9,45.7,99.3,0.0,N @0.0,0.0,1.0,0,65.7,45.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,05:45,45.5,45.3,99.3,0.0,N @0.0,0.0,1.0,4,65.7,45.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,06:00,44.8,44.6,99.3,0.0,N @0.0,0.0,1.0,25,65.7,44.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,06:15,45.7,45.5,99.3,0.0,N @0.0,0.0,1.0,53,65.6,45.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,06:30,47.3,47.1,99.3,0.0,N @0.0,0.0,1.0,87,65.6,47.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,06:45,49.5,49.0,98.2,0.0,N @0.0,0.0,1.0,134,65.6,49.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,07:00,51.4,50.8,97.9,0.0,N @0.0,0.0,1.0,176,65.5,51.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,07:15,54.6,52.3,91.9,0.0,N @0.0,0.0,1.0,216,65.5,54.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,07:30,56.1,51.9,85.6,0.0,N @0.0,0.0,1.0,250,65.5,56.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,07:45,56.7,52.0,84.4,0.0,N @0.0,0.0,1.0,286,65.4,56.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,08:00,57.6,51.7,80.7,0.0,N @0.0,0.0,0.97,327,65.4,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,08:15,58.5,51.0,76.0,0.0,N @0.0,0.0,0.93,369,65.4,58.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,08:30,59.3,51.6,75.4,0.0,N @0.0,0.0,0.63,409,65.3,59.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,08:45,59.4,51.8,75.9,0.0,N @0.0,0.0,0.0,447,65.3,59.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,09:00,60.2,51.6,73.2,0.0,N @0.0,0.0,0.0,487,65.3,60.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,09:15,61.5,50.8,67.7,0.0,N @0.0,0.0,0.0,526,65.2,61.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,09:30,62.2,49.8,63.7,0.0,N @0.0,0.0,0.0,575,65.2,61.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,09:45,64.2,50.3,60.5,0.0,NE@0.0,1.7,0.0,588,65.2,64.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,10:00,64.2,49.4,58.4,0.0,N @0.0,0.0,0.0,607,65.2,64.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,10:15,65.1,48.9,55.5,0.0,N @0.0,0.0,0.0,629,65.1,64.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,10:30,66.2,49.0,53.9,0.0,N @0.0,0.0,0.0,650,65.1,66.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,10:45,67.3,48.7,51.2,0.0,N @0.0,0.0,0.0,672,65.0,67.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,11:00,67.7,48.7,50.5,0.0,S@0.1,4.2,0.0,684,65.0,67.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,11:15,68.6,47.1,46.1,0.0,S@0.1,4.2,0.0,696,65.0,68.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,11:30,69.0,46.9,45.3,0.0,E@0.3,4.9,0.0,705,65.0,69.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,11:45,69.0,45.7,43.1,0.0,W@1.1,8.2,0.0,711,65.0,69.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,12:00,70.0,45.5,41.4,0.0,N @0.0,2.1,0.0,713,64.9,70.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,12:15,69.4,44.1,39.9,0.0,N @0.0,0.0,0.0,714,64.9,69.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,12:30,70.2,43.4,37.9,0.0,N @0.4,6.7,0.0,724,64.9,69.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,12:45,71.8,43.9,36.6,0.0,SE@0.0,1.4,0.0,738,64.9,71.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,13:00,72.2,43.8,36.0,0.0,N @0.0,0.0,0.0,689,64.9,72.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,13:15,71.4,43.9,37.1,0.0,N @0.0,0.0,0.0,647,64.9,71.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,13:30,71.1,41.5,34.1,0.0,NW@0.2,5.3,0.0,606,64.9,71.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,13:45,71.2,41.9,34.6,0.0,NW@0.2,7.1,0.0,634,64.9,71.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,14:00,72.5,42.4,33.7,0.0,SE@0.0,2.4,0.0,612,64.9,72.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,14:15,73.1,41.8,32.4,0.0,SW@0.1,6.4,0.0,601,64.9,72.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,14:30,71.1,45.2,39.3,0.0,N @0.0,0.0,0.0,261,64.9,71.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,14:45,72.3,41.1,32.4,0.0,N @0.0,0.0,0.0,449,64.9,72.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,15:00,71.7,41.5,33.5,0.0,N @0.0,0.0,0.0,317,64.9,71.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,15:15,69.9,45.4,41.4,0.0,N @0.0,0.0,0.0,171,64.9,69.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,15:30,68.8,49.1,49.4,0.0,N @0.0,0.0,0.0,223,64.9,68.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,15:45,69.5,50.1,50.0,0.0,S@0.0,1.4,0.0,261,65.0,69.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,16:00,68.2,52.1,56.2,0.0,SE@0.0,1.7,0.0,281,65.0,68.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,16:15,68.0,52.2,56.9,0.0,SE@0.0,1.4,0.0,199,65.0,68.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,16:30,64.9,51.1,60.9,0.0,S@0.0,2.8,0.0,79,65.1,64.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,16:45,64.4,51.7,63.3,0.0,S@0.0,2.1,0.0,124,65.1,64.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,17:00,62.7,52.1,68.4,0.0,N @0.0,0.0,0.0,70,65.1,62.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,17:15,62.1,52.1,69.7,0.0,N @0.0,0.0,0.0,78,65.2,62.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,17:30,61.5,49.7,65.1,0.0,SW@0.0,1.4,0.0,26,65.2,61.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,17:45,59.3,49.9,71.1,0.0,N @0.0,0.0,0.0,20,65.2,59.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,18:00,60.1,48.3,65.1,0.0,W@0.9,7.4,0.0,10,65.3,60.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,18:15,59.2,48.0,66.3,0.0,SW@0.3,6.4,0.0,3,65.3,59.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,18:30,58.3,47.6,67.4,0.0,N @0.0,0.0,0.0,0,65.3,58.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,18:45,57.0,47.8,71.3,0.0,N @0.0,0.0,0.0,0,65.4,57.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,19:00,58.1,47.1,66.7,0.0,W@0.1,6.4,0.0,0,65.4,58.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,19:15,59.0,47.0,64.4,0.0,W@1.3,6.7,0.0,0,65.5,59.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,19:30,60.1,47.1,62.1,0.0,W@0.5,6.4,0.0,0,65.5,60.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,19:45,57.8,47.5,68.5,0.0,N @0.0,0.0,0.0,0,65.5,57.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,20:00,54.1,48.1,79.9,0.0,N @0.0,0.0,0.0,0,65.6,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,20:15,52.8,47.8,82.9,0.0,N @0.0,0.0,0.0,0,65.6,52.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,20:30,52.4,47.4,82.8,0.0,N @0.0,0.0,0.0,0,65.6,52.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,20:45,51.3,47.2,85.8,0.0,N @0.0,0.0,0.0,0,65.7,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,21:00,51.2,47.1,85.8,0.0,N @0.0,0.0,0.0,0,65.7,51.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,21:15,50.7,46.8,86.3,0.0,N @0.0,0.0,0.0,0,65.7,50.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,21:30,51.0,46.8,85.6,0.0,N @0.0,0.0,0.0,0,65.7,51.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,21:45,50.5,46.7,86.7,0.0,N @0.0,0.0,0.0,0,65.7,50.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,22:00,51.3,47.1,85.4,0.0,N @0.0,0.0,0.0,0,65.8,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,22:15,50.9,47.2,87.0,0.0,N @0.0,0.0,0.0,0,65.8,50.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,22:30,50.5,47.4,89.1,0.0,N @0.0,0.0,0.0,0,65.8,50.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,22:45,51.4,46.9,84.6,0.0,N @0.0,0.0,0.0,0,65.8,51.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,23:00,49.9,46.1,86.8,0.0,N @0.0,0.0,0.0,0,65.8,49.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,23:15,50.3,46.3,86.1,0.0,N @0.0,0.0,0.0,0,65.8,50.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,23:30,51.1,46.5,84.2,0.0,N @0.0,0.0,0.0,0,65.8,51.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,23:45,51.8,46.8,82.8,0.0,N @0.0,0.0,0.0,0,65.8,51.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-19,24:00,51.3,47.1,85.4,0.0,N @0.0,0.0,0.0,0,65.8,51.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,00:15,53.3,47.5,80.5,0.0,N @0.0,0.0,0.0,0,65.8,53.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,00:30,53.6,47.6,80.1,0.0,N @0.0,0.0,0.0,0,65.8,53.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,00:45,53.8,47.9,80.2,0.0,N @0.0,0.0,0.0,0,65.8,53.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,01:00,54.2,48.5,81.0,0.0,N @0.0,0.0,0.0,0,65.8,54.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,01:15,52.9,49.0,86.3,0.0,N @0.0,0.0,0.0,0,65.8,52.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,01:30,52.6,48.1,84.4,0.0,N @0.0,0.0,0.0,0,65.8,52.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,01:45,52.6,47.5,82.5,0.0,N @0.0,0.0,0.0,0,65.8,52.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,02:00,53.5,47.9,81.3,0.0,N @0.0,0.0,0.0,0,65.8,53.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,02:15,54.3,48.4,80.4,0.0,S@0.0,1.4,0.0,0,65.7,54.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,02:30,53.8,49.3,84.6,0.0,N @0.0,0.0,0.0,0,65.7,53.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,02:45,53.6,49.4,85.5,0.0,N @0.0,0.0,0.0,0,65.7,53.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,03:00,53.6,49.7,86.5,0.0,N @0.0,0.0,0.03,0,65.7,53.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,03:15,53.5,50.2,88.2,0.0,N @0.0,0.0,0.26,0,65.7,53.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,03:30,53.5,50.2,88.4,0.0,N @0.0,0.0,0.17,0,65.7,53.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,03:45,54.8,49.0,80.7,0.0,N @0.0,0.0,0.0,0,65.7,54.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,04:00,55.2,49.0,79.4,0.0,N @0.0,0.0,0.0,0,65.6,55.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,04:15,54.2,50.0,85.4,0.0,N @0.0,0.0,0.14,0,65.6,54.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,04:30,56.1,49.3,77.8,0.0,N @0.0,0.0,0.84,0,65.6,56.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,04:45,56.0,50.1,80.5,0.0,N @0.0,0.0,0.77,0,65.6,55.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,05:00,54.2,50.9,88.8,0.0,N @0.0,0.0,0.39,0,65.6,54.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,05:15,54.6,50.6,86.5,0.0,N @0.0,0.0,0.0,0,65.5,54.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,05:30,53.4,51.1,92.0,0.0,N @0.0,0.0,0.0,0,65.5,53.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,05:45,52.6,50.6,93.0,0.0,N @0.0,0.0,0.04,1,65.5,52.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,06:00,52.4,49.5,89.8,0.0,N @0.0,0.0,0.0,6,65.5,52.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,06:15,54.0,49.5,84.5,0.0,N @0.0,0.0,0.0,17,65.5,54.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,06:30,54.9,50.5,85.0,0.0,N @0.0,0.0,0.0,45,65.4,54.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,06:45,57.1,51.2,80.5,0.0,N @0.0,0.0,0.0,66,65.4,57.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,07:00,58.2,51.7,78.7,0.0,N @0.0,0.0,0.0,54,65.4,58.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,07:15,57.6,52.1,81.7,0.0,N @0.0,0.0,0.0,90,65.4,57.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,07:30,60.6,49.8,67.4,0.0,N @0.0,0.0,0.0,123,65.4,60.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,07:45,61.6,49.9,65.3,0.0,N @0.0,0.0,0.0,122,65.4,61.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,08:00,61.3,50.3,67.0,0.0,N @0.0,0.0,0.0,97,65.3,61.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,08:15,62.6,49.4,62.1,0.0,N @0.0,0.0,0.0,288,65.3,62.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,08:30,63.7,46.4,53.3,0.0,N @0.0,0.0,0.0,284,65.3,63.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,08:45,64.0,46.5,53.0,0.0,N @0.0,0.0,0.0,324,65.3,64.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,09:00,66.1,46.5,49.2,0.0,N @0.0,0.0,0.0,599,65.3,66.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,09:15,64.7,46.2,51.1,0.0,N @0.0,0.0,0.0,276,65.3,64.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,09:30,65.4,46.3,49.9,0.0,N @0.0,0.0,0.0,376,65.3,65.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,09:45,66.3,46.3,48.4,0.0,N @0.0,0.0,0.0,418,65.2,66.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,10:00,67.5,46.1,46.1,0.0,N @0.0,0.0,0.0,703,65.2,67.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,10:15,68.1,46.0,45.0,0.0,N @0.0,0.0,0.0,698,65.2,68.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,10:30,69.1,46.6,44.6,0.0,N @0.0,0.0,0.0,656,65.2,69.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,10:45,69.7,46.7,43.7,0.0,N @0.0,0.0,0.0,699,65.2,69.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,11:00,68.5,45.8,44.0,0.0,N @0.0,0.0,0.0,362,65.2,68.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,11:15,68.7,45.3,43.0,0.0,N @0.0,0.0,0.0,360,65.1,68.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,11:30,69.0,45.2,42.2,0.0,N @0.0,0.0,0.0,334,65.1,69.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,11:45,70.0,45.2,41.0,0.0,N @0.0,0.0,0.0,614,65.1,70.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,12:00,71.8,47.0,41.1,0.0,N @0.0,0.0,0.0,716,65.1,71.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,12:15,72.1,46.2,39.6,0.0,N @0.0,0.0,0.0,696,65.1,72.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,12:30,72.5,46.9,40.0,0.0,SW@0.4,9.2,0.0,695,65.1,72.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,12:45,73.5,45.0,36.0,0.0,S@0.0,1.4,0.0,681,65.1,73.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,13:00,74.2,45.4,35.7,0.0,N @0.0,0.0,0.0,666,65.1,74.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,13:15,74.1,45.1,35.5,0.0,S@0.0,1.4,0.0,622,65.1,74.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,13:30,74.5,45.6,35.6,0.0,N @0.0,0.0,0.0,618,65.1,74.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,13:45,73.7,45.3,36.1,0.0,N @0.0,0.0,0.0,595,65.2,73.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,14:00,73.9,45.7,36.5,0.0,N @0.0,0.0,0.0,551,65.2,74.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,14:15,74.6,45.3,35.2,0.0,N @0.0,0.0,0.0,520,65.2,74.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,14:30,75.1,47.0,36.9,0.0,N @0.0,0.0,0.0,536,65.2,75.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,14:45,75.2,45.7,35.1,0.0,N @0.0,0.0,0.0,471,65.2,75.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,15:00,74.3,45.2,35.4,0.0,N @0.0,0.0,0.0,375,65.2,74.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,15:15,74.8,47.6,38.2,0.0,N @0.0,0.0,0.0,387,65.3,74.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,15:30,73.8,49.6,42.5,0.0,N @0.0,0.0,0.0,353,65.3,73.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,15:45,73.3,49.8,43.4,0.0,SW@0.4,6.0,0.0,353,65.3,73.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,16:00,72.9,49.1,42.9,0.0,SW@4.7,11.4,0.0,302,65.3,72.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,16:15,71.3,48.9,45.0,0.0,SW@8.0,12.1,0.0,242,65.4,71.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,16:30,70.3,49.8,48.0,0.0,SW@5.9,8.9,0.0,184,65.4,70.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,16:45,70.3,48.9,46.6,0.0,W@6.3,10.3,0.0,170,65.4,70.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,17:00,69.6,46.7,44.0,0.0,W@8.0,12.1,0.0,113,65.5,69.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,17:15,68.4,47.4,46.9,0.0,W@8.6,12.4,0.0,116,65.5,68.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,17:30,67.3,47.0,48.1,0.0,W@8.7,12.8,0.0,72,65.6,67.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,17:45,65.7,46.9,50.5,0.0,W@9.0,15.3,0.0,29,65.6,65.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,18:00,63.9,47.2,54.5,0.0,W@6.6,11.0,0.0,13,65.7,64.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,18:15,63.5,46.6,54.0,0.0,W@7.8,11.0,0.0,4,65.7,63.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,18:30,62.8,46.7,55.5,0.0,W@6.3,9.9,0.0,0,65.8,62.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,18:45,60.4,46.9,60.9,0.0,W@5.2,7.8,0.0,0,65.8,60.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,19:00,60.6,46.2,59.0,0.0,W@5.5,10.3,0.0,0,65.8,60.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,19:15,58.6,46.7,64.5,0.0,W@3.8,6.0,0.0,0,65.9,58.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,19:30,57.5,46.9,67.6,0.0,N @0.0,0.0,0.0,0,65.9,57.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,19:45,55.1,47.5,75.7,0.0,N @0.0,0.0,0.0,0,66.0,55.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,20:00,52.8,47.8,83.0,0.0,N @0.0,0.0,0.0,0,66.0,52.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,20:15,52.4,48.0,84.9,0.0,N @0.0,0.0,0.0,0,66.1,52.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,20:30,52.3,47.8,84.4,0.0,N @0.0,0.0,0.0,0,66.1,52.3,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,20:45,51.9,47.0,83.4,0.0,N @0.0,0.0,0.0,0,66.1,51.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,21:00,52.8,46.6,79.5,0.0,N @0.0,0.0,0.0,0,66.2,52.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,21:15,51.8,47.1,83.9,0.0,N @0.0,0.0,0.0,0,66.2,51.7,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,21:30,52.1,46.8,81.9,0.0,N @0.0,0.0,0.0,0,66.2,52.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,21:45,50.6,46.4,85.6,0.0,N @0.0,0.0,0.0,0,66.2,50.5,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,22:00,49.0,46.0,89.4,0.0,N @0.0,0.0,0.0,0,66.3,48.9,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,22:15,49.2,46.0,88.4,0.0,N @0.0,0.0,0.0,0,66.3,49.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,22:30,51.0,46.4,84.0,0.0,N @0.0,0.0,0.0,0,66.3,51.0,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,22:45,53.5,46.2,76.3,0.0,N @0.0,0.0,0.0,0,66.3,53.4,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,23:00,49.1,45.9,88.4,0.0,N @0.0,0.0,0.0,0,66.3,49.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,23:15,49.2,46.1,88.8,0.0,N @0.0,0.0,0.0,0,66.3,49.2,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,23:30,48.6,46.1,91.0,0.0,N @0.0,0.0,0.0,0,66.4,48.6,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,23:45,48.9,46.0,89.7,0.0,N @0.0,0.0,0.01,0,66.4,48.8,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567
+2019-09-20,24:00,50.1,45.9,85.1,0.0,N @0.0,0.0,0.0,0,66.4,50.1,"Frenchman (Frenchman Hills), Grant County",330023,Frenchman,2020-01-21 19:27:11.160567

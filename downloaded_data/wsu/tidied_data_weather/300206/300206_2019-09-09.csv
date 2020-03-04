@@ -1,0 +1,673 @@
+Date,Time PST,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Soil VWC %, Atm. Press. inHg, 2<sup>nd</sup> Air Temp °F,Location,Station ID,Station Name,Download Timestamp
+2019-09-09,00:15,54.3,-77.5,0.1,0.0,S@5.5,15.3,0.0,0,58.5,65.9,16.7,29.88,54.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,00:30,53.9,-77.1,0.1,0.0,S@2.8,13.9,0.0,0,58.3,65.9,16.7,29.88,54.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,00:45,53.7,-77.6,0.1,0.0,S@6.3,13.9,0.0,0,58.1,65.8,16.7,29.88,54.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,01:00,53.5,-77.6,0.1,0.0,S@7.7,15.0,0.0,0,57.9,65.8,16.7,29.88,53.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,01:15,53.4,-77.5,0.1,0.0,S@6.2,15.7,0.0,0,57.7,65.8,16.7,29.88,53.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,01:30,52.6,-78.6,0.1,0.0,SE@3.8,9.2,0.0,0,57.5,65.8,16.7,29.88,52.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,01:45,52.0,-78.5,0.1,0.0,SE@0.5,9.2,0.0,0,57.3,65.7,16.7,29.89,52.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,02:00,52.4,-78.3,0.1,0.0,S@0.3,9.2,0.0,0,57.1,65.7,16.7,29.89,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,02:15,53.1,-77.7,0.1,0.0,S@4.1,18.5,0.0,0,56.9,65.7,16.7,29.89,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,02:30,52.6,-78.7,0.1,0.0,S@3.9,16.7,0.0,0,56.8,65.7,16.7,29.89,53.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,02:45,52.6,-78.8,0.1,0.0,SW@1.4,15.3,0.0,0,56.7,65.7,16.7,29.89,52.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,03:00,51.9,-78.7,0.1,0.0,NW@0.2,7.4,0.0,0,56.5,65.6,16.7,29.89,52.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,03:15,52.0,-78.4,0.1,0.0,E@0.0,1.7,0.0,0,56.4,65.6,16.7,29.9,52.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,03:30,52.7,-79.1,0.1,0.0,S@0.7,9.6,0.0,0,56.3,65.6,16.7,29.9,53.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,03:45,52.8,-78.7,0.1,0.0,E@0.0,1.4,0.0,0,56.2,65.5,16.7,29.9,53.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,04:00,52.4,-78.3,0.1,0.0,N @0.0,0.0,0.0,0,56.2,65.5,16.7,29.9,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,04:15,52.3,-77.6,0.1,0.0,N @0.0,0.0,0.0,0,56.4,65.5,16.7,29.9,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,04:30,51.9,-79.7,0.1,0.0,N @0.0,0.0,0.0,0,56.5,65.4,16.7,29.9,52.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,04:45,52.4,-78.2,0.1,0.0,SW@0.0,3.9,0.0,0,56.6,65.4,16.7,29.91,52.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,05:00,53.0,-78.3,0.1,0.0,SW@0.3,13.9,0.0,0,56.7,65.4,16.6,29.91,53.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,05:15,53.2,-78.0,0.1,0.0,SW@1.1,16.7,0.0,1,56.8,65.4,16.6,29.91,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,05:30,53.1,-77.9,0.1,0.0,SW@0.4,11.7,0.0,3,56.9,65.3,16.6,29.91,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,05:45,53.1,-78.5,0.1,0.0,SE@2.5,15.0,0.0,9,57.0,65.3,16.6,29.91,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,06:00,53.0,-78.7,0.1,0.0,E@0.3,8.2,0.0,22,57.0,65.2,16.6,29.91,53.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,06:15,53.1,-78.5,0.1,0.0,E@0.7,12.4,0.0,45,57.2,65.2,16.6,29.91,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,06:30,53.2,-78.4,0.1,0.0,SE@0.9,14.6,0.0,53,57.3,65.2,16.6,29.92,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,06:45,53.1,-78.3,0.1,0.0,S@1.1,15.0,0.0,36,57.6,65.1,16.6,29.92,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,07:00,52.7,-78.3,0.1,0.0,S@4.0,15.0,0.0,49,57.8,65.1,16.6,29.92,52.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,07:15,52.6,-78.1,0.1,0.0,S@3.5,16.4,0.03,83,57.9,65.1,16.6,29.92,52.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,07:30,52.7,-78.5,0.1,0.0,S@5.4,15.0,0.09,147,58.1,65.0,16.6,29.92,53.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,07:45,52.5,-78.5,0.1,0.0,S@4.9,16.0,0.14,113,58.3,65.0,16.6,29.93,52.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,08:00,52.3,-79.1,0.1,0.01,S@6.4,14.6,0.27,117,58.7,65.0,16.6,29.93,52.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,08:15,52.5,-79.1,0.1,0.01,S@1.9,12.1,0.29,127,58.9,64.9,16.6,29.93,52.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,08:30,53.0,-78.8,0.1,0.0,S@1.7,12.1,0.32,183,59.0,64.9,16.6,29.93,53.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,08:45,52.9,-79.6,0.1,0.02,SW@2.5,11.7,0.32,143,59.3,64.9,16.6,29.94,53.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,09:00,52.9,-78.6,0.1,0.01,S@0.1,6.0,0.33,100,59.6,64.9,16.6,29.94,53.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,09:15,53.1,-78.7,0.1,0.01,S@0.0,2.4,0.33,99,59.8,64.8,16.6,29.94,53.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,09:30,53.4,-78.6,0.1,0.01,SW@0.5,11.7,0.34,114,60.0,64.8,16.6,29.94,53.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,09:45,53.7,-78.7,0.1,0.0,S@1.7,12.4,0.19,160,60.1,64.8,16.6,29.94,53.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,10:00,54.1,-78.2,0.1,0.0,S@0.9,6.4,0.15,168,60.3,64.8,16.6,29.94,54.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,10:15,54.9,-77.2,0.1,0.0,W@2.8,8.2,0.09,183,60.7,64.7,16.6,29.94,55.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,10:30,55.6,-76.8,0.1,0.0,SW@4.6,10.7,0.05,215,61.1,64.7,16.5,29.94,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,10:45,56.2,-76.6,0.1,0.0,SW@5.2,11.7,0.14,383,61.5,64.7,16.5,29.94,56.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,11:00,57.3,-75.8,0.1,0.0,SW@1.0,11.7,0.06,395,62.2,64.7,16.5,29.94,57.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,11:15,57.9,-75.1,0.1,0.0,S@2.0,13.2,0.0,350,63.1,64.7,16.5,29.94,58.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,11:30,58.2,-75.0,0.1,0.0,SW@2.5,16.4,0.0,380,63.9,64.6,16.5,29.95,58.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,11:45,58.8,-75.0,0.1,0.0,SW@4.0,16.4,0.0,292,64.5,64.6,16.5,29.94,58.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,12:00,58.2,-75.5,0.1,0.0,W@2.2,16.0,0.06,478,65.1,64.6,16.5,29.94,58.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,12:15,59.7,-73.2,0.1,0.0,SW@3.1,16.0,0.0,292,65.4,64.6,16.5,29.94,59.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,12:30,60.4,-72.8,0.1,0.0,SW@5.4,11.4,0.0,421,66.1,64.6,16.5,29.94,60.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,12:45,60.3,-72.8,0.1,0.0,SW@1.8,13.2,0.0,197,66.5,64.6,16.5,29.94,60.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,13:00,60.0,-73.1,0.1,0.0,SW@5.4,12.8,0.0,195,66.7,64.6,16.5,29.94,60.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,13:15,59.9,-73.6,0.1,0.0,SW@3.6,12.4,0.04,451,66.6,64.6,16.5,29.93,60.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,13:30,61.3,-72.9,0.1,0.0,SW@5.7,15.0,0.0,328,66.6,64.6,16.5,29.93,61.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,13:45,61.6,-72.1,0.1,0.0,SW@10.7,16.4,0.0,488,66.9,64.6,16.5,29.93,61.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,14:00,61.6,-72.0,0.1,0.0,SW@8.4,17.5,0.0,275,67.1,64.6,16.5,29.93,61.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,14:15,61.6,-72.2,0.1,0.0,SW@6.8,13.5,0.0,300,67.2,64.6,16.5,29.93,61.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,14:30,63.8,-71.1,0.1,0.0,SW@1.4,9.2,0.0,459,67.2,64.6,16.5,29.93,63.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,14:45,63.1,-72.2,0.1,0.0,SW@5.0,18.5,0.0,296,67.5,64.6,16.5,29.93,63.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,15:00,63.8,-71.1,0.1,0.0,SW@3.8,13.9,0.0,369,67.7,64.6,16.5,29.93,63.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,15:15,64.6,-70.0,0.1,0.0,SW@4.3,17.8,0.0,449,67.8,64.6,16.5,29.93,64.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,15:30,64.4,-70.4,0.1,0.0,SW@6.6,16.4,0.0,368,68.0,64.6,16.5,29.92,64.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,15:45,63.0,-71.3,0.1,0.0,SW@3.4,14.2,0.0,202,68.1,64.6,16.5,29.92,63.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,16:00,64.5,-70.7,0.1,0.0,S@0.1,4.6,0.0,260,67.8,64.6,16.5,29.92,64.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,16:15,64.1,-70.7,0.1,0.0,S@0.2,10.3,0.0,256,67.5,64.6,16.5,29.92,64.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,16:30,64.4,-70.2,0.1,0.0,SW@1.6,10.7,0.0,239,67.4,64.7,16.5,29.92,64.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,16:45,64.0,-70.9,0.1,0.0,S@2.0,11.7,0.0,183,67.1,64.7,16.5,29.92,64.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,17:00,62.7,-71.4,0.1,0.0,N @0.0,0.0,0.0,83,66.8,64.7,16.5,29.92,62.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,17:15,62.4,-71.3,0.1,0.0,N @0.0,0.0,0.0,55,66.3,64.7,16.5,29.92,62.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,17:30,62.2,-71.7,0.1,0.0,N @0.0,0.0,0.0,29,65.8,64.7,16.6,29.92,62.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,17:45,62.0,-71.7,0.1,0.0,N @0.0,0.0,0.0,17,65.2,64.7,16.6,29.93,62.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,18:00,61.3,-72.4,0.1,0.0,N @0.0,0.0,0.0,10,64.7,64.7,16.6,29.93,61.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,18:15,61.2,-72.2,0.1,0.0,N @0.0,0.0,0.0,3,64.2,64.7,16.5,29.93,61.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,18:30,61.4,-72.0,0.1,0.0,N @0.0,0.0,0.0,2,63.8,64.7,16.5,29.93,61.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,18:45,60.4,-72.7,0.1,0.0,N @0.0,0.0,0.0,0,63.3,64.7,16.5,29.93,60.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,19:00,58.4,-74.0,0.1,0.0,W@0.8,10.7,0.0,0,62.9,64.7,16.6,29.93,58.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,19:15,56.9,-75.8,0.1,0.0,N @0.0,0.0,0.0,0,62.4,64.7,16.6,29.93,57.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,19:30,56.5,-75.6,0.1,0.0,N @0.0,0.0,0.0,0,62.0,64.7,16.5,29.93,56.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,19:45,56.2,-75.4,0.1,0.0,N @0.0,0.0,0.0,0,61.7,64.7,16.5,29.93,56.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,20:00,54.5,-76.5,0.1,0.0,N @0.0,0.0,0.0,0,61.4,64.8,16.6,29.93,54.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,20:15,54.1,-76.9,0.1,0.0,N @0.0,0.0,0.0,0,61.0,64.8,16.5,29.93,54.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,20:30,54.7,-76.8,0.1,0.0,N @0.0,0.0,0.0,0,60.4,64.8,16.5,29.93,55.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,20:45,55.3,-76.4,0.1,0.0,SE@4.4,9.6,0.0,0,60.0,64.8,16.6,29.93,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,21:00,55.7,-75.7,0.1,0.0,SE@6.3,12.1,0.0,0,59.7,64.8,16.6,29.93,56.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,21:15,55.1,-76.1,0.1,0.0,E@7.7,12.1,0.0,0,59.5,64.8,16.6,29.93,55.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,21:30,53.9,-77.1,0.1,0.0,E@1.9,9.2,0.0,0,59.2,64.8,16.6,29.93,54.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,21:45,53.8,-77.1,0.1,0.0,SE@2.8,11.4,0.0,0,58.8,64.8,16.6,29.92,54.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,22:00,54.2,-76.8,0.1,0.0,SE@3.9,10.7,0.0,0,58.4,64.8,16.6,29.93,54.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,22:15,54.0,-76.7,0.1,0.0,SE@3.5,10.3,0.0,0,58.0,64.8,16.6,29.93,54.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,22:30,54.2,-77.1,0.1,0.0,SE@3.1,12.4,0.0,0,57.7,64.8,16.5,29.93,54.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,22:45,53.7,-77.0,0.1,0.0,SE@3.7,10.7,0.0,0,57.4,64.8,16.5,29.93,54.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,23:00,53.4,-77.4,0.1,0.0,SE@5.2,10.7,0.0,0,57.1,64.8,16.5,29.92,53.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,23:15,52.7,-77.9,0.1,0.0,SE@7.4,12.4,0.0,0,56.8,64.8,16.5,29.92,53.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,23:30,52.7,-77.5,0.1,0.0,SE@5.1,9.9,0.0,0,56.5,64.8,16.5,29.93,53.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,23:45,52.6,-77.6,0.1,0.0,SE@5.0,9.6,0.0,0,56.3,64.8,16.5,29.93,52.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-09,24:00,53.2,-76.6,0.1,0.0,SE@1.3,8.9,0.0,0,56.1,64.8,16.5,29.93,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,00:15,53.2,-77.1,0.1,0.0,SE@0.7,9.9,0.0,0,55.9,64.8,16.5,29.93,53.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,00:30,53.1,-76.7,0.1,0.0,SE@0.0,1.4,0.0,0,55.7,64.8,16.5,29.93,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,00:45,53.0,-77.6,0.1,0.0,N @0.0,0.0,0.0,0,55.5,64.7,16.5,29.93,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,01:00,49.9,-80.1,0.1,0.0,N @0.0,0.0,0.0,0,55.4,64.7,16.5,29.93,50.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,01:15,46.6,-82.8,0.1,0.0,N @0.0,0.0,0.0,0,55.1,64.7,16.5,29.93,46.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,01:30,48.2,-81.7,0.1,0.0,N @0.0,0.0,0.0,0,54.8,64.7,16.5,29.93,48.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,01:45,47.9,-82.4,0.1,0.0,N @0.0,0.0,0.0,0,54.5,64.6,16.5,29.93,48.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,02:00,46.6,-83.3,0.1,0.0,N @0.0,0.0,0.0,0,54.3,64.6,16.5,29.93,47.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,02:15,47.9,-81.8,0.1,0.0,N @0.0,0.0,0.0,0,54.0,64.6,16.5,29.93,48.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,02:30,47.0,-82.6,0.1,0.0,N @0.0,0.0,0.0,0,53.8,64.6,16.5,29.93,47.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,02:45,45.5,-83.9,0.1,0.0,N @0.0,0.0,0.05,0,53.6,64.5,16.5,29.93,45.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,03:00,46.6,-82.2,0.1,0.0,SE@1.0,7.8,0.05,0,53.4,64.5,16.5,29.94,47.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,03:15,47.4,-81.3,0.1,0.0,SE@0.0,1.4,0.0,0,53.1,64.5,16.5,29.94,47.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,03:30,45.2,-82.3,0.1,0.0,N @0.0,0.0,0.0,0,53.0,64.5,16.5,29.94,45.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,03:45,45.8,-82.2,0.1,0.0,SE@1.1,9.6,0.02,0,52.8,64.4,16.5,29.93,46.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,04:00,46.1,-81.8,0.1,0.0,N @0.0,0.0,0.0,0,52.6,64.4,16.5,29.93,46.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,04:15,45.9,-82.7,0.1,0.0,N @0.0,0.0,0.01,0,52.6,64.4,16.5,29.93,46.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,04:30,45.5,-82.6,0.1,0.0,N @0.0,0.0,0.1,0,52.5,64.3,16.5,29.93,45.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,04:45,45.4,-82.5,0.1,0.0,N @0.0,0.0,0.14,0,52.3,64.3,16.5,29.93,45.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,05:00,45.5,-83.4,0.1,0.0,N @0.0,0.0,0.09,0,52.1,64.3,16.5,29.94,45.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,05:15,46.0,-82.6,0.1,0.0,E@0.8,7.1,0.1,2,51.9,64.2,16.5,29.94,46.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,05:30,48.1,-80.2,0.1,0.0,E@7.5,12.1,0.02,4,51.8,64.2,16.5,29.94,48.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,05:45,46.9,-81.3,0.1,0.0,E@7.5,9.6,0.0,12,51.8,64.2,16.5,29.95,47.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,06:00,46.0,-81.5,0.1,0.0,E@6.7,8.5,0.02,40,51.8,64.1,16.5,29.95,46.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,06:15,46.5,-81.8,0.1,0.0,E@2.5,7.1,0.0,98,51.8,64.1,16.5,29.95,46.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,06:30,48.4,-80.4,0.1,0.0,E@0.0,1.7,0.0,142,51.9,64.0,16.5,29.95,48.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,06:45,50.8,-79.2,0.1,0.0,N @0.0,0.0,0.0,200,52.2,64.0,16.5,29.95,51.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,07:00,52.9,-78.1,0.1,0.0,N @0.0,0.0,0.0,249,52.7,64.0,16.5,29.95,53.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,07:15,54.2,-77.3,0.1,0.0,E@0.5,6.7,0.0,285,53.4,64.0,16.5,29.96,54.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,07:30,55.0,-76.7,0.1,0.0,E@0.0,1.4,0.0,350,54.3,64.0,16.5,29.96,55.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,07:45,55.8,-75.6,0.1,0.0,E@0.2,6.4,0.0,356,55.2,63.9,16.5,29.96,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,08:00,56.4,-75.6,0.1,0.0,E@0.5,7.4,0.0,354,56.2,63.9,16.5,29.96,56.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,08:15,57.4,-76.3,0.1,0.0,SE@0.0,2.4,0.0,422,57.1,63.9,16.5,29.97,57.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,08:30,58.8,-74.4,0.1,0.0,E@0.1,6.7,0.0,451,58.1,63.8,16.5,29.97,58.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,08:45,59.9,-74.7,0.1,0.0,N @0.0,0.0,0.0,483,59.3,63.8,16.5,29.97,59.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,09:00,61.2,-72.5,0.1,0.0,SE@0.0,1.4,0.0,534,60.6,63.8,16.5,29.97,61.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,09:15,63.3,-71.5,0.1,0.0,N @0.0,0.0,0.0,497,62.0,63.8,16.5,29.97,63.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,09:30,63.3,-71.6,0.1,0.0,N@0.4,6.4,0.0,564,63.3,63.8,16.5,29.97,63.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,09:45,62.8,-71.6,0.1,0.0,N @0.0,0.0,0.0,508,64.7,63.7,16.5,29.97,63.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,10:00,63.4,-71.2,0.1,0.0,N @0.0,0.0,0.0,592,65.9,63.7,16.5,29.97,63.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,10:15,62.8,-71.7,0.1,0.0,NW@0.4,8.9,0.0,442,67.1,63.7,16.5,29.97,62.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,10:30,65.5,-69.9,0.1,0.0,N @0.0,0.0,0.0,740,68.0,63.7,16.5,29.97,65.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,10:45,65.5,-69.6,0.1,0.0,N @0.0,0.0,0.0,612,69.4,63.7,16.5,29.97,65.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,11:00,63.5,-71.1,0.1,0.0,W@0.4,9.2,0.0,197,70.9,63.6,16.5,29.97,63.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,11:15,63.0,-71.2,0.1,0.0,W@1.7,12.4,0.0,220,71.0,63.6,16.5,29.96,63.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,11:30,63.4,-71.0,0.1,0.0,W@1.0,8.9,0.0,185,70.4,63.6,16.5,29.96,63.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,11:45,63.2,-71.1,0.1,0.0,N @0.0,0.0,0.0,142,69.7,63.6,16.5,29.96,63.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,12:00,63.3,-72.4,0.1,0.0,N @0.0,0.0,0.0,170,69.0,63.5,16.5,29.96,63.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,12:15,62.8,-73.7,0.1,0.0,N @0.0,0.0,0.0,219,68.5,63.5,16.5,29.96,63.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,12:30,63.4,-73.4,0.1,0.0,N @0.0,0.0,0.0,222,68.1,63.5,16.5,29.96,63.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,12:45,64.1,-72.1,0.1,0.0,N @0.0,0.0,0.0,236,68.0,63.5,16.5,29.95,64.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,13:00,64.6,-71.6,0.1,0.0,N @0.0,0.0,0.0,275,67.9,63.6,16.5,29.95,64.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,13:15,65.6,-70.5,0.1,0.0,W@6.1,14.6,0.0,451,67.9,63.6,16.5,29.95,65.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,13:30,64.7,-71.3,0.1,0.0,W@0.4,10.3,0.0,153,68.3,63.6,16.5,29.95,65.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,13:45,63.0,-72.5,0.1,0.0,E@1.9,11.4,0.0,87,68.5,63.6,16.5,29.96,63.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,14:00,57.8,-74.5,0.1,0.04,SE@2.4,17.8,0.09,51,68.0,63.6,16.5,29.96,58.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,14:15,55.6,-75.9,0.1,0.03,E@10.0,15.3,0.19,95,67.0,63.6,16.5,29.95,55.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,14:30,56.6,-75.0,0.1,0.0,E@7.8,16.0,0.12,96,65.6,63.6,16.5,29.94,56.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,14:45,54.7,-76.0,0.1,0.0,SE@0.2,4.9,0.11,70,64.4,63.6,16.5,29.94,54.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,15:00,56.0,-75.1,0.1,0.01,S@0.1,4.2,0.12,50,63.7,63.6,16.5,29.94,56.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,15:15,56.6,-74.7,0.1,0.01,N @0.0,0.0,0.26,50,63.2,63.7,16.5,29.94,56.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,15:30,56.3,-75.0,0.1,0.01,N @0.0,0.0,0.29,63,62.9,63.7,16.5,29.94,56.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,15:45,56.5,-74.9,0.1,0.0,SW@0.0,1.4,0.3,74,62.8,63.7,16.5,29.94,56.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,16:00,56.8,-74.5,0.1,0.0,N @0.0,0.0,0.14,95,62.6,63.8,16.5,29.94,57.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,16:15,56.5,-74.8,0.1,0.0,SW@0.4,8.5,0.11,124,62.5,63.8,16.5,29.95,56.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,16:30,57.4,-74.5,0.1,0.0,SW@0.0,1.4,0.08,127,62.4,63.8,16.5,29.95,57.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,16:45,57.0,-74.7,0.1,0.0,SW@0.0,3.1,0.08,101,62.4,63.8,16.5,29.95,57.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,17:00,56.7,-74.5,0.1,0.0,SW@0.0,1.4,0.01,74,62.3,63.9,16.5,29.94,57.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,17:15,56.7,-74.7,0.1,0.0,N @0.0,0.0,0.0,55,62.1,63.9,16.5,29.94,56.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,17:30,56.1,-74.9,0.1,0.0,N @0.0,0.0,0.0,38,61.8,63.9,16.5,29.95,56.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,17:45,55.2,-75.2,0.1,0.0,N @0.0,0.0,0.0,23,61.5,63.9,16.5,29.95,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,18:00,55.1,-75.6,0.1,0.0,N @0.0,0.0,0.0,14,61.1,63.9,16.5,29.95,55.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,18:15,54.4,-76.2,0.1,0.0,N @0.0,0.0,0.0,3,60.7,63.9,16.5,29.95,54.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,18:30,56.0,-74.8,0.1,0.0,SE@0.0,1.4,0.0,2,60.3,63.9,16.5,29.95,56.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,18:45,54.4,-75.9,0.1,0.0,N @0.0,0.0,0.0,0,59.9,64.0,16.5,29.96,54.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,19:00,55.2,-75.2,0.1,0.0,N @0.0,0.0,0.0,0,59.5,63.9,16.5,29.97,55.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,19:15,54.0,-76.0,0.1,0.0,N @0.0,0.0,0.0,0,59.0,64.0,16.5,29.97,54.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,19:30,53.3,-76.5,0.1,0.0,N @0.0,0.0,0.0,0,58.6,64.0,16.5,29.98,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,19:45,52.8,-76.9,0.1,0.0,N @0.0,0.0,0.0,0,58.2,64.0,16.5,29.98,53.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,20:00,54.0,-76.4,0.1,0.0,N @0.0,0.0,0.0,0,57.9,64.0,16.5,29.99,54.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,20:15,51.8,-78.0,0.1,0.0,N @0.0,0.0,0.0,0,57.7,64.0,16.5,29.98,52.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,20:30,50.5,-78.1,0.1,0.0,N @0.0,0.0,0.0,0,57.4,64.0,16.5,29.98,50.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,20:45,51.3,-77.3,0.1,0.0,N @0.0,0.0,0.0,0,57.0,64.0,16.5,29.99,51.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,21:00,51.3,-77.9,0.1,0.0,N @0.0,0.0,0.02,0,56.7,64.0,16.5,29.99,51.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,21:15,50.6,-78.3,0.1,0.0,N @0.0,0.0,0.15,0,56.3,64.0,16.5,29.99,50.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,21:30,52.4,-76.6,0.1,0.0,N @0.0,0.0,0.03,0,55.9,64.0,16.5,29.99,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,21:45,52.3,-76.9,0.1,0.0,N @0.0,0.0,0.01,0,55.6,64.0,16.5,30.0,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,22:00,51.2,-78.2,0.1,0.0,N @0.0,0.0,0.01,0,55.3,64.0,16.5,29.99,51.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,22:15,50.7,-78.2,0.1,0.0,N @0.0,0.0,0.0,0,54.9,63.9,16.5,30.0,51.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,22:30,49.2,-79.5,0.1,0.0,N @0.0,0.0,0.0,0,54.6,63.9,16.5,30.0,49.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,22:45,49.3,-79.7,0.1,0.0,N @0.0,0.0,0.06,0,54.4,63.9,16.5,30.0,49.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,23:00,50.2,-79.5,0.1,0.0,N @0.0,0.0,0.13,0,54.1,63.9,16.5,30.01,50.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,23:15,50.2,-78.3,0.1,0.0,N @0.0,0.0,0.22,0,53.9,63.9,16.5,30.0,50.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,23:30,50.5,-78.1,0.1,0.0,N @0.0,0.0,0.27,0,53.7,63.9,16.5,30.0,50.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,23:45,51.4,-77.8,0.1,0.0,N @0.0,0.0,0.29,0,53.5,63.8,16.5,30.01,51.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-10,24:00,50.5,-78.4,0.1,0.0,N @0.0,0.0,0.24,0,53.3,63.8,16.5,30.01,50.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,00:15,47.1,-81.2,0.1,0.0,N @0.0,0.0,0.26,0,53.1,63.8,16.5,30.01,47.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,00:30,46.7,-80.9,0.1,0.0,N @0.0,0.0,0.3,0,53.0,63.8,16.5,30.02,46.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,00:45,47.2,-80.8,0.1,0.0,N @0.0,0.0,0.32,0,52.8,63.7,16.5,30.02,47.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,01:00,47.6,-80.5,0.1,0.0,N @0.0,0.0,0.32,0,52.5,63.7,16.5,30.02,47.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,01:15,46.6,-81.3,0.1,0.0,N @0.0,0.0,0.33,0,52.4,63.7,16.5,30.02,46.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,01:30,46.3,-80.9,0.1,0.0,E@0.0,1.4,0.33,0,52.2,63.7,16.5,30.02,46.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,01:45,47.2,-80.1,0.1,0.0,SE@0.0,1.4,0.34,0,52.0,63.6,16.5,30.02,47.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,02:00,46.4,-81.3,0.1,0.0,N @0.0,0.0,0.35,0,51.9,63.6,16.5,30.03,46.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,02:15,46.1,-81.5,0.1,0.0,N @0.0,0.0,0.36,0,51.8,63.6,16.4,30.03,46.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,02:30,46.5,-81.5,0.1,0.0,N @0.0,0.0,0.37,0,51.7,63.5,16.4,30.03,46.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,02:45,46.5,-81.9,0.1,0.0,N @0.0,0.0,0.37,0,51.5,63.5,16.4,30.03,46.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,03:00,45.9,-81.8,0.1,0.0,N @0.0,0.0,0.37,0,51.4,63.5,16.4,30.04,46.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,03:15,46.5,-81.3,0.1,0.0,N @0.0,0.0,0.38,0,51.3,63.4,16.4,30.04,46.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,03:30,45.3,-81.6,0.1,0.0,N @0.0,0.0,0.38,0,51.3,63.4,16.4,30.04,45.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,03:45,45.2,-81.7,0.1,0.0,N @0.0,0.0,0.38,0,51.2,63.4,16.4,30.04,45.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,04:00,45.8,-82.1,0.1,0.0,N @0.0,0.0,0.38,0,51.2,63.3,16.4,30.05,46.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,04:15,45.6,-82.0,0.1,0.0,N @0.0,0.0,0.38,0,51.1,63.3,16.4,30.05,45.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,04:30,45.8,-81.8,0.1,0.0,N @0.0,0.0,0.38,0,50.9,63.2,16.4,30.05,46.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,04:45,46.6,-81.6,0.1,0.0,N @0.0,0.0,0.39,0,50.8,63.2,16.4,30.06,46.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,05:00,45.5,-82.4,0.1,0.0,N @0.0,0.0,0.39,0,50.7,63.2,16.4,30.06,45.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,05:15,45.9,-82.1,0.1,0.0,N @0.0,0.0,0.4,1,50.7,63.1,16.4,30.07,46.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,05:30,45.2,-82.4,0.1,0.0,N @0.0,0.0,0.4,4,50.7,63.1,16.4,30.07,45.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,05:45,45.3,-82.4,0.1,0.0,SE@0.0,2.8,0.41,20,50.7,63.0,16.4,30.08,45.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,06:00,46.1,-82.0,0.1,0.0,N @0.0,0.0,0.4,66,50.8,63.0,16.4,30.09,46.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,06:15,46.5,-81.8,0.1,0.0,SE@0.6,7.1,0.36,59,51.0,63.0,16.4,30.09,46.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,06:30,46.3,-81.9,0.1,0.0,SE@0.1,3.1,0.35,40,51.2,62.9,16.4,30.09,46.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,06:45,47.1,-81.1,0.1,0.0,SE@0.0,1.7,0.3,48,51.3,62.9,16.4,30.1,47.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,07:00,47.9,-80.7,0.1,0.0,N @0.0,0.0,0.23,63,51.5,62.8,16.4,30.1,48.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,07:15,48.6,-79.4,0.1,0.0,N @0.0,0.0,0.22,75,51.8,62.8,16.4,30.11,48.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,07:30,49.2,-79.4,0.1,0.0,N @0.0,0.0,0.2,89,52.1,62.8,16.3,30.12,49.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,07:45,49.5,-79.2,0.1,0.0,N @0.0,0.0,0.18,103,52.5,62.7,16.3,30.12,49.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,08:00,49.9,-79.5,0.1,0.0,N @0.0,0.0,0.16,135,52.9,62.7,16.3,30.12,50.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,08:15,51.3,-78.5,0.1,0.0,N @0.0,0.0,0.13,186,53.4,62.6,16.3,30.12,51.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,08:30,52.6,-77.3,0.1,0.0,W@0.0,1.7,0.11,245,54.1,62.6,16.3,30.13,52.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,08:45,53.0,-77.5,0.1,0.0,W@0.0,1.7,0.09,289,55.0,62.6,16.3,30.14,53.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,09:00,53.9,-76.3,0.1,0.0,W@3.2,11.4,0.08,361,56.0,62.6,16.3,30.14,54.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,09:15,55.2,-75.5,0.1,0.0,W@6.5,11.4,0.07,539,57.0,62.5,16.3,30.13,55.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,09:30,56.3,-75.5,0.1,0.0,W@6.0,11.4,0.04,609,58.3,62.5,16.3,30.14,56.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,09:45,57.5,-74.4,0.1,0.0,SW@0.7,7.8,0.0,670,60.0,62.5,16.3,30.15,57.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,10:00,59.0,-73.4,0.1,0.0,W@1.6,10.7,0.0,737,61.9,62.5,16.3,30.15,59.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,10:15,60.5,-72.3,0.1,0.0,W@2.6,11.4,0.0,635,64.1,62.5,16.3,30.16,60.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,10:30,60.5,-72.3,0.1,0.0,W@2.8,11.0,0.0,694,66.0,62.5,16.3,30.17,60.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,10:45,62.1,-71.3,0.1,0.0,W@4.2,11.7,0.0,764,67.4,62.5,16.3,30.17,62.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,11:00,61.9,-71.7,0.1,0.0,W@4.5,12.1,0.0,623,68.9,62.5,16.3,30.17,61.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,11:15,63.0,-70.5,0.1,0.0,W@6.2,13.2,0.0,670,70.0,62.5,16.3,30.17,63.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,11:30,63.2,-70.4,0.1,0.0,W@5.5,13.2,0.0,678,70.8,62.5,16.3,30.17,63.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,11:45,63.9,-70.4,0.1,0.0,W@3.8,12.4,0.0,727,71.5,62.5,16.3,30.17,63.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,12:00,65.1,-69.6,0.1,0.0,W@4.1,13.9,0.0,692,72.2,62.5,16.3,30.17,65.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,12:15,65.5,-69.4,0.1,0.0,W@8.1,13.5,0.0,759,72.9,62.5,16.3,30.17,65.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,12:30,66.0,-69.0,0.1,0.0,W@6.1,14.6,0.0,679,73.4,62.5,16.3,30.17,66.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,12:45,64.5,-70.5,0.1,0.0,W@6.9,12.1,0.0,254,73.7,62.4,16.3,30.17,64.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,13:00,66.5,-69.1,0.1,0.0,W@1.2,9.9,0.0,665,73.3,62.4,16.3,30.17,66.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,13:15,67.0,-69.0,0.1,0.0,W@3.3,16.0,0.0,380,73.2,62.5,16.3,30.16,67.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,13:30,65.0,-69.7,0.1,0.0,W@6.0,13.9,0.0,125,73.2,62.4,16.3,30.16,65.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,13:45,65.1,-69.5,0.1,0.0,W@2.1,10.3,0.0,156,72.3,62.4,16.3,30.16,65.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,14:00,65.4,-69.4,0.1,0.0,NW@4.0,9.9,0.0,187,71.2,62.4,16.3,30.16,65.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,14:15,65.5,-69.4,0.1,0.0,W@2.3,10.7,0.0,114,70.4,62.5,16.3,30.16,65.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,14:30,64.0,-70.1,0.1,0.0,W@6.2,16.7,0.0,83,69.7,62.5,16.3,30.16,64.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,14:45,63.8,-70.3,0.1,0.0,W@0.9,7.8,0.0,123,68.7,62.5,16.3,30.16,64.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,15:00,66.9,-68.7,0.1,0.0,W@4.3,12.8,0.0,301,68.0,62.5,16.3,30.16,67.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,15:15,68.5,-67.8,0.1,0.0,W@10.0,14.2,0.0,498,67.6,62.6,16.3,30.16,68.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,15:30,68.5,-68.1,0.1,0.0,W@12.6,18.5,0.0,363,67.8,62.7,16.4,30.17,68.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,15:45,66.6,-69.3,0.1,0.0,W@5.5,13.5,0.0,116,68.1,62.7,16.4,30.17,66.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,16:00,66.3,-69.2,0.1,0.0,NW@1.6,10.7,0.0,114,67.9,62.7,16.4,30.17,66.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,16:15,65.9,-69.3,0.1,0.0,NW@2.3,12.4,0.0,88,67.4,62.7,16.4,30.17,66.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,16:30,65.4,-69.5,0.1,0.0,NW@0.2,9.9,0.0,116,66.9,62.8,16.4,30.17,65.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,16:45,65.5,-69.3,0.1,0.0,N @0.0,0.0,0.0,111,66.5,62.8,16.4,30.18,65.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,17:00,66.7,-68.8,0.1,0.0,NW@0.1,6.4,0.0,128,66.2,62.8,16.4,30.18,66.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,17:15,67.3,-68.7,0.1,0.0,W@5.1,15.7,0.0,142,66.0,62.9,16.4,30.18,67.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,17:30,65.7,-69.4,0.1,0.0,NW@2.6,13.5,0.0,71,65.8,62.9,16.4,30.18,65.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,17:45,63.7,-70.4,0.1,0.0,N @0.1,8.2,0.0,28,65.4,62.9,16.4,30.18,64.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,18:00,61.6,-71.8,0.1,0.0,N @0.1,7.1,0.0,12,64.8,63.0,16.4,30.18,61.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,18:15,61.5,-71.5,0.1,0.0,N @0.0,0.0,0.0,4,64.1,63.0,16.4,30.19,61.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,18:30,62.0,-71.3,0.1,0.0,N @0.0,0.0,0.0,2,63.4,63.0,16.4,30.19,62.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,18:45,61.4,-72.0,0.1,0.0,N @0.0,0.0,0.0,0,62.7,63.1,16.4,30.19,61.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,19:00,59.6,-72.3,0.1,0.0,N @0.0,0.0,0.0,0,62.1,63.1,16.4,30.19,59.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,19:15,57.9,-73.2,0.1,0.0,N @0.0,0.0,0.0,0,61.4,63.1,16.4,30.19,58.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,19:30,57.3,-73.8,0.1,0.0,N @0.0,0.0,0.0,0,60.8,63.2,16.4,30.19,57.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,19:45,56.8,-74.3,0.1,0.0,SE@0.0,1.4,0.0,0,60.2,63.2,16.4,30.19,57.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,20:00,55.5,-75.2,0.1,0.0,SE@0.0,1.4,0.0,0,59.7,63.3,16.4,30.19,55.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,20:15,55.6,-75.2,0.1,0.0,SE@1.8,9.6,0.0,0,59.2,63.3,16.4,30.19,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,20:30,56.3,-74.5,0.1,0.0,N @0.0,0.0,0.0,0,58.7,63.3,16.4,30.2,56.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,20:45,55.9,-75.0,0.1,0.0,SE@0.0,1.4,0.0,0,58.3,63.3,16.4,30.2,56.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,21:00,55.3,-76.0,0.1,0.0,SE@0.0,1.4,0.0,0,58.0,63.3,16.4,30.2,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,21:15,55.5,-75.2,0.1,0.0,SE@0.1,5.7,0.0,0,57.8,63.4,16.4,30.2,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,21:30,55.7,-75.1,0.1,0.0,N @0.0,0.0,0.0,0,57.5,63.4,16.4,30.2,56.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,21:45,55.6,-75.3,0.1,0.0,SE@0.0,2.1,0.0,0,57.2,63.4,16.4,30.2,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,22:00,55.5,-75.5,0.1,0.0,SE@0.9,7.4,0.0,0,57.0,63.4,16.4,30.2,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,22:15,55.3,-75.4,0.1,0.0,SE@0.0,2.4,0.0,0,56.7,63.4,16.4,30.21,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,22:30,55.2,-75.5,0.1,0.0,SE@2.0,8.9,0.0,0,56.5,63.4,16.4,30.21,55.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,22:45,55.2,-75.2,0.1,0.0,SE@1.1,8.9,0.0,0,56.3,63.4,16.4,30.21,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,23:00,54.6,-76.1,0.1,0.0,N @0.0,0.0,0.0,0,56.1,63.4,16.4,30.21,55.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,23:15,54.7,-75.5,0.1,0.0,SE@0.1,4.9,0.0,0,55.9,63.4,16.4,30.21,55.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,23:30,54.4,-75.7,0.1,0.0,SE@0.0,1.4,0.0,0,55.7,63.4,16.4,30.21,54.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,23:45,54.5,-75.8,0.1,0.0,SE@0.4,8.5,0.0,0,55.5,63.4,16.4,30.21,54.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-11,24:00,54.3,-75.9,0.1,0.0,E@0.0,1.7,0.0,0,55.3,63.4,16.4,30.21,54.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,00:15,53.8,-76.3,0.1,0.0,SE@0.0,1.4,0.0,0,55.1,63.4,16.4,30.22,54.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,00:30,54.4,-75.6,0.1,0.0,E@0.0,1.4,0.0,0,54.9,63.4,16.4,30.22,54.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,00:45,51.4,-77.7,0.1,0.0,N @0.0,0.0,0.0,0,54.7,63.3,16.4,30.22,51.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,01:00,49.5,-79.6,0.1,0.0,N @0.0,0.0,0.0,0,54.5,63.3,16.4,30.22,49.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,01:15,49.8,-79.7,0.1,0.0,N @0.0,0.0,0.0,0,54.2,63.3,16.4,30.22,50.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,01:30,49.4,-78.8,0.1,0.0,N @0.0,0.0,0.0,0,53.9,63.3,16.4,30.22,49.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,01:45,48.5,-79.7,0.1,0.0,N @0.0,0.0,0.0,0,53.7,63.3,16.4,30.22,48.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,02:00,46.2,-83.0,0.1,0.0,N @0.0,0.0,0.12,0,53.4,63.3,16.4,30.23,46.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,02:15,46.1,-82.6,0.1,0.0,N @0.0,0.0,0.19,0,53.1,63.2,16.3,30.23,46.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,02:30,46.2,-82.2,0.1,0.0,N @0.0,0.0,0.2,0,52.8,63.2,16.3,30.23,46.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,02:45,46.6,-81.9,0.1,0.0,E@0.0,3.1,0.16,0,52.6,63.2,16.3,30.23,46.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,03:00,46.3,-82.1,0.1,0.0,N @0.0,0.0,0.17,0,52.3,63.2,16.3,30.23,46.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,03:15,46.3,-82.3,0.1,0.0,N @0.0,0.0,0.19,0,52.1,63.1,16.3,30.24,46.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,03:30,49.1,-79.7,0.1,0.0,N @0.0,0.0,0.06,0,51.9,63.1,16.3,30.24,49.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,03:45,50.3,-78.6,0.1,0.0,SE@5.6,9.2,0.0,0,51.7,63.1,16.3,30.23,50.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,04:00,51.3,-77.8,0.1,0.0,SE@4.9,9.6,0.0,0,51.7,63.1,16.3,30.23,51.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,04:15,52.3,-77.0,0.1,0.0,SE@3.8,11.0,0.0,0,51.7,63.0,16.3,30.22,52.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,04:30,52.3,-77.4,0.1,0.0,SE@5.9,10.7,0.0,0,51.7,63.0,16.3,30.22,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,04:45,52.6,-77.2,0.1,0.0,SE@8.0,12.8,0.0,0,51.8,63.0,16.3,30.22,53.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,05:00,52.4,-77.2,0.1,0.0,SE@9.0,13.2,0.0,0,51.9,62.9,16.3,30.22,52.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,05:15,52.0,-77.7,0.1,0.0,SE@9.4,12.4,0.0,2,51.9,62.9,16.3,30.22,52.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,05:30,52.3,-77.4,0.1,0.0,SE@5.8,12.8,0.0,9,51.9,62.9,16.3,30.22,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,05:45,53.1,-76.7,0.1,0.0,SE@9.2,12.8,0.0,35,52.0,62.8,16.3,30.22,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,06:00,53.2,-76.6,0.1,0.0,SE@5.7,12.8,0.0,76,52.1,62.8,16.3,30.22,53.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,06:15,53.6,-76.1,0.1,0.0,SE@3.6,12.1,0.0,105,52.3,62.8,16.3,30.23,53.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,06:30,54.6,-75.6,0.1,0.0,SE@9.9,14.2,0.0,142,52.5,62.7,16.3,30.23,54.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,06:45,54.6,-75.6,0.1,0.0,SE@8.7,13.5,0.0,158,52.9,62.7,16.3,30.23,54.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,07:00,54.4,-75.9,0.1,0.0,SE@9.2,12.1,0.0,175,53.3,62.7,16.3,30.23,54.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,07:15,56.3,-74.5,0.1,0.0,E@11.2,17.1,0.0,256,53.7,62.7,16.3,30.23,56.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,07:30,57.4,-74.5,0.1,0.0,E@12.5,17.1,0.0,285,54.2,62.7,16.3,30.24,57.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,07:45,57.7,-75.1,0.1,0.0,E@13.4,16.7,0.0,268,54.8,62.6,16.3,30.24,57.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,08:00,58.2,-74.4,0.1,0.0,E@13.6,17.8,0.0,278,55.4,62.6,16.3,30.24,58.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,08:15,59.0,-74.3,0.1,0.0,E@14.1,17.5,0.0,312,55.9,62.6,16.3,30.25,59.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,08:30,60.4,-72.3,0.1,0.0,E@12.6,15.7,0.0,387,56.5,62.5,16.3,30.25,60.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,08:45,61.1,-71.6,0.1,0.0,E@13.5,17.1,0.0,416,57.3,62.5,16.3,30.25,61.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,09:00,62.2,-71.4,0.1,0.0,E@14.4,18.2,0.0,482,58.2,62.5,16.3,30.25,62.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,09:15,63.6,-70.9,0.1,0.0,E@14.0,17.5,0.0,537,59.2,62.5,16.3,30.25,63.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,09:30,64.9,-70.1,0.1,0.0,E@13.8,18.9,0.0,572,60.3,62.5,16.3,30.25,64.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,09:45,65.5,-69.3,0.1,0.0,E@14.0,18.9,0.0,585,61.5,62.5,16.3,30.25,65.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,10:00,66.1,-69.0,0.1,0.0,E@12.3,18.5,0.0,618,62.7,62.5,16.3,30.25,66.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,10:15,67.2,-68.7,0.1,0.0,E@12.4,18.2,0.0,630,64.1,62.5,16.3,30.25,67.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,10:30,67.7,-68.5,0.1,0.0,E@10.5,18.5,0.0,669,65.4,62.5,16.3,30.25,67.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,10:45,69.1,-67.9,0.1,0.0,E@7.6,19.6,0.0,656,66.8,62.4,16.3,30.25,69.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,11:00,69.5,-67.8,0.1,0.0,E@6.5,15.7,0.0,660,68.1,62.4,16.3,30.24,69.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,11:15,70.0,-67.3,0.1,0.0,SE@7.0,17.1,0.0,706,69.4,62.4,16.3,30.24,69.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,11:30,71.1,-66.9,0.1,0.0,SE@2.6,12.4,0.0,711,70.7,62.4,16.3,30.24,71.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,11:45,71.8,-66.6,0.1,0.0,SE@2.8,15.0,0.0,709,72.1,62.4,16.3,30.24,71.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,12:00,71.9,-66.2,0.1,0.0,S@1.4,11.0,0.0,712,73.3,62.4,16.3,30.24,71.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,12:15,72.2,-66.0,0.1,0.0,SE@4.2,16.4,0.0,708,74.5,62.4,16.3,30.23,72.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,12:30,73.1,-65.4,0.1,0.0,SE@1.0,8.2,0.0,700,75.3,62.4,16.3,30.23,72.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,12:45,72.9,-65.7,0.1,0.0,SE@3.8,12.8,0.0,688,76.2,62.4,16.3,30.22,72.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,13:00,73.1,-65.5,0.1,0.0,SE@5.1,17.5,0.0,669,76.6,62.4,16.3,30.21,73.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,13:15,74.1,-65.0,0.1,0.0,S@1.1,11.0,0.0,661,76.9,62.4,16.3,30.21,74.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,13:30,74.3,-64.8,0.1,0.0,SE@2.0,12.1,0.0,617,77.4,62.4,16.3,30.2,74.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,13:45,74.3,-65.1,0.1,0.0,SE@1.6,14.6,0.0,607,77.7,62.5,16.3,30.2,74.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,14:00,74.2,-64.8,0.1,0.0,SE@4.8,16.4,0.0,582,77.9,62.5,16.3,30.19,74.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,14:15,75.0,-64.7,0.1,0.0,W@5.2,15.7,0.0,550,78.0,62.5,16.3,30.19,74.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,14:30,75.7,-64.4,0.1,0.0,S@0.3,7.1,0.0,520,78.0,62.5,16.3,30.18,75.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,14:45,75.7,-64.4,0.1,0.0,SW@1.9,12.1,0.0,488,78.0,62.6,16.3,30.18,75.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,15:00,74.9,-64.9,0.1,0.0,SW@3.1,11.7,0.0,459,77.9,62.6,16.3,30.17,74.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,15:15,75.6,-64.4,0.1,0.0,SW@2.7,11.4,0.0,426,77.6,62.6,16.3,30.17,75.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,15:30,75.4,-64.5,0.1,0.0,SW@6.3,16.0,0.0,386,77.3,62.7,16.3,30.17,75.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,15:45,75.2,-64.5,0.1,0.0,W@4.2,13.9,0.0,348,76.9,62.7,16.3,30.16,75.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,16:00,75.6,-64.5,0.1,0.0,SW@1.9,10.7,0.0,307,76.4,62.7,16.3,30.16,75.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,16:15,75.7,-64.3,0.1,0.0,SW@0.1,8.2,0.0,266,76.0,62.8,16.3,30.15,75.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,16:30,75.0,-64.7,0.1,0.0,SE@0.1,3.1,0.0,225,75.4,62.8,16.3,30.15,75.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,16:45,75.0,-64.8,0.1,0.0,SE@0.0,1.4,0.0,184,74.8,62.9,16.3,30.15,75.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,17:00,74.4,-64.9,0.1,0.0,S@0.0,1.4,0.0,145,74.0,62.9,16.3,30.15,74.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,17:15,73.8,-65.2,0.1,0.0,SW@0.1,6.4,0.0,111,73.3,63.0,16.3,30.14,73.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,17:30,73.2,-65.5,0.1,0.0,N @0.0,0.0,0.0,72,72.5,63.0,16.3,30.14,73.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,17:45,71.9,-66.3,0.1,0.0,N @0.0,0.0,0.0,43,71.7,63.1,16.3,30.14,72.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,18:00,70.8,-66.6,0.1,0.0,N @0.0,0.0,0.0,19,70.9,63.1,16.3,30.14,71.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,18:15,70.3,-66.6,0.1,0.0,N @0.0,0.0,0.0,4,69.9,63.2,16.3,30.14,70.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,18:30,67.4,-68.9,0.1,0.0,N @0.0,0.0,0.0,1,69.0,63.3,16.4,30.13,67.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,18:45,66.4,-69.1,0.1,0.0,N @0.0,0.0,0.0,0,68.0,63.3,16.4,30.13,66.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,19:00,66.3,-68.8,0.1,0.0,N @0.0,0.0,0.0,0,67.1,63.4,16.4,30.13,66.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,19:15,65.8,-69.6,0.1,0.0,N @0.0,0.0,0.0,0,66.3,63.5,16.4,30.13,66.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,19:30,64.5,-70.4,0.1,0.0,N @0.0,0.0,0.0,0,65.5,63.5,16.4,30.13,64.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,19:45,64.0,-70.4,0.1,0.0,N @0.0,0.0,0.0,0,64.8,63.6,16.4,30.12,64.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,20:00,61.8,-71.4,0.1,0.0,N @0.0,0.0,0.0,0,64.2,63.6,16.4,30.12,62.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,20:15,60.4,-72.5,0.1,0.0,SE@0.0,1.4,0.0,0,63.5,63.7,16.4,30.11,60.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,20:30,61.7,-71.7,0.1,0.0,SE@1.5,8.2,0.0,0,62.9,63.7,16.4,30.11,62.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,20:45,61.4,-71.9,0.1,0.0,SE@3.1,13.5,0.0,0,62.4,63.8,16.4,30.1,61.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,21:00,60.9,-72.0,0.1,0.0,SE@5.7,11.7,0.0,0,61.9,63.8,16.4,30.1,61.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,21:15,61.5,-71.6,0.1,0.0,SE@6.7,11.7,0.0,0,61.5,63.8,16.4,30.1,61.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,21:30,61.3,-71.9,0.1,0.0,SE@7.8,11.4,0.0,0,61.2,63.9,16.4,30.1,61.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,21:45,62.1,-71.5,0.1,0.0,SE@10.1,13.9,0.0,0,60.9,63.9,16.4,30.1,62.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,22:00,61.8,-71.7,0.1,0.0,SE@8.9,13.5,0.0,0,60.6,63.9,16.4,30.1,62.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,22:15,60.7,-72.1,0.1,0.0,SE@4.2,9.2,0.0,0,60.4,63.9,16.4,30.09,61.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,22:30,60.6,-72.2,0.1,0.0,SE@5.1,10.3,0.0,0,60.1,64.0,16.4,30.09,60.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,22:45,61.1,-72.1,0.1,0.0,SE@7.3,10.7,0.0,0,59.9,64.0,16.4,30.09,61.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,23:00,61.9,-71.4,0.1,0.0,SE@7.9,11.0,0.0,0,59.7,64.0,16.4,30.09,62.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,23:15,61.8,-71.4,0.1,0.0,SE@0.2,8.5,0.0,0,59.5,64.0,16.4,30.08,62.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,23:30,62.6,-71.2,0.1,0.0,SE@5.5,12.1,0.0,0,59.4,64.0,16.4,30.08,62.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,23:45,63.1,-70.6,0.1,0.0,SE@5.8,13.9,0.0,0,59.3,64.0,16.4,30.08,63.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-12,24:00,63.3,-70.5,0.1,0.0,SE@6.8,13.5,0.0,0,59.3,64.0,16.4,30.08,63.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,00:15,63.4,-70.5,0.1,0.0,E@5.8,15.0,0.0,0,59.3,64.0,16.4,30.08,63.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,00:30,63.0,-71.1,0.1,0.0,E@4.8,13.2,0.0,0,59.3,64.0,16.4,30.09,63.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,00:45,62.3,-71.1,0.1,0.0,SE@7.0,12.1,0.0,0,59.3,64.0,16.4,30.09,62.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,01:00,61.7,-71.4,0.1,0.0,SE@2.5,10.3,0.0,0,59.3,63.9,16.4,30.08,62.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,01:15,61.5,-71.5,0.1,0.0,SE@4.1,10.3,0.0,0,59.2,63.9,16.3,30.08,61.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,01:30,60.8,-71.9,0.1,0.0,SE@1.5,11.0,0.0,0,59.1,63.9,16.3,30.08,61.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,01:45,61.2,-71.6,0.1,0.0,SE@2.9,8.9,0.0,0,58.8,63.9,16.3,30.09,61.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,02:00,60.5,-72.0,0.1,0.0,SE@0.5,8.2,0.0,0,58.6,63.9,16.3,30.09,60.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,02:15,59.9,-72.6,0.1,0.0,SE@0.4,8.5,0.0,0,58.4,63.9,16.3,30.08,60.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,02:30,59.5,-73.0,0.1,0.0,SE@1.5,8.5,0.0,0,58.1,63.8,16.3,30.07,59.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,02:45,59.2,-73.4,0.1,0.0,SE@0.5,8.5,0.0,0,57.9,63.8,16.3,30.07,59.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,03:00,59.1,-73.3,0.1,0.0,SE@0.3,6.4,0.0,0,57.6,63.8,16.3,30.08,59.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,03:15,57.8,-73.9,0.1,0.0,SE@0.2,6.4,0.0,0,57.4,63.8,16.3,30.08,58.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,03:30,57.1,-73.9,0.1,0.0,SE@0.9,7.4,0.0,0,57.2,63.8,16.3,30.08,57.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,03:45,57.6,-74.0,0.1,0.0,SE@0.0,2.1,0.0,0,57.1,63.8,16.3,30.08,57.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,04:00,57.7,-73.6,0.1,0.0,N @0.0,0.0,0.0,0,57.0,63.7,16.3,30.08,58.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,04:15,58.1,-73.5,0.1,0.0,N @0.0,0.0,0.0,0,56.9,63.7,16.3,30.08,58.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,04:30,60.2,-72.1,0.1,0.0,SW@0.4,8.2,0.0,0,56.9,63.7,16.3,30.08,60.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,04:45,60.5,-72.1,0.1,0.0,SW@0.3,8.9,0.0,0,56.9,63.7,16.3,30.08,60.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,05:00,57.3,-73.8,0.1,0.0,N @0.0,0.0,0.0,0,56.9,63.7,16.3,30.09,57.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,05:15,55.7,-75.2,0.1,0.0,N @0.0,0.0,0.0,2,56.8,63.6,16.3,30.09,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,05:30,55.9,-74.9,0.1,0.0,N @0.0,0.0,0.0,3,56.7,63.6,16.3,30.09,56.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,05:45,55.3,-74.8,0.1,0.0,N @0.0,0.0,0.0,21,56.6,63.6,16.3,30.09,55.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,06:00,56.1,-74.4,0.1,0.0,N @0.0,0.0,0.0,48,56.4,63.6,16.3,30.09,56.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,06:15,58.5,-73.0,0.1,0.0,N @0.0,0.0,0.0,98,56.5,63.5,16.3,30.09,58.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,06:30,60.0,-72.0,0.1,0.0,SW@0.1,6.0,0.0,151,56.7,63.5,16.3,30.09,60.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,06:45,59.8,-72.4,0.1,0.0,N @0.0,0.0,0.0,91,57.0,63.5,16.3,30.1,60.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,07:00,59.6,-72.6,0.1,0.0,S@2.4,11.4,0.0,90,57.4,63.5,16.3,30.11,59.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,07:15,60.1,-72.0,0.1,0.0,S@3.5,13.9,0.0,162,57.6,63.4,16.3,30.11,60.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,07:30,61.2,-71.6,0.1,0.0,SW@2.8,13.2,0.0,233,57.9,63.4,16.3,30.11,61.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,07:45,62.0,-71.2,0.1,0.0,S@2.1,10.7,0.0,234,58.5,63.4,16.3,30.11,62.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,08:00,61.9,-71.2,0.1,0.0,SW@3.7,14.2,0.0,274,59.2,63.4,16.3,30.12,62.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,08:15,62.4,-71.2,0.1,0.0,S@2.4,18.2,0.0,290,60.0,63.4,16.3,30.12,62.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,08:30,62.4,-71.2,0.1,0.0,SW@9.1,18.2,0.0,261,60.8,63.3,16.3,30.12,62.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,08:45,62.8,-71.0,0.1,0.0,SW@9.9,23.2,0.0,412,61.4,63.3,16.3,30.12,62.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,09:00,63.9,-70.0,0.1,0.0,SW@11.1,21.0,0.0,503,62.1,63.3,16.3,30.13,63.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,09:15,65.2,-69.3,0.1,0.0,W@11.9,18.2,0.0,592,63.1,63.3,16.3,30.12,65.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,09:30,66.5,-68.9,0.1,0.0,SW@12.0,19.2,0.0,631,64.5,63.3,16.3,30.12,66.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,09:45,66.5,-69.2,0.1,0.0,SW@11.8,18.2,0.0,467,65.9,63.3,16.3,30.12,66.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,10:00,65.5,-69.8,0.1,0.0,SW@13.0,21.4,0.0,362,67.0,63.2,16.3,30.12,65.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,10:15,66.4,-69.1,0.1,0.0,SW@11.4,20.7,0.0,625,67.5,63.2,16.3,30.12,66.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,10:30,66.5,-69.3,0.1,0.0,SW@12.9,23.5,0.0,781,68.4,63.2,16.3,30.13,66.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,10:45,67.1,-68.8,0.1,0.0,W@13.1,22.8,0.0,551,69.9,63.2,16.3,30.12,67.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,11:00,66.3,-69.1,0.1,0.0,W@13.0,19.2,0.0,406,71.0,63.2,16.3,30.12,66.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,11:15,66.1,-69.1,0.1,0.0,SW@13.5,22.8,0.0,443,71.2,63.1,16.3,30.12,66.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,11:30,67.0,-68.6,0.1,0.0,W@14.2,22.1,0.0,374,71.2,63.1,16.3,30.12,67.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,11:45,67.5,-68.4,0.1,0.0,SW@13.7,23.9,0.0,525,71.1,63.1,16.3,30.12,67.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,12:00,67.8,-68.5,0.1,0.0,SW@13.5,21.8,0.0,537,71.3,63.1,16.3,30.12,67.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,12:15,68.2,-68.2,0.1,0.0,SW@12.0,25.3,0.0,598,71.8,63.1,16.3,30.12,68.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,12:30,69.7,-67.9,0.1,0.0,SW@16.6,23.2,0.0,715,72.4,63.1,16.3,30.12,69.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,12:45,67.8,-68.4,0.1,0.0,SW@15.2,26.4,0.0,429,73.3,63.1,16.3,30.12,67.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,13:00,68.5,-67.9,0.1,0.0,SW@14.8,21.8,0.0,391,73.5,63.1,16.3,30.11,68.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,13:15,68.3,-68.3,0.1,0.0,SW@15.2,22.8,0.0,397,73.4,63.1,16.3,30.11,68.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,13:30,68.4,-68.1,0.1,0.0,SW@14.7,23.5,0.0,376,73.1,63.1,16.3,30.11,68.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,13:45,68.9,-67.7,0.1,0.0,SW@14.1,21.4,0.0,312,72.9,63.2,16.3,30.11,69.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,14:00,68.5,-67.8,0.1,0.0,SW@12.7,22.1,0.0,323,72.7,63.2,16.3,30.11,68.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,14:15,69.3,-67.3,0.1,0.0,SW@13.6,22.1,0.0,355,72.4,63.2,16.3,30.1,69.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,14:30,69.0,-67.5,0.1,0.0,SW@13.5,23.9,0.0,326,72.2,63.2,16.3,30.1,69.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,14:45,68.9,-67.7,0.1,0.0,SW@12.0,22.1,0.0,272,72.1,63.2,16.3,30.1,69.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,15:00,68.8,-67.4,0.1,0.0,W@14.3,21.4,0.0,221,71.8,63.3,16.3,30.1,69.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,15:15,68.3,-67.9,0.1,0.0,SW@13.7,23.9,0.0,174,71.4,63.3,16.3,30.1,68.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,15:30,69.8,-67.1,0.1,0.0,SW@14.7,22.1,0.0,424,70.9,63.3,16.3,30.1,69.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,15:45,69.5,-67.3,0.1,0.0,SW@14.2,23.9,0.0,361,70.6,63.3,16.3,30.1,69.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,16:00,69.2,-67.3,0.1,0.0,SW@14.1,22.5,0.0,313,70.5,63.4,16.3,30.1,69.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,16:15,68.5,-67.5,0.1,0.0,SW@13.3,19.2,0.0,179,70.3,63.4,16.3,30.1,68.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,16:30,68.6,-67.8,0.1,0.0,W@9.6,16.7,0.0,167,70.0,63.4,16.3,30.1,68.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,16:45,68.2,-68.2,0.1,0.0,W@10.4,17.8,0.0,120,69.7,63.4,16.3,30.09,68.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,17:00,67.6,-68.4,0.1,0.0,W@10.7,16.4,0.0,73,69.3,63.5,16.3,30.09,67.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,17:15,67.2,-68.4,0.1,0.0,W@11.4,16.7,0.0,57,68.8,63.5,16.3,30.09,67.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,17:30,67.1,-68.5,0.1,0.0,W@7.6,15.7,0.0,44,68.3,63.5,16.3,30.09,67.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,17:45,66.4,-69.0,0.1,0.0,W@3.0,10.7,0.0,20,67.8,63.6,16.3,30.09,66.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,18:00,65.8,-69.1,0.1,0.0,W@0.0,1.4,0.0,9,67.3,63.6,16.3,30.09,66.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,18:15,65.2,-69.3,0.1,0.0,W@0.1,5.3,0.0,2,66.7,63.6,16.4,30.08,65.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,18:30,64.8,-69.6,0.1,0.0,W@1.1,7.8,0.0,1,66.2,63.7,16.4,30.08,65.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,18:45,63.0,-70.8,0.1,0.0,N @0.0,0.0,0.0,0,65.7,63.7,16.4,30.09,63.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,19:00,62.1,-71.1,0.1,0.0,N @0.0,0.0,0.0,0,65.2,63.7,16.4,30.09,62.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,19:15,61.6,-71.7,0.1,0.0,N @0.0,0.0,0.0,0,64.6,63.8,16.4,30.09,61.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,19:30,60.7,-72.0,0.1,0.0,N @0.0,0.0,0.0,0,64.0,63.8,16.4,30.09,61.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,19:45,60.4,-72.2,0.1,0.0,N @0.0,0.0,0.0,0,63.5,63.8,16.4,30.09,60.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,20:00,59.2,-73.1,0.1,0.0,N @0.0,0.0,0.0,0,63.0,63.9,16.4,30.09,59.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,20:15,58.2,-73.1,0.1,0.0,N @0.0,0.0,0.0,0,62.4,63.9,16.4,30.09,58.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,20:30,57.6,-73.5,0.1,0.0,N @0.0,0.0,0.0,0,61.8,63.9,16.3,30.08,57.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,20:45,57.8,-73.3,0.1,0.0,N @0.0,0.0,0.0,0,61.2,63.9,16.3,30.08,58.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,21:00,57.7,-73.4,0.1,0.0,N @0.0,0.0,0.0,0,60.7,63.9,16.3,30.08,58.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,21:15,57.7,-73.3,0.1,0.0,N @0.0,0.0,0.0,0,60.2,63.9,16.3,30.07,57.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,21:30,57.7,-73.4,0.1,0.0,N @0.0,0.0,0.0,0,59.8,64.0,16.3,30.07,58.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,21:45,55.9,-74.3,0.1,0.0,N @0.0,0.0,0.0,0,59.5,64.0,16.3,30.07,56.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,22:00,54.8,-74.9,0.1,0.0,N @0.0,0.0,0.0,0,59.1,64.0,16.3,30.07,55.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,22:15,54.5,-75.0,0.1,0.0,N @0.0,0.0,0.0,0,58.8,64.0,16.3,30.07,54.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,22:30,56.5,-74.0,0.1,0.0,N @0.0,0.0,0.0,0,58.6,64.0,16.3,30.07,56.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,22:45,56.3,-74.1,0.1,0.0,SE@0.5,4.2,0.0,0,58.4,64.0,16.3,30.07,56.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,23:00,54.5,-75.3,0.1,0.0,SE@0.0,2.1,0.0,0,58.2,64.0,16.3,30.07,54.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,23:15,54.0,-75.7,0.1,0.0,E@0.0,1.4,0.0,0,58.0,64.0,16.3,30.07,54.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,23:30,55.4,-75.2,0.1,0.0,SE@0.3,6.7,0.0,0,57.8,64.0,16.3,30.06,55.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,23:45,55.8,-74.8,0.1,0.0,SE@1.1,7.4,0.0,0,57.6,64.0,16.3,30.07,56.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-13,24:00,56.3,-74.3,0.1,0.0,SE@3.8,9.2,0.0,0,57.4,64.0,16.3,30.07,56.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,00:15,56.9,-73.8,0.1,0.0,SE@5.5,9.6,0.0,0,57.3,63.9,16.3,30.07,57.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,00:30,56.6,-74.2,0.1,0.0,SE@5.4,8.5,0.0,0,57.3,63.9,16.3,30.07,57.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,00:45,55.6,-74.8,0.1,0.0,SE@2.9,7.4,0.0,0,57.2,63.9,16.3,30.07,55.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,01:00,55.0,-75.2,0.1,0.0,SE@0.0,1.4,0.0,0,57.0,63.9,16.3,30.07,55.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,01:15,55.0,-75.1,0.1,0.0,SE@0.7,8.2,0.0,0,56.9,63.9,16.3,30.06,55.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,01:30,55.2,-75.2,0.1,0.0,SE@1.3,7.8,0.0,0,56.8,63.8,16.3,30.06,55.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,01:45,55.3,-74.8,0.1,0.0,SE@0.8,7.1,0.0,0,56.7,63.8,16.3,30.06,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,02:00,55.4,-75.1,0.1,0.0,N @0.0,0.0,0.0,0,56.6,63.8,16.3,30.06,55.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,02:15,55.4,-74.9,0.1,0.0,N @0.0,0.0,0.0,0,56.6,63.8,16.3,30.07,55.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,02:30,55.8,-75.0,0.1,0.0,S@0.3,6.7,0.0,0,56.4,63.7,16.3,30.06,56.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,02:45,57.0,-73.9,0.1,0.0,S@0.7,7.1,0.0,0,56.3,63.7,16.3,30.06,57.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,03:00,55.3,-74.9,0.1,0.0,SE@0.0,1.4,0.0,0,56.1,63.7,16.3,30.06,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,03:15,55.2,-74.8,0.1,0.0,S@1.7,9.2,0.0,0,56.0,63.7,16.3,30.06,55.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,03:30,54.7,-75.4,0.1,0.0,SE@1.9,8.5,0.0,0,55.9,63.6,16.3,30.06,55.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,03:45,53.5,-76.3,0.1,0.0,SE@0.0,2.1,0.0,0,55.9,63.6,16.3,30.06,53.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,04:00,52.9,-76.1,0.1,0.0,SE@0.9,6.7,0.0,0,55.8,63.6,16.3,30.06,53.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,04:15,51.9,-77.7,0.1,0.0,SE@2.6,8.5,0.0,0,55.7,63.6,16.3,30.05,52.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,04:30,52.3,-76.9,0.1,0.0,SE@5.3,9.6,0.0,0,55.6,63.5,16.3,30.05,52.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,04:45,52.2,-77.0,0.1,0.0,N @0.0,0.0,0.0,0,55.5,63.5,16.3,30.05,52.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,05:00,51.4,-77.9,0.1,0.0,SE@0.0,1.4,0.0,0,55.4,63.5,16.3,30.05,51.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,05:15,51.5,-78.3,0.1,0.0,SE@0.0,1.4,0.0,1,55.2,63.4,16.3,30.05,51.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,05:30,51.3,-78.4,0.1,0.0,SE@0.0,3.9,0.0,2,55.2,63.4,16.3,30.05,51.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,05:45,50.9,-78.6,0.1,0.0,SE@0.0,1.4,0.0,12,55.1,63.4,16.3,30.06,51.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,06:00,52.1,-77.4,0.1,0.0,SE@0.2,8.5,0.0,23,55.0,63.4,16.3,30.06,52.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,06:15,53.0,-77.2,0.1,0.0,SE@0.4,7.4,0.0,54,55.1,63.3,16.3,30.06,53.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,06:30,53.7,-76.6,0.1,0.0,SE@6.1,8.5,0.0,40,55.2,63.3,16.3,30.06,54.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,06:45,54.2,-76.1,0.1,0.0,SE@0.6,8.2,0.0,66,55.4,63.3,16.3,30.06,54.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,07:00,55.0,-75.6,0.1,0.0,SE@0.1,4.9,0.0,132,55.6,63.2,16.3,30.06,55.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,07:15,56.7,-74.5,0.1,0.0,SE@0.1,7.1,0.0,254,55.9,63.2,16.3,30.06,56.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,07:30,57.6,-73.7,0.1,0.0,E@0.2,8.9,0.0,172,56.4,63.2,16.3,30.06,57.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,07:45,58.2,-73.7,0.1,0.0,N @0.0,0.0,0.0,172,57.1,63.2,16.3,30.07,58.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,08:00,58.9,-72.9,0.1,0.0,E@0.0,1.4,0.0,217,57.7,63.1,16.3,30.07,59.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,08:15,60.5,-71.9,0.1,0.0,SE@2.7,9.2,0.0,347,58.3,63.1,16.3,30.07,60.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,08:30,60.6,-72.1,0.1,0.0,SE@1.9,9.9,0.0,302,59.2,63.1,16.3,30.07,60.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,08:45,60.8,-71.9,0.1,0.0,E@2.2,9.9,0.0,259,60.1,63.1,16.3,30.07,60.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,09:00,60.7,-72.0,0.1,0.0,E@3.0,9.2,0.0,230,60.9,63.0,16.3,30.07,60.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,09:15,61.3,-71.6,0.1,0.0,SE@0.8,10.7,0.0,251,61.4,63.0,16.3,30.07,61.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,09:30,62.9,-70.8,0.1,0.0,SE@4.5,10.7,0.0,389,61.8,63.0,16.3,30.06,63.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,09:45,63.4,-71.1,0.1,0.0,SE@3.2,11.0,0.0,395,62.6,63.0,16.3,30.05,63.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,10:00,63.6,-70.4,0.1,0.0,E@2.5,11.0,0.0,334,63.5,63.0,16.3,30.05,63.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,10:15,65.8,-69.4,0.1,0.0,SE@3.8,9.2,0.0,572,64.3,62.9,16.3,30.05,65.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,10:30,66.9,-69.1,0.1,0.0,SE@2.5,13.2,0.0,540,65.6,62.9,16.3,30.05,67.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,10:45,68.5,-67.8,0.1,0.0,SE@3.4,13.5,0.0,622,67.2,62.9,16.3,30.05,68.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,11:00,68.1,-68.0,0.1,0.0,S@3.1,13.2,0.0,447,69.0,62.9,16.3,30.05,68.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,11:15,69.2,-67.3,0.1,0.0,S@0.3,7.4,0.0,546,70.1,62.9,16.3,30.04,69.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,11:30,70.2,-66.3,0.1,0.0,SW@3.5,14.2,0.0,566,71.2,62.9,16.3,30.04,70.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,11:45,69.6,-67.2,0.1,0.0,SW@6.0,14.6,0.0,440,72.2,62.9,16.3,30.03,69.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,12:00,69.8,-66.7,0.1,0.0,S@4.4,13.2,0.0,390,72.9,62.8,16.3,30.03,69.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,12:15,70.0,-66.9,0.1,0.0,SW@6.8,18.5,0.0,473,73.2,62.8,16.3,30.02,70.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,12:30,69.7,-67.0,0.1,0.0,W@7.6,16.7,0.0,436,73.3,62.8,16.3,30.01,69.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,12:45,69.8,-67.1,0.1,0.0,SW@4.2,14.6,0.0,365,73.5,62.8,16.3,30.01,69.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,13:00,70.3,-66.7,0.1,0.0,SW@1.7,10.7,0.0,429,73.6,62.8,16.3,30.0,70.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,13:15,70.8,-66.0,0.1,0.0,S@3.1,12.1,0.0,410,73.8,62.8,16.3,30.0,70.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,13:30,70.7,-66.3,0.1,0.0,SW@3.1,13.9,0.0,322,74.2,62.8,16.3,29.99,70.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,13:45,71.1,-66.4,0.1,0.0,SW@6.0,13.9,0.0,286,74.2,62.9,16.3,29.99,71.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,14:00,71.3,-66.1,0.1,0.0,SW@3.9,9.9,0.0,257,74.1,62.9,16.3,29.98,71.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,14:15,71.2,-66.3,0.1,0.0,SW@2.7,15.7,0.0,200,73.8,62.9,16.3,29.98,71.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,14:30,71.1,-66.4,0.1,0.0,SW@8.1,12.8,0.0,207,73.5,62.9,16.3,29.98,71.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,14:45,71.6,-66.1,0.1,0.0,W@5.2,10.7,0.0,252,73.1,62.9,16.3,29.97,71.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,15:00,73.0,-65.4,0.1,0.0,W@4.8,11.4,0.0,431,72.7,63.0,16.3,29.97,73.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,15:15,72.7,-65.6,0.1,0.0,SW@3.3,11.7,0.0,301,72.9,63.0,16.3,29.97,72.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,15:30,72.5,-65.8,0.1,0.0,W@2.6,12.1,0.0,227,73.0,63.0,16.3,29.96,72.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,15:45,72.5,-65.9,0.1,0.0,SW@2.3,11.0,0.0,202,73.0,63.0,16.3,29.96,72.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,16:00,73.2,-65.4,0.1,0.0,SW@0.0,2.1,0.0,243,72.8,63.1,16.3,29.95,73.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,16:15,72.4,-65.8,0.1,0.0,SW@0.4,8.9,0.0,162,72.7,63.1,16.3,29.95,72.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,16:30,73.6,-65.1,0.1,0.0,SW@1.0,8.5,0.0,273,72.4,63.1,16.3,29.94,73.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,16:45,73.0,-65.6,0.1,0.0,SW@1.4,11.4,0.0,172,72.2,63.2,16.3,29.94,73.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,17:00,71.2,-66.4,0.1,0.0,N @0.0,0.0,0.0,62,71.9,63.2,16.3,29.93,71.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,17:15,70.4,-66.6,0.1,0.0,N @0.0,0.0,0.0,42,71.3,63.2,16.3,29.93,70.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,17:30,70.0,-67.1,0.1,0.0,SW@0.0,1.4,0.0,42,70.6,63.3,16.3,29.93,70.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,17:45,69.4,-67.4,0.1,0.0,N @0.0,0.0,0.0,25,69.9,63.3,16.3,29.93,69.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,18:00,68.5,-67.5,0.1,0.0,N @0.0,0.0,0.0,13,69.2,63.3,16.3,29.93,68.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,18:15,67.6,-68.3,0.1,0.0,N @0.0,0.0,0.0,3,68.5,63.4,16.3,29.93,67.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,18:30,67.4,-68.3,0.1,0.0,N @0.0,0.0,0.0,1,67.9,63.4,16.3,29.93,67.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,18:45,66.5,-68.8,0.1,0.0,N @0.0,0.0,0.0,0,67.2,63.5,16.3,29.93,66.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,19:00,64.6,-69.5,0.1,0.0,N @0.0,0.0,0.0,0,66.5,63.5,16.3,29.92,65.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,19:15,63.8,-69.9,0.1,0.0,SW@0.0,1.4,0.0,0,65.9,63.6,16.3,29.92,64.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,19:30,63.2,-70.3,0.1,0.0,N @0.0,0.0,0.0,0,65.2,63.6,16.3,29.92,63.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,19:45,62.7,-70.7,0.1,0.0,N @0.0,0.0,0.0,0,64.7,63.6,16.3,29.92,63.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,20:00,61.5,-72.1,0.1,0.0,N @0.0,0.0,0.0,0,64.1,63.7,16.3,29.92,61.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,20:15,60.5,-72.5,0.1,0.0,N @0.0,0.0,0.0,0,63.5,63.7,16.3,29.91,60.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,20:30,58.8,-73.3,0.1,0.0,N @0.0,0.0,0.0,0,62.9,63.8,16.3,29.91,59.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,20:45,57.9,-74.1,0.1,0.0,N @0.0,0.0,0.0,0,62.4,63.8,16.3,29.9,58.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,21:00,57.4,-74.2,0.1,0.0,N @0.0,0.0,0.0,0,61.8,63.8,16.3,29.9,57.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,21:15,57.4,-74.3,0.1,0.0,N @0.0,0.0,0.0,0,61.4,63.8,16.3,29.89,57.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,21:30,56.8,-74.6,0.1,0.0,N @0.0,0.0,0.0,0,60.9,63.9,16.3,29.89,57.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,21:45,56.9,-74.6,0.1,0.0,N @0.0,0.0,0.0,0,60.5,63.9,16.3,29.88,57.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,22:00,56.2,-74.7,0.1,0.0,N @0.0,0.0,0.0,0,60.1,63.9,16.3,29.88,56.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,22:15,55.2,-75.7,0.1,0.0,N @0.0,0.0,0.0,0,59.7,63.9,16.3,29.88,55.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,22:30,55.3,-75.6,0.1,0.0,N @0.0,0.0,0.0,0,59.4,63.9,16.3,29.88,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,22:45,55.8,-74.7,0.1,0.0,N @0.0,0.0,0.0,0,59.1,63.9,16.3,29.87,56.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,23:00,56.1,-74.4,0.1,0.0,N @0.0,0.0,0.0,0,58.8,63.9,16.3,29.87,56.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,23:15,55.1,-75.4,0.1,0.0,N @0.0,0.0,0.0,0,58.5,63.9,16.3,29.87,55.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,23:30,51.4,-46.0,1.0,0.0,N @0.0,0.0,0.0,0,58.2,63.9,16.3,29.87,51.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,23:45,51.3,-78.1,0.1,0.0,N @0.0,0.0,0.0,0,57.9,63.9,16.3,29.87,51.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-14,24:00,51.4,-30.9,2.4,0.0,N @0.0,0.0,0.0,0,57.6,63.9,16.3,29.87,51.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,00:15,51.1,-56.8,0.5,0.0,N @0.0,0.0,0.0,0,57.3,63.9,16.3,29.86,51.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,00:30,52.3,-76.8,0.1,0.0,E@0.5,9.2,0.0,0,57.1,63.9,16.3,29.86,52.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,00:45,52.6,-76.6,0.1,0.0,SE@3.7,9.6,0.0,0,56.8,63.9,16.3,29.86,52.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,01:00,51.5,-77.9,0.1,0.0,E@0.5,7.8,0.0,0,56.7,63.9,16.3,29.85,51.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,01:15,52.9,-76.1,0.1,0.0,E@2.6,9.6,0.0,0,56.5,63.9,16.3,29.85,53.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,01:30,53.4,-76.6,0.1,0.0,SE@6.2,10.7,0.0,0,56.3,63.9,16.3,29.84,53.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,01:45,53.2,-76.4,0.1,0.0,SE@4.9,11.0,0.0,0,56.2,63.9,16.3,29.84,53.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,02:00,51.2,-77.8,0.1,0.0,E@0.1,8.2,0.0,0,56.1,63.8,16.3,29.84,51.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,02:15,49.7,-78.8,0.1,0.0,E@0.9,7.1,0.0,0,55.9,63.8,16.3,29.83,50.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,02:30,49.9,-79.3,0.1,0.0,E@0.0,1.7,0.0,0,55.7,63.8,16.3,29.83,50.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,02:45,49.1,-59.5,0.5,0.0,E@0.3,7.4,0.0,0,55.5,63.8,16.3,29.83,49.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,03:00,48.0,-80.5,0.1,0.0,N @0.0,0.0,0.0,0,55.3,63.7,16.3,29.83,48.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,03:15,47.8,-80.5,0.1,0.0,N @0.0,0.0,0.0,0,55.0,63.7,16.3,29.83,48.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,03:30,47.2,-81.1,0.1,0.0,N @0.0,0.0,0.0,0,54.8,63.7,16.3,29.83,47.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,03:45,48.6,-79.9,0.1,0.0,N @0.0,0.0,0.0,0,54.5,63.6,16.3,29.83,48.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,04:00,47.7,-80.5,0.1,0.0,N @0.0,0.0,0.0,0,54.3,63.6,16.3,29.82,48.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,04:15,49.5,-79.0,0.1,0.0,E@0.1,6.4,0.0,0,54.1,63.6,16.3,29.82,49.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,04:30,49.4,-78.9,0.1,0.0,SE@4.6,11.0,0.0,0,54.0,63.5,16.3,29.82,49.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,04:45,50.2,-78.1,0.1,0.0,SE@1.8,10.7,0.0,0,53.9,63.5,16.3,29.82,50.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,05:00,47.5,-80.9,0.1,0.0,N @0.0,0.0,0.0,0,53.8,63.5,16.3,29.82,47.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,05:15,48.0,-80.3,0.1,0.0,N @0.0,0.0,0.0,1,53.6,63.4,16.3,29.82,48.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,05:30,47.6,-80.6,0.1,0.0,N @0.0,0.0,0.0,4,53.5,63.4,16.3,29.82,47.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,05:45,47.4,-77.2,0.2,0.0,SE@1.4,7.4,0.0,18,53.3,63.4,16.3,29.82,47.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,06:00,51.1,-77.6,0.1,0.0,N @0.0,0.0,0.0,53,53.2,63.3,16.3,29.82,51.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,06:15,50.2,-78.2,0.1,0.0,N @0.0,0.0,0.0,88,53.2,63.3,16.3,29.82,50.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,06:30,51.1,-77.4,0.1,0.0,N @0.0,0.0,0.0,125,53.3,63.3,16.3,29.82,51.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,06:45,52.3,-76.7,0.1,0.0,N @0.0,0.0,0.0,164,53.6,63.2,16.3,29.81,52.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,07:00,53.7,-75.4,0.1,0.0,E@0.0,2.1,0.0,203,54.0,63.2,16.3,29.82,54.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,07:15,55.6,-74.3,0.1,0.0,N @0.0,0.0,0.0,242,54.4,63.2,16.3,29.82,55.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,07:30,58.3,-73.4,0.1,0.0,N @0.0,0.0,0.0,286,55.1,63.1,16.3,29.82,58.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,07:45,61.3,-72.1,0.1,0.0,N @0.0,0.0,0.0,326,55.9,63.1,16.3,29.82,61.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,08:00,62.9,-71.4,0.1,0.0,S@1.9,11.0,0.0,365,56.9,63.1,16.3,29.82,63.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,08:15,63.9,-71.0,0.1,0.0,S@3.2,12.4,0.0,403,58.0,63.1,16.3,29.82,64.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,08:30,65.6,-69.9,0.1,0.0,SE@5.1,10.7,0.0,439,59.1,63.0,16.2,29.82,65.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,08:45,65.4,-70.1,0.1,0.0,SE@1.7,8.2,0.0,472,60.4,63.0,16.2,29.82,65.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,09:00,66.2,-69.7,0.1,0.0,SE@2.2,11.4,0.0,506,61.8,62.9,16.2,29.82,66.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,09:15,67.0,-69.3,0.1,0.0,SE@1.2,11.0,0.0,537,63.3,62.9,16.2,29.82,67.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,09:30,67.9,-68.5,0.1,0.0,SE@4.7,11.0,0.0,565,64.9,62.9,16.2,29.82,67.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,09:45,68.6,-67.9,0.1,0.0,SE@2.9,8.9,0.0,591,66.4,62.9,16.2,29.81,68.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,10:00,70.2,-67.0,0.1,0.0,SE@3.0,11.7,0.0,615,68.0,62.8,16.2,29.81,70.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,10:15,70.6,-67.0,0.1,0.0,E@4.5,9.9,0.0,635,69.8,62.8,16.2,29.8,70.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,10:30,72.1,-66.2,0.1,0.0,SE@1.4,10.3,0.0,653,71.4,62.8,16.2,29.8,72.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,10:45,72.4,-66.3,0.1,0.0,SE@0.9,9.9,0.0,652,73.1,62.8,16.2,29.8,72.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,11:00,72.6,-66.0,0.1,0.0,SW@4.3,14.2,0.0,660,74.6,62.8,16.2,29.79,72.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,11:15,72.7,-66.2,0.1,0.0,SW@5.1,13.2,0.0,672,75.9,62.8,16.2,29.79,72.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,11:30,74.0,-65.5,0.1,0.0,SW@3.4,14.6,0.0,686,77.0,62.7,16.2,29.79,73.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,11:45,74.7,-64.9,0.1,0.0,SW@4.6,13.5,0.0,689,78.1,62.7,16.2,29.78,74.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,12:00,74.7,-65.0,0.1,0.0,SW@4.8,12.4,0.0,687,79.0,62.7,16.2,29.78,74.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,12:15,74.7,-65.2,0.1,0.0,W@7.8,15.0,0.0,676,79.8,62.7,16.2,29.78,74.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,12:30,74.4,-65.2,0.1,0.0,W@9.8,18.9,0.0,668,80.3,62.7,16.2,29.77,74.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,12:45,74.4,-65.1,0.1,0.0,SW@7.2,16.0,0.0,661,80.6,62.7,16.2,29.77,74.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,13:00,74.9,-64.9,0.1,0.0,W@9.4,16.4,0.0,615,80.9,62.8,16.2,29.77,74.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,13:15,74.7,-65.1,0.1,0.0,W@5.8,13.2,0.0,615,81.1,62.8,16.2,29.77,74.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,13:30,74.7,-65.0,0.1,0.0,W@8.3,20.0,0.0,604,81.3,62.8,16.2,29.77,74.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,13:45,74.8,-65.0,0.1,0.0,SW@8.1,17.5,0.0,599,81.4,62.8,16.3,29.77,74.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,14:00,74.6,-65.2,0.1,0.0,SW@3.6,15.7,0.0,517,81.4,62.8,16.3,29.76,74.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,14:15,74.2,-65.4,0.1,0.0,W@3.3,17.8,0.0,444,81.3,62.9,16.3,29.76,74.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,14:30,74.6,-65.1,0.1,0.0,W@2.5,19.6,0.0,489,81.0,62.9,16.3,29.75,74.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,14:45,73.3,-65.6,0.1,0.0,W@14.9,20.7,0.0,382,80.6,63.0,16.3,29.75,73.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,15:00,72.4,-66.1,0.1,0.0,W@12.3,18.2,0.0,322,80.0,63.0,16.3,29.76,72.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,15:15,72.4,-66.0,0.1,0.0,W@10.7,18.2,0.0,290,79.2,63.0,16.3,29.76,72.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,15:30,71.6,-66.6,0.1,0.0,W@8.9,17.5,0.0,205,78.5,63.1,16.3,29.75,71.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,15:45,71.0,-66.9,0.1,0.0,W@12.8,18.2,0.0,211,77.7,63.1,16.3,29.75,71.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,16:00,70.3,-67.3,0.1,0.0,W@13.1,21.0,0.0,164,76.8,63.2,16.3,29.76,70.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,16:15,70.3,-67.4,0.1,0.0,W@12.3,17.1,0.0,198,75.9,63.2,16.3,29.76,70.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,16:30,70.0,-67.5,0.1,0.0,W@12.0,18.2,0.0,193,75.2,63.3,16.3,29.76,70.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,16:45,69.2,-67.8,0.1,0.0,W@13.6,20.7,0.0,149,74.5,63.3,16.3,29.76,69.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,17:00,68.2,-68.3,0.1,0.0,W@15.8,23.5,0.0,136,73.8,63.4,16.3,29.76,68.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,17:15,66.1,-69.2,0.1,0.0,W@16.8,22.8,0.0,75,73.2,63.5,16.3,29.77,66.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,17:30,64.7,-70.4,0.1,0.0,W@17.8,22.5,0.0,41,72.4,63.5,16.3,29.78,64.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,17:45,63.3,-70.6,0.1,0.0,W@16.3,23.5,0.0,17,71.6,63.6,16.3,29.77,63.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,18:00,62.0,-71.6,0.1,0.0,W@14.8,20.3,0.0,6,70.7,63.7,16.3,29.78,62.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,18:15,61.1,-72.4,0.1,0.0,W@14.8,19.2,0.0,2,69.8,63.7,16.3,29.78,61.4,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,18:30,60.2,40.9,48.7,0.0,W@11.7,16.7,0.0,1,69.0,63.8,16.3,29.79,60.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,18:45,59.5,-72.9,0.1,0.0,W@10.0,15.7,0.0,0,68.2,63.9,16.3,29.79,59.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,19:00,58.8,-73.6,0.1,0.0,W@9.1,17.8,0.0,0,67.5,63.9,16.3,29.8,59.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,19:15,58.7,-73.5,0.1,0.0,W@12.2,17.8,0.0,0,66.8,64.0,16.3,29.8,59.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,19:30,58.4,-30.5,1.9,0.0,W@1.3,11.0,0.0,0,66.1,64.0,16.3,29.8,58.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,19:45,58.8,18.4,20.5,0.0,NW@0.1,8.5,0.0,0,65.6,64.1,16.3,29.8,59.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,20:00,59.2,28.8,31.3,0.0,NW@0.1,6.0,0.0,0,65.3,64.1,16.3,29.81,59.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,20:15,58.7,-37.7,1.3,0.0,NW@0.0,1.7,0.0,0,64.9,64.2,16.3,29.81,59.0,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,20:30,58.3,-73.6,0.1,0.0,N @0.0,0.0,0.0,0,64.7,64.2,16.3,29.81,58.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,20:45,58.0,-73.5,0.1,0.0,N @0.0,0.0,0.0,0,64.3,64.2,16.3,29.81,58.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,21:00,57.9,-74.0,0.1,0.0,W@1.3,12.4,0.0,0,64.0,64.2,16.3,29.81,58.2,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,21:15,57.8,-73.9,0.1,0.0,W@0.5,12.4,0.0,0,63.7,64.3,16.3,29.8,58.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,21:30,57.5,-73.9,0.1,0.0,N @0.0,0.0,0.0,0,63.5,64.3,16.3,29.8,57.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,21:45,57.3,-74.1,0.1,0.0,N @0.0,0.0,0.0,0,63.3,64.3,16.3,29.8,57.6,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,22:00,56.8,-74.4,0.1,0.0,N @0.0,0.0,0.0,0,63.1,64.3,16.3,29.8,57.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,22:15,56.7,-74.4,0.1,0.0,N @0.0,0.0,0.0,0,62.8,64.3,16.3,29.8,56.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,22:30,57.0,-74.5,0.1,0.0,N @0.0,0.0,0.0,0,62.6,64.4,16.3,29.8,57.3,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,22:45,56.4,-74.7,0.1,0.0,N @0.0,0.0,0.0,0,62.4,64.4,16.3,29.8,56.7,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,23:00,56.5,-74.7,0.1,0.0,N @0.0,0.0,0.0,0,62.2,64.4,16.3,29.81,56.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,23:15,56.5,-75.0,0.1,0.0,N @0.0,0.0,0.0,0,62.0,64.4,16.3,29.81,56.8,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,23:30,56.6,-74.6,0.1,0.0,SW@0.0,1.4,0.0,0,61.9,64.4,16.3,29.81,56.9,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,23:45,56.2,-75.3,0.1,0.0,N @0.0,0.0,0.0,0,61.7,64.4,16.3,29.82,56.5,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
+2019-09-15,24:00,55.8,-75.2,0.1,0.0,N @0.0,0.0,0.0,0,61.5,64.4,16.3,29.82,56.1,"Garfield.E (Garfield East), Garfield, Whitman County",300206,Garfield.E,2020-01-21 19:23:01.081205
