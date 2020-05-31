@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Soil VWC %, Atm. Press. inHg,Location,Station ID,Station Name,Download Timestamp
+2020-02-01,23:15,28.0,19.4,71.8,0.0,W@6.9,9.9,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-01,23:30,27.2,18.9,72.9,0.0,W@6.3,8.9,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-01,23:45,27.3,18.5,71.2,0.0,W@7.2,9.9,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-01,24:00,27.1,18.3,71.2,0.0,W@7.2,10.3,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,00:15,27.5,18.8,71.6,0.0,W@7.8,11.7,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,00:30,28.3,18.5,68.3,0.0,SW@8.5,10.7,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,00:45,27.0,18.7,73.2,0.0,SW@8.4,13.2,0.0,0,32.1,33.4,14.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,01:00,27.8,18.8,70.8,0.0,W@10.4,16.4,0.0,0,32.1,33.4,14.4,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,01:15,27.7,18.2,68.9,0.0,W@9.6,13.5,0.0,0,32.1,33.4,14.4,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,01:30,27.6,17.9,68.3,0.0,W@9.7,14.6,0.0,0,32.1,33.4,14.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,01:45,27.8,17.6,67.0,0.0,W@10.0,13.2,0.0,0,32.1,33.4,14.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,02:00,26.5,17.1,69.5,0.0,W@8.5,10.7,0.0,0,32.1,33.4,14.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,02:15,26.2,16.8,69.9,0.0,W@7.6,10.3,0.0,0,32.1,33.4,14.4,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,02:30,27.1,16.4,65.8,0.0,W@7.5,11.4,0.0,0,32.2,33.4,14.4,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,02:45,25.5,16.1,69.8,0.0,W@6.1,7.8,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,03:00,26.0,16.4,69.3,0.0,W@6.4,8.9,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,03:15,25.7,16.2,69.7,0.0,W@6.5,8.9,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,03:30,26.0,15.9,67.7,0.0,W@7.3,9.6,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,03:45,26.6,15.6,65.0,0.0,W@9.9,13.9,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,04:00,26.4,15.4,65.1,0.0,NW@9.4,13.2,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,04:15,25.7,15.1,66.2,0.0,NW@8.6,12.1,0.0,0,32.2,33.4,14.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,04:30,26.5,15.4,64.8,0.0,W@9.6,13.2,0.0,0,32.2,33.4,14.3,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,04:45,25.7,15.5,67.5,0.0,W@7.4,10.3,0.0,0,32.2,33.4,14.3,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,05:00,23.7,14.8,72.0,0.0,W@5.5,7.4,0.0,0,32.2,33.4,14.3,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,05:15,22.7,14.3,73.7,0.0,NW@5.8,7.1,0.0,0,32.2,33.4,14.3,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,05:30,23.4,14.1,70.8,0.0,NW@7.1,9.2,0.0,0,32.2,33.4,14.3,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,05:45,23.3,13.8,70.2,0.0,NW@6.9,8.5,0.0,0,32.2,33.4,14.2,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,06:00,22.1,13.9,74.4,0.0,W@5.7,7.4,0.0,0,32.2,33.4,14.2,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,06:15,22.0,13.7,74.4,0.0,W@4.3,5.3,0.0,0,32.2,33.4,14.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,06:30,21.1,13.2,75.9,0.0,W@4.8,5.7,0.0,0,32.2,33.4,14.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,06:45,20.9,13.3,76.9,0.0,W@4.8,5.7,0.0,0,32.2,33.4,14.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,07:00,21.5,13.4,75.3,0.0,W@5.6,6.4,0.0,0,32.2,33.4,14.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,07:15,21.4,12.8,73.5,0.0,NW@5.4,6.0,0.0,1,32.2,33.4,14.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,07:30,21.6,13.2,74.2,0.0,NW@5.8,7.1,0.0,4,32.2,33.4,14.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,07:45,22.7,14.0,72.8,0.0,NW@6.8,8.5,0.0,24,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,08:00,23.6,14.6,71.6,0.0,NW@6.1,7.1,0.0,54,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,08:15,25.1,15.0,67.7,0.0,NW@7.2,9.6,0.0,84,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,08:30,26.2,15.4,65.7,0.0,NW@7.8,9.9,0.0,116,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,08:45,26.8,14.2,60.5,0.0,NW@8.1,10.3,0.0,149,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,09:00,27.6,13.8,57.5,0.0,NW@8.3,10.7,0.0,182,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,09:15,28.3,13.7,55.3,0.0,NW@7.8,10.3,0.0,215,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,09:30,29.1,13.2,52.2,0.0,NW@7.6,10.3,0.0,246,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,09:45,29.3,12.7,50.5,0.0,NW@8.3,10.7,0.0,277,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,10:00,29.3,13.1,51.5,0.0,NW@8.1,10.3,0.0,306,32.2,33.4,14.1,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,10:15,29.4,12.7,50.3,0.0,NW@9.0,11.0,0.0,332,32.2,33.4,14.0,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,10:30,29.8,13.5,51.1,0.0,NW@8.8,11.0,0.0,356,32.2,33.4,14.0,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,10:45,29.7,14.6,54.0,0.0,NW@8.1,11.4,0.0,378,32.2,33.4,14.0,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,11:00,30.1,13.9,51.3,0.0,NW@7.8,10.7,0.0,396,32.2,33.4,14.0,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,11:15,29.9,14.7,53.5,0.0,NW@8.0,11.0,0.0,412,32.2,33.4,14.0,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,11:30,30.1,14.6,52.8,0.0,NW@8.8,11.4,0.0,424,32.2,33.4,14.0,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,11:45,30.4,14.2,51.0,0.0,NW@8.0,10.3,0.0,433,32.2,33.4,14.0,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,12:00,30.7,14.2,50.5,0.0,W@7.2,10.7,0.0,439,32.2,33.4,14.0,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,12:15,31.2,14.3,49.7,0.0,W@7.7,10.7,0.0,442,32.2,33.4,13.9,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,12:30,31.4,13.7,47.7,0.0,W@8.7,11.4,0.0,442,32.2,33.4,13.9,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,12:45,31.6,13.0,45.9,0.0,NW@8.4,11.4,0.0,438,32.2,33.4,13.9,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,13:00,31.9,12.8,44.9,0.0,W@7.4,10.7,0.0,431,32.2,33.4,13.9,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,13:15,32.3,13.3,44.9,0.0,W@7.2,9.6,0.0,421,32.2,33.4,13.9,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,13:30,32.4,13.0,44.1,0.0,W@6.3,9.2,0.0,407,32.2,33.4,13.9,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,13:45,32.9,14.0,45.4,0.0,W@5.3,7.4,0.0,391,32.2,33.4,13.9,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,14:00,33.1,14.4,45.7,0.0,W@6.3,9.2,0.0,372,32.2,33.4,13.9,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,14:15,33.2,15.9,48.5,0.0,W@6.6,9.2,0.0,349,32.2,33.4,13.8,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,14:30,33.1,16.2,49.3,0.0,W@7.6,10.7,0.0,325,32.2,33.4,13.8,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,14:45,33.3,17.1,51.0,0.0,W@7.9,10.3,0.0,298,32.2,33.4,13.8,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,15:00,33.1,17.5,52.2,0.0,W@8.3,10.7,0.0,270,32.2,33.4,13.8,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,15:15,33.4,15.8,48.0,0.0,W@7.3,9.6,0.0,239,32.2,33.4,13.8,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,15:30,33.2,15.1,46.8,0.0,W@7.8,9.6,0.0,207,32.2,33.4,13.8,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,15:45,33.1,15.8,48.5,0.0,W@7.6,10.3,0.0,175,32.2,33.4,13.8,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,16:00,32.7,16.2,50.1,0.0,W@7.3,9.2,0.0,142,32.2,33.4,13.7,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,16:15,32.3,16.8,52.5,0.0,W@6.7,8.9,0.0,109,32.2,33.4,13.7,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,16:30,31.4,16.9,55.1,0.0,W@5.9,8.2,0.0,77,32.2,33.4,13.7,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,16:45,29.9,16.4,57.5,0.0,W@5.8,7.1,0.0,47,32.2,33.4,13.7,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,17:00,28.3,15.8,60.5,0.0,W@5.3,6.7,0.0,18,32.2,33.4,13.7,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,17:15,27.0,15.3,63.1,0.0,W@5.3,6.7,0.0,3,32.2,33.4,13.7,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,17:30,26.0,15.3,66.0,0.0,W@5.5,6.7,0.0,1,32.2,33.4,13.7,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,17:45,25.7,15.0,66.2,0.0,W@6.2,7.8,0.0,0,32.2,33.4,13.7,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,18:00,26.7,15.8,65.4,0.0,W@8.1,9.6,0.0,0,32.2,33.4,13.7,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,18:15,26.0,15.7,67.0,0.0,W@7.7,9.6,0.0,0,32.2,33.4,13.7,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,18:30,26.3,15.4,65.5,0.0,W@8.3,10.3,0.0,0,32.2,33.4,13.7,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,18:45,24.7,15.3,70.1,0.0,W@6.9,8.5,0.0,0,32.2,33.4,13.7,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,19:00,23.6,14.9,72.6,0.0,NW@6.3,7.4,0.0,0,32.2,33.4,13.7,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,19:15,24.0,14.8,71.0,0.0,NW@6.8,7.8,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,19:30,24.9,14.7,67.8,0.0,NW@7.5,8.9,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,19:45,26.2,15.1,64.8,0.0,NW@8.6,11.0,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,20:00,25.2,14.9,67.5,0.0,W@7.6,8.9,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,20:15,24.0,14.9,71.4,0.0,NW@6.7,8.5,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,20:30,23.7,14.7,71.8,0.0,NW@5.3,7.1,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,20:45,23.9,14.3,69.6,0.0,W@4.8,6.4,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,21:00,23.5,13.7,69.2,0.0,W@5.2,6.4,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,21:15,23.8,14.6,71.0,0.0,W@6.5,7.8,0.0,0,32.2,33.4,13.6,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,21:30,24.1,15.2,71.6,0.0,W@5.7,7.8,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,21:45,23.6,14.9,72.7,0.0,W@5.3,7.1,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,22:00,23.1,14.1,71.6,0.0,W@5.1,7.1,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,22:15,23.5,14.0,70.1,0.0,W@4.5,6.4,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,22:30,23.2,14.2,71.8,0.0,W@3.9,4.9,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,22:45,22.6,14.6,75.3,0.0,W@3.3,4.9,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,23:00,22.9,15.1,75.8,0.0,W@4.3,6.7,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,23:15,21.8,15.2,80.0,0.0,NW@4.9,7.4,0.0,0,32.2,33.4,13.5,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,23:30,22.7,16.7,81.9,0.0,NW@8.3,10.3,0.0,0,32.2,33.4,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,23:45,22.7,16.6,81.8,0.0,NW@8.6,10.7,0.0,0,32.2,33.4,13.5,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-02,24:00,22.6,16.6,82.0,0.0,NW@8.0,9.9,0.0,0,32.2,33.4,13.5,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,00:15,22.3,16.2,81.9,0.0,NW@8.6,10.3,0.0,0,32.2,33.4,13.5,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,00:30,21.7,16.2,83.8,0.0,NW@8.0,9.9,0.0,0,32.2,33.5,13.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,00:45,22.2,16.5,83.3,0.0,W@7.7,10.3,0.0,0,32.2,33.4,13.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,01:00,22.1,16.4,83.1,0.0,W@7.5,9.2,0.0,0,32.2,33.5,13.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,01:15,21.8,15.9,82.8,0.0,W@7.8,9.6,0.0,0,32.2,33.4,13.4,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,01:30,22.1,15.3,79.5,0.0,W@7.7,9.9,0.0,0,32.2,33.4,13.4,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,01:45,21.8,15.6,81.6,0.0,W@7.6,9.6,0.0,0,32.2,33.5,13.4,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,02:00,21.6,15.0,80.1,0.0,W@7.9,10.7,0.0,0,32.2,33.5,13.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,02:15,22.2,15.7,80.4,0.0,W@9.0,11.4,0.0,0,32.3,33.4,13.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,02:30,21.6,15.2,81.0,0.0,W@7.8,9.6,0.0,0,32.2,33.4,13.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,02:45,21.3,14.8,80.4,0.0,W@7.5,8.9,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,03:00,21.4,13.8,77.0,0.0,NW@6.8,8.2,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,03:15,21.4,14.2,78.1,0.0,NW@7.5,9.9,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,03:30,22.5,14.8,76.3,0.0,NW@8.0,10.7,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,03:45,22.0,13.9,75.0,0.0,NW@7.1,8.5,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,04:00,22.0,13.8,74.6,0.0,NW@7.2,8.9,0.0,0,32.3,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,04:15,21.4,13.3,75.2,0.0,W@7.6,11.4,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,04:30,21.3,14.0,77.9,0.0,NW@7.7,11.0,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,04:45,21.0,13.2,76.4,0.0,NW@5.0,7.8,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,05:00,21.0,12.4,73.6,0.0,SW@4.4,8.2,0.0,0,32.2,33.4,13.3,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,05:15,22.2,13.0,71.5,0.0,SW@2.1,7.8,0.0,0,32.2,33.4,13.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,05:30,20.4,12.8,77.1,0.0,NW@2.8,7.1,0.0,0,32.2,33.4,13.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,05:45,21.2,13.9,77.9,0.0,NW@6.5,8.9,0.0,0,32.2,33.4,13.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,06:00,20.8,12.7,75.1,0.0,NW@6.5,8.5,0.0,0,32.2,33.4,13.3,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,06:15,22.0,13.4,73.4,0.0,W@8.8,11.7,0.0,0,32.2,33.4,13.2,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,06:30,22.0,14.5,77.1,0.0,W@9.6,13.9,0.0,0,32.2,33.4,13.2,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,06:45,21.2,14.3,79.2,0.0,W@8.6,11.0,0.0,0,32.2,33.4,13.2,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,07:00,21.2,14.5,80.1,0.0,N@8.0,11.4,0.0,0,32.2,33.4,13.2,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,07:15,20.5,13.8,80.3,0.0,N@8.0,10.7,0.0,1,32.2,33.4,13.2,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,07:30,20.7,13.2,77.4,0.0,N@6.9,10.3,0.0,7,32.2,33.4,13.2,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,07:45,21.8,12.3,70.6,0.0,N @9.3,14.2,0.0,10,32.2,33.4,13.2,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,08:00,22.4,13.7,73.2,0.0,N@11.2,15.3,0.0,47,32.2,33.4,13.1,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,08:15,22.6,13.7,72.1,0.0,N@10.0,14.2,0.0,88,32.2,33.4,13.1,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,08:30,23.0,13.4,70.2,0.0,N@10.6,15.0,0.0,143,32.2,33.4,13.1,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,08:45,24.6,14.9,69.2,0.0,N@12.3,16.4,0.0,234,32.2,33.4,13.1,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,09:00,25.0,16.0,71.4,0.0,NW@12.0,17.1,0.0,142,32.1,33.4,13.1,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,09:15,24.1,15.0,71.0,0.0,NW@12.0,15.3,0.0,108,32.1,33.4,13.1,30.13,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,09:30,24.1,14.9,70.8,0.0,NW@10.6,16.0,0.0,104,32.1,33.4,13.1,30.14,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,09:45,24.8,15.1,69.2,0.0,N@9.5,12.8,0.0,130,32.1,33.4,13.1,30.14,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,10:00,25.4,14.9,66.7,0.0,N@9.5,14.2,0.0,127,32.1,33.4,13.1,30.15,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,10:15,25.8,15.1,65.9,0.0,N@11.1,15.0,0.0,140,32.1,33.4,13.1,30.15,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,10:30,26.4,15.5,65.3,0.0,N @10.1,15.7,0.0,165,32.1,33.4,13.1,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,10:45,27.0,15.5,63.8,0.0,N @10.8,15.3,0.0,218,32.1,33.3,13.0,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,11:00,27.1,15.4,63.0,0.0,N@11.2,15.3,0.0,244,32.1,33.3,13.0,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,11:15,28.4,15.3,58.9,0.0,N@11.3,16.4,0.0,442,32.1,33.3,13.0,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,11:30,28.2,14.4,57.0,0.0,N@11.8,17.8,0.0,353,32.1,33.3,13.0,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,11:45,28.2,14.3,57.0,0.0,N@10.8,15.0,0.0,238,32.0,33.3,13.0,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,12:00,27.4,13.8,58.0,0.0,N@9.0,12.4,0.0,109,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,12:15,29.5,14.7,54.8,0.0,N@9.9,13.9,0.0,446,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,12:30,30.4,14.8,52.5,0.0,N@9.5,13.5,0.0,459,32.1,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,12:45,30.4,14.9,52.6,0.0,N@8.9,12.4,0.0,442,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,13:00,29.9,14.1,52.1,0.0,N@9.5,13.2,0.0,335,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,13:15,29.6,14.6,53.9,0.0,N@8.8,12.1,0.0,298,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,13:30,31.0,15.1,51.7,0.0,N@8.4,12.4,0.0,436,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,13:45,30.9,14.8,51.4,0.0,NW@9.2,12.4,0.0,418,32.0,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,14:00,31.1,15.0,51.4,0.0,NW@9.5,12.1,0.0,393,32.1,33.3,12.9,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,14:15,30.9,15.0,51.7,0.0,NW@8.7,11.7,0.0,366,32.1,33.3,12.8,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,14:30,30.7,13.6,49.1,0.0,NW@8.8,12.4,0.0,333,32.1,33.3,12.8,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,14:45,30.8,13.0,47.7,0.0,NW@7.4,9.9,0.0,307,32.0,33.3,12.8,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,15:00,30.8,12.3,46.3,0.0,NW@6.3,8.5,0.0,259,32.1,33.3,12.8,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,15:15,30.8,11.4,44.5,0.0,NW@4.6,7.1,0.0,243,32.1,33.3,12.8,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,15:30,31.3,11.8,44.0,0.0,NW@3.4,7.1,0.0,210,32.1,33.2,12.8,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,15:45,31.1,11.9,44.7,0.0,NW@4.6,7.4,0.0,168,32.1,33.2,12.8,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,16:00,30.5,12.4,47.2,0.0,NW@5.3,7.4,0.0,133,32.1,33.2,12.7,30.18,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,16:15,28.7,12.7,52.0,0.0,NW@4.6,7.4,0.0,55,32.1,33.2,12.7,30.19,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,16:30,28.0,13.5,55.6,0.0,N@4.3,6.4,0.0,44,32.1,33.2,12.7,30.19,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,16:45,25.8,13.0,60.1,0.0,NW@4.2,5.3,0.0,14,32.1,33.2,12.7,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,17:00,24.6,12.3,61.8,0.0,N@4.1,4.9,0.0,10,32.1,33.2,12.7,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,17:15,23.8,12.7,65.3,0.0,N@4.7,5.7,0.0,3,32.1,33.2,12.7,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,17:30,23.5,11.5,62.9,0.0,N@5.6,7.8,0.0,1,32.1,33.2,12.7,30.21,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,17:45,23.9,10.7,59.5,0.0,N@6.2,8.5,0.0,0,32.1,33.2,12.7,30.21,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,18:00,23.2,10.9,62.1,0.0,N@6.1,8.9,0.0,0,32.1,33.2,12.7,30.22,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,18:15,23.4,10.1,59.4,0.0,N@6.9,8.5,0.0,0,32.1,33.2,12.7,30.23,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,18:30,23.5,9.7,57.9,0.0,N@7.7,10.3,0.0,0,32.1,33.3,12.7,30.23,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,18:45,23.3,9.1,57.1,0.0,N@6.6,8.9,0.0,0,32.1,33.2,12.7,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,19:00,22.6,9.0,58.9,0.0,N@6.2,8.2,0.0,0,32.1,33.2,12.6,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,19:15,22.3,9.1,59.7,0.0,N @5.2,7.4,0.0,0,32.1,33.2,12.6,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,19:30,21.9,8.6,59.5,0.0,N @4.7,7.1,0.0,0,32.1,33.2,12.6,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,19:45,22.2,8.4,58.0,0.0,NE@5.4,7.1,0.0,0,32.1,33.2,12.6,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,20:00,22.0,8.1,58.0,0.0,NE@5.8,7.4,0.0,0,32.1,33.2,12.6,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,20:15,22.1,7.9,57.0,0.0,NE@6.1,9.2,0.0,0,32.0,33.2,12.6,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,20:30,22.1,7.4,55.8,0.0,N @5.8,9.2,0.0,0,32.0,33.2,12.6,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,20:45,21.9,7.4,56.2,0.0,N @5.8,8.5,0.0,0,32.0,33.2,12.6,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,21:00,21.2,7.4,58.4,0.0,N @5.9,7.8,0.0,0,32.0,33.2,12.6,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,21:15,21.4,7.4,57.8,0.0,N @6.2,8.9,0.0,0,32.0,33.2,12.5,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,21:30,21.1,7.0,57.5,0.0,N @5.9,8.2,0.0,0,31.9,33.2,12.5,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,21:45,20.6,7.2,59.4,0.0,N @5.4,7.4,0.0,0,31.9,33.2,12.5,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,22:00,20.1,7.1,60.4,0.0,N@4.8,5.7,0.0,0,31.9,33.2,12.5,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,22:15,19.7,6.9,61.2,0.0,N @5.3,6.7,0.0,0,31.9,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,22:30,20.0,6.9,60.2,0.0,N @5.8,7.4,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,22:45,20.7,6.7,57.6,0.0,N @6.0,8.5,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,23:00,20.2,6.9,59.8,0.0,N @5.8,7.1,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,23:15,19.7,7.0,61.5,0.0,N @5.4,6.7,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,23:30,18.6,6.7,63.8,0.0,N@5.5,6.4,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,23:45,19.2,6.7,62.1,0.0,N@6.5,8.2,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-03,24:00,20.3,6.5,58.2,0.0,N@6.1,7.8,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,00:15,20.0,6.3,58.6,0.0,N @4.7,6.7,0.0,0,31.8,33.2,12.5,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,00:30,19.3,5.8,59.3,0.0,N@4.6,6.4,0.0,0,31.8,33.2,12.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,00:45,19.4,5.3,57.4,0.0,N@5.5,7.4,0.0,0,31.8,33.2,12.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,01:00,19.6,5.2,56.9,0.0,N@6.1,7.4,0.0,0,31.8,33.2,12.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,01:15,19.6,5.0,56.4,0.0,N@4.9,7.4,0.0,0,31.8,33.2,12.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,01:30,19.1,4.9,57.4,0.0,N@5.0,5.7,0.0,0,31.8,33.2,12.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,01:45,19.4,4.5,55.5,0.0,N@5.0,5.7,0.0,0,31.7,33.1,12.4,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,02:00,19.6,4.2,54.3,0.0,NW@5.2,5.7,0.0,0,31.7,33.1,12.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,02:15,18.7,5.1,58.8,0.0,N@4.8,5.3,0.0,0,31.7,33.1,12.4,30.29,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,02:30,19.6,5.6,57.8,0.0,N@5.1,6.0,0.0,0,31.7,33.1,12.4,30.29,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,02:45,20.1,5.5,56.4,0.0,NW@5.3,6.4,0.0,0,31.7,33.1,12.3,30.29,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,03:00,19.9,5.6,57.0,0.0,NW@4.7,5.7,0.0,0,31.6,33.1,12.3,30.29,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,03:15,19.7,5.3,56.9,0.0,NW@4.9,5.3,0.0,0,31.6,33.1,12.3,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,03:30,19.6,5.4,57.5,0.0,NW@4.0,5.3,0.0,0,31.6,33.1,12.3,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,03:45,20.5,4.8,53.5,0.0,NW@4.2,5.3,0.0,0,31.5,33.1,12.3,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,04:00,19.7,5.1,56.4,0.0,NW@4.2,4.6,0.0,0,31.5,33.1,12.3,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,04:15,19.8,6.4,59.5,0.0,NW@4.1,4.9,0.0,0,31.4,33.1,12.3,30.29,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,04:30,19.8,5.7,57.5,0.0,NW@2.6,3.9,0.0,0,31.4,33.1,12.3,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,04:45,19.9,4.9,55.3,0.0,W@2.1,3.5,0.0,0,31.3,33.0,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,05:00,19.2,5.2,58.1,0.0,W@2.7,3.5,0.0,0,31.3,33.0,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,05:15,20.6,4.5,52.4,0.0,W@2.2,2.8,0.0,0,31.2,33.0,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,05:30,20.7,4.3,51.8,0.0,W@1.9,2.4,0.0,0,31.2,33.0,12.2,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,05:45,20.5,4.2,52.1,0.0,W@2.5,3.5,0.0,0,31.1,33.0,12.2,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,06:00,20.5,4.3,52.3,0.0,W@2.1,3.5,0.0,0,31.0,33.0,12.2,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,06:15,19.9,4.7,54.7,0.0,W@2.6,3.5,0.0,0,31.0,33.0,12.2,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,06:30,20.8,4.4,51.7,0.0,W@2.2,2.8,0.0,0,30.9,33.0,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,06:45,21.0,4.4,51.2,0.0,W@1.9,3.1,0.0,0,30.8,33.0,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,07:00,20.8,4.7,52.3,0.0,NW@1.5,3.1,0.0,0,30.7,32.9,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,07:15,20.4,6.7,58.7,0.0,W@2.5,3.1,0.0,1,30.7,32.9,12.2,30.29,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,07:30,21.6,5.9,53.2,0.0,SW@2.2,2.8,0.0,9,30.6,32.9,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,07:45,21.8,7.4,56.7,0.0,S@3.0,4.2,0.0,8,30.5,32.9,12.2,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,08:00,21.7,7.9,58.4,0.0,S@2.7,3.5,0.0,14,30.4,32.9,12.2,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,08:15,21.6,9.0,61.3,0.0,SE@2.4,3.1,0.0,20,30.3,32.9,12.1,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,08:30,21.3,8.6,61.2,0.0,SE@4.3,5.7,0.0,28,30.2,32.9,12.1,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,08:45,21.3,9.0,62.1,0.0,SE@3.5,4.6,0.0,37,30.2,32.8,12.1,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,09:00,21.5,9.6,63.2,0.0,S@3.4,4.6,0.0,42,30.1,32.8,12.1,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,09:15,22.0,10.6,64.7,0.0,SE@4.0,5.3,0.0,45,30.0,32.8,12.1,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,09:30,22.3,10.1,62.4,0.0,S@4.0,5.3,0.0,49,30.0,32.8,12.1,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,09:45,22.5,10.0,61.5,0.0,S@3.9,5.3,0.0,45,29.9,32.8,12.1,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,10:00,23.0,10.4,61.4,0.0,SE@4.3,6.7,0.0,49,29.8,32.8,12.0,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,10:15,23.2,11.2,62.8,0.0,SE@5.7,8.5,0.0,64,29.8,32.7,12.0,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,10:30,23.2,11.6,63.8,0.0,SE@4.9,6.4,0.0,68,29.7,32.7,12.0,30.23,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,10:45,23.0,12.7,67.6,0.0,SE@3.4,5.3,0.0,65,29.7,32.7,12.0,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,11:00,23.2,13.0,68.4,0.0,SE@4.3,5.7,0.0,60,29.7,32.7,12.0,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,11:15,23.3,13.7,69.9,0.0,SE@4.5,6.0,0.0,62,29.7,32.7,12.0,30.23,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,11:30,23.0,14.0,71.9,0.0,E@4.6,6.4,0.0,65,29.7,32.7,12.0,30.22,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,11:45,23.0,14.2,72.2,0.0,SE@4.7,6.4,0.0,75,29.7,32.6,12.0,30.21,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,12:00,23.0,14.2,72.5,0.0,E@4.1,5.7,0.0,81,29.6,32.6,12.0,30.21,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,12:15,23.6,14.5,71.5,0.0,E@2.9,4.2,0.0,80,29.7,32.6,12.0,30.22,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,12:30,23.8,15.0,72.1,0.0,E@4.2,7.1,0.0,78,29.6,32.6,12.0,30.21,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,12:45,23.4,15.2,74.3,0.0,E@4.5,6.0,0.0,96,29.7,32.6,11.9,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,13:00,23.4,15.9,76.8,0.0,E@5.0,6.7,0.0,96,29.7,32.6,11.9,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,13:15,23.3,16.3,78.4,0.0,E@4.9,7.1,0.0,92,29.7,32.6,11.9,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,13:30,23.4,16.7,79.4,0.0,E@4.1,5.7,0.0,88,29.7,32.5,11.9,30.19,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,13:45,23.1,16.8,80.7,0.0,E@4.6,6.7,0.0,81,29.7,32.5,11.9,30.18,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,14:00,22.7,17.5,84.8,0.0,E@4.8,6.7,0.0,81,29.7,32.5,11.9,30.18,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,14:15,22.8,17.8,85.5,0.0,E@5.3,6.7,0.0,73,29.8,32.5,11.9,30.18,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,14:30,22.9,17.9,85.8,0.0,NE@5.6,7.4,0.0,70,29.8,32.5,11.9,30.18,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,14:45,22.9,18.0,85.9,0.0,E@5.5,7.4,0.0,72,29.8,32.5,11.8,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,15:00,23.3,18.3,85.4,0.0,E@4.6,6.0,0.0,84,29.8,32.5,11.8,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,15:15,23.5,18.3,84.7,0.0,SE@3.5,4.9,0.0,70,29.9,32.5,11.8,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,15:30,23.6,18.6,85.3,0.0,S@3.3,4.9,0.0,55,29.9,32.5,11.8,30.14,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,15:45,24.1,18.9,84.4,0.0,SE@3.5,4.9,0.0,59,29.9,32.4,11.8,30.13,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,16:00,24.4,19.1,84.2,0.0,SE@4.6,6.4,0.0,35,29.9,32.4,11.8,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,16:15,24.5,18.6,81.5,0.0,SE@3.7,6.4,0.0,25,30.0,32.4,11.8,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,16:30,24.9,18.5,79.9,0.0,E@3.2,4.2,0.0,19,30.0,32.4,11.8,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,16:45,24.9,19.0,81.4,0.0,SE@4.8,8.2,0.0,10,30.0,32.4,11.8,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,17:00,24.4,21.1,91.4,0.0,SE@5.4,7.1,0.0,4,30.0,32.4,11.8,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,17:15,24.0,21.3,93.9,0.0,SE@5.0,7.4,0.0,2,30.0,32.4,11.8,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,17:30,23.8,21.3,94.9,0.0,SE@4.7,6.7,0.0,0,30.0,32.4,11.8,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,17:45,23.6,21.4,96.1,0.0,SE@5.3,7.1,0.0,0,30.0,32.4,11.8,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,18:00,23.5,21.5,96.9,0.0,SE@3.1,5.3,0.0,0,30.1,32.4,11.7,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,18:15,23.0,21.3,98.1,0.0,NE@4.1,5.7,0.0,0,30.1,32.4,11.7,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,18:30,22.9,21.6,100.0,0.0,NE@3.6,5.3,0.0,0,30.1,32.4,11.7,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,18:45,23.1,23.1,100.0,0.0,E@3.8,5.7,0.0,0,30.0,32.4,11.7,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,19:00,23.1,23.1,100.0,0.0,NE@4.1,5.7,0.0,0,30.0,32.4,11.7,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,19:15,23.0,23.0,100.0,0.0,NE@4.8,6.4,0.0,0,30.0,32.4,11.7,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,19:30,22.7,22.7,100.0,0.0,NE@4.5,6.4,0.0,0,30.0,32.4,11.7,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,19:45,22.7,22.7,100.0,0.0,NE@3.8,5.7,0.0,0,30.0,32.4,11.7,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,20:00,22.7,22.7,100.0,0.0,NE@3.9,5.3,0.0,0,30.0,32.4,11.7,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,20:15,22.7,22.7,100.0,0.0,NE@4.1,6.4,0.0,0,30.0,32.4,11.7,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,20:30,22.7,22.7,100.0,0.0,NE@4.5,6.4,0.0,0,29.9,32.3,11.7,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,20:45,22.9,22.9,100.0,0.0,NE@4.5,6.4,0.0,0,29.9,32.3,11.6,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,21:00,23.1,23.1,100.0,0.0,N @4.7,6.0,0.0,0,29.9,32.3,11.6,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,21:15,23.2,23.2,100.0,0.0,N @4.2,5.7,0.0,0,29.9,32.3,11.6,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,21:30,23.3,23.3,100.0,0.0,NE@3.6,4.9,0.0,0,29.9,32.3,11.6,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,21:45,23.5,23.5,100.0,0.0,NE@3.6,4.9,0.0,0,29.9,32.3,11.6,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,22:00,23.6,23.6,100.0,0.0,NE@3.6,5.3,0.0,0,29.8,32.3,11.6,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,22:15,23.5,23.5,100.0,0.0,NE@3.7,5.3,0.0,0,29.8,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,22:30,23.3,23.3,100.0,0.0,NE@3.8,5.7,0.0,0,29.8,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,22:45,23.2,23.2,100.0,0.0,NE@3.2,4.6,0.0,0,29.8,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,23:00,23.4,23.4,100.0,0.0,NE@3.1,4.2,0.0,0,29.8,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,23:15,23.5,23.5,100.0,0.0,NE@3.0,4.2,0.0,0,29.8,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,23:30,23.7,23.7,100.0,0.0,NE@3.3,5.3,0.0,0,29.8,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,23:45,23.8,23.8,100.0,0.0,NE@3.3,4.6,0.0,0,29.7,32.3,11.6,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-04,24:00,23.8,23.8,100.0,0.0,NE@3.3,4.2,0.0,0,29.7,32.3,11.6,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,00:15,23.9,23.9,100.0,0.0,NE@2.7,3.9,0.0,0,29.7,32.3,11.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,00:30,24.0,24.0,100.0,0.0,NE@2.4,3.5,0.0,0,29.7,32.3,11.5,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,00:45,24.1,24.1,100.0,0.0,N @1.9,2.8,0.0,0,29.7,32.3,11.5,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,01:00,24.2,24.2,100.0,0.0,N @2.0,2.4,0.0,0,29.7,32.3,11.5,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,01:15,24.3,24.3,100.0,0.0,N @2.2,2.8,0.0,0,29.7,32.3,11.5,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,01:30,24.4,24.4,100.0,0.0,NE@1.8,2.8,0.0,0,29.7,32.3,11.5,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,01:45,24.5,24.5,100.0,0.0,NE@1.9,3.1,0.0,0,29.7,32.3,11.5,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,02:00,24.5,24.5,100.0,0.0,N @1.7,2.4,0.0,0,29.7,32.3,11.5,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,02:15,24.6,24.6,100.0,0.0,NE@2.2,2.8,0.0,0,29.7,32.2,11.5,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,02:30,24.6,24.6,100.0,0.0,NE@2.1,2.8,0.0,0,29.7,32.2,11.5,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,02:45,24.7,24.7,100.0,0.0,NE@2.0,2.8,0.0,0,29.7,32.2,11.5,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,03:00,24.7,24.7,100.0,0.0,NE@2.1,3.1,0.0,0,29.7,32.2,11.4,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,03:15,24.5,24.5,100.0,0.0,NE@2.3,3.1,0.0,0,29.7,32.2,11.4,30.01,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,03:30,24.5,24.5,100.0,0.0,NE@2.4,3.1,0.0,0,29.7,32.2,11.4,30.01,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,03:45,24.6,24.6,100.0,0.0,NE@1.8,2.8,0.0,0,29.7,32.2,11.4,30.0,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,04:00,24.6,24.6,100.0,0.0,NE@0.4,2.1,0.0,0,29.7,32.2,11.4,30.0,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,04:15,24.7,24.7,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,04:30,24.7,24.7,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,04:45,24.8,24.8,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,05:00,24.9,24.9,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,05:15,24.8,24.8,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,05:30,24.9,24.9,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,05:45,24.9,24.9,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,06:00,25.1,25.1,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,06:15,25.1,25.1,100.0,0.0,N @0.0,0.0,0.0,0,29.7,32.2,11.4,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,06:30,24.8,24.8,100.0,0.0,NW@0.8,2.4,0.0,0,29.8,32.2,11.4,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,06:45,24.7,24.7,100.0,0.0,NW@2.0,2.8,0.0,0,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,07:00,24.5,24.5,100.0,0.0,NW@2.1,2.8,0.0,0,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,07:15,24.7,24.7,100.0,0.0,NW@1.8,2.4,0.0,0,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,07:30,24.9,24.9,100.0,0.0,NW@1.9,2.4,0.0,2,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,07:45,24.8,24.8,100.0,0.0,NW@2.1,2.8,0.0,6,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,08:00,24.9,24.9,100.0,0.0,NW@2.0,2.8,0.0,15,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,08:15,25.1,25.1,100.0,0.0,N@1.9,2.8,0.03,17,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,08:30,25.1,25.1,100.0,0.0,N@1.7,2.4,0.05,18,29.8,32.2,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,08:45,25.5,24.4,100.0,0.0,N @0.9,2.1,0.05,23,29.8,32.1,11.3,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,09:00,25.7,25.7,100.0,0.0,N @0.9,2.4,0.06,30,29.8,32.1,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,09:15,25.7,24.7,100.0,0.0,N@2.0,3.1,0.06,36,29.8,32.1,11.3,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,09:30,26.0,26.0,100.0,0.0,N@2.1,2.8,0.06,51,29.8,32.1,11.2,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,09:45,26.0,25.0,100.0,0.0,N@2.1,3.5,0.06,69,29.8,32.1,11.2,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,10:00,26.0,25.0,100.0,0.0,NW@2.2,2.8,0.07,92,29.9,32.1,11.2,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,10:15,26.3,25.3,100.0,0.0,NW@1.3,2.4,0.07,98,29.9,32.1,11.2,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,10:30,26.6,25.8,100.0,0.0,W@0.3,2.1,0.08,103,29.9,32.1,11.2,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,10:45,27.2,26.4,100.0,0.0,SE@0.8,2.4,0.09,110,29.9,32.1,11.2,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,11:00,27.2,26.4,100.0,0.0,E@1.3,2.4,0.09,90,29.9,32.1,11.2,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,11:15,27.1,26.3,100.0,0.0,E@0.8,2.4,0.1,92,30.0,32.1,11.2,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,11:30,27.8,27.1,100.0,0.0,E@0.5,2.4,0.11,116,30.0,32.1,11.2,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,11:45,27.6,26.8,100.0,0.0,E@1.9,2.8,0.11,113,30.0,32.1,11.2,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,12:00,27.6,26.9,100.0,0.0,E@1.2,2.8,0.12,123,30.1,32.1,11.2,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,12:15,28.1,27.5,100.0,0.0,NE@0.8,2.8,0.13,120,30.1,32.1,11.2,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,12:30,28.0,27.3,100.0,0.0,NE@2.1,3.5,0.13,138,30.2,32.1,11.2,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,12:45,27.9,27.2,100.0,0.0,SE@2.3,3.1,0.14,138,30.2,32.1,11.2,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,13:00,28.0,27.4,100.0,0.0,SE@2.1,3.9,0.15,183,30.2,32.1,11.2,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,13:15,28.7,28.1,100.0,0.0,SE@2.1,3.9,0.2,228,30.3,32.1,11.1,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,13:30,29.0,28.5,100.0,0.0,SE@2.5,4.2,0.21,229,30.3,32.1,11.1,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,13:45,29.0,28.4,100.0,0.0,SE@2.8,4.6,0.22,217,30.4,32.1,11.1,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,14:00,29.1,28.6,100.0,0.0,E@3.5,4.9,0.19,187,30.4,32.1,11.1,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,14:15,29.2,28.6,100.0,0.0,E@3.1,5.3,0.16,223,30.4,32.1,11.1,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,14:30,29.5,29.0,100.0,0.0,E@3.0,5.3,0.17,230,30.5,32.1,11.1,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,14:45,30.0,29.5,99.9,0.0,E@3.0,7.4,0.16,221,30.5,32.1,11.1,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,15:00,29.5,28.9,99.6,0.0,E@4.3,6.7,0.13,160,30.6,32.1,11.1,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,15:15,29.6,28.9,98.9,0.0,E@3.8,6.7,0.11,147,30.6,32.1,11.1,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,15:30,29.3,28.3,98.1,0.0,E@4.3,6.4,0.09,114,30.6,32.1,11.1,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,15:45,29.1,28.2,98.3,0.0,E@3.4,4.9,0.08,95,30.7,32.1,11.1,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,16:00,29.0,28.3,99.3,0.0,E@3.4,5.3,0.08,69,30.7,32.1,11.1,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,16:15,28.7,28.1,99.9,0.0,NE@4.2,6.4,0.08,58,30.7,32.1,11.0,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,16:30,28.4,27.7,100.0,0.0,NE@4.4,6.0,0.08,37,30.8,32.1,11.0,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,16:45,28.1,27.4,100.0,0.0,E@3.8,5.3,0.09,18,30.8,32.1,11.0,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,17:00,27.9,27.2,100.0,0.0,E@3.7,5.3,0.09,7,30.8,32.1,11.0,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,17:15,27.7,27.0,100.0,0.0,E@3.4,4.9,0.1,2,30.9,32.1,11.0,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,17:30,27.6,26.8,100.0,0.0,E@3.5,4.6,0.1,0,30.9,32.1,11.0,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,17:45,27.4,26.6,100.0,0.0,E@3.6,4.9,0.11,0,30.9,32.1,11.0,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,18:00,27.4,26.6,100.0,0.0,E@3.0,4.6,0.12,0,30.9,32.1,11.0,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,18:15,27.4,26.6,100.0,0.0,SE@3.1,4.2,0.12,0,31.0,32.1,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,18:30,27.4,26.6,100.0,0.0,SE@3.2,4.6,0.13,0,31.0,32.2,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,18:45,27.6,26.8,100.0,0.0,SE@4.1,4.9,0.13,0,31.0,32.2,11.0,29.86,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,19:00,27.8,27.0,100.0,0.0,E@3.8,5.3,0.13,0,31.0,32.1,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,19:15,28.1,27.4,100.0,0.0,E@4.7,7.1,0.14,0,31.0,32.2,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,19:30,27.8,27.1,100.0,0.0,E@4.6,6.7,0.14,0,31.0,32.2,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,19:45,27.8,27.1,100.0,0.0,E@2.8,4.9,0.14,0,31.1,32.2,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,20:00,27.8,27.1,100.0,0.0,SE@2.8,3.9,0.14,0,31.1,32.2,11.0,29.86,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,20:15,27.8,27.1,100.0,0.0,S@3.4,5.3,0.14,0,31.1,32.2,11.0,29.86,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,20:30,27.9,27.2,100.0,0.0,SE@3.9,6.0,0.14,0,31.1,32.2,11.0,29.86,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,20:45,27.9,27.2,100.0,0.0,SE@4.2,6.4,0.14,0,31.1,32.2,11.0,29.86,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,21:00,27.9,27.2,100.0,0.0,E@4.9,6.7,0.14,0,31.1,32.2,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,21:15,28.0,27.3,100.0,0.0,E@4.4,6.7,0.15,0,31.1,32.2,11.0,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,21:30,27.8,27.1,100.0,0.0,E@3.5,4.6,0.15,0,31.1,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,21:45,27.7,27.0,100.0,0.0,NE@3.1,4.6,0.15,0,31.1,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,22:00,27.7,27.0,100.0,0.0,NE@3.2,5.3,0.15,0,31.1,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,22:15,27.8,27.0,100.0,0.0,NE@2.2,3.9,0.15,0,31.2,32.2,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,22:30,27.8,27.1,100.0,0.0,NE@2.5,4.2,0.15,0,31.2,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,22:45,27.9,27.2,100.0,0.0,NE@1.9,3.9,0.15,0,31.2,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,23:00,28.0,27.4,100.0,0.0,N@2.5,3.9,0.15,0,31.2,32.2,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,23:15,28.1,27.5,100.0,0.0,E@1.7,3.1,0.15,0,31.2,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,23:30,28.1,28.1,100.0,0.0,E@2.1,3.1,0.15,0,31.2,32.2,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,23:45,28.2,27.5,100.0,0.0,N@3.4,4.6,0.15,0,31.2,32.2,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-05,24:00,28.3,27.6,100.0,0.0,NE@3.6,4.9,0.15,0,31.2,32.3,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,00:15,28.1,27.4,100.0,0.0,N @3.4,4.9,0.15,0,31.2,32.3,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,00:30,28.0,27.3,100.0,0.0,N @2.6,4.2,0.15,0,31.2,32.3,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,00:45,28.0,27.3,100.0,0.0,N@3.1,4.2,0.15,0,31.2,32.3,10.9,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,01:00,27.9,27.2,100.0,0.0,N@2.8,4.9,0.15,0,31.2,32.3,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,01:15,28.2,27.5,100.0,0.0,NW@3.6,5.3,0.16,0,31.2,32.3,10.9,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,01:30,28.5,27.9,100.0,0.0,SW@2.4,4.2,0.16,0,31.2,32.3,10.9,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,01:45,28.7,28.1,100.0,0.0,W@3.8,6.0,0.16,0,31.2,32.3,10.8,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,02:00,28.9,28.3,100.0,0.0,NW@3.5,5.7,0.17,0,31.2,32.3,10.8,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,02:15,31.0,30.8,100.0,0.0,NW@4.1,4.9,0.19,0,31.2,32.3,10.8,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,02:30,31.0,30.8,100.0,0.0,NE@3.0,5.7,0.2,0,31.2,32.3,10.8,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,02:45,30.3,30.0,100.0,0.0,NW@2.0,3.5,0.2,0,31.2,32.3,10.8,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,03:00,30.2,29.8,100.0,0.0,N @2.1,3.9,0.2,0,31.2,32.3,10.8,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,03:15,29.4,28.9,100.0,0.0,N@3.5,4.6,0.2,0,31.2,32.3,10.8,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,03:30,30.4,30.1,100.0,0.0,N@3.2,5.3,0.2,0,31.2,32.3,10.8,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,03:45,29.3,28.8,100.0,0.0,E@2.7,5.3,0.2,0,31.2,32.3,10.8,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,04:00,28.9,28.3,100.0,0.0,NW@2.7,4.6,0.19,0,31.2,32.3,10.8,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,04:15,28.4,27.8,100.0,0.0,NE@2.8,5.3,0.19,0,31.2,32.3,10.8,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,04:30,29.2,28.7,100.0,0.0,N@4.1,5.7,0.19,0,31.2,32.3,10.8,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,04:45,31.2,30.9,100.0,0.0,NW@3.7,4.9,0.21,0,31.2,32.3,10.8,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,05:00,31.5,31.3,100.0,0.0,NW@3.7,5.7,0.22,0,31.2,32.3,10.8,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,05:15,31.8,31.7,100.0,0.0,N@3.8,6.0,0.22,0,31.2,32.3,10.8,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,05:30,28.3,27.7,100.0,0.0,N @4.4,6.7,0.2,0,31.2,32.3,10.8,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,05:45,27.7,26.9,100.0,0.0,N@4.4,6.4,0.19,0,31.2,32.3,10.8,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,06:00,28.3,27.6,100.0,0.0,NW@3.8,5.3,0.19,0,31.2,32.3,10.8,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,06:15,29.1,28.5,100.0,0.0,NE@1.9,5.3,0.2,0,31.2,32.3,10.8,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,06:30,29.2,28.6,100.0,0.0,S@1.4,3.9,0.2,0,31.2,32.3,10.8,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,06:45,28.8,28.2,100.0,0.0,NW@2.6,4.2,0.19,0,31.2,32.3,10.8,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,07:00,30.1,29.7,100.0,0.0,W@2.0,3.5,0.2,0,31.2,32.3,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,07:15,31.1,30.8,100.0,0.0,NW@3.3,4.6,0.22,1,31.2,32.3,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,07:30,31.6,31.5,100.0,0.0,NE@2.7,5.7,0.23,2,31.2,32.4,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,07:45,32.4,32.4,99.9,0.0,NE@1.7,3.9,0.25,5,31.2,32.3,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,08:00,31.1,30.8,100.0,0.0,SE@2.6,5.3,0.24,11,31.2,32.4,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,08:15,29.2,28.7,100.0,0.0,SW@3.1,3.9,0.23,21,31.2,32.4,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,08:30,30.3,29.9,100.0,0.0,W@3.0,4.2,0.24,30,31.2,32.4,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,08:45,31.6,31.4,100.0,0.0,W@3.8,4.9,0.26,42,31.2,32.4,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,09:00,32.2,32.2,99.9,0.0,W@3.8,4.6,0.3,64,31.2,32.4,10.8,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,09:15,34.9,34.8,99.9,0.0,W@3.8,4.9,0.32,80,31.2,32.4,10.8,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,09:30,36.4,36.4,99.9,0.0,SW@4.0,6.0,0.34,103,31.2,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,09:45,37.2,37.2,99.9,0.0,W@4.9,7.8,0.24,124,31.2,32.4,10.7,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,10:00,37.4,37.3,99.9,0.0,SW@4.1,6.4,0.07,127,31.2,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,10:15,36.2,36.2,99.9,0.0,S@3.9,8.9,0.0,137,31.2,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,10:30,37.8,37.8,99.8,0.0,W@7.4,9.6,0.0,155,31.2,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,10:45,38.9,38.9,99.8,0.0,W@7.2,9.2,0.0,152,31.2,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,11:00,39.1,39.1,99.8,0.0,W@7.2,9.2,0.0,143,31.3,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,11:15,39.2,37.8,94.7,0.0,W@4.9,7.1,0.0,182,31.3,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,11:30,40.3,34.4,79.4,0.0,SE@3.0,6.0,0.0,182,31.3,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,11:45,39.9,34.2,79.8,0.0,SE@3.1,4.9,0.0,163,31.3,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,12:00,38.8,33.6,81.4,0.0,SE@2.0,3.5,0.0,159,31.3,32.4,10.7,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,12:15,38.4,33.2,81.4,0.0,N @1.8,5.7,0.0,137,31.3,32.4,10.7,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,12:30,36.3,33.0,87.8,0.0,NE@3.1,4.6,0.0,127,31.3,32.4,10.7,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,12:45,36.0,32.6,87.3,0.0,NE@2.5,4.9,0.0,105,31.3,32.4,10.7,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,13:00,33.7,31.4,91.1,0.0,SE@1.3,3.9,0.0,116,31.3,32.4,10.7,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,13:15,34.5,32.0,90.5,0.0,SE@2.5,4.9,0.0,147,31.3,32.4,10.7,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,13:30,34.4,32.0,90.9,0.0,SE@2.6,4.6,0.0,146,31.3,32.4,10.7,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,13:45,35.5,32.4,88.4,0.0,SE@2.1,3.9,0.0,142,31.4,32.4,10.7,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,14:00,35.1,32.4,89.5,0.0,SE@3.9,5.7,0.0,121,31.4,32.4,10.7,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,14:15,34.8,32.3,90.5,0.0,SE@3.1,4.6,0.0,101,31.4,32.4,10.7,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,14:30,35.0,32.8,91.6,0.0,SE@3.3,4.9,0.0,135,31.4,32.4,10.7,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,14:45,34.7,33.3,94.8,0.0,SE@3.5,5.3,0.01,130,31.4,32.4,10.7,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,15:00,34.6,33.7,96.8,0.0,SE@2.8,4.6,0.07,124,31.4,32.4,10.7,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,15:15,34.8,34.1,97.3,0.0,SE@2.2,3.9,0.1,93,31.4,32.4,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,15:30,34.5,34.0,98.1,0.0,SE@2.4,3.9,0.14,60,31.4,32.4,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,15:45,34.3,34.2,99.6,0.0,SE@3.1,4.2,0.17,44,31.4,32.4,10.6,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,16:00,34.1,34.1,99.8,0.0,SE@2.9,3.9,0.2,35,31.4,32.4,10.6,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,16:15,34.0,34.0,99.9,0.0,S@2.6,3.5,0.22,27,31.4,32.4,10.6,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,16:30,33.9,33.9,99.9,0.0,S@1.0,2.8,0.25,20,31.4,32.4,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,16:45,33.9,33.9,99.9,0.01,N @0.4,2.4,0.26,12,31.5,32.4,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,17:00,33.8,33.8,99.9,0.0,NE@2.1,4.2,0.27,5,31.5,32.4,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,17:15,34.0,34.0,99.9,0.0,N @0.1,2.1,0.28,2,31.5,32.4,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,17:30,33.7,33.6,99.9,0.0,N @0.0,0.0,0.29,0,31.5,32.4,10.7,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,17:45,33.4,33.4,99.9,0.01,S@1.3,3.1,0.3,0,31.5,32.4,10.7,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,18:00,32.5,32.5,99.9,0.0,SE@1.0,2.8,0.31,0,31.5,32.4,10.7,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,18:15,32.8,32.8,99.9,0.0,NW@0.4,2.1,0.31,0,31.5,32.4,10.7,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,18:30,32.9,32.9,99.9,0.0,E@0.1,2.1,0.32,0,31.5,32.4,10.7,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,18:45,33.2,33.2,99.9,0.0,N @0.0,0.0,0.33,0,31.5,32.4,10.6,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,19:00,33.3,33.3,99.9,0.0,N @0.0,0.0,0.33,0,31.5,32.5,10.6,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,19:15,32.5,32.5,100.0,0.0,NW@1.3,3.5,0.34,0,31.5,32.4,10.6,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,19:30,32.4,32.4,100.0,0.0,N@3.4,4.6,0.35,0,31.5,32.5,10.6,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,19:45,32.7,32.7,100.0,0.0,NW@3.1,3.9,0.35,0,31.5,32.5,10.6,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,20:00,32.8,32.7,100.0,0.0,NW@3.4,4.6,0.35,0,31.5,32.5,10.6,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,20:15,33.0,33.0,100.0,0.0,NW@2.9,4.2,0.36,0,31.5,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,20:30,33.3,33.3,99.9,0.0,NW@2.3,3.9,0.36,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,20:45,32.6,32.6,100.0,0.01,SE@0.9,2.4,0.36,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,21:00,31.9,31.8,100.0,0.0,E@1.4,2.4,0.35,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,21:15,32.1,32.1,100.0,0.0,N@0.0,1.4,0.35,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,21:30,32.2,32.1,100.0,0.0,NW@0.0,1.4,0.34,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,21:45,32.1,32.1,100.0,0.0,W@2.2,3.5,0.34,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,22:00,32.2,32.2,100.0,0.0,NW@2.7,3.5,0.34,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,22:15,32.2,32.2,100.0,0.0,NW@2.4,3.1,0.34,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,22:30,32.1,32.1,100.0,0.0,NW@2.8,4.6,0.34,0,31.6,32.5,10.6,29.88,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,22:45,32.2,32.2,100.0,0.0,NW@3.7,4.6,0.34,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,23:00,32.1,32.1,100.0,0.0,N@3.4,5.3,0.35,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,23:15,31.9,31.8,100.0,0.0,N@2.1,5.3,0.34,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,23:30,31.3,31.1,100.0,0.0,N@3.0,4.2,0.33,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,23:45,30.7,30.4,100.0,0.0,SW@1.1,2.8,0.32,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-06,24:00,30.4,30.0,100.0,0.0,SE@1.5,3.9,0.32,0,31.6,32.5,10.6,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,00:15,30.9,30.6,100.0,0.0,E@1.0,2.4,0.32,0,31.6,32.5,10.6,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,00:30,31.1,30.9,100.0,0.0,N @1.8,2.8,0.33,0,31.6,32.5,10.6,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,00:45,31.3,31.1,100.0,0.0,N@1.7,3.9,0.33,0,31.6,32.5,10.6,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,01:00,31.4,31.2,100.0,0.0,NW@4.4,6.0,0.33,0,31.7,32.5,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,01:15,31.5,31.4,100.0,0.0,N@5.9,7.4,0.33,0,31.7,32.5,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,01:30,31.3,31.1,100.0,0.0,N@5.3,7.1,0.33,0,31.7,32.5,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,01:45,31.2,31.0,100.0,0.0,N @4.8,6.7,0.33,0,31.7,32.5,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,02:00,31.1,30.8,100.0,0.0,N@4.8,6.7,0.33,0,31.7,32.5,10.6,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,02:15,31.1,30.8,100.0,0.0,N@6.6,8.9,0.33,0,31.7,32.5,10.6,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,02:30,31.3,31.1,100.0,0.0,N@6.8,9.2,0.33,0,31.7,32.5,10.6,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,02:45,31.4,31.2,100.0,0.0,N@7.0,9.6,0.33,0,31.7,32.5,10.6,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,03:00,31.3,31.1,100.0,0.0,N@6.6,8.9,0.33,0,31.7,32.5,10.6,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,03:15,31.2,31.0,100.0,0.0,N@7.5,9.9,0.33,0,31.7,32.5,10.6,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,03:30,31.2,30.9,100.0,0.0,N@8.3,12.1,0.33,0,31.7,32.6,10.6,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,03:45,31.2,31.0,100.0,0.0,N@8.1,11.4,0.33,0,31.7,32.6,10.6,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,04:00,31.4,31.2,100.0,0.0,N@8.7,11.7,0.33,0,31.7,32.6,10.6,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,04:15,31.5,31.3,100.0,0.0,N@8.5,10.7,0.33,0,31.7,32.6,10.6,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,04:30,31.6,31.4,100.0,0.0,N@8.7,11.4,0.33,0,31.7,32.6,10.6,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,04:45,31.7,31.6,100.0,0.0,N@8.7,12.1,0.33,0,31.7,32.6,10.6,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,05:00,31.8,31.7,100.0,0.0,N@7.6,10.7,0.33,0,31.7,32.6,10.6,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,05:15,32.3,32.2,99.9,0.0,N@7.9,10.7,0.34,0,31.7,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,05:30,32.5,32.4,99.9,0.0,N@7.3,10.3,0.34,0,31.7,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,05:45,33.0,32.9,99.9,0.0,N@7.3,10.7,0.35,0,31.7,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,06:00,32.8,32.8,99.9,0.0,N@7.0,12.1,0.36,0,31.7,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,06:15,32.6,32.6,99.9,0.0,N@6.8,9.2,0.36,0,31.7,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,06:30,32.7,32.7,99.9,0.0,N@7.4,10.3,0.36,0,31.7,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,06:45,33.0,32.9,99.9,0.0,N@8.7,13.2,0.37,0,31.7,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,07:00,32.9,32.9,99.9,0.0,NW@8.7,11.0,0.38,0,31.7,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,07:15,33.1,33.0,99.9,0.0,N@8.3,11.7,0.39,1,31.7,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,07:30,32.9,32.9,99.9,0.0,NW@7.7,10.3,0.38,9,31.7,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,07:45,33.4,32.9,98.1,0.0,N@7.8,11.0,0.38,24,31.7,32.6,10.6,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,08:00,33.4,32.8,97.4,0.0,N@7.7,9.9,0.35,48,31.7,32.6,10.6,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,08:15,33.4,32.8,97.7,0.0,N@7.5,11.0,0.31,37,31.7,32.6,10.6,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,08:30,33.4,33.0,98.4,0.0,N@6.5,9.2,0.29,55,31.7,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,08:45,33.2,33.0,99.3,0.0,N @6.7,9.2,0.28,61,31.7,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,09:00,33.1,33.0,99.8,0.0,N@6.4,9.2,0.27,68,31.7,32.6,10.6,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,09:15,33.2,32.9,98.8,0.0,N@5.8,8.5,0.22,70,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,09:30,33.2,33.1,99.4,0.0,N @4.7,7.1,0.17,67,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,09:45,33.3,33.2,99.2,0.0,N @4.0,6.0,0.12,81,31.8,32.6,10.6,30.0,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,10:00,33.7,33.3,98.4,0.0,N @4.7,6.0,0.09,117,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,10:15,34.4,33.5,96.4,0.0,N @5.1,6.7,0.03,189,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,10:30,35.1,33.2,93.0,0.0,N @5.5,7.1,0.0,240,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,10:45,35.3,33.2,92.2,0.0,NE@3.7,6.4,0.0,147,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,11:00,35.5,33.4,92.1,0.0,E@4.0,7.1,0.0,174,31.8,32.6,10.6,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,11:15,34.6,33.6,96.1,0.0,SE@5.0,6.7,0.0,164,31.8,32.6,10.6,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,11:30,33.8,33.7,99.9,0.0,E@4.9,6.7,0.0,168,31.8,32.6,10.6,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,11:45,33.6,33.6,99.9,0.0,E@3.8,6.0,0.0,137,31.8,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,12:00,33.7,33.7,99.9,0.0,E@3.0,4.6,0.0,100,31.8,32.6,10.6,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,12:15,34.0,34.0,99.9,0.0,E@4.2,6.0,0.0,107,31.8,32.6,10.6,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,12:30,33.6,33.6,99.9,0.0,E@3.7,5.3,0.05,91,31.8,32.6,10.6,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,12:45,33.2,33.2,99.9,0.0,SE@4.1,5.3,0.11,85,31.8,32.6,10.5,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,13:00,32.9,32.9,99.9,0.0,SE@4.3,6.4,0.14,76,31.8,32.7,10.5,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,13:15,32.7,32.7,99.9,0.0,SE@4.5,6.4,0.17,46,31.8,32.7,10.5,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,13:30,32.8,32.8,99.9,0.0,SE@4.6,6.0,0.19,85,31.8,32.7,10.5,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,13:45,33.3,33.3,99.9,0.0,SE@5.2,6.7,0.2,136,31.8,32.7,10.5,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,14:00,33.7,33.7,99.9,0.0,SE@5.9,7.8,0.2,154,31.8,32.7,10.5,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,14:15,33.3,33.3,99.9,0.0,SE@7.4,9.6,0.2,129,31.8,32.7,10.5,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,14:30,33.5,33.4,99.9,0.0,SE@6.1,9.2,0.22,90,31.8,32.7,10.5,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,14:45,33.5,33.5,99.9,0.0,SE@7.4,9.9,0.23,74,31.8,32.7,10.5,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,15:00,33.6,33.6,99.9,0.0,SE@9.1,12.8,0.24,65,31.8,32.7,10.5,29.85,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,15:15,33.8,33.8,99.9,0.0,SE@8.9,12.4,0.25,48,31.8,32.7,10.5,29.84,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,15:30,34.1,34.1,99.9,0.0,SE@8.2,13.9,0.27,50,31.8,32.7,10.5,29.84,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,15:45,34.3,34.3,99.9,0.0,SE@9.0,13.5,0.28,29,31.8,32.7,10.5,29.83,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,16:00,34.0,34.0,99.9,0.0,S@9.8,13.9,0.29,22,31.8,32.7,10.5,29.82,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,16:15,33.7,33.7,99.9,0.0,S@9.4,13.2,0.31,16,31.8,32.7,10.5,29.81,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,16:30,33.5,33.5,99.9,0.0,S@8.8,12.8,0.32,10,31.8,32.7,10.5,29.81,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,16:45,33.4,33.4,100.0,0.0,S@7.6,9.9,0.33,4,31.8,32.7,10.5,29.8,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,17:00,33.3,33.3,100.0,0.0,S@8.5,12.1,0.34,3,31.8,32.7,10.5,29.79,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,17:15,33.3,33.3,100.0,0.0,S@8.1,11.0,0.35,2,31.8,32.7,10.5,29.78,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,17:30,33.1,33.1,100.0,0.0,S@9.4,12.8,0.35,1,31.8,32.7,10.5,29.77,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,17:45,33.0,33.0,100.0,0.0,S@8.1,11.4,0.36,0,31.8,32.7,10.5,29.76,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,18:00,33.0,33.0,100.0,0.0,S@7.1,9.9,0.36,0,31.8,32.7,10.5,29.76,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,18:15,32.9,32.9,100.0,0.0,S@7.4,10.3,0.36,0,31.8,32.7,10.5,29.75,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,18:30,32.8,32.8,100.0,0.0,S@7.2,10.7,0.37,0,31.8,32.7,10.5,29.73,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,18:45,32.9,32.9,100.0,0.0,S@8.6,12.1,0.37,0,31.8,32.7,10.5,29.72,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,19:00,32.9,32.9,100.0,0.0,S@7.4,11.4,0.38,0,31.8,32.7,10.5,29.72,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,19:15,33.0,33.0,100.0,0.0,S@7.8,11.0,0.38,0,31.8,32.7,10.5,29.73,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,19:30,33.0,33.0,100.0,0.0,S@5.6,8.5,0.38,0,31.8,32.7,10.5,29.72,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,19:45,33.1,33.0,100.0,0.0,S@3.1,5.3,0.38,0,31.8,32.7,10.5,29.71,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,20:00,32.9,32.9,100.0,0.0,SE@7.6,10.3,0.39,0,31.8,32.7,10.5,29.68,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,20:15,32.7,32.7,100.0,0.0,SE@8.9,11.4,0.39,0,31.8,32.7,10.5,29.66,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,20:30,32.6,32.6,100.0,0.0,S@7.1,9.2,0.39,0,31.8,32.7,10.4,29.65,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,20:45,32.8,32.8,100.0,0.0,S@6.9,9.9,0.39,0,31.8,32.7,10.4,29.65,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,21:00,33.8,33.8,100.0,0.0,SW@9.5,15.3,0.4,0,31.8,32.7,10.4,29.66,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,21:15,33.3,33.3,100.0,0.04,W@13.5,19.2,0.39,0,31.8,32.7,10.4,29.68,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,21:30,33.1,33.1,100.0,0.0,SW@17.1,27.1,0.4,0,31.8,32.7,10.4,29.66,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,21:45,33.7,33.7,100.0,0.02,SW@17.6,24.6,0.41,0,31.8,32.8,10.4,29.63,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,22:00,33.7,33.7,99.9,0.0,SW@17.2,23.5,0.39,0,31.8,32.8,10.4,29.62,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,22:15,33.8,33.8,99.9,0.01,SW@18.6,27.8,0.22,0,31.8,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,22:30,34.4,34.4,99.9,0.01,W@18.8,24.6,0.12,0,31.8,32.8,10.5,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,22:45,35.3,35.3,99.9,0.0,W@18.5,25.7,0.08,0,31.8,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,23:00,35.9,35.9,99.9,0.0,W@16.5,22.5,0.01,0,31.8,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,23:15,36.6,31.0,80.1,0.0,W@16.0,24.3,0.0,0,31.8,32.8,10.4,29.62,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,23:30,36.8,28.0,70.2,0.0,W@14.4,20.7,0.0,0,31.8,32.8,10.4,29.62,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,23:45,36.5,27.7,70.2,0.0,W@15.6,21.8,0.0,0,31.8,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-07,24:00,36.2,27.9,71.5,0.0,W@16.1,19.6,0.0,0,31.8,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,00:15,35.9,28.1,73.3,0.0,W@15.5,20.3,0.0,0,31.8,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,00:30,35.3,28.6,76.1,0.0,W@13.6,21.4,0.0,0,31.8,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,00:45,35.0,28.9,78.0,0.0,W@14.8,20.3,0.0,0,31.8,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,01:00,34.7,29.1,79.6,0.0,SW@15.8,20.7,0.0,0,31.8,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,01:15,34.0,29.2,82.4,0.0,SW@13.8,17.8,0.0,0,31.8,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,01:30,34.2,29.2,81.9,0.0,SW@14.6,20.7,0.0,0,31.9,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,01:45,33.7,29.2,83.4,0.0,SW@10.1,13.9,0.0,0,31.8,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,02:00,33.8,29.2,83.1,0.0,SW@10.1,15.0,0.0,0,31.8,32.8,10.4,29.6,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,02:15,35.2,29.0,78.0,0.0,W@12.1,16.4,0.0,0,31.9,32.8,10.4,29.61,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,02:30,35.6,28.9,76.4,0.0,W@14.2,19.6,0.0,0,31.9,32.8,10.4,29.62,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,02:45,35.0,29.2,79.3,0.0,W@12.8,17.1,0.0,0,31.9,32.8,10.4,29.62,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,03:00,34.3,29.5,82.2,0.0,SW@13.7,17.8,0.0,0,31.9,32.8,10.4,29.62,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,03:15,34.2,29.9,84.0,0.0,W@14.7,22.1,0.0,0,31.9,32.8,10.4,29.63,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,03:30,34.2,29.8,83.8,0.0,W@13.5,22.1,0.0,0,31.9,32.8,10.4,29.64,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,03:45,33.0,29.6,87.4,0.0,W@8.3,11.4,0.0,0,31.9,32.8,10.4,29.65,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,04:00,33.5,29.9,86.6,0.0,W@10.0,13.5,0.0,0,31.9,32.8,10.4,29.66,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,04:15,33.1,30.0,88.0,0.0,W@10.4,13.2,0.0,0,31.9,32.8,10.4,29.66,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,04:30,32.7,30.1,90.0,0.0,W@9.0,11.0,0.0,0,31.9,32.8,10.4,29.67,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,04:45,32.1,30.0,91.9,0.0,W@9.0,11.0,0.0,0,31.9,32.8,10.4,29.67,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,05:00,31.0,29.5,95.1,0.0,NW@9.1,11.0,0.0,0,31.9,32.8,10.4,29.68,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,05:15,30.9,30.0,97.6,0.0,NW@9.2,11.7,0.0,0,31.9,32.8,10.4,29.69,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,05:30,30.8,30.1,98.2,0.0,NW@6.8,9.6,0.0,0,31.9,32.8,10.4,29.69,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,05:45,30.4,29.7,98.7,0.0,NW@6.1,8.2,0.01,0,31.9,32.8,10.4,29.7,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,06:00,30.9,30.5,99.5,0.0,W@7.8,9.6,0.05,0,31.9,32.8,10.4,29.71,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,06:15,31.1,30.7,99.0,0.0,W@8.6,10.7,0.05,0,31.9,32.8,10.4,29.71,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,06:30,30.5,30.2,99.9,0.0,NW@8.0,11.0,0.07,0,31.9,32.8,10.4,29.72,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,06:45,30.4,30.1,99.9,0.0,N@5.5,9.2,0.09,0,31.9,32.8,10.4,29.73,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,07:00,29.9,29.5,99.9,0.0,N@4.0,5.3,0.11,0,31.9,32.8,10.4,29.74,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,07:15,29.5,29.0,99.9,0.0,NW@4.4,5.3,0.13,2,31.9,32.9,10.4,29.75,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,07:30,29.9,29.3,99.4,0.0,NW@4.4,5.3,0.13,8,31.9,32.9,10.4,29.76,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,07:45,30.2,29.8,99.9,0.0,NW@5.0,6.0,0.13,31,31.9,32.9,10.4,29.77,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,08:00,30.9,30.7,99.9,0.0,NW@4.8,6.7,0.14,44,31.9,32.9,10.4,29.78,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,08:15,30.9,30.6,99.9,0.0,NW@5.5,8.5,0.15,47,31.9,32.9,10.4,29.79,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,08:30,30.5,30.2,100.0,0.0,NW@8.4,11.0,0.17,57,31.9,32.9,10.4,29.79,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,08:45,30.8,30.4,100.0,0.0,NW@9.4,11.7,0.17,63,31.9,32.9,10.4,29.8,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,09:00,31.5,31.2,99.9,0.0,NW@8.1,9.9,0.17,154,31.9,32.9,10.4,29.81,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,09:15,32.8,32.4,98.5,0.0,NW@9.6,12.1,0.08,215,31.9,32.9,10.4,29.82,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,09:30,33.5,32.6,96.4,0.0,NW@7.7,10.3,0.01,274,31.9,32.9,10.4,29.83,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,09:45,34.7,32.7,92.5,0.0,NW@7.9,11.4,0.0,271,31.9,32.9,10.4,29.83,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,10:00,34.1,32.4,93.6,0.0,NW@8.8,11.4,0.0,296,31.9,32.9,10.4,29.84,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,10:15,34.4,32.7,93.6,0.0,NW@8.5,10.7,0.0,354,31.9,32.9,10.4,29.86,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,10:30,34.6,33.0,94.1,0.0,N@8.0,11.4,0.0,323,31.9,32.9,10.4,29.87,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,10:45,34.2,32.6,94.0,0.0,N@9.0,12.1,0.0,155,31.9,32.9,10.4,29.89,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,11:00,34.7,32.8,92.6,0.0,NW@8.7,11.0,0.0,221,31.9,32.9,10.4,29.9,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,11:15,34.8,33.0,93.2,0.0,NW@8.6,11.7,0.0,219,31.9,32.9,10.4,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,11:30,34.7,33.1,93.8,0.0,NW@8.7,12.1,0.0,224,31.9,32.9,10.4,29.91,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,11:45,35.6,32.6,89.0,0.0,N@8.3,11.4,0.0,350,31.9,32.9,10.4,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,12:00,37.0,32.9,85.1,0.0,N@7.3,10.7,0.0,405,31.9,32.9,10.4,29.92,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,12:15,36.6,32.0,83.1,0.0,N @9.3,12.4,0.0,339,31.9,32.9,10.4,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,12:30,36.1,32.2,85.5,0.0,N@7.8,10.7,0.0,263,31.9,32.9,10.4,29.93,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,12:45,36.1,32.5,86.7,0.0,N @8.6,12.4,0.0,253,31.9,32.9,10.4,29.94,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,13:00,35.3,31.8,87.1,0.0,N @9.8,13.2,0.0,216,31.9,32.9,10.4,29.95,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,13:15,35.5,32.0,86.8,0.0,N @8.7,12.4,0.0,217,31.9,32.9,10.4,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,13:30,35.5,32.1,87.3,0.0,N @8.5,12.8,0.0,223,31.9,32.9,10.4,29.96,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,13:45,35.4,31.9,86.8,0.0,N @8.6,12.4,0.0,192,31.9,32.9,10.4,29.97,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,14:00,37.0,32.7,84.4,0.0,N @9.4,12.4,0.0,404,31.9,32.9,10.4,29.98,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,14:15,37.0,32.5,83.5,0.0,N @8.3,11.4,0.0,236,31.9,32.9,10.4,29.99,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,14:30,35.7,32.1,86.6,0.0,N @7.7,13.2,0.0,154,31.9,32.9,10.4,30.0,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,14:45,35.2,30.3,82.1,0.0,N @8.1,12.1,0.0,106,31.9,32.9,10.4,30.01,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,15:00,36.5,30.8,79.6,0.0,N @9.6,13.2,0.0,217,31.9,32.9,10.4,30.01,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,15:15,36.2,30.0,78.0,0.0,N @9.3,13.5,0.0,133,31.9,32.9,10.4,30.02,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,15:30,36.2,29.9,77.7,0.0,N@9.9,13.5,0.0,167,31.9,32.9,10.4,30.03,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,15:45,36.0,30.0,78.7,0.0,N@9.6,12.4,0.0,127,31.9,32.9,10.4,30.04,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,16:00,34.3,29.4,81.8,0.0,N@9.8,13.5,0.0,41,31.9,32.9,10.4,30.05,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,16:15,33.7,28.0,79.4,0.0,N@11.5,15.7,0.0,24,31.9,32.9,10.4,30.06,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,16:30,33.6,26.8,76.0,0.0,N@12.2,17.5,0.0,20,31.9,32.9,10.4,30.07,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,16:45,33.1,26.1,75.3,0.0,N@12.6,19.2,0.0,18,31.9,32.9,10.4,30.08,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,17:00,32.9,25.6,74.1,0.0,N@11.8,17.5,0.0,13,31.9,32.9,10.4,30.09,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,17:15,32.5,25.2,74.3,0.0,N@12.1,16.0,0.0,7,31.9,32.9,10.4,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,17:30,32.0,25.0,74.9,0.0,N@13.3,17.1,0.0,2,31.9,32.9,10.4,30.1,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,17:45,31.5,24.7,76.0,0.0,N@12.7,17.1,0.0,0,31.9,32.9,10.4,30.11,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,18:00,31.2,24.6,77.1,0.0,N@11.6,17.1,0.0,0,31.9,32.9,10.4,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,18:15,31.3,24.6,76.4,0.0,N@12.1,17.1,0.0,0,31.9,32.9,10.4,30.12,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,18:30,31.3,24.4,75.9,0.0,N@9.8,15.0,0.0,0,31.9,32.9,10.4,30.14,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,18:45,30.7,24.3,77.7,0.0,N @9.0,12.4,0.0,0,32.0,33.0,10.4,30.16,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,19:00,30.4,24.2,78.8,0.0,N @8.3,12.4,0.0,0,32.0,32.9,10.4,30.17,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,19:15,29.9,24.2,80.4,0.0,N @7.9,11.0,0.0,0,32.0,32.9,10.4,30.18,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,19:30,29.7,24.1,81.0,0.0,N @8.0,11.0,0.0,0,32.0,33.0,10.4,30.19,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,19:45,29.3,23.9,81.8,0.0,N @8.0,10.3,0.0,0,32.0,33.0,10.4,30.2,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,20:00,29.2,23.7,81.5,0.0,N @7.1,9.6,0.0,0,32.0,33.0,10.4,30.21,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,20:15,28.5,23.2,82.1,0.0,NE@6.3,9.9,0.0,0,32.0,33.0,10.4,30.22,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,20:30,28.5,23.1,82.0,0.0,NE@6.1,9.2,0.0,0,32.0,33.0,10.4,30.22,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,20:45,28.2,22.9,82.4,0.0,NE@5.9,8.2,0.0,0,32.0,33.0,10.4,30.23,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,21:00,28.8,23.1,80.7,0.0,N @7.1,9.6,0.0,0,32.0,33.0,10.4,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,21:15,28.9,22.6,78.8,0.0,NE@7.2,10.3,0.0,0,32.0,33.0,10.4,30.24,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,21:30,29.3,22.5,77.0,0.0,N @8.7,12.1,0.0,0,32.0,33.0,10.4,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,21:45,29.2,22.6,77.9,0.0,N@10.3,13.9,0.0,0,32.0,33.0,10.4,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,22:00,29.8,22.2,74.0,0.0,N@14.0,18.5,0.0,0,32.0,33.0,10.4,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,22:15,30.1,21.6,71.4,0.0,N@13.1,17.1,0.0,0,32.0,33.0,10.4,30.25,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,22:30,30.5,21.0,68.5,0.0,N@12.5,16.4,0.0,0,32.0,33.0,10.4,30.26,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,22:45,30.3,20.7,68.0,0.0,N@12.1,16.0,0.0,0,32.0,33.0,10.4,30.27,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542
+2020-02-08,23:00,30.5,20.2,66.2,0.0,NW@10.2,13.5,0.0,0,32.0,33.0,10.4,30.28,"Mansfield (Mansfield NW), Mansfield NW, Douglas County",330047,Mansfield,2020-05-03 16:42:14.181542

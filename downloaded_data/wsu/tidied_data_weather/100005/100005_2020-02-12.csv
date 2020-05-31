@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Wind Dir @ Speed mph, Wind Gust mph, Tot Prec in, Solar Rad W/m², Dew Point °F, Rel Hum %, Atm. Press. inHg,Location,Station ID,Station Name,Download Timestamp
+2020-02-12,23:15,30.2,NE@0.5,1.1,0.0,0,28.3,94.0,30.15,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-12,23:30,30.4,N @1.3,2.3,0.0,0,28.2,92.6,30.14,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-12,23:45,29.9,NE@0.9,1.5,0.0,0,28.1,94.5,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-12,24:00,29.9,NE@0.9,1.7,0.0,0,27.8,93.4,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,00:15,29.8,N @1.0,2.3,0.0,0,27.8,93.6,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,00:30,29.4,NE@1.0,1.9,0.0,0,27.9,95.8,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,00:45,29.1,N @0.8,1.8,0.0,0,27.3,95.2,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,01:00,28.7,NE@0.9,2.2,0.0,0,27.0,95.3,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,01:15,29.0,N @1.2,1.8,0.0,0,27.0,94.4,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,01:30,28.4,NE@0.6,1.3,0.0,0,26.6,95.3,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,01:45,28.6,NE@0.9,2.0,0.0,0,26.5,94.0,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,02:00,28.3,NE@0.8,1.8,0.0,0,26.5,95.2,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,02:15,28.1,N @1.2,3.2,0.0,0,26.1,94.7,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,02:30,27.7,NE@0.8,1.6,0.0,0,25.9,95.5,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,02:45,27.8,N @0.8,2.1,0.0,0,25.9,95.3,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,03:00,27.9,N @1.1,1.7,0.0,0,25.7,93.8,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,03:15,27.7,N @0.8,1.3,0.0,0,25.4,93.5,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,03:30,27.9,N @0.9,1.5,0.0,0,25.7,93.9,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,03:45,27.8,E@0.8,1.5,0.0,0,25.9,95.4,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,04:00,27.8,NE@1.0,1.9,0.0,0,25.5,94.1,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,04:15,27.5,NE@1.0,2.6,0.0,0,25.4,94.3,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,04:30,27.2,NE@1.0,2.5,0.0,0,25.3,95.8,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,04:45,27.4,NE@1.7,3.4,0.0,0,25.3,94.9,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,05:00,27.1,N @1.4,3.2,0.0,0,25.3,95.9,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,05:15,28.1,NW@1.2,2.1,0.0,0,25.6,93.1,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,05:30,27.5,E@0.9,1.8,0.0,0,25.9,96.5,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,05:45,27.4,N @1.3,2.5,0.0,0,25.6,95.5,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,06:00,27.1,N@1.2,2.9,0.0,0,25.4,96.1,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,06:15,27.1,N @1.2,2.3,0.0,0,25.3,96.1,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,06:30,26.5,NE@1.4,2.5,0.0,0,25.1,98.0,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,06:45,26.8,N @1.3,2.1,0.0,0,24.8,95.1,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,07:00,27.2,NW@1.0,2.1,0.0,0,25.0,94.2,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,07:15,26.4,NE@1.1,2.1,0.0,3,25.0,97.7,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,07:30,26.9,NE@0.9,2.8,0.0,8,24.9,95.6,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,07:45,26.2,NE@0.9,1.9,0.0,17,24.7,97.6,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,08:00,27.2,NE@1.1,2.8,0.0,97,25.9,98.2,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,08:15,28.4,E@1.1,2.6,0.0,126,27.7,100.0,30.03,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,08:30,29.8,E@1.7,2.8,0.0,81,29.8,100.0,30.02,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,08:45,31.7,NE@2.5,7.0,0.0,40,31.1,98.3,30.01,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,09:00,33.4,E@4.2,7.2,0.0,241,33.4,99.9,30.0,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,09:15,33.9,E@2.9,5.3,0.0,285,33.9,100.0,30.01,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,09:30,33.4,E@3.4,7.9,0.0,135,33.2,99.4,30.02,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,09:45,33.5,E@2.0,4.3,0.0,309,33.4,99.9,30.0,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,10:00,36.0,NE@3.0,6.2,0.0,360,35.9,99.5,29.99,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,10:15,37.6,SE@3.4,6.3,0.0,359,37.5,99.5,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,10:30,38.4,S@2.7,5.9,0.0,372,38.0,98.5,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,10:45,39.3,NW@2.7,6.1,0.0,390,38.5,96.8,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,11:00,41.0,E@2.6,6.0,0.0,457,39.2,93.2,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,11:15,41.7,SE@3.2,6.7,0.0,267,38.8,89.5,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,11:30,41.5,SE@2.2,6.1,0.0,248,37.8,86.6,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,11:45,41.8,SE@2.0,5.0,0.0,201,37.6,84.7,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,12:00,42.4,S@1.8,3.8,0.0,166,37.6,82.8,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,12:15,42.7,S@2.7,6.1,0.0,118,37.5,81.6,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,12:30,42.5,E@3.1,6.5,0.0,126,37.5,82.4,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,12:45,42.4,E@3.0,5.4,0.0,154,37.5,82.6,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,13:00,44.4,NE@5.4,10.2,0.0,140,37.5,76.6,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,13:15,47.3,SW@14.1,26.4,0.0,137,35.7,64.1,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,13:30,46.3,SW@13.9,30.5,0.0,158,35.3,65.3,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,13:45,46.1,SW@12.0,24.0,0.0,240,35.1,65.4,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,14:00,46.4,SW@11.1,25.1,0.0,258,35.1,64.6,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,14:15,46.2,SW@10.5,29.1,0.0,183,34.7,63.8,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,14:30,45.5,SW@7.2,18.6,0.0,131,35.0,66.4,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,14:45,45.3,W@4.9,13.1,0.0,151,35.2,67.4,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,15:00,45.2,W@6.4,14.7,0.0,108,35.4,68.1,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,15:15,44.9,SW@6.6,14.1,0.0,84,35.4,69.2,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,15:30,44.8,SW@5.8,17.3,0.0,83,35.4,69.4,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,15:45,44.9,W@4.8,13.8,0.0,62,35.4,69.1,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,16:00,44.9,SW@3.7,10.8,0.0,109,35.5,69.2,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,16:15,44.7,S@6.5,13.8,0.0,110,36.0,71.3,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,16:30,44.4,S@8.5,20.7,0.0,71,35.9,71.8,29.95,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,16:45,44.1,SW@4.5,11.7,0.0,45,35.8,72.2,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,17:00,43.5,SW@5.7,13.0,0.0,20,36.0,74.6,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,17:15,43.3,S@4.6,9.3,0.0,12,35.9,75.0,29.96,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,17:30,42.9,S@5.3,10.9,0.0,6,36.1,76.7,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,17:45,42.4,S@4.2,12.2,0.0,1,36.2,78.6,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,18:00,42.3,S@5.7,15.4,0.0,0,36.1,78.6,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,18:15,42.3,SW@3.8,11.1,0.0,0,36.1,78.6,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,18:30,42.4,SW@3.9,11.7,0.0,0,36.1,78.2,29.97,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,18:45,42.4,SW@2.1,7.7,0.0,0,36.3,78.8,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,19:00,42.1,SW@2.4,9.6,0.0,0,36.6,80.8,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,19:15,41.4,S@1.3,3.2,0.01,0,37.0,84.2,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,19:30,40.7,S@1.4,5.1,0.0,0,37.2,87.4,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,19:45,39.5,NW@2.2,10.5,0.0,0,37.0,90.5,29.98,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,20:00,39.2,N @3.4,9.9,0.0,0,36.8,90.9,29.99,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,20:15,38.6,S@1.5,3.0,0.0,0,36.8,93.2,30.0,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,20:30,38.4,NW@1.7,3.2,0.0,0,36.6,92.9,30.01,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,20:45,38.4,W@2.0,5.0,0.0,0,36.8,93.9,30.02,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,21:00,37.9,NW@1.7,3.8,0.0,0,36.6,94.8,30.03,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,21:15,36.7,NW@1.9,4.3,0.0,0,35.6,96.1,30.03,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,21:30,36.3,NW@1.7,3.6,0.0,0,34.8,94.0,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,21:45,37.1,W@1.9,5.4,0.0,0,34.9,91.8,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,22:00,37.6,SW@2.2,5.9,0.0,0,35.4,91.5,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,22:15,37.9,S@3.4,8.7,0.0,0,35.4,90.5,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,22:30,38.2,S@3.1,8.8,0.0,0,35.4,89.6,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,22:45,37.5,N @2.6,8.7,0.01,0,35.1,90.7,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,23:00,38.2,SE@2.1,5.5,0.01,0,35.3,89.2,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,23:15,36.9,NW@1.7,3.2,0.0,0,35.3,93.7,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,23:30,36.5,NW@1.9,3.9,0.0,0,35.0,94.2,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,23:45,36.3,W@1.1,3.8,0.0,0,35.0,95.1,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-13,24:00,38.4,S@5.7,13.8,0.0,0,35.4,88.6,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,00:15,38.6,S@6.7,18.4,0.0,0,35.8,89.2,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,00:30,38.3,S@8.4,13.2,0.0,0,35.4,89.2,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,00:45,38.1,SW@3.9,8.9,0.0,0,35.4,90.1,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,01:00,38.6,S@5.9,11.8,0.0,0,35.7,89.3,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,01:15,38.6,S@8.4,20.7,0.0,0,35.8,89.5,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,01:30,39.0,SW@6.3,16.7,0.0,0,35.8,87.9,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,01:45,39.5,SW@5.8,12.5,0.0,0,35.9,86.6,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,02:00,39.5,SW@7.4,14.7,0.0,0,36.1,87.5,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,02:15,39.2,SW@4.7,10.8,0.0,0,36.1,88.7,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,02:30,39.3,S@5.6,12.2,0.01,0,36.1,88.2,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,02:45,39.2,S@6.1,10.7,0.01,0,36.4,89.7,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,03:00,38.9,S@3.9,7.8,0.0,0,36.5,91.0,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,03:15,38.8,SW@3.3,8.8,0.0,0,36.5,91.2,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,03:30,38.8,S@2.6,6.8,0.01,0,36.5,91.3,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,03:45,38.6,S@2.8,10.8,0.0,0,36.5,91.9,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,04:00,39.2,S@5.7,11.5,0.01,0,36.8,90.9,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,04:15,38.8,SW@2.3,5.6,0.0,0,36.8,92.3,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,04:30,38.9,SW@4.3,8.4,0.0,0,36.8,92.2,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,04:45,39.0,SW@4.3,8.4,0.0,0,36.8,91.6,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,05:00,39.0,SW@3.8,8.5,0.0,0,36.8,91.6,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,05:15,38.9,SW@3.5,8.6,0.0,0,36.8,92.0,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,05:30,39.1,S@4.1,9.9,0.0,0,36.8,91.4,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,05:45,39.1,SW@4.0,8.4,0.0,0,36.8,91.3,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,06:00,39.5,SW@5.9,11.3,0.0,0,36.8,90.1,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,06:15,39.3,SW@4.7,10.4,0.0,0,36.8,90.7,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,06:30,38.6,NW@2.3,5.8,0.0,0,36.6,92.5,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,06:45,37.9,NW@1.8,5.2,0.0,0,36.5,94.4,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,07:00,38.6,SW@3.9,9.5,0.0,0,36.6,92.1,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,07:15,39.0,SW@5.5,12.1,0.0,1,36.8,91.9,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,07:30,38.6,W@1.9,5.4,0.01,9,36.8,93.1,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,07:45,38.8,SW@4.2,11.3,0.0,10,36.8,92.5,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,08:00,38.9,SW@4.7,13.4,0.0,24,36.8,92.0,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,08:15,39.0,SW@4.3,8.8,0.0,83,36.8,91.7,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,08:30,40.2,SW@2.9,6.3,0.0,117,37.9,91.1,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,08:45,41.1,S@3.8,8.2,0.0,142,37.9,88.2,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,09:00,41.7,S@3.8,8.5,0.0,217,38.4,87.8,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,09:15,41.5,S@5.7,10.2,0.0,112,37.5,85.7,30.15,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,09:30,40.6,S@7.8,12.8,0.0,109,36.9,86.7,30.15,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,09:45,40.1,S@6.7,12.7,0.0,144,37.0,88.5,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,10:00,40.1,S@7.1,12.6,0.0,168,37.4,89.9,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,10:15,40.5,S@6.7,12.3,0.0,223,37.6,89.4,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,10:30,41.2,S@8.6,13.9,0.0,373,38.8,91.3,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,10:45,41.7,S@7.9,13.1,0.0,367,39.5,92.1,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,11:00,41.6,S@8.9,16.1,0.0,181,38.2,87.6,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,11:15,41.7,S@8.0,15.7,0.0,346,38.2,87.5,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,11:30,43.1,S@7.0,13.8,0.0,501,39.8,87.7,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,11:45,44.2,S@6.6,12.1,0.0,573,40.5,86.6,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,12:00,44.1,S@6.2,13.6,0.0,445,39.9,85.2,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,12:15,44.5,S@5.7,11.0,0.0,550,39.6,82.9,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,12:30,45.3,S@4.2,11.6,0.0,464,40.5,83.2,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,12:45,43.2,S@9.5,14.9,0.0,292,38.3,82.6,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,13:00,42.8,S@10.1,18.8,0.0,513,37.7,82.1,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,13:15,43.6,S@9.5,18.0,0.0,404,37.7,79.7,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,13:30,43.9,S@10.4,16.5,0.0,424,37.8,79.2,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,13:45,43.3,S@7.9,15.5,0.0,206,36.3,76.1,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,14:00,43.7,S@7.3,14.5,0.0,128,35.6,73.0,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,14:15,43.9,S@6.6,13.4,0.0,213,35.8,73.0,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,14:30,44.3,S@5.3,12.3,0.0,223,36.1,72.8,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,14:45,45.5,SW@7.6,18.1,0.0,394,36.5,70.6,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,15:00,45.4,S@6.8,17.9,0.0,238,36.4,70.7,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,15:15,44.8,SW@5.9,12.4,0.0,142,35.4,69.3,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,15:30,44.5,S@6.7,16.9,0.0,98,35.1,69.2,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,15:45,44.3,S@8.1,14.5,0.0,81,35.0,69.7,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,16:00,44.1,S@7.1,16.1,0.0,63,34.7,69.2,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,16:15,43.8,SW@4.6,14.6,0.0,79,34.7,70.3,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,16:30,43.4,SW@4.4,15.4,0.0,28,35.1,72.3,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,16:45,42.2,SW@5.3,13.5,0.0,25,35.4,76.6,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,17:00,41.9,S@4.7,11.1,0.0,14,35.5,77.7,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,17:15,42.3,SW@4.4,11.6,0.0,9,35.2,75.6,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,17:30,42.0,SW@2.4,6.2,0.0,3,35.2,76.7,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,17:45,42.1,SW@3.4,6.9,0.0,0,35.2,76.3,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,18:00,42.5,SW@3.1,7.7,0.0,0,35.0,74.7,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,18:15,42.1,SW@1.7,4.2,0.0,0,35.2,76.3,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,18:30,42.3,SW@3.6,10.1,0.0,0,35.3,75.9,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,18:45,41.2,SW@5.1,11.6,0.0,0,35.8,80.9,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,19:00,40.4,SW@4.9,14.0,0.0,0,36.1,84.5,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,19:15,40.5,SW@2.6,9.8,0.0,0,36.1,84.2,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,19:30,39.7,W@2.1,4.3,0.0,0,35.8,85.7,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,19:45,40.4,S@3.2,6.6,0.0,0,36.0,84.1,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,20:00,41.0,SW@2.8,8.0,0.0,0,36.5,83.7,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,20:15,40.7,SW@2.6,6.3,0.0,0,36.6,85.3,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,20:30,40.5,W@1.9,5.1,0.0,0,36.7,86.3,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,20:45,40.1,SW@1.6,3.8,0.0,0,37.0,88.6,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,21:00,39.5,W@1.2,3.3,0.0,0,37.1,91.2,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,21:15,40.2,W@2.4,5.1,0.0,0,37.1,88.5,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,21:30,41.8,W@3.5,11.2,0.0,0,36.8,82.3,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,21:45,41.4,SW@4.0,10.0,0.0,0,36.8,83.4,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,22:00,40.8,SW@2.8,9.6,0.0,0,36.8,85.6,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,22:15,40.7,W@2.4,6.8,0.0,0,36.8,85.8,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,22:30,40.3,NW@1.4,4.6,0.0,0,36.5,86.4,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,22:45,39.2,W@0.7,1.5,0.0,0,36.7,90.7,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,23:00,39.1,NW@1.1,3.1,0.0,0,36.8,91.4,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,23:15,40.1,SW@3.7,10.8,0.0,0,36.6,87.2,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,23:30,40.8,SW@4.7,12.3,0.0,0,36.8,85.3,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,23:45,40.7,SW@3.9,11.4,0.0,0,36.7,85.4,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-14,24:00,40.9,SW@3.5,7.4,0.0,0,36.5,84.2,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,00:15,40.9,SW@2.6,5.8,0.0,0,36.5,84.2,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,00:30,40.5,SW@2.8,6.3,0.0,0,36.3,84.8,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,00:45,40.6,SW@4.0,10.2,0.0,0,36.5,84.9,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,01:00,41.0,SW@4.1,10.7,0.0,0,36.5,83.9,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,01:15,40.9,SW@3.5,8.3,0.0,0,36.5,84.0,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,01:30,41.0,SW@3.9,10.0,0.0,0,36.5,83.6,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,01:45,40.7,SW@3.3,6.7,0.0,0,36.5,84.6,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,02:00,40.4,W@1.5,4.0,0.0,0,36.4,85.6,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,02:15,40.4,SW@2.3,5.2,0.0,0,36.5,85.6,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,02:30,40.5,S@4.5,11.0,0.0,0,36.4,85.3,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,02:45,40.6,SW@3.1,7.6,0.0,0,36.4,84.7,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,03:00,41.0,SW@3.3,10.2,0.0,0,36.1,82.7,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,03:15,39.5,N @3.2,5.7,0.0,0,36.4,88.6,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,03:30,39.0,N@1.9,4.7,0.0,0,36.1,89.1,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,03:45,39.0,N@2.3,4.4,0.0,0,36.1,89.3,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,04:00,39.1,NE@2.4,6.4,0.0,0,36.1,88.8,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,04:15,39.3,N @2.5,5.4,0.0,0,36.1,88.3,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,04:30,39.4,NE@3.7,10.4,0.0,0,36.4,88.9,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,04:45,39.0,N @2.3,6.0,0.0,0,36.5,90.5,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,05:00,38.8,NW@1.5,4.0,0.0,0,36.5,91.2,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,05:15,39.7,NW@2.6,7.2,0.0,0,36.5,88.0,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,05:30,39.6,N@3.6,7.7,0.0,0,36.5,88.3,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,05:45,39.5,N @4.3,9.0,0.0,0,36.7,89.7,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,06:00,39.2,NW@3.3,7.0,0.0,0,36.8,91.0,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,06:15,39.0,N@2.1,5.4,0.0,0,36.8,91.8,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,06:30,38.7,N@1.8,4.0,0.0,0,36.6,92.2,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,06:45,38.4,NW@1.9,3.8,0.0,0,36.5,92.7,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,07:00,38.1,NW@1.7,3.6,0.0,0,36.1,92.4,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,07:15,37.7,N@2.3,5.9,0.0,1,35.9,92.8,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,07:30,38.0,N@1.3,2.6,0.0,6,36.1,92.8,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,07:45,37.8,NW@1.1,2.5,0.0,13,36.1,93.7,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,08:00,38.1,NW@1.6,4.3,0.0,16,36.3,93.1,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,08:15,38.3,N@2.2,4.1,0.0,23,36.6,93.4,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,08:30,38.6,N@2.4,3.6,0.0,31,36.9,93.6,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,08:45,38.8,N @2.7,5.6,0.0,35,37.1,93.6,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,09:00,39.0,N@2.3,4.4,0.0,34,37.2,93.1,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,09:15,39.0,W@1.1,3.4,0.0,44,37.5,94.2,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,09:30,39.2,N @1.6,3.2,0.0,55,37.5,93.5,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,09:45,39.4,NE@2.1,4.6,0.0,58,37.8,94.0,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,10:00,39.5,NE@2.5,4.8,0.0,62,37.8,93.4,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,10:15,39.6,E@1.6,4.3,0.0,65,38.1,94.3,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,10:30,39.8,E@2.8,5.7,0.0,65,38.1,93.6,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,10:45,39.8,NE@2.9,7.7,0.0,71,38.3,94.1,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,11:00,39.8,E@2.9,8.0,0.0,86,38.1,93.7,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,11:15,39.8,E@2.8,6.5,0.0,95,38.1,93.6,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,11:30,39.9,E@2.3,5.0,0.0,91,38.1,93.4,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,11:45,39.9,E@2.6,5.9,0.0,75,38.1,93.2,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,12:00,40.0,E@2.7,6.1,0.0,92,38.1,93.1,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,12:15,40.0,SE@3.2,6.6,0.0,110,38.1,93.0,30.15,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,12:30,40.2,SE@2.7,5.7,0.0,111,38.4,93.5,30.15,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,12:45,40.2,E@2.6,5.4,0.0,122,38.5,93.3,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,13:00,40.5,NE@3.0,6.1,0.0,112,38.5,92.4,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,13:15,40.7,NE@2.8,6.5,0.0,108,38.5,91.8,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,13:30,40.8,NE@2.3,4.7,0.0,107,38.5,91.1,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,13:45,40.8,NE@2.7,5.8,0.0,123,38.5,91.1,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,14:00,41.0,NE@3.0,4.9,0.0,135,38.5,90.6,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,14:15,41.1,E@3.0,7.3,0.0,137,38.6,90.6,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,14:30,41.4,NE@2.6,5.4,0.0,141,38.9,90.8,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,14:45,42.9,E@3.3,13.9,0.0,127,39.3,87.1,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,15:00,43.3,NE@3.5,8.2,0.0,112,39.6,86.9,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,15:15,43.8,E@3.4,8.7,0.0,106,39.6,84.9,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,15:30,42.9,NE@4.4,8.0,0.0,94,39.6,87.9,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,15:45,41.9,N @4.0,8.2,0.0,71,39.3,90.5,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,16:00,41.4,N @3.9,9.0,0.0,53,38.8,90.4,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,16:15,41.2,N @3.5,8.0,0.0,40,38.7,90.7,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,16:30,41.0,N @3.0,8.1,0.0,36,38.5,90.6,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,16:45,40.7,N@4.3,7.8,0.0,32,38.6,91.9,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,17:00,40.3,NE@3.3,8.7,0.0,19,38.4,92.8,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,17:15,40.0,N @2.4,5.6,0.0,11,38.1,92.9,30.03,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,17:30,39.8,N@2.6,5.6,0.0,2,37.8,92.4,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,17:45,39.6,N @1.8,3.8,0.0,0,37.8,93.3,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,18:00,39.4,NW@1.6,3.7,0.01,0,37.8,93.9,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,18:15,39.4,NW@1.3,3.5,0.01,0,37.8,94.1,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,18:30,39.2,NW@1.5,2.9,0.01,0,37.8,94.5,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,18:45,39.2,NW@2.2,4.3,0.01,0,37.8,94.7,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,19:00,39.2,NW@2.1,3.4,0.01,0,38.0,95.6,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,19:15,39.1,N@1.4,2.6,0.01,0,38.1,96.2,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,19:30,39.1,N@2.5,3.8,0.01,0,38.1,96.2,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,19:45,39.2,NW@1.6,3.5,0.01,0,38.1,95.8,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,20:00,39.2,NW@1.7,3.8,0.01,0,38.1,95.9,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,20:15,39.2,NW@1.3,2.4,0.01,0,38.4,96.9,30.04,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,20:30,39.2,NE@1.4,2.1,0.01,0,38.5,97.1,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,20:45,39.1,SE@0.6,1.3,0.01,0,38.5,97.6,30.05,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,21:00,39.2,N@1.0,2.2,0.01,0,38.5,97.2,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,21:15,39.2,NE@0.7,1.5,0.02,0,38.5,97.1,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,21:30,39.2,S@0.9,2.7,0.01,0,38.7,97.9,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,21:45,39.2,S@1.0,1.9,0.01,0,38.8,98.4,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,22:00,39.2,S@0.7,1.9,0.01,0,38.8,98.2,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,22:15,39.2,S@1.3,3.0,0.0,0,38.8,98.4,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,22:30,39.2,S@2.4,4.5,0.0,0,38.8,98.2,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,22:45,40.0,SW@2.9,7.3,0.0,0,38.9,95.8,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,23:00,41.0,W@3.6,9.6,0.0,0,39.3,93.4,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,23:15,40.8,W@2.8,8.7,0.0,0,39.4,94.9,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,23:30,40.7,SW@4.1,10.0,0.0,0,39.4,95.3,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,23:45,41.0,SW@5.3,11.5,0.0,0,39.1,93.0,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-15,24:00,40.9,SW@3.7,8.9,0.0,0,39.1,93.1,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,00:15,41.0,SW@4.0,13.5,0.0,0,38.8,91.6,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,00:30,41.3,SW@6.7,13.8,0.0,0,38.5,89.7,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,00:45,41.4,SW@7.0,13.6,0.0,0,38.4,88.9,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,01:00,41.6,SW@6.7,15.4,0.0,0,37.9,86.7,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,01:15,41.6,SW@5.1,12.0,0.0,0,37.5,85.4,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,01:30,42.2,SW@5.4,11.7,0.0,0,37.3,82.7,30.06,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,01:45,41.5,W@3.4,10.5,0.0,0,37.4,85.0,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,02:00,42.1,W@3.4,8.1,0.0,0,37.2,82.4,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,02:15,42.5,W@3.0,8.3,0.0,0,36.9,80.5,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,02:30,42.7,SW@4.2,9.3,0.0,0,37.1,80.3,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,02:45,41.9,SW@3.2,8.2,0.0,0,37.0,82.5,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,03:00,42.0,SW@3.6,8.7,0.0,0,36.9,82.1,30.07,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,03:15,42.3,W@3.5,8.1,0.0,0,36.8,80.7,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,03:30,42.5,SW@4.4,11.5,0.0,0,36.6,79.5,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,03:45,42.6,SW@4.6,10.5,0.0,0,36.6,79.1,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,04:00,42.8,SW@4.5,10.8,0.0,0,36.6,78.6,30.08,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,04:15,42.8,SW@4.0,9.8,0.0,0,36.8,79.0,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,04:30,42.2,W@3.1,6.1,0.0,0,36.6,80.2,30.09,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,04:45,42.4,W@3.4,7.0,0.0,0,36.1,78.3,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,05:00,41.9,W@3.3,11.5,0.0,0,35.7,78.6,30.1,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,05:15,41.7,W@3.4,9.4,0.0,0,35.3,77.7,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,05:30,40.6,W@3.5,7.1,0.0,0,35.0,80.3,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,05:45,40.7,W@3.6,10.3,0.0,0,34.1,77.0,30.11,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,06:00,41.1,SW@5.6,14.1,0.0,0,33.6,74.5,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,06:15,40.6,SW@4.1,9.3,0.0,0,33.1,74.5,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,06:30,40.3,SW@4.1,14.6,0.0,0,32.7,74.0,30.12,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,06:45,40.5,SW@3.3,6.5,0.0,0,32.2,72.2,30.13,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,07:00,39.9,SW@3.7,8.1,0.0,0,32.3,73.8,30.14,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,07:15,39.5,SW@3.9,8.3,0.0,4,32.2,74.7,30.14,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,07:30,40.1,SW@4.4,9.9,0.0,22,32.1,72.7,30.15,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,07:45,40.6,S@3.6,9.0,0.0,41,32.6,72.9,30.16,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,08:00,40.8,S@4.3,11.5,0.0,29,33.2,74.0,30.17,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,08:15,41.2,S@5.3,13.1,0.0,40,33.1,72.6,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,08:30,41.5,S@6.8,12.3,0.0,100,33.4,72.8,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,08:45,42.5,S@8.5,14.4,0.0,114,33.6,70.7,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,09:00,42.6,S@10.1,19.2,0.0,222,34.4,72.5,30.18,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,09:15,42.5,S@7.3,17.2,0.0,95,33.6,70.5,30.19,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,09:30,42.5,S@4.3,10.4,0.0,85,32.9,68.7,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,09:45,42.3,S@4.7,9.2,0.0,87,32.9,68.9,30.2,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,10:00,42.2,S@6.4,13.8,0.0,211,33.7,71.4,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,10:15,42.7,S@7.9,16.2,0.0,318,35.0,73.9,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,10:30,42.9,S@7.7,12.8,0.0,269,34.9,73.3,30.21,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,10:45,42.6,S@8.8,15.5,0.0,340,34.9,74.0,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,11:00,42.4,S@10.2,16.5,0.0,393,35.6,76.6,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,11:15,43.2,S@9.3,15.7,0.0,510,36.4,76.8,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,11:30,43.3,S@10.3,18.9,0.0,458,36.2,75.9,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,11:45,43.3,S@11.8,20.7,0.0,427,36.2,75.8,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,12:00,42.8,S@10.0,17.2,0.0,307,35.1,74.1,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,12:15,43.1,S@7.6,20.4,0.0,180,34.9,72.5,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,12:30,43.2,S@4.9,11.3,0.0,266,34.7,71.7,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,12:45,44.1,S@4.7,11.1,0.0,224,33.8,66.9,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,13:00,44.4,S@7.5,20.7,0.0,251,34.6,68.3,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,13:15,44.6,SW@5.3,12.3,0.0,284,34.1,66.6,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,13:30,45.6,S@6.5,12.8,0.0,335,35.3,67.1,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,13:45,44.9,SW@6.4,13.5,0.0,117,32.5,61.6,30.22,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,14:00,44.1,SW@5.3,14.2,0.0,128,32.5,63.4,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,14:15,43.3,NW@3.9,14.2,0.0,169,33.6,68.2,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,14:30,43.6,N @3.1,8.9,0.0,159,33.8,68.0,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,14:45,43.6,SW@3.2,11.3,0.0,207,34.2,69.2,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,15:00,43.5,S@4.0,11.5,0.0,133,34.4,70.0,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,15:15,44.0,S@2.7,5.9,0.0,46,34.0,67.5,30.23,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,15:30,42.5,W@4.3,12.9,0.01,113,35.0,74.7,30.24,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,15:45,41.7,S@4.3,8.3,0.0,86,36.1,80.6,30.24,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,16:00,41.8,SW@2.9,6.7,0.0,143,36.7,81.8,30.24,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,16:15,42.6,SW@2.6,7.1,0.0,67,36.7,79.3,30.24,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,16:30,42.4,W@3.8,8.0,0.0,29,35.1,75.3,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,16:45,40.9,W@3.9,8.3,0.01,38,35.0,79.4,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,17:00,40.1,SW@3.4,8.3,0.0,58,35.7,84.0,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,17:15,39.8,W@1.6,3.7,0.0,31,36.1,86.6,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,17:30,39.2,W@2.4,5.8,0.0,10,36.1,88.6,30.24,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,17:45,39.3,W@2.3,4.0,0.0,1,36.1,88.5,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,18:00,39.0,NW@1.9,3.9,0.0,0,36.5,90.4,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,18:15,39.2,W@2.0,5.6,0.0,0,36.5,89.8,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,18:30,39.6,SW@3.1,10.2,0.0,0,36.2,87.6,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,18:45,38.4,W@1.7,3.1,0.0,0,35.8,90.3,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,19:00,37.9,W@2.0,6.3,0.0,0,35.4,90.5,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,19:15,39.2,SW@4.1,10.8,0.0,0,35.4,86.0,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,19:30,40.0,S@6.1,16.2,0.0,0,35.5,84.0,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,19:45,40.1,SW@5.5,17.6,0.0,0,35.5,83.6,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,20:00,40.5,S@4.8,12.1,0.0,0,35.4,81.6,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,20:15,39.9,S@4.6,14.1,0.0,0,35.6,84.3,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,20:30,39.4,SE@2.0,5.6,0.0,0,35.5,85.7,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,20:45,38.9,SW@3.0,7.6,0.0,0,35.7,88.0,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,21:00,39.4,SW@4.0,10.4,0.0,0,35.4,85.3,30.25,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,21:15,39.5,SW@5.7,15.4,0.0,0,35.4,85.2,30.26,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,21:30,38.8,S@7.7,14.6,0.01,0,35.4,87.4,30.26,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,21:45,38.3,S@5.8,10.2,0.01,0,35.3,88.9,30.26,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,22:00,38.0,SW@2.7,7.3,0.0,0,35.4,90.1,30.27,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,22:15,38.1,SW@3.9,9.6,0.01,0,35.4,89.8,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,22:30,37.9,SW@4.7,9.6,0.0,0,35.4,90.4,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,22:45,37.8,SW@6.0,13.2,0.0,0,35.4,90.8,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,23:00,37.8,SW@4.3,10.0,0.0,0,35.4,90.8,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,23:15,37.6,SW@3.6,7.6,0.0,0,35.2,90.7,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,23:30,37.6,W@3.2,6.7,0.0,0,35.0,90.2,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,23:45,37.0,W@3.0,8.3,0.0,0,34.7,91.6,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-16,24:00,37.7,W@2.8,6.7,0.0,0,34.7,88.8,30.29,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,00:15,37.3,S@3.0,10.4,0.0,0,34.6,90.1,30.29,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,00:30,38.2,S@5.4,17.0,0.0,0,34.0,84.5,30.29,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,00:45,37.0,SW@4.3,11.9,0.0,0,33.8,87.9,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,01:00,37.1,SW@3.7,8.8,0.0,0,33.3,86.0,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,01:15,36.9,SW@2.2,5.9,0.0,0,33.1,86.1,30.29,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,01:30,36.7,W@2.8,6.0,0.0,0,33.1,86.5,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,01:45,36.8,NW@2.3,5.9,0.0,0,33.3,86.9,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,02:00,37.6,SW@3.6,9.8,0.01,0,33.5,85.2,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,02:15,36.3,SW@4.2,12.4,0.02,0,33.9,90.7,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,02:30,35.9,SW@3.1,7.5,0.01,0,33.9,92.3,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,02:45,36.5,SW@4.5,12.4,0.0,0,33.9,90.1,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,03:00,36.9,SW@4.9,11.9,0.02,0,34.3,90.0,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,03:15,35.9,SW@3.8,10.1,0.03,0,34.3,93.9,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,03:30,35.1,SW@3.2,7.6,0.01,0,33.9,95.5,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,03:45,34.9,S@3.1,5.6,0.0,0,33.5,94.9,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,04:00,34.9,SW@2.2,4.3,0.0,0,33.5,94.6,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,04:15,35.7,SW@3.0,10.1,0.0,0,33.7,92.5,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,04:30,36.4,W@3.0,7.6,0.01,0,34.2,91.6,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,04:45,35.6,SW@4.1,8.9,0.02,0,34.1,94.4,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,05:00,35.2,W@2.7,7.3,0.0,0,33.9,95.0,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,05:15,36.0,SW@4.3,17.9,0.0,0,33.6,90.9,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,05:30,35.7,S@5.6,14.0,0.0,0,33.8,92.6,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,05:45,35.9,SW@4.4,8.4,0.0,0,33.5,91.2,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,06:00,34.7,SW@3.9,12.8,0.0,0,33.2,93.9,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,06:15,36.2,SW@4.7,9.0,0.0,0,33.1,88.4,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,06:30,35.3,SW@3.0,7.1,0.0,0,33.1,91.4,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,06:45,34.8,SW@3.3,10.8,0.0,0,32.8,92.3,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,07:00,35.2,W@3.0,6.3,0.0,0,32.8,90.7,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,07:15,35.5,W@3.0,6.0,0.0,5,33.2,91.0,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,07:30,35.8,W@3.6,6.8,0.0,19,33.2,90.1,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,07:45,36.1,W@3.1,7.7,0.0,53,33.7,91.1,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,08:00,37.7,SW@3.2,8.9,0.0,101,35.3,90.9,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,08:15,37.5,SW@4.7,10.0,0.0,140,35.9,93.9,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,08:30,38.1,S@4.9,8.3,0.0,159,36.2,92.8,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,08:45,38.7,S@4.5,8.0,0.0,90,34.9,86.0,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,09:00,39.4,S@5.2,10.3,0.0,227,35.6,86.1,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,09:15,40.5,S@4.3,8.8,0.0,248,37.0,87.1,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,09:30,40.8,S@6.3,12.5,0.0,379,36.0,83.0,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,09:45,40.6,S@6.6,14.0,0.0,237,35.2,80.8,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,10:00,40.2,S@5.4,11.3,0.0,200,33.7,77.5,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,10:15,40.6,S@6.1,12.7,0.0,275,34.3,77.8,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,10:30,40.6,W@2.9,6.4,0.0,222,34.1,77.6,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,10:45,40.7,W@2.5,6.6,0.0,236,33.7,76.0,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,11:00,41.3,NW@2.8,7.0,0.0,306,33.7,74.1,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,11:15,42.3,S@4.3,10.7,0.0,570,34.8,74.6,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,11:30,42.8,S@6.4,12.9,0.0,475,34.7,72.8,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,11:45,42.7,S@4.5,10.2,0.0,367,33.7,70.1,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,12:00,43.1,S@6.2,11.5,0.0,574,34.0,69.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,12:15,44.0,S@5.7,12.1,0.0,619,34.7,69.4,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,12:30,44.0,W@5.1,13.3,0.0,557,34.0,67.5,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,12:45,44.0,S@6.9,13.6,0.0,510,33.6,66.6,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,13:00,45.3,W@3.9,13.3,0.0,627,34.0,64.3,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,13:15,44.8,SW@6.0,16.2,0.0,553,33.6,64.4,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,13:30,44.9,SW@5.5,12.9,0.0,533,33.1,63.1,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,13:45,45.0,W@4.7,12.5,0.0,531,32.7,61.8,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,14:00,45.0,SW@7.7,20.7,0.0,387,31.9,59.8,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,14:15,45.3,SW@4.6,12.8,0.0,448,31.9,59.1,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,14:30,44.3,SW@4.1,10.1,0.0,140,31.7,60.9,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,14:45,43.6,S@4.3,8.0,0.0,107,31.2,61.3,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,15:00,44.3,S@4.5,9.9,0.0,389,32.1,61.9,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,15:15,44.5,SW@5.7,14.7,0.0,238,32.2,61.8,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,15:30,43.4,SW@5.7,16.4,0.0,56,31.3,61.9,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,15:45,42.8,SW@4.3,12.2,0.0,68,30.7,62.2,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,16:00,42.7,SW@3.7,8.0,0.0,118,31.0,63.0,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,16:15,42.1,SW@3.7,7.4,0.0,61,31.1,64.6,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,16:30,41.5,SW@3.4,7.7,0.0,32,31.1,66.2,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,16:45,40.6,SW@2.1,4.8,0.0,28,31.1,68.7,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,17:00,39.5,W@2.5,5.1,0.0,26,31.2,72.0,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,17:15,38.8,W@2.8,7.4,0.0,17,31.1,73.5,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,17:30,39.3,W@3.4,7.6,0.0,9,30.3,70.0,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,17:45,38.9,W@3.2,8.1,0.0,3,30.1,70.4,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,18:00,37.9,SW@2.1,6.6,0.0,0,29.9,72.7,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,18:15,36.5,NW@1.9,4.4,0.0,0,29.5,75.7,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,18:30,37.5,W@2.9,6.0,0.0,0,29.3,72.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,18:45,35.6,NW@2.1,5.8,0.0,0,29.4,77.9,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,19:00,34.0,NW@2.2,5.0,0.0,0,29.1,82.1,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,19:15,33.0,NW@1.1,4.1,0.0,0,28.7,84.0,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,19:30,32.2,NE@1.3,3.4,0.0,0,28.1,84.9,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,19:45,32.0,NW@1.9,4.7,0.0,0,27.9,85.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,20:00,32.8,NW@1.8,3.5,0.0,0,28.0,82.4,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,20:15,32.0,NW@1.5,3.6,0.0,0,28.4,86.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,20:30,31.1,N @1.0,1.7,0.0,0,27.7,87.9,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,20:45,31.4,N @1.7,3.7,0.0,0,27.4,85.6,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,21:00,31.1,N@1.2,2.3,0.0,0,27.8,88.4,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,21:15,30.9,N @1.0,1.7,0.0,0,27.8,88.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,21:30,30.7,N@1.4,2.8,0.0,0,27.7,89.6,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,21:45,30.3,NE@1.3,2.5,0.0,0,27.3,89.8,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,22:00,30.5,NW@2.2,4.3,0.0,0,27.3,89.2,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,22:15,29.8,W@1.2,3.2,0.0,0,27.3,91.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,22:30,29.8,N@1.2,2.4,0.0,0,27.1,91.5,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,22:45,29.3,NE@1.2,2.4,0.0,0,26.7,91.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,23:00,28.9,N@0.9,1.8,0.0,0,26.3,92.1,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,23:15,28.6,N @0.7,1.7,0.0,0,26.0,92.0,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,23:30,28.6,NE@1.2,2.1,0.0,0,26.0,92.0,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,23:45,28.4,N@1.4,2.4,0.0,0,25.6,91.5,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-17,24:00,27.9,NE@0.9,2.0,0.0,0,25.4,92.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,00:15,28.0,N @1.8,3.1,0.0,0,25.4,92.5,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,00:30,28.8,NW@1.5,2.9,0.0,0,25.7,90.2,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,00:45,28.2,NE@1.0,3.6,0.0,0,25.9,93.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,01:00,27.5,N@1.6,3.1,0.0,0,25.5,94.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,01:15,27.5,NE@1.4,3.5,0.0,0,25.4,94.3,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,01:30,27.2,N@1.6,2.9,0.0,0,25.0,94.4,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,01:45,26.9,N @1.3,2.5,0.0,0,24.8,94.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,02:00,26.8,NW@1.2,2.7,0.0,0,24.5,94.3,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,02:15,27.0,E@1.8,5.7,0.0,0,24.7,94.0,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,02:30,26.4,NW@1.5,2.7,0.0,0,24.4,95.3,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,02:45,26.1,SE@0.9,2.3,0.0,0,24.2,95.8,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,03:00,25.8,N @1.3,2.1,0.0,0,23.7,95.6,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,03:15,25.4,NE@0.8,1.8,0.0,0,23.2,95.1,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,03:30,25.6,NE@1.3,2.5,0.0,0,23.0,93.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,03:45,25.0,N @0.7,1.4,0.0,0,22.9,95.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,04:00,25.1,N @1.1,2.5,0.0,0,22.4,93.6,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,04:15,25.0,NE@0.9,1.8,0.0,0,22.4,93.9,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,04:30,24.9,NE@0.9,2.4,0.0,0,22.4,94.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,04:45,24.7,N @0.7,1.9,0.0,0,22.4,94.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,05:00,24.6,NE@1.1,2.2,0.0,0,22.4,95.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,05:15,24.6,NE@0.9,1.8,0.0,0,21.9,93.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,05:30,24.9,N @1.0,2.7,0.0,0,22.1,92.8,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,05:45,24.0,NE@1.1,1.8,0.0,0,22.1,97.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,06:00,23.6,NE@0.9,2.0,0.0,0,21.6,96.7,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,06:15,23.9,N @1.0,2.3,0.0,0,21.2,93.7,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,06:30,23.6,NE@1.1,2.6,0.0,0,21.1,94.8,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,06:45,23.3,NE@0.5,1.3,0.0,0,21.0,95.6,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,07:00,23.7,N @0.9,1.8,0.0,1,20.6,92.4,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,07:15,22.8,NE@0.8,1.8,0.0,6,20.6,96.5,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,07:30,23.0,N @0.9,1.9,0.0,13,20.5,94.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,07:45,23.7,NE@1.1,1.9,0.0,60,21.5,95.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,08:00,24.7,NE@0.7,1.3,0.0,101,23.5,99.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,08:15,26.0,E@1.1,2.0,0.0,134,25.0,99.6,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,08:30,27.8,E@1.0,1.9,0.0,134,27.0,99.7,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,08:45,28.9,E@1.5,3.0,0.0,39,28.9,100.0,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,09:00,29.5,E@2.4,3.5,0.0,179,29.0,99.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,09:15,31.0,E@3.5,5.4,0.0,280,30.7,99.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,09:30,31.6,E@1.5,3.5,0.0,348,31.3,99.4,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,09:45,32.9,SE@1.5,3.2,0.0,341,32.8,99.8,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,10:00,34.5,E@2.1,5.0,0.0,361,33.5,95.9,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,10:15,35.5,E@3.8,6.3,0.0,390,33.3,91.6,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,10:30,36.1,E@3.3,5.3,0.0,417,33.1,88.5,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,10:45,37.4,E@3.2,6.6,0.0,438,33.5,85.8,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,11:00,37.7,E@3.1,6.6,0.0,461,33.3,83.7,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,11:15,38.4,NE@4.5,7.8,0.0,476,33.6,82.5,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,11:30,39.0,NE@3.9,7.5,0.0,489,33.6,80.7,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,11:45,39.0,N @5.3,9.4,0.0,500,33.5,80.4,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,12:00,40.0,N @4.4,8.2,0.0,505,33.5,77.3,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,12:15,41.6,N @3.2,7.2,0.0,510,33.3,72.4,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,12:30,42.5,N @5.7,13.5,0.0,510,32.2,66.7,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,12:45,43.6,E@6.7,14.2,0.0,512,30.6,59.8,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,13:00,44.1,E@5.8,12.5,0.0,506,30.9,59.4,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,13:15,44.4,E@6.5,14.4,0.0,496,30.6,58.0,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,13:30,44.6,E@5.8,13.5,0.0,453,29.9,56.0,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,13:45,44.7,E@6.7,16.1,0.0,422,29.7,55.4,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,14:00,44.4,E@7.4,13.4,0.0,312,29.3,55.1,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,14:15,44.9,E@5.9,13.3,0.0,386,29.6,54.8,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,14:30,45.0,E@5.5,12.9,0.0,392,29.9,55.3,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,14:45,45.2,SE@5.4,11.3,0.0,376,29.7,54.3,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,15:00,45.1,SE@5.7,10.9,0.0,345,29.3,53.7,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,15:15,45.4,E@4.5,12.9,0.0,304,29.4,53.3,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,15:30,45.4,SE@4.8,11.6,0.0,266,29.3,52.9,30.29,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,15:45,45.3,E@5.8,11.4,0.0,244,28.8,52.2,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,16:00,45.8,SE@2.7,6.3,0.0,209,29.3,52.1,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,16:15,45.3,E@5.5,13.4,0.0,113,28.4,51.4,30.28,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,16:30,44.7,SE@4.3,10.3,0.0,29,27.1,49.8,30.29,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,16:45,43.8,SE@4.5,11.8,0.0,25,26.2,49.6,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,17:00,43.2,SE@3.8,9.6,0.0,21,25.7,49.6,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,17:15,42.4,SE@1.9,5.5,0.0,16,25.8,51.7,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,17:30,40.6,W@1.8,3.7,0.0,10,26.2,56.2,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,17:45,38.9,NW@1.8,3.9,0.0,4,26.4,60.7,30.3,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,18:00,37.2,NW@1.9,4.0,0.0,0,26.6,65.4,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,18:15,36.2,NW@2.1,5.9,0.0,0,26.5,67.5,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,18:30,34.8,NW@1.8,4.7,0.0,0,26.6,71.7,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,18:45,34.8,NW@1.9,4.2,0.0,0,26.5,71.7,30.31,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,19:00,34.5,NW@2.1,4.6,0.0,0,26.6,72.5,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,19:15,35.3,NW@2.1,5.6,0.0,0,26.5,69.9,30.32,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,19:30,34.0,N@2.2,5.6,0.0,0,26.5,73.8,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,19:45,33.2,NW@1.8,3.8,0.0,0,26.6,76.4,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,20:00,32.1,NW@1.5,2.9,0.0,0,26.2,78.5,30.33,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,20:15,31.5,NE@1.9,5.4,0.0,0,25.9,80.3,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,20:30,30.9,N @1.6,2.9,0.0,0,25.8,82.3,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,20:45,30.3,N@1.9,3.6,0.0,0,25.6,83.8,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,21:00,30.0,N@1.3,2.5,0.0,0,25.2,83.5,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,21:15,29.3,N @1.2,2.4,0.0,0,25.1,85.8,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,21:30,28.7,NE@1.4,3.4,0.0,0,24.6,86.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,21:45,28.8,N @0.9,2.1,0.0,0,24.5,85.9,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,22:00,28.5,N @1.5,3.0,0.0,0,24.5,86.8,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,22:15,28.0,NE@1.4,3.2,0.0,0,24.4,88.6,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,22:30,28.1,N @1.6,5.1,0.0,0,24.4,88.3,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,22:45,27.9,NE@1.9,4.8,0.0,0,24.2,88.6,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,23:00,27.7,N @1.8,3.9,0.0,0,24.4,89.8,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,23:15,27.8,N @1.8,3.6,0.0,0,24.3,89.2,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,23:30,27.2,NE@1.9,3.6,0.0,0,24.2,91.1,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,23:45,27.3,N @2.0,3.3,0.0,0,24.2,90.7,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-18,24:00,27.0,NE@1.5,3.1,0.0,0,23.9,90.9,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,00:15,26.8,N @2.2,5.3,0.0,0,23.7,91.2,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,00:30,26.4,NE@1.4,2.9,0.0,0,23.5,91.9,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,00:45,26.6,NW@1.4,2.8,0.0,0,23.2,89.8,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,01:00,26.6,NE@1.1,2.1,0.0,0,23.2,89.8,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,01:15,26.0,N @1.5,3.1,0.0,0,23.1,92.1,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,01:30,25.8,N@1.3,2.9,0.0,0,23.1,92.7,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,01:45,25.4,N @1.4,3.2,0.0,0,22.7,93.3,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,02:00,25.4,NE@1.1,2.3,0.0,0,22.5,92.3,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,02:15,25.7,NE@1.3,3.6,0.0,0,22.5,91.3,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,02:30,25.3,NE@1.1,2.2,0.0,0,22.5,92.8,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,02:45,25.2,N @1.1,2.3,0.0,0,22.4,93.0,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,03:00,25.0,NE@1.2,2.3,0.0,0,22.2,93.3,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,03:15,24.8,NE@0.8,1.5,0.0,0,21.8,92.5,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,03:30,24.5,NE@1.1,2.2,0.0,0,21.8,93.6,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,03:45,24.4,NE@0.9,2.2,0.0,0,21.6,93.2,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,04:00,24.2,N @0.9,1.6,0.0,0,21.2,92.5,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,04:15,24.4,NE@1.1,2.7,0.0,0,21.3,91.9,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,04:30,24.3,N @1.1,2.7,0.0,0,21.4,92.8,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,04:45,24.1,NE@1.5,3.2,0.0,0,21.7,95.1,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,05:00,24.1,N @1.1,2.2,0.0,0,21.7,95.1,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,05:15,24.1,N @1.1,2.7,0.0,0,21.2,93.0,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,05:30,23.7,NE@1.1,2.2,0.0,0,21.1,94.4,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,05:45,23.4,N@1.4,2.4,0.0,0,21.1,95.8,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,06:00,23.6,N @1.1,2.1,0.0,0,21.1,95.1,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,06:15,23.6,NE@1.2,2.1,0.0,0,21.1,95.1,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,06:30,23.3,NE@1.2,2.5,0.0,0,20.8,94.9,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,06:45,23.0,NE@1.2,3.8,0.0,0,20.5,94.9,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,07:00,22.7,N @1.5,3.9,0.0,1,20.4,96.4,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,07:15,22.6,NE@1.8,3.4,0.0,6,20.4,96.6,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,07:30,22.2,N @1.1,2.6,0.0,13,20.4,98.1,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,07:45,23.9,NE@1.3,2.3,0.0,59,21.3,94.5,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,08:00,25.1,E@1.3,2.8,0.0,95,23.9,99.2,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,08:15,26.4,E@1.8,3.0,0.0,126,26.4,100.0,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,08:30,27.5,E@1.8,3.8,0.0,123,26.6,99.4,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,08:45,28.9,E@1.2,3.7,0.0,38,28.0,98.8,30.43,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,09:00,30.2,SE@1.5,3.3,0.0,167,28.7,95.6,30.43,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,09:15,32.2,E@2.3,4.6,0.0,298,31.8,98.4,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,09:30,34.0,NE@4.1,8.2,0.0,321,31.8,91.5,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,09:45,34.8,NE@4.0,7.8,0.0,335,30.8,85.1,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,10:00,36.1,NE@3.9,9.9,0.0,365,31.0,81.7,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,10:15,36.8,N @5.8,10.5,0.0,393,30.3,77.1,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,10:30,37.9,N @4.7,10.3,0.0,419,30.1,73.1,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,10:45,38.7,N @5.6,12.6,0.0,442,30.1,70.9,30.42,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,11:00,39.6,N @5.7,12.0,0.0,463,29.7,67.3,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,11:15,40.9,NE@5.8,12.7,0.0,481,29.9,64.7,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,11:30,41.7,E@6.3,16.5,0.0,495,29.8,62.3,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,11:45,41.8,NE@6.7,12.9,0.0,505,29.8,62.1,30.41,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,12:00,42.1,NE@6.7,12.1,0.0,511,29.4,60.5,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,12:15,42.3,NE@7.1,14.3,0.0,515,29.6,60.6,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,12:30,43.1,E@6.9,17.7,0.0,516,30.3,60.2,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,12:45,43.7,E@6.8,13.1,0.0,514,30.5,59.5,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,13:00,43.7,E@7.0,15.8,0.0,505,29.9,58.1,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,13:15,44.0,E@6.4,12.0,0.0,495,29.6,56.6,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,13:30,44.7,E@6.0,12.4,0.0,483,29.6,55.2,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,13:45,44.7,E@6.4,18.7,0.0,468,29.3,54.4,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,14:00,45.2,E@6.2,12.0,0.0,449,29.1,53.0,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,14:15,45.3,E@7.2,14.4,0.0,428,28.3,51.0,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,14:30,45.5,E@7.3,12.2,0.0,403,28.0,50.2,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,14:45,45.6,NE@7.0,11.8,0.0,377,27.4,48.7,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,15:00,46.0,NE@5.8,11.4,0.0,347,27.4,47.9,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,15:15,46.6,E@4.2,11.7,0.0,315,27.5,47.1,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,15:30,46.3,NE@6.5,16.1,0.0,282,26.5,45.6,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,15:45,46.4,E@5.0,10.2,0.0,247,26.0,44.6,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,16:00,46.1,NE@6.6,12.0,0.0,212,25.4,44.0,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,16:15,46.0,NE@6.4,12.5,0.0,116,24.7,42.8,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,16:30,45.5,E@6.1,14.2,0.0,32,23.5,41.5,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,16:45,44.7,NE@3.8,13.2,0.0,28,23.2,42.2,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,17:00,44.3,NE@4.7,11.7,0.0,23,22.8,42.3,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,17:15,43.8,E@3.9,14.9,0.0,18,22.4,42.4,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,17:30,42.8,E@3.6,11.0,0.0,11,22.6,44.4,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,17:45,42.8,E@3.4,12.1,0.0,4,22.2,43.7,30.34,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,18:00,39.8,NW@1.9,4.2,0.0,0,22.6,49.9,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,18:15,38.9,NW@2.0,6.4,0.0,0,22.6,51.7,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,18:30,39.2,NW@2.7,7.1,0.0,0,22.0,49.8,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,18:45,38.3,NW@3.8,7.1,0.0,0,22.3,52.2,30.35,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,19:00,38.0,NW@2.8,5.6,0.0,0,22.3,52.9,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,19:15,39.4,NW@4.3,7.4,0.0,0,22.0,49.4,30.36,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,19:30,39.2,NW@3.9,8.3,0.0,0,21.9,49.5,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,19:45,38.3,NW@3.6,6.6,0.0,0,21.9,51.4,30.37,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,20:00,35.5,N @2.0,4.3,0.0,0,22.9,59.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,20:15,34.7,N@2.7,6.0,0.0,0,22.8,61.4,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,20:30,33.3,N @1.8,4.8,0.0,0,23.3,66.4,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,20:45,35.0,N@4.0,9.3,0.0,0,22.8,60.7,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,21:00,34.0,N@2.5,6.6,0.0,0,23.2,64.3,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,21:15,35.0,N@2.8,5.7,0.0,0,23.2,61.7,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,21:30,35.9,NW@3.0,6.4,0.0,0,23.2,59.6,30.38,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,21:45,31.9,SE@2.3,6.1,0.0,0,23.4,70.8,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,22:00,31.5,NW@2.3,4.5,0.0,0,23.2,71.8,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,22:15,30.8,N @2.1,4.3,0.0,0,23.1,73.8,30.4,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,22:30,30.3,N @1.5,2.8,0.0,0,23.1,75.5,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,22:45,29.6,N@2.1,4.3,0.0,0,22.7,76.9,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045
+2020-02-19,23:00,30.5,N@3.2,6.5,0.0,0,23.0,74.3,30.39,"BearWallow*, Hood River, Hood River County",100005,"BearWallow, OR",2020-05-03 12:57:20.836045

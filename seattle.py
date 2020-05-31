@@ -8,14 +8,10 @@ import logging, os, download_tidy_up as dtu, sys, db_data_lake as dl, db_data_re
 
 ## Set up paths
 data_folder = os.path.join(os.getcwd(), 'downloaded_data')
-snotel_folder = os.path.join(data_folder, 'snotel')
-sf_folder = os.path.join(data_folder, 'streamflow')
-tidal_folder = os.path.join(data_folder, 'tide_gauge')
 wsu_folder = os.path.join(os.getcwd(), 'downloaded_data', 'wsu')
 wsu_subfolder = os.path.join(wsu_folder, 'tidied_data_weather')
-sl_file = os.path.join(wsu_folder, 'tidied_data_wsu_weather_station_list.csv')
-sl_ps_file = os.path.join(wsu_folder, 'puget_sound_stations.csv')
-si_file = os.path.join(wsu_folder, 'tidied_data_wsu_weather_station_info.csv')
+sl_file = os.path.join(wsu_folder, 'seattle_station_list.csv')
+si_file = os.path.join(wsu_folder, 'seattle_station_info.csv')
 # gecko_fullpath = os.path.join(os.getcwd(),'geckodriver_bins','mac','geckodriver')
 gecko_fullpath = os.path.join(os.getcwd(), 'geckodriver_bins', 'win', 'geckodriver.exe')
 dl_folder = os.path.join(os.getcwd(), 'sqlite', 'dl')
@@ -54,19 +50,21 @@ dtu.get_wsu_weather_data(output_folder=wsu_subfolder,station_list_file=sl_file,
                        station_info_file = si_file, gecko_fullpath=gecko_fullpath)
 
 
+#logging.info('Create data lakes')
+dl.create_data_lakes(sl_file=sl_file,dl_folder=dl_folder,overwrite=True)
 
 logging.info('Calling load_dl_wsu_weather')
-dl.load_dl_wsu_weather(sl_file=sl_ps_file, csv_base_folder=wsu_subfolder, dl_folder = dl_folder, overwrite = False)
+dl.load_dl_wsu_weather(sl_file=sl_file, csv_base_folder=wsu_subfolder, dl_folder = dl_folder, overwrite = True)
 
-# logging.info('Create data refineries')
-# dr.create_data_refineries(sl_file=sl_file, dr_folder = dr_folder, overwrite=False)
+logging.info('Create data refineries')
+dr.create_data_refineries(sl_file=sl_file, dr_folder = dr_folder, overwrite=True)
 
-# logging.info('Calling wsu_progress')
-# dtu.wsu_progress(station_list_file=sl_file,output_folder=wsu_folder, scan_folder=wsu_subfolder
-#                 , dl_folder=dl_folder, dr_folder=dr_folder)
+logging.info('Calling wsu_progress')
+dtu.wsu_progress(station_list_file=sl_file,output_folder=wsu_folder, scan_folder=wsu_subfolder
+                , dl_folder=dl_folder, dr_folder=dr_folder)
 
 logging.info('Entering loop for loading dl into dr')
-stat_list = pd.read_csv(sl_ps_file)
+stat_list = pd.read_csv(sl_file)
 logging.info(str(stat_list.loc[:, 'station_id']))
 for this_stat in stat_list.loc[:, 'station_id']:
     logging.debug('very start of loop')
@@ -74,7 +72,9 @@ for this_stat in stat_list.loc[:, 'station_id']:
     logging.debug('start loop of ' + this_stat)
     logging.debug('loading ' + this_stat)
     try:
-        dr.load_wsu_weather_dl_to_dr(this_stat=this_stat, dl_folder=dl_folder, working_folder = wrk_folder, dr_folder = dr_folder)
+        dr.load_wsu_weather_dl_to_dr(this_stat=this_stat, dl_folder=dl_folder
+                                     , working_folder = wrk_folder, dr_folder = dr_folder
+                                     ,write_csv=True)
     except Exception as e:
         logging.warning('load_wsu_weather_dl_to_dr: Error thrown')
         logging.warning('The exception caught:')
@@ -87,6 +87,5 @@ logging.info('Calling wsu_progress')
 dtu.wsu_progress(station_list_file=sl_file,output_folder=wsu_folder, scan_folder=wsu_subfolder, dl_folder=dl_folder
                  , dr_folder=dr_folder)
 
-dtu.wsu_min_max(data_folder=wsu_folder, station_list_file=sl_ps_file)
 
 logging.info('End main.py')

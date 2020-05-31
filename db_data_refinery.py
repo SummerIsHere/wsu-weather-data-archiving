@@ -98,7 +98,7 @@ def create_data_refineries(sl_file,dr_folder,overwrite=False):
         create_dr_db(db_fullpath=db_fullpath, overwrite=overwrite)
 
 ### Load data from data lake into data refinery for a single station
-def load_wsu_weather_dl_to_dr(this_stat, dl_folder,working_folder,dr_folder):
+def load_wsu_weather_dl_to_dr(this_stat, dl_folder,working_folder, dr_folder, write_csv=False):
 
     this_stat = str(this_stat)
 
@@ -492,12 +492,21 @@ def load_wsu_weather_dl_to_dr(this_stat, dl_folder,working_folder,dr_folder):
     w_conn.commit()
     w_cur.close()
     w_conn.close()
+    ## Write out data refinery to file
+    if write_csv:
+        dr_conn = sqlite3.connect(dr_db, detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
+        dr_cur = dr_conn.cursor()
+        dr_dt = pd.read_sql_query('SELECT * FROM dr_wsu_weather', con=dr_conn)
+        dr_dt.to_csv(dr_db + ".csv", index=False, encoding='utf-8')
+        dr_cur.close()
+        dr_conn.close()
+
     logging.info('Closed out of database, exiting')
 
 
 
 ### Load working table into dr_wsu_weather using an upsert pattern
-def update_dr_wsu_weather(working_db,dr_db):
+def update_dr_wsu_weather(working_db, dr_db):
     logging.debug('Starting update_dr_wsu_weather')
 
     ## Open connection to working_db
@@ -564,7 +573,7 @@ def update_dr_wsu_weather(working_db,dr_db):
     ''')
 
     # Compare work table with final target
-    logging.debug('Comparing load with final targett')
+    logging.debug('Comparing load with final target')
     up_ts = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     dr_cur.execute('''
     CREATE TEMPORARY TABLE wrk_main_load_dr_wsu_weather AS

@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2020-03-20,00:15,35.5,34.5,95.8,0.0,W@0.2,1.7,0.13,0,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,00:30,34.7,33.6,95.9,0.0,E@0.2,1.7,0.13,0,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,00:45,34.3,33.4,96.2,0.0,N @0.0,0.0,0.13,0,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,01:00,34.2,33.3,96.3,0.0,N @0.0,0.0,0.13,0,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,01:15,33.8,32.9,96.5,0.0,SE@0.0,1.4,0.13,0,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,01:30,33.5,32.6,96.6,0.0,N @0.0,0.0,0.12,0,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,01:45,33.3,32.4,96.7,0.0,N @0.0,0.0,0.12,0,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,02:00,32.9,32.1,96.8,0.0,N @0.0,0.0,0.12,0,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,02:15,33.1,32.4,97.0,0.0,S@0.1,1.7,0.12,0,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,02:30,32.6,31.8,97.0,0.0,N @0.0,0.0,0.06,0,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,02:45,32.1,31.3,97.0,0.0,N @0.0,0.0,0.05,0,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,03:00,31.9,31.1,97.1,0.0,N @0.0,0.0,0.05,0,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,03:15,31.8,31.0,97.2,0.0,N @0.0,0.0,0.05,0,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,03:30,32.0,31.4,97.3,0.0,N @0.0,0.0,0.05,0,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,03:45,31.4,30.5,97.3,0.0,N @0.0,0.0,0.05,0,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,04:00,30.9,30.0,97.4,0.0,NW@0.0,1.4,0.05,0,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,04:15,30.6,29.6,97.4,0.0,S@0.0,1.4,0.05,0,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,04:30,30.1,29.1,97.5,0.0,N @0.0,0.0,0.05,0,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,04:45,30.4,29.5,97.5,0.0,N @0.0,0.0,0.05,0,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,05:00,30.3,29.4,97.6,0.0,N @0.0,0.0,0.05,0,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,05:15,29.8,28.7,97.6,0.0,N @0.0,0.0,0.05,0,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,05:30,29.3,28.2,97.6,0.0,N @0.0,0.0,0.05,0,41.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,05:45,28.9,27.7,97.6,0.0,N @0.0,0.0,0.05,0,41.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,06:00,29.2,28.1,97.6,0.0,N @0.0,0.0,0.05,0,41.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,06:15,29.5,28.4,97.6,0.0,N @0.0,0.0,0.05,0,41.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,06:30,29.6,28.6,97.6,0.0,N @0.0,0.0,0.05,0,41.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,06:45,29.6,28.5,97.6,0.0,S@0.6,2.8,0.05,0,41.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,07:00,29.7,28.7,97.7,0.0,NE@0.2,1.7,0.05,0,41.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,07:15,29.2,28.1,97.7,0.0,NE@0.3,2.1,0.05,2,41.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,07:30,29.2,28.1,97.7,0.0,N @0.0,0.0,0.05,6,41.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,07:45,29.4,28.3,97.6,0.0,N @0.0,0.0,0.05,14,41.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,08:00,29.4,28.3,97.6,0.0,N @0.0,0.0,0.05,20,41.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,08:15,29.6,28.5,97.6,0.0,N @0.0,0.0,0.05,27,41.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,08:30,30.3,29.4,97.6,0.0,N @0.0,0.0,0.06,32,41.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,08:45,31.3,30.4,97.6,0.0,N @0.0,0.0,0.06,38,41.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,09:00,32.6,31.9,97.5,0.0,SE@0.1,1.7,0.08,85,41.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,09:15,34.9,34.2,97.2,0.0,SE@0.4,1.7,0.12,272,41.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,09:30,37.2,36.4,96.8,0.0,SE@1.6,3.1,0.13,331,40.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,09:45,39.8,38.9,96.4,0.0,SE@1.6,2.8,0.15,369,40.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,10:00,43.3,41.6,93.5,0.0,SE@2.3,3.5,0.15,406,40.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,10:15,46.3,41.3,82.8,0.0,E@2.1,3.5,0.08,442,40.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,10:30,48.0,40.6,75.6,0.0,E@2.6,4.2,0.02,476,40.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,10:45,49.4,40.4,70.9,0.0,N@2.0,4.6,0.01,507,40.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,11:00,50.6,40.6,68.3,0.0,N@2.6,4.9,0.01,537,40.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,11:15,52.0,40.4,64.4,0.0,N @3.6,6.0,0.01,569,40.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,11:30,52.9,40.7,63.0,0.0,N @3.6,6.4,0.01,597,40.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,11:45,54.3,40.4,59.3,0.0,NE@3.6,7.1,0.0,623,40.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,12:00,55.2,40.2,56.9,0.0,N@4.1,7.8,0.0,643,40.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,12:15,55.8,39.9,54.9,0.0,N @4.0,7.4,0.0,663,40.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,12:30,56.6,39.9,53.5,0.0,NE@3.8,8.2,0.0,680,40.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,12:45,58.0,40.0,51.0,0.0,N @3.5,6.7,0.0,695,40.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,13:00,58.3,39.1,48.8,0.0,N @4.0,7.8,0.0,704,40.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,13:15,58.9,39.1,47.6,0.0,N @3.1,7.4,0.0,716,40.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,13:30,59.0,39.3,47.9,0.0,N@3.7,6.7,0.0,652,40.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,13:45,60.2,40.1,47.2,0.0,N@4.0,7.8,0.0,690,40.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,14:00,60.6,39.2,45.0,0.0,N @3.3,8.5,0.0,698,40.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,14:15,61.3,38.8,43.1,0.0,N @3.0,6.0,0.0,690,40.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,14:30,61.2,38.8,43.4,0.0,NW@4.0,6.7,0.0,675,40.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,14:45,61.8,38.0,41.1,0.0,NW@3.6,7.1,0.0,661,40.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,15:00,62.3,35.5,36.7,0.0,NE@2.8,6.0,0.0,641,40.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,15:15,62.4,35.2,36.2,0.0,N @3.2,6.4,0.0,618,41.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,15:30,62.9,34.9,35.2,0.0,E@3.5,6.4,0.0,592,41.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,15:45,63.8,35.2,34.3,0.0,SW@1.9,7.4,0.0,560,41.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,16:00,63.7,35.9,35.5,0.0,N@3.0,5.7,0.0,527,41.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,16:15,63.8,35.4,34.7,0.0,N@2.6,5.7,0.0,490,41.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,16:30,64.2,35.5,34.4,0.0,S@2.3,5.3,0.0,456,41.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,16:45,64.8,36.5,34.9,0.0,N @2.6,6.0,0.0,417,41.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,17:00,64.6,36.2,34.7,0.0,N@2.4,5.3,0.0,376,41.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,17:15,64.4,36.4,35.3,0.0,NE@2.6,5.3,0.0,333,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,17:30,64.5,36.4,35.2,0.0,W@2.3,4.6,0.0,293,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,17:45,64.2,36.4,35.5,0.0,N @2.0,4.9,0.0,252,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,18:00,63.4,36.2,36.2,0.0,NE@1.8,4.9,0.0,197,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,18:15,62.4,38.3,40.7,0.0,SE@1.6,3.9,0.0,143,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,18:30,59.6,40.1,48.2,0.0,SE@0.4,2.1,0.0,115,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,18:45,57.9,40.9,53.0,0.0,SE@0.5,2.4,0.0,92,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,19:00,55.2,40.8,58.1,0.0,SE@1.1,2.8,0.0,55,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,19:15,53.1,40.6,62.2,0.0,SE@1.3,3.1,0.0,16,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,19:30,50.8,40.7,68.1,0.0,S@1.2,3.1,0.0,7,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,19:45,50.0,40.3,69.2,0.0,SE@0.6,3.1,0.0,1,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,20:00,48.0,40.4,74.7,0.0,S@1.0,2.8,0.01,0,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,20:15,47.1,40.4,77.5,0.0,S@0.7,2.4,0.01,0,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,20:30,46.1,39.6,77.7,0.0,S@0.4,2.4,0.01,0,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,20:45,45.3,39.8,80.9,0.0,S@1.1,2.4,0.01,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,21:00,45.5,39.6,79.6,0.0,S@0.9,2.4,0.01,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,21:15,44.2,39.6,83.5,0.0,NE@0.2,2.1,0.01,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,21:30,42.7,38.8,86.2,0.0,N@0.0,1.7,0.01,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,21:45,41.7,38.7,89.1,0.0,SW@0.0,1.4,0.01,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,22:00,41.1,38.5,90.5,0.0,S@0.8,3.5,0.02,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,22:15,41.2,38.3,89.2,0.0,S@0.5,2.8,0.02,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,22:30,40.2,38.0,91.6,0.0,SW@0.3,2.1,0.02,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,22:45,40.3,38.1,91.8,0.0,W@0.5,3.5,0.02,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,23:00,41.3,38.5,89.7,0.0,S@1.5,3.9,0.03,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,23:15,42.5,38.4,85.2,0.0,SE@1.7,5.3,0.04,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,23:30,42.1,37.5,83.6,0.0,SE@1.4,6.0,0.04,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,23:45,41.7,37.5,84.7,0.0,S@1.4,4.2,0.04,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-20,24:00,41.9,37.6,84.4,0.0,S@1.5,3.9,0.05,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,00:15,41.1,37.1,85.5,0.0,W@1.3,3.9,0.05,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,00:30,40.1,36.6,87.2,0.0,E@0.9,2.4,0.05,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,00:45,40.1,36.9,88.2,0.0,S@1.3,4.2,0.06,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,01:00,39.7,36.9,89.8,0.0,S@1.5,3.5,0.06,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,01:15,38.5,36.2,91.7,0.0,S@0.4,1.7,0.08,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,01:30,38.1,36.3,93.3,0.0,SE@0.5,2.4,0.09,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,01:45,37.5,35.9,93.9,0.0,S@0.5,3.1,0.1,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,02:00,36.9,35.5,94.6,0.0,S@0.2,2.1,0.1,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,02:15,37.4,36.3,95.4,0.0,S@1.1,2.4,0.11,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,02:30,36.8,35.6,95.4,0.0,SW@0.3,2.4,0.11,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,02:45,36.5,35.4,95.7,0.0,S@0.7,3.1,0.11,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,03:00,35.5,34.5,95.9,0.0,S@0.4,2.8,0.11,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,03:15,34.9,33.9,96.1,0.0,SW@0.3,2.4,0.11,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,03:30,34.2,33.2,96.3,0.0,N@0.1,1.7,0.11,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,03:45,33.6,32.7,96.4,0.0,S@0.1,1.7,0.1,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,04:00,33.4,32.5,96.6,0.0,S@0.5,2.1,0.1,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,04:15,33.1,32.3,96.8,0.0,SE@0.2,2.8,0.1,0,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,04:30,33.4,32.6,97.0,0.0,SW@0.4,2.8,0.11,0,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,04:45,33.1,32.4,97.0,0.0,S@0.1,1.4,0.1,0,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,05:00,32.4,31.7,97.1,0.0,NW@0.1,1.7,0.08,0,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,05:15,31.7,30.8,97.1,0.0,N @0.0,0.0,0.07,0,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,05:30,32.0,31.2,97.2,0.0,N @0.0,0.0,0.07,0,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,05:45,32.9,32.2,97.4,0.0,SW@0.4,3.5,0.07,0,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,06:00,34.3,33.7,97.5,0.0,SW@1.0,3.1,0.1,0,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,06:15,34.4,33.8,97.5,0.0,E@0.7,2.4,0.11,0,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,06:30,35.2,34.6,97.5,0.0,N @0.1,1.4,0.12,0,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,06:45,35.4,34.7,97.5,0.0,NW@0.1,2.1,0.12,0,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,07:00,35.9,35.3,97.5,0.0,N @0.0,0.0,0.12,0,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,07:15,36.0,35.4,97.5,0.0,W@0.3,1.7,0.12,2,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,07:30,36.2,35.6,97.5,0.0,W@0.0,1.4,0.13,5,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,07:45,37.0,36.3,97.5,0.0,N @0.0,0.0,0.13,12,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,08:00,37.6,36.9,97.5,0.0,N @0.0,0.0,0.14,25,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,08:15,38.2,37.5,97.4,0.0,W@0.7,2.8,0.14,42,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,08:30,38.9,38.2,97.3,0.0,NW@0.4,2.4,0.15,58,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,08:45,39.8,39.1,97.1,0.0,W@0.1,1.7,0.15,74,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,09:00,40.4,39.5,96.7,0.0,NW@0.7,2.8,0.16,83,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,09:15,40.8,39.7,95.7,0.0,NW@1.7,3.1,0.16,108,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,09:30,41.4,39.8,93.8,0.0,N @1.2,2.8,0.14,127,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,09:45,42.2,40.1,92.1,0.0,N@1.5,3.1,0.11,138,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,10:00,42.7,39.9,89.7,0.0,NE@2.3,4.2,0.05,162,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,10:15,43.4,40.0,87.9,0.0,N @2.2,3.9,0.03,182,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,10:30,43.7,39.7,85.6,0.0,N @2.4,3.9,0.02,216,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,10:45,44.8,39.8,82.3,0.0,NW@1.8,4.2,0.01,270,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,11:00,45.5,39.5,79.2,0.0,N@1.7,3.1,0.01,248,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,11:15,46.4,39.5,76.7,0.0,SE@1.3,3.9,0.01,271,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,11:30,47.4,39.6,74.2,0.0,NW@2.7,4.2,0.01,366,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,11:45,48.8,39.6,70.5,0.0,W@3.2,6.7,0.01,514,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,12:00,47.4,39.1,72.9,0.0,NW@2.9,5.3,0.01,256,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,12:15,50.9,40.5,67.6,0.0,NW@2.8,5.7,0.0,664,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,12:30,51.0,39.5,64.8,0.0,SW@3.9,6.7,0.0,686,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,12:45,52.3,40.2,63.1,0.0,N @3.6,6.4,0.0,758,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,13:00,53.0,40.4,62.2,0.0,N @3.9,7.1,0.0,728,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,13:15,54.2,40.5,59.5,0.0,N@3.3,6.7,0.0,722,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,13:30,54.6,40.3,58.4,0.0,N @3.6,6.4,0.0,714,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,13:45,54.5,40.2,58.2,0.0,NW@4.0,7.4,0.0,712,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,14:00,55.1,39.8,56.3,0.0,N @3.4,6.4,0.0,704,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,14:15,55.7,39.8,54.9,0.0,NE@2.9,7.4,0.0,696,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,14:30,56.6,40.0,53.6,0.0,N@3.6,6.0,0.0,680,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,14:45,56.8,39.2,51.7,0.0,N @3.2,7.4,0.0,661,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,15:00,57.6,40.2,52.0,0.0,N@3.9,9.9,0.0,643,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,15:15,57.0,39.8,52.4,0.0,NE@3.7,7.4,0.0,619,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,15:30,57.5,39.3,50.4,0.0,NE@3.2,7.1,0.0,590,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,15:45,58.0,39.6,50.2,0.0,NE@4.1,8.2,0.0,563,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,16:00,57.5,39.0,49.9,0.0,NE@3.7,8.2,0.0,531,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,16:15,58.0,39.4,49.7,0.0,NE@3.7,7.1,0.0,501,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,16:30,57.4,38.8,49.8,0.0,NE@4.2,9.2,0.0,463,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,16:45,57.9,38.6,48.4,0.0,N @3.9,7.1,0.0,427,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,17:00,57.7,37.9,47.4,0.0,N @3.7,6.4,0.0,387,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,17:15,57.8,38.5,48.6,0.0,N@3.5,6.7,0.0,346,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,17:30,57.5,37.7,47.5,0.0,NE@3.6,8.9,0.0,304,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,17:45,57.1,37.1,47.0,0.0,NE@3.4,6.4,0.0,262,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,18:00,56.6,36.4,46.5,0.0,NE@3.2,7.4,0.0,220,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,18:15,55.7,36.2,47.7,0.0,NE@3.6,6.4,0.0,177,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,18:30,55.1,36.4,49.2,0.0,NE@3.3,6.7,0.0,136,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,18:45,54.2,36.3,50.5,0.0,NE@3.0,6.4,0.0,97,43.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,19:00,53.2,36.8,53.6,0.0,NE@1.5,4.2,0.0,54,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,19:15,50.4,37.7,61.5,0.0,E@1.9,4.2,0.0,14,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,19:30,48.0,38.9,70.6,0.0,E@0.4,2.4,0.0,6,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,19:45,46.1,38.8,75.4,0.0,N @0.0,0.0,0.0,1,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,20:00,44.3,38.7,80.5,0.0,SE@0.2,2.1,0.01,0,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,20:15,43.7,38.6,82.4,0.0,SE@0.1,1.7,0.01,0,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,20:30,42.0,38.4,86.9,0.0,N @0.0,0.0,0.01,0,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,20:45,40.6,37.8,89.4,0.0,N @0.0,0.0,0.01,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,21:00,39.9,37.2,89.9,0.0,SW@0.0,1.4,0.01,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,21:15,40.4,37.4,89.2,0.0,S@0.1,1.7,0.01,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,21:30,38.6,36.1,90.7,0.0,N @0.0,0.0,0.01,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,21:45,38.2,36.2,92.5,0.0,N @0.0,0.0,0.01,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,22:00,37.6,36.0,93.9,0.0,N @0.0,0.0,0.02,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,22:15,36.6,35.1,94.5,0.0,N @0.0,0.0,0.02,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,22:30,36.7,35.4,95.1,0.0,N @0.0,0.0,0.03,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,22:45,35.7,34.5,95.2,0.0,N @0.0,0.0,0.04,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,23:00,35.4,34.3,95.6,0.0,N @0.0,0.0,0.05,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,23:15,34.9,33.8,95.9,0.0,N @0.0,0.0,0.06,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,23:30,34.6,33.6,96.2,0.0,NW@0.0,1.4,0.06,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,23:45,35.0,34.2,96.5,0.0,SE@0.4,2.4,0.07,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-21,24:00,34.2,33.3,96.5,0.0,N @0.0,0.0,0.07,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,00:15,33.3,32.5,96.5,0.0,N @0.0,0.0,0.06,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,00:30,33.2,32.4,96.7,0.0,N @0.0,0.0,0.06,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,00:45,33.1,32.3,96.8,0.0,N @0.0,0.0,0.06,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,01:00,32.7,31.9,96.9,0.0,N @0.0,0.0,0.04,0,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,01:15,31.9,30.9,96.9,0.0,N @0.0,0.0,0.04,0,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,01:30,31.9,31.0,97.0,0.0,N @0.0,0.0,0.04,0,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,01:45,31.4,30.4,97.1,0.0,N @0.0,0.0,0.04,0,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,02:00,31.0,30.1,97.1,0.0,N @0.0,0.0,0.04,0,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,02:15,30.9,29.9,97.2,0.0,N @0.0,0.0,0.04,0,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,02:30,31.0,30.0,97.3,0.0,N @0.0,0.0,0.04,0,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,02:45,30.8,29.8,97.3,0.0,N @0.0,0.0,0.04,0,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,03:00,30.5,29.5,97.4,0.0,N @0.0,0.0,0.04,0,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,03:15,30.2,29.2,97.4,0.0,N @0.0,0.0,0.04,0,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,03:30,29.5,28.4,97.4,0.0,N @0.0,0.0,0.04,0,43.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,03:45,29.3,28.1,97.5,0.0,N @0.0,0.0,0.04,0,43.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,04:00,29.5,28.4,97.5,0.0,N @0.0,0.0,0.04,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,04:15,29.4,28.3,97.5,0.0,N @0.0,0.0,0.04,0,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,04:30,29.0,27.9,97.5,0.0,N @0.0,0.0,0.04,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,04:45,29.0,27.8,97.6,0.0,N @0.0,0.0,0.04,0,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,05:00,28.7,27.5,97.6,0.0,N @0.0,0.0,0.04,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,05:15,28.5,27.3,97.6,0.0,N @0.0,0.0,0.04,0,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,05:30,28.7,27.5,97.6,0.0,N @0.0,0.0,0.04,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,05:45,28.8,27.6,97.6,0.0,E@0.0,1.4,0.04,0,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,06:00,29.5,28.4,97.6,0.0,N @0.0,0.0,0.04,0,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,06:15,29.6,28.6,97.6,0.0,N @0.0,1.4,0.04,0,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,06:30,29.3,28.2,97.6,0.0,N @0.0,0.0,0.04,0,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,06:45,29.4,28.3,97.6,0.0,N @0.0,0.0,0.04,0,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,07:00,29.6,28.6,97.6,0.0,W@0.4,2.8,0.04,0,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,07:15,30.2,29.2,97.6,0.0,E@1.5,3.5,0.05,7,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,07:30,29.6,28.5,97.6,0.0,W@0.0,1.4,0.05,23,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,07:45,30.5,29.5,97.5,0.0,SW@0.7,2.4,0.05,42,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,08:00,31.3,30.4,97.5,0.0,NE@0.4,2.1,0.05,53,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,08:15,31.9,31.1,97.4,0.0,SE@0.7,3.1,0.07,66,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,08:30,32.7,32.1,97.4,0.0,SE@0.1,2.1,0.07,65,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,08:45,33.6,32.9,97.4,0.0,S@0.2,2.1,0.08,76,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,09:00,35.6,34.9,97.4,0.0,SW@0.0,1.4,0.08,175,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,09:15,38.8,38.0,96.9,0.0,SE@0.7,2.8,0.09,322,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,09:30,40.5,39.4,96.0,0.0,SW@2.1,4.9,0.1,402,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,09:45,42.5,39.9,90.2,0.0,W@2.5,4.9,0.09,468,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,10:00,44.0,38.9,82.3,0.0,W@2.9,7.1,0.04,336,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,10:15,45.6,39.0,77.4,0.0,W@2.6,5.7,0.01,392,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,10:30,46.2,38.5,74.2,0.0,W@3.2,6.0,0.01,309,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,10:45,47.0,38.6,72.3,0.0,W@3.6,6.4,0.01,473,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,11:00,49.1,38.8,67.5,0.0,W@3.9,7.8,0.01,600,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,11:15,49.5,38.7,66.1,0.0,W@3.9,7.1,0.01,471,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,11:30,50.9,38.7,62.9,0.0,W@4.5,9.9,0.0,542,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,11:45,52.3,39.1,60.6,0.0,W@4.7,8.5,0.0,569,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,12:00,53.6,39.2,57.9,0.0,SW@4.5,9.9,0.0,590,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,12:15,54.9,38.9,54.7,0.0,SW@3.9,9.2,0.0,636,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,12:30,55.7,38.1,51.4,0.0,W@4.3,9.6,0.0,675,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,12:45,56.5,37.8,49.4,0.0,SW@4.9,10.7,0.0,652,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,13:00,57.0,37.7,48.4,0.0,SW@4.8,11.0,0.0,659,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,13:15,58.1,37.7,46.4,0.0,W@4.8,8.9,0.0,635,41.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,13:30,58.4,37.6,45.7,0.0,W@5.0,9.2,0.0,619,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,13:45,58.4,37.9,46.3,0.0,W@5.5,11.7,0.0,547,41.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,14:00,58.2,38.1,47.2,0.0,W@5.4,11.4,0.0,520,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,14:15,59.0,38.1,45.8,0.0,W@4.9,9.2,0.0,487,41.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,14:30,59.2,38.6,46.1,0.0,W@4.9,9.6,0.0,460,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,14:45,59.4,38.6,45.8,0.0,W@4.9,12.1,0.0,460,42.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,15:00,59.8,39.3,46.6,0.0,W@5.4,9.9,0.0,498,42.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,15:15,60.1,39.7,46.9,0.0,W@4.6,9.9,0.0,490,42.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,15:30,59.9,40.0,47.6,0.0,W@4.5,11.0,0.0,392,42.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,15:45,60.0,40.4,48.3,0.0,W@3.6,7.4,0.0,304,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,16:00,59.2,39.6,48.0,0.0,W@4.6,8.5,0.0,253,42.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,16:15,57.9,40.5,52.1,0.0,SW@5.3,10.3,0.0,245,42.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,16:30,57.1,40.9,54.5,0.0,W@4.2,12.4,0.0,218,42.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,16:45,55.8,40.6,56.4,0.0,SW@5.6,11.7,0.0,164,42.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,17:00,54.6,41.0,59.9,0.0,W@4.9,13.5,0.0,136,42.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,17:15,53.1,41.2,63.6,0.0,W@4.8,9.9,0.0,147,42.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,17:30,52.2,40.9,65.1,0.0,SW@4.8,11.4,0.0,116,43.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,17:45,51.3,40.7,66.8,0.0,SW@5.0,10.7,0.0,100,43.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,18:00,50.6,40.5,68.1,0.0,SW@4.5,10.3,0.0,111,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,18:15,50.0,40.5,69.8,0.0,W@4.2,10.3,0.0,86,43.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,18:30,49.3,40.4,71.4,0.0,SW@4.0,7.8,0.0,61,43.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,18:45,48.8,40.2,72.1,0.0,SW@5.4,13.2,0.0,75,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,19:00,48.8,40.0,71.4,0.0,SW@3.8,8.5,0.0,80,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,19:15,47.8,39.3,72.2,0.0,W@4.6,11.0,0.0,40,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,19:30,46.8,38.9,73.9,0.0,SW@4.7,11.4,0.0,10,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,19:45,46.2,38.9,75.5,0.0,SW@4.4,10.3,0.0,1,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,20:00,45.7,38.6,76.0,0.0,W@3.0,7.8,0.0,0,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,20:15,45.3,38.5,76.8,0.0,SW@3.4,8.2,0.0,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,20:30,45.5,38.7,76.8,0.0,SW@4.1,8.2,0.0,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,20:45,45.7,38.6,75.9,0.0,SW@4.9,9.2,0.0,0,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,21:00,45.5,38.3,75.6,0.0,SW@3.7,8.2,0.0,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,21:15,45.2,38.4,77.1,0.0,SW@2.6,7.4,0.0,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,21:30,45.6,37.9,74.3,0.0,SW@3.8,7.4,0.0,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,21:45,45.2,37.8,74.9,0.0,SW@2.1,5.3,0.0,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,22:00,44.7,37.9,76.9,0.0,S@1.4,3.9,0.0,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,22:15,44.6,38.3,78.4,0.0,SE@1.7,3.5,0.0,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,22:30,44.6,38.6,79.2,0.0,SW@1.8,4.6,0.0,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,22:45,44.8,38.5,78.4,0.0,W@2.0,4.9,0.0,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,23:00,45.0,38.2,76.8,0.0,W@2.0,5.3,0.0,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,23:15,45.0,38.2,76.9,0.0,W@1.1,4.2,0.0,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,23:30,44.7,38.5,78.6,0.0,W@3.4,7.4,0.01,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,23:45,43.9,39.2,83.3,0.0,W@2.5,4.6,0.01,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-22,24:00,43.3,39.8,87.6,0.0,SW@2.6,4.9,0.04,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,00:15,42.7,40.3,91.1,0.0,S@2.8,6.7,0.05,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,00:30,42.6,40.4,92.0,0.0,S@2.1,4.6,0.06,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,00:45,42.4,40.5,92.7,0.0,S@2.0,6.7,0.06,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,01:00,42.4,40.5,92.7,0.0,S@2.8,8.5,0.07,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,01:15,42.4,40.3,92.1,0.0,S@1.8,4.2,0.07,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,01:30,42.2,40.0,91.8,0.0,SW@1.7,5.3,0.08,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,01:45,42.2,40.1,92.2,0.0,SW@1.7,3.9,0.08,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,02:00,42.3,40.2,92.4,0.0,S@1.7,4.9,0.09,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,02:15,42.2,39.7,90.5,0.01,SW@2.4,6.4,0.09,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,02:30,42.0,39.3,89.9,0.0,S@1.8,4.2,0.09,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,02:45,42.0,39.3,89.9,0.0,W@1.3,4.6,0.1,0,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,03:00,42.0,39.4,90.2,0.0,S@2.5,6.7,0.1,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,03:15,41.8,39.2,90.5,0.0,S@2.1,6.0,0.1,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,03:30,41.6,39.3,91.3,0.0,W@2.3,10.3,0.1,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,03:45,42.0,39.1,89.3,0.0,SW@2.5,6.7,0.1,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,04:00,42.3,38.9,87.5,0.0,SW@2.4,7.1,0.1,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,04:15,42.3,38.8,87.4,0.0,SW@2.8,8.9,0.1,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,04:30,42.2,38.7,87.3,0.0,SW@2.0,5.3,0.09,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,04:45,42.3,38.8,87.2,0.0,W@2.1,5.7,0.09,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,05:00,42.2,38.9,87.9,0.0,SW@2.6,7.4,0.11,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,05:15,42.2,39.0,88.4,0.0,SW@3.0,7.1,0.11,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,05:30,42.0,39.1,89.4,0.01,SW@2.6,6.0,0.12,0,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,05:45,41.8,39.3,90.8,0.0,W@2.5,4.9,0.11,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,06:00,41.6,39.5,92.0,0.01,W@2.4,5.7,0.11,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,06:15,41.5,39.6,92.9,0.0,W@2.5,6.0,0.12,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,06:30,41.5,39.8,93.7,0.01,W@1.7,3.9,0.12,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,06:45,41.4,39.9,94.2,0.02,W@1.9,5.7,0.12,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,07:00,41.4,39.9,94.4,0.01,W@2.6,6.4,0.12,0,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,07:15,41.3,39.8,94.4,0.02,SW@2.3,5.7,0.12,1,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,07:30,41.1,39.6,94.2,0.01,SW@2.0,5.3,0.12,6,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,07:45,41.0,39.5,94.3,0.0,S@0.6,2.8,0.12,8,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,08:00,41.1,39.6,94.2,0.0,SW@0.9,3.5,0.12,23,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,08:15,41.3,39.7,94.1,0.0,W@1.4,4.9,0.13,27,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,08:30,41.4,39.8,94.0,0.0,W@2.3,5.3,0.13,34,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,08:45,41.7,40.1,94.1,0.01,W@3.0,6.7,0.13,66,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,09:00,41.9,40.3,94.1,0.0,S@2.3,6.7,0.13,121,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,09:15,42.7,40.8,92.8,0.0,S@3.1,7.8,0.14,237,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,09:30,43.4,40.9,90.6,0.0,S@3.4,8.5,0.15,280,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,09:45,43.7,41.2,90.9,0.0,SW@2.5,5.7,0.15,208,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,10:00,43.5,40.5,88.8,0.0,SW@3.5,8.5,0.13,164,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,10:15,44.7,41.0,86.7,0.0,SW@3.6,8.2,0.07,364,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,10:30,45.0,40.4,83.7,0.0,SW@3.9,8.9,0.02,290,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,10:45,41.1,37.4,86.3,0.05,SW@4.5,16.0,0.09,63,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,11:00,40.1,38.0,92.0,0.01,SE@2.7,7.1,0.12,99,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,11:15,41.3,39.3,92.7,0.0,S@2.7,6.0,0.13,321,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,11:30,44.5,41.7,89.9,0.0,S@3.4,7.1,0.14,624,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,11:45,46.0,41.8,85.2,0.0,S@3.6,8.5,0.15,648,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,12:00,47.3,41.9,81.3,0.0,W@3.9,9.2,0.1,616,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,12:15,48.0,41.0,76.6,0.0,SW@3.7,7.8,0.02,436,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,12:30,45.2,39.7,81.1,0.05,SW@3.8,7.8,0.09,335,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,12:45,47.1,42.5,84.2,0.0,S@3.4,12.1,0.14,543,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,13:00,48.1,42.6,81.0,0.0,S@3.5,7.1,0.13,630,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,13:15,47.6,40.6,76.5,0.01,SW@3.9,12.1,0.07,208,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,13:30,44.3,39.5,83.1,0.0,SW@3.9,10.3,0.13,169,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,13:45,45.9,41.2,83.4,0.01,S@3.9,9.2,0.14,519,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,14:00,47.9,41.4,78.1,0.0,SW@3.9,8.5,0.15,523,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,14:15,45.9,38.7,75.9,0.0,SW@6.5,16.7,0.13,116,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,14:30,46.6,40.0,77.5,0.0,SW@4.2,9.2,0.14,671,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,14:45,46.3,39.0,75.4,0.01,W@6.2,17.5,0.1,115,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,15:00,43.1,38.9,85.2,0.01,SW@4.1,10.3,0.13,241,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,15:15,47.0,41.6,81.4,0.0,SW@4.4,12.4,0.15,540,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,15:30,45.9,39.2,77.4,0.0,W@5.3,11.4,0.13,288,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,15:45,47.6,39.3,72.8,0.0,SW@5.5,14.6,0.06,408,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,16:00,48.4,39.0,69.8,0.0,SW@4.8,13.2,0.02,423,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,16:15,48.6,38.0,66.6,0.0,W@5.8,13.2,0.01,329,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,16:30,46.1,37.8,72.7,0.0,W@5.3,11.4,0.03,66,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,16:45,45.4,39.1,78.4,0.0,SW@5.4,11.7,0.08,257,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,17:00,45.1,38.8,78.4,0.0,SW@4.8,17.5,0.1,102,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,17:15,43.6,38.3,81.2,0.01,SW@5.3,14.2,0.11,224,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,17:30,43.7,39.2,83.9,0.0,SW@3.2,8.2,0.12,208,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,17:45,44.7,39.5,81.8,0.0,S@3.8,10.7,0.13,197,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,18:00,44.3,39.3,82.2,0.0,SW@4.0,8.5,0.12,105,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,18:15,43.8,38.9,82.7,0.0,SW@3.1,6.4,0.1,41,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,18:30,43.4,39.1,84.5,0.0,SW@2.4,6.4,0.08,42,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,18:45,43.4,39.5,86.1,0.0,S@1.6,3.9,0.07,39,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,19:00,43.5,39.2,84.7,0.0,S@2.3,5.3,0.06,27,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,19:15,43.2,38.9,84.6,0.0,SW@2.8,7.8,0.04,22,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,19:30,43.0,38.0,82.2,0.0,SW@3.0,6.4,0.03,9,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,19:45,42.5,37.5,82.1,0.0,S@2.4,6.0,0.02,2,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,20:00,42.1,37.6,83.8,0.0,S@1.6,3.9,0.02,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,20:15,41.6,37.5,85.3,0.0,SW@1.6,4.9,0.02,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,20:30,41.0,37.8,88.3,0.0,SW@1.6,3.9,0.03,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,20:45,40.7,37.8,89.4,0.0,SW@1.5,3.9,0.04,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,21:00,40.5,37.7,89.8,0.0,W@1.8,3.9,0.05,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,21:15,40.0,37.2,89.6,0.0,S@1.0,3.1,0.06,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,21:30,39.5,37.3,91.8,0.0,S@1.1,3.5,0.07,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,21:45,39.3,37.4,92.8,0.0,S@1.4,4.6,0.07,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,22:00,40.3,37.6,89.7,0.0,W@1.8,3.5,0.07,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,22:15,41.0,37.5,87.2,0.0,W@2.3,4.6,0.06,0,44.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,22:30,40.7,37.8,89.2,0.0,S@2.3,5.3,0.09,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,22:45,40.5,38.0,90.6,0.02,S@1.6,4.2,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,23:00,40.3,38.1,91.7,0.03,SW@1.5,5.7,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,23:15,40.1,38.2,92.6,0.03,SW@1.7,3.9,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,23:30,39.9,38.2,93.3,0.01,S@1.2,4.9,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,23:45,39.8,38.1,93.6,0.0,W@1.0,3.1,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-23,24:00,39.5,37.9,93.7,0.0,SW@1.6,4.9,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,00:15,39.2,37.6,93.8,0.0,SW@2.8,5.7,0.12,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,00:30,39.0,37.3,93.4,0.0,SW@1.8,4.2,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,00:45,38.4,36.8,93.8,0.0,S@2.1,7.8,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,01:00,38.0,36.5,94.5,0.0,SW@1.2,3.5,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,01:15,38.6,37.4,95.2,0.0,S@0.8,2.8,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,01:30,38.4,37.3,95.5,0.0,S@0.3,2.1,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,01:45,38.6,37.5,95.8,0.0,S@1.4,3.9,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,02:00,38.8,37.8,95.9,0.0,W@2.0,4.6,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,02:15,39.2,38.0,95.5,0.0,W@1.7,4.6,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,02:30,39.8,38.5,95.0,0.01,W@2.2,5.7,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,02:45,40.0,38.6,94.4,0.01,NW@1.1,3.5,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,03:00,40.1,38.5,94.0,0.01,SW@2.4,5.7,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,03:15,39.5,37.7,93.3,0.0,SW@2.3,6.7,0.13,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,03:30,38.8,37.2,93.8,0.0,SW@1.5,4.6,0.13,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,03:45,38.1,36.7,94.6,0.0,S@1.0,3.1,0.13,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,04:00,38.0,36.8,95.4,0.0,S@0.8,2.8,0.13,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,04:15,37.7,36.6,95.8,0.0,SE@0.8,2.8,0.13,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,04:30,37.8,36.8,96.2,0.0,SW@1.7,4.9,0.14,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,04:45,37.5,36.5,96.2,0.0,S@1.2,3.1,0.14,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,05:00,37.3,36.3,96.2,0.0,S@0.9,4.6,0.14,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,05:15,36.8,35.9,96.3,0.0,S@1.1,3.9,0.14,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,05:30,36.6,35.7,96.5,0.0,S@0.9,4.6,0.14,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,05:45,37.6,36.7,96.8,0.0,S@1.6,6.4,0.14,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,06:00,38.0,37.1,96.6,0.0,S@1.4,6.0,0.14,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,06:15,38.6,37.7,96.4,0.0,S@1.8,4.6,0.14,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,06:30,39.2,38.1,95.7,0.01,SW@1.2,4.2,0.15,0,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,06:45,39.2,38.0,95.3,0.0,SW@1.5,3.1,0.15,0,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,07:00,39.1,38.0,95.5,0.0,W@1.6,3.5,0.15,0,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,07:15,39.3,38.2,95.8,0.01,W@0.8,3.9,0.15,2,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,07:30,39.2,38.1,95.9,0.0,W@0.9,3.1,0.15,19,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,07:45,39.3,38.3,96.0,0.0,W@0.6,3.5,0.15,45,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,08:00,40.0,38.9,95.9,0.0,W@1.3,3.5,0.15,80,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,08:15,40.7,39.4,94.9,0.0,W@2.4,4.9,0.16,93,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,08:30,41.3,39.3,92.8,0.0,NW@1.9,6.0,0.16,120,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,08:45,41.5,39.0,90.6,0.0,SW@3.1,8.9,0.16,123,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,09:00,41.7,38.7,89.0,0.0,SW@2.2,5.7,0.16,132,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,09:15,41.8,38.6,88.4,0.0,SW@2.5,7.8,0.15,125,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,09:30,42.0,38.7,88.1,0.0,SW@3.0,7.4,0.13,134,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,09:45,42.4,38.8,87.0,0.0,S@2.6,5.3,0.08,160,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,10:00,42.9,38.9,85.6,0.0,W@3.1,8.5,0.03,185,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,10:15,43.2,38.7,84.0,0.0,SW@3.6,8.9,0.02,189,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,10:30,43.5,38.7,82.9,0.0,SE@3.0,11.4,0.02,198,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,10:45,44.3,39.1,81.7,0.0,S@2.5,5.3,0.02,234,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,11:00,44.2,38.4,80.0,0.0,W@3.4,7.1,0.01,212,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,11:15,44.4,38.7,80.0,0.0,S@3.5,9.2,0.01,219,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,11:30,44.9,38.6,78.3,0.0,S@3.6,7.8,0.01,265,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,11:45,44.8,38.2,77.5,0.0,SE@4.6,10.7,0.01,214,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,12:00,45.3,38.1,75.8,0.0,W@4.2,8.9,0.01,320,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,12:15,46.1,38.1,73.6,0.0,S@4.6,10.7,0.01,430,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,12:30,46.9,38.3,72.0,0.0,S@3.8,9.2,0.01,431,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,12:45,48.8,38.8,68.2,0.0,S@4.3,9.6,0.01,779,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,13:00,49.0,37.6,64.7,0.0,SW@5.2,11.7,0.0,652,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,13:15,48.1,36.5,63.9,0.0,S@5.1,9.9,0.0,302,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,13:30,48.2,36.5,63.7,0.0,SW@4.5,10.7,0.0,407,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,13:45,48.8,36.5,62.2,0.0,SW@3.9,8.9,0.0,334,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,14:00,50.1,36.5,59.3,0.0,S@5.1,10.3,0.0,719,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,14:15,51.6,36.5,56.1,0.0,SW@4.3,7.8,0.0,713,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,14:30,50.5,35.4,56.0,0.0,SW@4.0,10.3,0.0,348,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,14:45,48.3,35.5,61.0,0.0,SW@4.0,9.9,0.0,210,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,15:00,48.3,37.3,65.7,0.0,W@2.8,6.7,0.0,458,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,15:15,47.2,38.8,72.3,0.0,N@3.9,11.0,0.0,249,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,15:30,44.6,38.9,80.3,0.01,NW@3.6,8.2,0.01,40,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,15:45,43.6,39.6,85.7,0.02,S@2.3,4.6,0.02,107,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,16:00,43.0,39.1,86.1,0.0,S@2.6,4.6,0.03,90,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,16:15,42.6,39.5,88.5,0.01,E@2.7,4.9,0.04,149,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,16:30,43.7,40.5,88.2,0.0,E@2.1,4.6,0.05,302,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,16:45,44.0,40.0,85.8,0.0,S@1.9,3.1,0.06,156,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,17:00,43.7,40.5,88.3,0.0,S@2.0,3.9,0.06,99,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,17:15,43.0,40.3,89.9,0.0,SW@2.8,6.0,0.07,29,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,17:30,42.2,39.6,90.6,0.0,S@2.9,6.0,0.07,45,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,17:45,41.6,39.1,90.9,0.0,S@2.7,4.6,0.07,36,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,18:00,41.4,39.1,91.3,0.01,SW@2.0,5.7,0.08,31,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,18:15,41.2,38.8,90.9,0.0,S@2.1,4.9,0.08,41,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,18:30,41.2,38.9,91.5,0.0,SW@1.2,2.8,0.09,35,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,18:45,40.9,39.0,92.9,0.01,S@1.6,2.8,0.09,36,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,19:00,40.7,39.0,93.7,0.0,S@1.2,2.8,0.09,25,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,19:15,40.5,38.9,94.1,0.0,S@1.1,4.6,0.09,24,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,19:30,40.1,38.6,94.4,0.0,S@0.7,3.1,0.1,10,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,19:45,39.6,38.2,94.9,0.0,SW@1.1,2.4,0.1,2,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,20:00,38.7,37.5,95.3,0.0,SW@0.5,2.4,0.1,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,20:15,38.3,37.2,95.8,0.0,SW@0.7,2.4,0.1,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,20:30,38.5,37.5,96.2,0.0,S@0.8,4.9,0.1,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,20:45,39.2,38.2,96.4,0.0,SW@1.3,4.6,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,21:00,39.5,38.6,96.4,0.0,SW@1.1,3.5,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,21:15,39.7,38.7,96.2,0.0,SW@1.0,3.5,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,21:30,39.6,38.6,95.8,0.0,SW@1.2,3.1,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,21:45,39.5,38.4,95.7,0.0,SW@0.6,2.8,0.12,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,22:00,39.6,38.5,95.8,0.0,S@0.9,4.9,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,22:15,39.7,38.6,95.7,0.0,SW@0.7,3.9,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,22:30,39.8,38.6,95.5,0.0,SW@0.9,3.1,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,22:45,39.8,38.5,95.3,0.0,SW@1.2,3.9,0.12,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,23:00,39.7,38.5,95.2,0.0,S@0.9,3.9,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,23:15,39.7,38.4,95.2,0.0,SW@1.3,3.5,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,23:30,39.6,38.3,94.9,0.0,SE@0.3,3.5,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,23:45,39.7,38.4,95.0,0.0,SW@0.8,3.9,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-24,24:00,39.7,38.4,95.0,0.0,SW@0.7,3.1,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,00:15,39.4,38.1,95.0,0.0,SW@1.1,3.1,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,00:30,38.9,37.7,95.3,0.0,SW@0.4,3.1,0.13,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,00:45,38.6,37.5,95.7,0.0,SW@0.8,3.5,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,01:00,38.3,37.3,96.0,0.0,S@0.0,1.4,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,01:15,38.6,37.6,96.3,0.0,S@0.8,3.9,0.13,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,01:30,38.9,38.0,96.3,0.0,S@1.3,3.5,0.14,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,01:45,39.1,38.0,96.0,0.0,S@1.4,4.2,0.14,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,02:00,39.2,38.0,95.5,0.0,S@1.5,4.6,0.14,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,02:15,39.3,38.0,95.0,0.0,S@1.4,4.2,0.14,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,02:30,39.3,37.9,94.7,0.0,S@1.7,6.0,0.14,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,02:45,39.3,37.8,94.6,0.0,SW@1.1,3.5,0.14,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,03:00,39.3,37.8,94.5,0.0,SW@1.0,3.5,0.14,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,03:15,39.2,37.8,94.8,0.0,SW@1.3,3.1,0.14,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,03:30,39.2,37.9,95.1,0.0,SW@1.4,3.5,0.15,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,03:45,39.2,37.9,95.3,0.01,SW@1.2,3.1,0.14,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,04:00,39.1,38.0,95.4,0.0,SW@1.1,3.5,0.15,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,04:15,39.1,38.0,95.5,0.0,SW@0.7,3.5,0.15,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,04:30,39.1,37.9,95.5,0.0,SW@0.8,2.8,0.15,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,04:45,39.1,37.9,95.5,0.0,SW@0.7,3.9,0.15,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,05:00,39.1,37.9,95.4,0.0,SW@1.0,3.9,0.15,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,05:15,39.2,38.0,95.4,0.0,NW@0.1,1.7,0.15,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,05:30,39.2,37.9,95.3,0.0,SW@0.8,2.8,0.15,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,05:45,39.1,37.9,95.4,0.0,SW@0.3,2.8,0.15,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,06:00,39.0,37.8,95.4,0.0,W@0.4,2.8,0.15,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,06:15,38.9,37.7,95.2,0.01,SW@0.2,2.1,0.15,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,06:30,38.8,37.6,95.3,0.0,SE@0.1,1.4,0.15,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,06:45,38.8,37.6,95.5,0.0,W@0.0,1.4,0.15,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,07:00,38.7,37.6,95.7,0.0,N @0.0,0.0,0.15,0,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,07:15,38.6,37.6,95.8,0.0,NE@0.2,2.1,0.15,3,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,07:30,38.6,37.5,95.8,0.0,SW@0.5,2.1,0.15,8,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,07:45,38.5,37.4,95.6,0.0,SE@0.5,2.4,0.15,20,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,08:00,38.6,37.4,95.4,0.01,SW@0.4,3.1,0.15,24,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,08:15,38.7,37.5,95.3,0.0,S@0.4,2.4,0.15,40,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,08:30,38.8,37.5,95.1,0.0,W@1.0,3.5,0.15,52,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,08:45,38.9,37.6,94.7,0.0,SW@0.8,3.5,0.16,54,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,09:00,39.4,38.0,94.4,0.0,W@1.2,3.9,0.16,100,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,09:15,39.6,37.9,93.7,0.0,SW@1.9,4.2,0.16,93,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,09:30,39.9,38.1,93.0,0.0,SE@1.2,4.9,0.16,101,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,09:45,40.0,38.0,92.4,0.0,W@2.4,4.9,0.16,95,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,10:00,40.4,38.3,92.3,0.0,S@2.5,5.7,0.16,123,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,10:15,40.9,38.7,92.0,0.0,SE@3.0,5.3,0.15,193,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,10:30,41.5,38.5,88.9,0.0,S@2.1,5.3,0.09,238,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,10:45,42.4,38.8,86.8,0.0,SE@2.4,4.9,0.03,290,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,11:00,43.4,38.7,83.4,0.0,W@2.9,6.7,0.02,324,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,11:15,44.0,38.8,81.6,0.0,SE@2.9,6.7,0.02,388,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,11:30,44.3,38.9,81.3,0.0,SE@3.5,6.0,0.01,326,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,11:45,44.7,38.2,77.9,0.0,SW@3.7,7.4,0.01,311,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,12:00,45.2,38.6,77.5,0.0,SE@3.3,7.4,0.01,315,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,12:15,46.7,37.7,70.6,0.0,SE@4.5,7.4,0.01,691,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,12:30,48.2,36.8,64.6,0.0,SE@3.7,6.7,0.01,526,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,12:45,46.7,35.2,64.1,0.0,E@2.5,6.7,0.01,173,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,13:00,45.9,35.8,67.6,0.0,W@3.4,7.4,0.02,85,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,13:15,43.7,38.5,81.7,0.01,SW@2.9,7.4,0.06,137,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,13:30,43.5,39.8,86.8,0.01,S@2.0,4.6,0.07,189,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,13:45,45.5,40.8,83.4,0.0,SW@2.4,4.9,0.09,557,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,14:00,46.6,37.9,71.6,0.0,SW@4.9,11.0,0.08,524,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,14:15,47.5,36.8,66.2,0.0,W@3.6,8.5,0.02,555,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,14:30,48.8,36.1,61.3,0.0,W@3.7,8.5,0.01,663,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,14:45,48.9,35.3,59.2,0.0,W@3.2,6.4,0.01,384,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,15:00,49.5,35.2,57.6,0.0,W@2.8,5.7,0.0,441,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,15:15,49.3,35.2,58.1,0.0,W@2.6,5.7,0.0,420,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,15:30,51.2,35.3,54.5,0.0,SW@2.9,7.1,0.0,635,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,15:45,51.2,34.6,52.8,0.0,E@3.1,6.0,0.0,612,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,16:00,51.6,34.6,52.2,0.0,S@3.0,6.4,0.0,576,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,16:15,52.8,34.8,50.3,0.0,W@2.9,7.1,0.0,535,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,16:30,51.3,33.7,50.6,0.0,SW@4.6,7.1,0.0,361,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,16:45,49.7,33.5,53.4,0.0,S@1.4,3.5,0.0,98,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,17:00,49.7,34.1,54.9,0.0,E@1.7,3.5,0.0,150,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,17:15,49.8,35.3,57.2,0.0,SE@2.3,4.2,0.0,138,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,17:30,49.4,34.4,56.0,0.0,SW@2.2,4.6,0.0,72,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,17:45,49.0,35.0,58.3,0.0,S@0.9,3.5,0.0,35,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,18:00,47.4,38.9,72.0,0.0,NE@2.4,4.9,0.0,11,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,18:15,43.6,37.6,79.0,0.03,N@3.0,9.6,0.02,11,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,18:30,41.8,38.5,87.9,0.05,N @2.5,5.7,0.02,16,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,18:45,41.4,39.2,92.0,0.02,E@2.5,4.6,0.02,42,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,19:00,41.4,39.6,93.4,0.0,E@0.8,2.8,0.03,52,44.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,19:15,41.3,39.6,93.6,0.0,NE@0.6,2.1,0.04,21,44.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,19:30,40.9,39.3,93.9,0.0,SW@0.7,2.8,0.04,6,45.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,19:45,40.5,39.1,94.7,0.0,SW@1.5,4.6,0.05,1,45.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,20:00,40.6,39.4,95.5,0.0,SE@2.0,3.5,0.05,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,20:15,40.2,39.1,95.7,0.0,S@1.6,3.1,0.06,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,20:30,40.5,39.4,95.9,0.02,S@2.5,4.6,0.06,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,20:45,40.5,39.5,96.2,0.0,E@1.9,3.5,0.07,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,21:00,40.0,39.1,96.4,0.0,SE@0.6,2.4,0.07,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,21:15,39.7,38.8,96.6,0.0,S@0.6,2.4,0.07,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,21:30,39.4,38.6,96.7,0.0,S@1.9,2.8,0.08,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,21:45,38.7,37.9,96.8,0.0,SW@0.4,2.4,0.08,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,22:00,37.8,37.0,96.9,0.0,N @0.0,0.0,0.08,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,22:15,38.1,37.3,97.0,0.0,S@0.3,1.7,0.09,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,22:30,38.4,37.7,97.2,0.0,S@1.1,3.1,0.09,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,22:45,38.6,37.9,97.3,0.0,S@1.0,2.4,0.09,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,23:00,38.4,37.8,97.4,0.0,S@1.2,2.8,0.09,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,23:15,38.1,37.5,97.4,0.0,SE@0.4,2.8,0.1,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,23:30,38.0,37.3,97.5,0.0,S@2.0,3.1,0.1,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,23:45,37.2,36.6,97.5,0.0,S@1.5,3.5,0.1,0,45.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-25,24:00,36.6,36.0,97.5,0.0,SW@1.4,3.5,0.1,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,00:15,36.0,35.4,97.6,0.0,SW@0.5,2.4,0.1,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,00:30,36.1,35.5,97.7,0.0,SW@1.2,2.4,0.1,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,00:45,36.1,35.5,97.7,0.0,SW@1.9,4.9,0.1,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,01:00,36.4,35.9,97.7,0.01,SW@1.6,4.9,0.1,0,45.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,01:15,35.8,35.2,97.7,0.0,SW@1.6,3.1,0.11,0,45.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,01:30,35.6,35.0,97.7,0.0,SW@0.9,2.4,0.11,0,45.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,01:45,35.4,34.8,97.7,0.0,S@1.2,2.4,0.11,0,45.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,02:00,35.3,34.7,97.8,0.0,SW@0.8,2.8,0.11,0,45.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,02:15,35.0,34.5,97.8,0.0,SW@0.9,3.5,0.11,0,44.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,02:30,34.3,33.8,97.8,0.0,SW@1.2,2.8,0.11,0,44.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,02:45,34.7,34.1,97.9,0.0,S@0.9,3.1,0.11,0,44.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,03:00,34.5,34.0,97.9,0.0,SW@0.9,3.5,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,03:15,34.4,33.9,97.9,0.0,SW@1.3,2.8,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,03:30,34.3,33.7,97.9,0.0,SW@0.9,2.8,0.11,0,44.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,03:45,33.9,33.4,97.9,0.0,SW@1.4,3.5,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,04:00,33.7,33.2,97.9,0.0,SW@0.8,2.8,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,04:15,32.9,32.4,97.9,0.0,SW@0.4,2.1,0.11,0,44.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,04:30,33.2,32.7,98.0,0.0,SW@1.4,2.8,0.11,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,04:45,32.9,32.4,98.0,0.0,SW@1.7,2.8,0.11,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,05:00,32.6,32.1,98.0,0.0,SW@1.8,3.1,0.11,0,44.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,05:15,33.2,32.7,98.1,0.0,SW@1.0,2.8,0.11,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,05:30,32.6,32.1,98.0,0.0,SW@0.2,1.7,0.11,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,05:45,32.5,32.0,98.0,0.0,SW@1.0,2.8,0.1,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,06:00,32.2,31.7,98.0,0.0,SW@1.1,2.4,0.09,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,06:15,31.1,30.4,98.1,0.0,NW@0.0,1.4,0.09,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,06:30,32.8,32.4,98.2,0.0,S@2.4,4.9,0.1,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,06:45,33.5,33.1,98.2,0.0,SW@0.5,2.4,0.12,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,07:00,34.5,34.0,98.2,0.0,S@1.5,2.8,0.12,0,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,07:15,35.8,35.3,98.2,0.0,SW@1.3,3.5,0.13,3,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,07:30,36.3,35.9,98.2,0.0,SW@2.0,6.0,0.13,12,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,07:45,36.5,36.0,98.1,0.0,W@2.2,3.9,0.14,26,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,08:00,36.8,36.4,98.1,0.01,W@2.6,3.9,0.14,39,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,08:15,37.1,36.6,98.0,0.0,W@1.7,3.1,0.14,39,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,08:30,37.7,37.2,97.9,0.0,W@1.1,2.8,0.14,112,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,08:45,38.8,38.2,97.8,0.0,W@1.5,3.9,0.15,145,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,09:00,39.3,38.7,97.6,0.0,W@1.8,5.3,0.15,124,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,09:15,40.0,39.2,96.9,0.0,W@2.0,4.2,0.15,143,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,09:30,40.7,39.1,93.9,0.0,S@3.5,9.6,0.15,204,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,09:45,41.5,39.0,90.9,0.0,W@2.1,5.3,0.12,182,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,10:00,41.9,38.8,88.7,0.0,W@3.4,7.4,0.07,162,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,10:15,42.1,39.0,89.0,0.0,W@2.3,4.9,0.11,157,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,10:30,42.2,39.1,88.7,0.0,SW@3.1,7.1,0.12,165,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,10:45,42.6,39.3,88.3,0.0,SW@3.6,6.4,0.09,156,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,11:00,43.0,39.8,88.4,0.0,S@2.7,6.0,0.04,200,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,11:15,43.9,40.0,86.2,0.0,W@2.8,8.9,0.02,224,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,11:30,44.6,39.6,82.7,0.0,SW@3.2,8.5,0.01,294,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,11:45,44.9,39.1,79.7,0.0,SW@4.2,9.9,0.01,264,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,12:00,45.5,40.0,80.9,0.0,S@3.8,8.5,0.03,302,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,12:15,46.0,39.1,76.5,0.0,SW@4.9,11.0,0.01,341,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,12:30,46.9,38.9,73.6,0.0,W@4.9,12.1,0.01,532,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,12:45,48.8,38.8,68.2,0.0,W@5.3,11.0,0.01,668,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,13:00,48.5,37.1,64.5,0.0,SW@4.5,9.9,0.01,432,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,13:15,48.3,37.2,65.3,0.0,W@4.7,11.7,0.0,326,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,13:30,49.1,37.0,62.8,0.0,W@5.8,12.8,0.0,496,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,13:45,48.1,38.0,67.9,0.0,SW@4.9,9.6,0.0,313,43.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,14:00,46.9,39.1,74.1,0.0,SW@4.5,11.0,0.02,289,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,14:15,47.0,38.5,72.2,0.0,SW@3.2,6.7,0.01,109,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,14:30,46.1,38.2,73.6,0.0,SW@4.1,7.4,0.0,93,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,14:45,46.3,38.7,74.7,0.0,SW@3.5,8.9,0.01,188,43.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,15:00,47.2,39.4,73.9,0.0,SW@2.4,5.3,0.01,350,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,15:15,47.6,38.1,69.4,0.0,W@2.4,5.7,0.01,133,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,15:30,48.4,37.5,65.8,0.0,W@3.0,8.5,0.0,241,43.6,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,15:45,48.8,36.1,61.3,0.0,W@4.8,12.4,0.0,246,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,16:00,49.3,35.3,58.3,0.0,W@5.4,11.7,0.0,240,43.7,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,16:15,48.0,35.4,61.3,0.0,W@6.6,14.2,0.0,206,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,16:30,47.8,35.4,61.9,0.0,W@5.3,10.3,0.0,265,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,16:45,48.2,35.6,61.6,0.0,W@5.0,9.9,0.0,251,43.8,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,17:00,48.3,36.3,63.0,0.0,W@4.7,9.9,0.0,226,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,17:15,48.0,36.7,64.8,0.0,W@4.0,8.5,0.0,153,43.9,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,17:30,47.7,36.8,65.5,0.0,W@4.1,8.5,0.0,101,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,17:45,47.8,36.9,65.7,0.0,W@3.6,9.6,0.0,82,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,18:00,47.4,36.9,66.8,0.0,SW@3.0,10.3,0.0,36,44.0,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,18:15,47.1,37.2,68.5,0.0,SW@3.7,9.9,0.0,25,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,18:30,46.6,36.9,68.9,0.0,W@5.1,9.2,0.0,39,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,18:45,46.1,37.4,71.5,0.0,SW@4.3,9.9,0.0,17,44.1,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,19:00,45.2,38.0,75.8,0.0,SW@3.3,6.0,0.0,26,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,19:15,44.8,37.6,75.7,0.0,SW@2.9,6.4,0.0,14,44.2,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,19:30,44.6,37.5,76.0,0.0,SW@3.5,10.3,0.0,5,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,19:45,44.4,37.2,75.6,0.0,SW@2.4,6.7,0.0,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,20:00,44.1,37.3,76.6,0.0,W@1.9,6.0,0.01,0,44.3,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,20:15,43.6,37.4,78.4,0.0,SW@0.3,2.4,0.0,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,20:30,42.9,37.8,82.1,0.0,S@0.6,3.1,0.01,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,20:45,42.5,38.5,85.6,0.0,S@1.4,2.4,0.01,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,21:00,42.3,38.6,86.6,0.0,S@0.5,2.4,0.01,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,21:15,42.4,38.2,84.9,0.0,SW@1.2,3.9,0.01,0,44.4,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,21:30,42.3,38.1,84.9,0.0,SW@0.6,2.8,0.01,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,21:45,41.8,38.4,87.4,0.0,S@0.4,1.7,0.01,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,22:00,41.8,38.4,87.5,0.0,SW@0.5,2.8,0.01,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,22:15,42.1,38.4,86.5,0.0,W@0.4,2.4,0.01,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,22:30,41.7,38.5,88.5,0.0,W@0.4,2.1,0.01,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,22:45,41.7,38.6,88.6,0.0,W@0.6,2.4,0.02,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,23:00,41.8,38.9,89.3,0.0,S@0.3,2.1,0.02,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,23:15,41.6,38.8,89.9,0.0,N @0.0,0.0,0.02,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,23:30,41.1,38.6,90.9,0.0,S@0.1,2.1,0.02,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,23:45,40.7,38.5,91.6,0.0,E@0.0,1.4,0.03,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745
+2020-03-26,24:00,41.2,38.6,90.5,0.0,S@1.8,3.9,0.03,0,44.5,"Olympia.E (East Olympia), Olympia, Thurston County",330151,Olympia.E,2020-05-03 16:04:44.128745

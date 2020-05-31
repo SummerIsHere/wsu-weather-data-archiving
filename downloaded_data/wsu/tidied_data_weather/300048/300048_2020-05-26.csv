@@ -1,0 +1,544 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2020-05-26,00:15,55.5,53.9,94.0,0.0,S@4.2,6.4,0.0,0,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,00:30,55.5,53.9,94.2,0.0,S@3.7,5.3,0.0,0,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,00:45,55.5,53.9,94.0,0.0,S@4.7,7.4,0.0,0,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,01:00,55.5,53.6,93.4,0.0,S@5.4,8.9,0.0,0,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,01:15,55.4,53.5,93.3,0.0,SW@4.8,7.1,0.0,0,56.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,01:30,55.5,53.5,93.0,0.0,SW@4.2,6.7,0.0,0,56.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,01:45,55.5,53.6,93.2,0.0,SW@3.5,5.3,0.0,0,56.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,02:00,55.4,53.6,93.4,0.0,S@2.8,4.2,0.0,0,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,02:15,55.4,53.6,93.5,0.0,S@2.4,4.9,0.0,0,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,02:30,55.5,53.6,93.1,0.0,S@2.2,3.1,0.0,0,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,02:45,55.3,53.6,94.0,0.0,S@2.7,6.0,0.0,0,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,03:00,55.3,53.6,94.0,0.0,S@2.6,4.9,0.0,0,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,03:15,55.2,53.6,94.1,0.0,S@2.1,3.9,0.0,0,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,03:30,55.1,53.5,94.3,0.0,S@2.9,4.6,0.0,0,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,03:45,54.9,53.4,94.5,0.0,S@2.9,4.2,0.0,0,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,04:00,54.8,53.4,94.9,0.0,S@3.2,4.9,0.0,0,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,04:15,54.6,53.2,94.6,0.0,S@3.4,4.9,0.0,0,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,04:30,54.5,52.8,93.9,0.0,S@3.3,4.9,0.0,0,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,04:45,54.3,52.5,93.6,0.0,S@2.9,4.9,0.0,0,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,05:00,54.2,52.1,92.7,0.0,S@3.0,4.2,0.0,1,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,05:15,53.9,52.0,93.1,0.0,S@3.0,4.9,0.0,4,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,05:30,53.9,51.8,92.8,0.0,S@3.7,6.4,0.0,9,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,05:45,53.6,51.8,93.5,0.0,S@3.2,4.9,0.0,25,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,06:00,53.5,51.6,93.2,0.0,S@3.5,6.0,0.0,41,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,06:15,53.4,51.3,92.3,0.0,SW@4.7,7.4,0.0,49,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,06:30,53.5,51.2,91.8,0.0,SW@5.3,7.4,0.0,58,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,06:45,53.6,51.4,92.2,0.0,SW@5.1,7.1,0.0,78,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,07:00,53.8,51.6,92.2,0.0,S@4.9,7.1,0.0,118,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,07:15,53.9,51.2,90.6,0.0,S@5.7,8.5,0.0,122,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,07:30,54.0,51.0,89.5,0.0,S@5.5,8.9,0.0,121,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,07:45,54.9,51.9,89.5,0.0,S@5.4,7.8,0.0,230,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,08:00,56.5,52.0,84.6,0.0,S@6.9,10.3,0.0,438,55.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,08:15,56.1,51.9,85.9,0.0,S@6.0,8.9,0.0,292,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,08:30,56.1,51.6,84.9,0.0,S@6.3,9.9,0.0,259,55.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,08:45,55.7,51.3,85.0,0.0,S@6.0,9.2,0.0,204,55.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,09:00,56.0,51.5,84.8,0.0,S@6.3,10.7,0.0,311,55.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,09:15,57.1,51.9,82.4,0.0,SW@6.4,9.6,0.0,369,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,09:30,56.6,51.2,82.0,0.0,S@5.2,8.2,0.0,295,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,09:45,57.3,51.6,81.2,0.0,S@4.3,6.7,0.0,322,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,10:00,57.7,51.7,80.3,0.0,SW@3.3,6.0,0.0,271,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,10:15,60.0,52.4,75.9,0.0,S@6.3,10.3,0.0,667,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,10:30,60.9,52.5,73.7,0.0,S@6.6,10.3,0.0,632,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,10:45,61.4,52.5,72.7,0.0,S@6.3,9.9,0.0,658,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,11:00,61.8,52.8,72.3,0.0,S@6.5,11.7,0.0,516,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,11:15,62.3,52.3,69.5,0.0,S@7.0,12.1,0.0,522,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,11:30,63.5,53.0,68.5,0.0,S@7.9,12.1,0.0,735,56.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,11:45,63.2,52.4,67.9,0.0,S@6.6,10.7,0.0,481,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,12:00,63.3,52.2,67.2,0.0,SW@5.8,10.7,0.0,366,56.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,12:15,63.3,51.9,66.3,0.0,S@5.9,9.6,0.0,356,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,12:30,65.7,52.0,61.0,0.0,SW@6.9,11.7,0.0,863,57.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,12:45,65.2,50.4,58.6,0.0,SW@7.2,11.4,0.0,461,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,13:00,65.1,50.8,59.9,0.0,SW@6.8,9.9,0.0,461,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,13:15,65.6,50.2,57.4,0.0,SW@5.3,9.6,0.0,455,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,13:30,66.2,48.4,52.5,0.0,W@6.8,12.1,0.0,503,57.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,13:45,65.8,48.5,53.7,0.0,SW@5.4,9.9,0.0,361,57.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,14:00,66.1,49.6,55.3,0.0,SW@6.6,13.2,0.0,389,57.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,14:15,66.1,50.6,57.3,0.0,SW@6.3,9.2,0.0,371,57.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,14:30,66.8,51.1,57.0,0.0,SW@7.0,11.0,0.0,629,57.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,14:45,68.3,51.0,53.9,0.0,SW@7.3,11.7,0.0,644,58.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,15:00,68.7,50.1,51.4,0.0,SW@7.4,15.0,0.0,669,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,15:15,70.1,47.9,45.2,0.0,SW@7.6,13.5,0.0,796,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,15:30,69.1,47.3,45.7,0.0,SW@7.2,13.5,0.0,519,58.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,15:45,70.6,46.7,42.5,0.0,W@8.9,13.9,0.0,730,58.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,16:00,70.3,46.4,42.3,0.0,SW@8.8,16.0,0.0,646,58.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,16:15,69.9,46.2,42.5,0.0,SW@9.0,15.7,0.0,629,58.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,16:30,70.6,45.4,40.4,0.0,SW@9.0,14.6,0.0,634,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,16:45,70.0,46.2,42.4,0.0,SW@7.3,12.4,0.0,399,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,17:00,68.4,47.2,46.6,0.0,SW@6.9,11.4,0.0,388,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,17:15,69.3,47.1,45.1,0.0,SW@6.0,10.7,0.0,332,59.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,17:30,68.9,45.0,42.1,0.0,SW@7.9,13.9,0.0,235,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,17:45,69.8,45.5,41.6,0.0,SW@6.8,13.5,0.0,409,59.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,18:00,69.3,43.4,39.2,0.0,SW@7.3,13.5,0.0,287,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,18:15,69.9,44.2,39.5,0.0,SW@6.7,12.1,0.0,347,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,18:30,69.9,41.7,36.0,0.0,SW@8.7,15.0,0.0,289,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,18:45,69.6,41.1,35.5,0.0,SW@8.0,11.7,0.0,223,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,19:00,68.4,45.6,43.9,0.0,SW@7.2,11.4,0.0,200,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,19:15,67.1,47.5,49.3,0.0,S@5.7,10.7,0.0,156,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,19:30,66.6,47.1,49.4,0.0,SW@6.8,11.4,0.0,115,59.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,19:45,66.1,47.0,50.1,0.0,SW@6.2,9.2,0.0,97,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,20:00,65.5,46.2,49.7,0.0,SW@6.7,13.2,0.0,27,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,20:15,65.0,45.9,50.0,0.0,SW@6.8,9.9,0.0,18,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,20:30,63.8,46.5,53.3,0.0,S@4.6,8.5,0.0,13,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,20:45,62.7,46.6,55.6,0.0,S@4.1,6.4,0.0,4,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,21:00,61.9,46.5,57.0,0.0,S@3.7,6.0,0.0,2,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,21:15,61.1,46.6,58.8,0.0,S@4.3,6.7,0.0,0,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,21:30,60.4,47.2,61.7,0.0,S@4.7,6.7,0.0,0,59.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,21:45,60.5,47.3,61.5,0.0,S@3.8,6.0,0.0,0,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,22:00,59.9,47.6,63.8,0.0,S@4.9,8.9,0.0,0,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,22:15,59.9,47.7,64.0,0.0,S@5.4,8.5,0.0,0,59.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,22:30,59.8,47.7,64.2,0.0,S@5.7,8.9,0.0,0,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,22:45,59.2,47.7,65.7,0.0,S@5.1,9.2,0.0,0,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,23:00,57.8,47.7,69.1,0.0,S@4.7,6.7,0.0,0,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,23:15,56.8,47.8,71.9,0.0,S@4.5,6.7,0.0,0,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,23:30,57.4,47.9,70.5,0.0,S@4.6,7.1,0.0,0,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,23:45,58.2,47.6,67.8,0.0,SW@4.8,7.8,0.0,0,58.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-26,24:00,58.0,47.3,67.5,0.0,SW@5.0,8.2,0.0,0,58.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,00:15,57.0,47.0,69.2,0.0,SW@5.0,7.4,0.0,0,58.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,00:30,56.5,46.5,69.2,0.0,SW@4.2,6.0,0.0,0,58.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,00:45,55.7,46.0,69.8,0.0,SW@3.8,5.3,0.0,0,58.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,01:00,56.4,45.6,66.9,0.0,SW@2.6,3.5,0.0,0,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,01:15,55.3,44.7,67.4,0.0,SW@3.2,4.9,0.0,0,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,01:30,56.0,44.1,64.0,0.0,SW@2.9,3.9,0.0,0,58.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,01:45,55.4,42.9,62.7,0.0,SW@3.1,4.2,0.0,0,58.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,02:00,55.3,42.0,60.9,0.0,W@2.5,3.9,0.0,0,57.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,02:15,54.6,42.8,64.3,0.0,N@2.1,3.5,0.0,0,57.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,02:30,54.1,44.7,70.4,0.0,NE@3.4,4.9,0.0,0,57.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,02:45,54.3,45.3,71.5,0.0,NE@4.7,8.5,0.0,0,57.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,03:00,54.7,44.4,68.2,0.0,N @6.1,9.2,0.0,0,57.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,03:15,53.8,44.6,70.9,0.0,N@5.2,7.4,0.0,0,57.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,03:30,53.1,45.1,74.0,0.0,N@5.9,8.5,0.0,0,57.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,03:45,51.5,45.5,80.0,0.0,N@4.7,6.7,0.0,0,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,04:00,50.7,45.6,82.3,0.0,N @3.9,4.9,0.0,0,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,04:15,51.3,45.6,80.7,0.0,N @3.3,5.3,0.0,0,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,04:30,51.6,45.5,79.4,0.0,N@2.9,3.9,0.0,0,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,04:45,51.0,45.3,81.0,0.0,N @1.5,3.1,0.01,0,57.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,05:00,51.1,45.7,81.8,0.0,E@1.4,2.4,0.03,3,56.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,05:15,52.6,45.5,76.6,0.0,N@3.0,3.9,0.0,7,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,05:30,52.6,45.0,75.3,0.0,N@2.8,3.9,0.0,24,56.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,05:45,53.2,44.3,71.8,0.0,NW@3.0,4.2,0.0,27,56.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,06:00,51.4,45.3,79.4,0.0,W@2.7,3.5,0.0,101,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,06:15,52.1,45.8,79.1,0.0,W@2.6,3.9,0.0,140,56.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,06:30,51.7,45.1,78.1,0.0,NW@3.4,5.3,0.0,149,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,06:45,52.5,44.5,73.9,0.0,NW@2.0,3.9,0.0,174,56.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,07:00,53.2,44.4,72.1,0.0,NW@3.7,5.7,0.0,250,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,07:15,53.6,44.4,70.8,0.0,NW@3.8,5.3,0.0,290,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,07:30,54.4,44.5,69.0,0.0,N@3.4,4.9,0.0,332,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,07:45,55.3,45.7,69.9,0.0,N@3.2,4.9,0.0,375,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,08:00,56.3,46.8,70.1,0.0,NW@3.2,5.3,0.0,417,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,08:15,57.2,45.8,65.7,0.0,N @4.6,6.7,0.0,458,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,08:30,57.5,45.8,64.9,0.0,N @5.1,7.4,0.0,498,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,08:45,58.1,45.6,63.0,0.0,N@5.4,7.8,0.0,538,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,09:00,58.9,45.2,60.4,0.0,N@5.3,8.5,0.0,577,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,09:15,59.8,45.7,59.5,0.0,N@3.8,7.4,0.0,615,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,09:30,61.5,46.7,58.2,0.0,N @3.0,5.7,0.0,652,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,09:45,61.7,46.2,56.6,0.0,N@3.2,5.3,0.0,686,56.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,10:00,62.5,46.0,54.7,0.0,N @3.1,7.1,0.0,720,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,10:15,63.3,45.6,52.4,0.0,NE@2.6,5.7,0.0,750,56.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,10:30,63.7,45.0,50.3,0.0,N@3.5,7.8,0.0,778,56.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,10:45,64.5,44.0,47.3,0.0,N @3.0,6.0,0.0,805,56.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,11:00,64.4,42.2,44.2,0.0,NW@3.2,6.7,0.0,831,56.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,11:15,65.4,42.9,43.8,0.0,NW@3.1,5.7,0.0,849,56.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,11:30,66.1,42.0,41.5,0.0,W@3.8,8.2,0.0,868,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,11:45,66.2,40.3,38.6,0.0,NW@4.0,6.7,0.0,886,57.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,12:00,66.9,39.7,36.8,0.0,W@3.8,8.2,0.0,899,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,12:15,67.3,39.3,35.7,0.0,W@4.3,9.6,0.0,899,57.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,12:30,68.1,39.4,35.0,0.0,W@4.7,8.9,0.0,904,57.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,12:45,67.3,37.3,33.1,0.0,NW@5.9,10.3,0.0,914,57.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,13:00,67.5,37.2,32.7,0.0,N@4.0,10.3,0.0,832,58.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,13:15,68.3,35.0,29.2,0.0,W@6.0,10.3,0.0,801,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,13:30,68.1,32.0,26.0,0.0,NW@6.3,11.7,0.0,785,58.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,13:45,68.6,31.8,25.4,0.0,W@4.4,10.7,0.0,717,58.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,14:00,68.7,33.8,27.4,0.0,NW@4.9,11.7,0.0,773,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,14:15,69.2,34.8,28.1,0.0,N@4.8,9.2,0.0,832,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,14:30,70.1,34.6,27.0,0.0,W@4.3,8.9,0.0,844,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,14:45,70.2,37.2,29.8,0.0,NW@5.4,10.3,0.0,821,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,15:00,70.1,36.5,29.2,0.0,N@4.9,8.5,0.0,795,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,15:15,70.7,37.5,29.7,0.0,W@4.4,7.8,0.0,767,59.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,15:30,70.3,35.3,27.5,0.0,NW@5.9,9.9,0.0,744,59.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,15:45,71.0,34.5,26.0,0.0,NW@4.0,9.6,0.0,713,59.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,16:00,71.2,33.6,25.0,0.0,NW@3.6,9.2,0.0,680,60.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,16:15,71.9,34.5,25.3,0.0,NW@5.4,9.9,0.0,648,60.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,16:30,71.3,31.6,23.0,0.0,NW@4.3,9.2,0.0,612,60.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,16:45,71.4,29.9,21.3,0.0,NW@4.8,8.5,0.0,567,60.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,17:00,71.6,29.2,20.6,0.0,N@4.4,8.9,0.0,541,60.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,17:15,72.5,30.2,20.8,0.0,W@3.2,8.2,0.0,498,60.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,17:30,71.6,32.3,23.4,0.0,NW@5.1,8.9,0.0,457,60.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,17:45,72.2,33.1,23.7,0.0,W@3.2,6.7,0.0,415,61.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,18:00,71.8,33.3,24.1,0.0,NW@4.1,7.1,0.0,376,61.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,18:15,71.6,32.6,23.7,0.0,NW@3.3,6.4,0.0,324,61.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,18:30,71.7,32.2,23.2,0.0,N@3.4,6.0,0.0,288,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,18:45,71.6,33.7,24.8,0.0,SW@1.1,2.1,0.0,232,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,19:00,70.4,34.5,26.6,0.0,W@2.1,4.6,0.0,198,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,19:15,69.9,34.3,26.9,0.0,W@2.1,3.5,0.0,127,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,19:30,70.6,34.2,26.2,0.0,W@1.7,3.5,0.0,144,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,19:45,71.5,35.0,26.1,0.0,N@1.3,3.1,0.0,88,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,20:00,68.4,33.4,27.3,0.0,NW@2.5,3.1,0.0,36,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,20:15,67.4,32.7,27.5,0.0,N@2.3,3.1,0.0,21,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,20:30,66.9,32.6,27.7,0.0,N@2.8,3.1,0.0,9,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,20:45,67.0,32.1,27.2,0.0,NW@2.6,3.5,0.0,3,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,21:00,66.4,32.0,27.7,0.0,N@1.1,2.8,0.0,1,61.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,21:15,65.9,31.7,27.8,0.0,N@1.5,2.1,0.0,0,61.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,21:30,65.2,33.2,30.2,0.0,NE@2.1,3.1,0.0,0,61.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,21:45,62.4,35.5,36.6,0.0,NE@3.0,4.2,0.0,0,60.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,22:00,61.9,35.1,36.6,0.0,NE@3.1,3.9,0.0,0,60.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,22:15,61.3,35.3,37.7,0.0,NE@3.6,4.2,0.0,0,60.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,22:30,60.7,34.8,37.8,0.0,N @3.2,3.9,0.0,0,60.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,22:45,60.6,34.3,37.0,0.0,NE@3.3,3.9,0.0,0,60.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,23:00,60.8,33.8,36.1,0.0,N @3.5,3.9,0.0,0,60.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,23:15,60.7,32.9,34.9,0.0,N @2.3,2.8,0.0,0,60.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,23:30,61.1,31.9,33.1,0.0,N @2.0,2.8,0.0,0,60.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,23:45,62.4,31.8,31.6,0.0,NW@2.8,3.9,0.0,0,60.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-27,24:00,60.8,35.1,38.0,0.0,W@2.7,3.9,0.0,0,60.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,00:15,59.8,36.1,41.1,0.0,NW@3.3,4.6,0.0,0,59.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,00:30,57.9,37.1,45.7,0.0,N @2.6,3.9,0.0,0,59.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,00:45,57.4,36.0,44.7,0.0,E@1.8,3.1,0.0,0,59.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,01:00,57.4,34.7,42.3,0.0,SE@1.2,2.4,0.0,0,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,01:15,57.5,34.0,41.0,0.0,SE@1.9,3.5,0.0,0,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,01:30,54.6,35.3,47.9,0.0,E@1.7,4.6,0.0,0,59.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,01:45,56.6,33.1,40.9,0.0,E@2.6,4.2,0.0,0,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,02:00,55.2,35.1,46.6,0.0,S@2.7,3.9,0.0,0,59.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,02:15,53.7,36.1,51.0,0.0,SW@1.9,3.5,0.0,0,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,02:30,55.1,36.3,48.9,0.0,W@2.1,2.8,0.0,0,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,02:45,54.1,36.4,51.0,0.0,NE@2.3,3.9,0.0,0,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,03:00,53.5,35.7,50.7,0.0,N @3.1,4.2,0.0,0,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,03:15,54.0,35.4,49.3,0.0,N@3.6,4.6,0.0,0,58.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,03:30,53.2,35.6,51.1,0.0,N @4.0,5.3,0.0,0,58.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,03:45,52.8,35.2,50.9,0.0,NE@2.1,3.5,0.0,0,58.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,04:00,52.0,35.0,52.1,0.0,W@1.0,2.1,0.0,0,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,04:15,51.5,36.1,55.4,0.0,W@2.6,3.5,0.0,0,58.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,04:30,49.7,38.5,65.2,0.0,W@2.8,3.9,0.0,0,58.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,04:45,48.9,38.7,67.7,0.0,SW@1.6,3.5,0.0,1,57.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,05:00,47.6,38.4,70.1,0.0,N @3.1,4.6,0.0,3,57.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,05:15,47.9,38.1,68.7,0.0,NE@2.9,3.9,0.0,9,57.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,05:30,49.7,38.1,64.2,0.0,NE@2.0,2.8,0.0,25,57.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,05:45,50.8,38.0,61.5,0.0,SW@1.7,2.8,0.0,46,57.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,06:00,50.7,38.0,61.7,0.0,NW@2.3,4.2,0.0,70,57.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,06:15,50.8,38.3,62.2,0.0,NW@3.0,4.9,0.0,92,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,06:30,49.6,40.6,70.8,0.0,N @2.6,4.2,0.0,113,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,06:45,50.4,41.6,71.7,0.0,NE@2.2,4.2,0.0,140,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,07:00,51.1,41.4,69.5,0.0,NW@2.6,4.2,0.0,204,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,07:15,52.3,40.8,64.9,0.0,NW@2.0,4.6,0.0,216,57.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,07:30,53.4,40.5,61.4,0.0,N @2.8,4.6,0.0,248,56.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,07:45,54.1,39.7,58.1,0.0,N @3.7,5.7,0.0,281,56.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,08:00,54.3,41.1,60.7,0.0,N @3.4,5.7,0.0,278,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,08:15,54.9,42.4,62.5,0.0,NE@3.4,4.6,0.0,300,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,08:30,56.6,43.0,60.4,0.0,NE@3.1,5.3,0.0,382,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,08:45,57.8,43.0,57.7,0.0,N @2.6,4.9,0.0,416,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,09:00,58.5,45.9,62.8,0.0,S@2.5,3.9,0.0,451,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,09:15,59.0,46.6,63.2,0.0,S@2.1,4.2,0.0,460,56.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,09:30,60.4,45.7,58.2,0.0,SE@2.2,4.6,0.0,483,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,09:45,61.4,45.9,56.7,0.0,SE@2.7,4.6,0.0,580,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,10:00,62.0,48.1,60.3,0.0,SW@3.4,4.9,0.0,734,56.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,10:15,63.4,47.7,56.6,0.0,SW@2.5,4.6,0.0,746,56.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,10:30,64.4,46.3,51.7,0.0,W@3.8,6.4,0.0,770,57.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,10:45,65.1,46.6,51.2,0.0,W@3.9,6.7,0.0,804,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,11:00,66.8,45.9,46.9,0.0,N@2.5,5.3,0.0,828,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,11:15,68.4,45.6,43.9,0.0,N @3.4,6.0,0.0,827,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,11:30,69.2,43.9,40.0,0.0,NE@3.0,5.3,0.0,871,57.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,11:45,70.0,44.1,39.2,0.0,NE@3.8,7.1,0.0,887,57.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,12:00,71.2,44.6,38.4,0.0,NE@3.5,7.8,0.0,904,57.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,12:15,71.7,43.8,36.6,0.0,SE@3.1,6.0,0.0,911,58.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,12:30,72.8,45.3,37.5,0.0,NE@3.8,6.4,0.0,897,58.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,12:45,72.7,44.4,36.3,0.0,NE@3.8,6.4,0.0,841,58.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,13:00,72.9,44.9,36.7,0.0,N @4.2,8.2,0.0,906,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,13:15,73.8,45.4,36.2,0.0,N @4.5,8.2,0.0,903,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,13:30,73.9,45.1,35.7,0.0,NE@4.3,8.9,0.0,902,59.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,13:45,75.0,45.0,34.3,0.0,S@2.9,7.8,0.0,844,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,14:00,75.2,46.2,35.7,0.0,NE@4.2,8.5,0.0,770,59.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,14:15,75.1,44.3,33.4,0.0,E@3.4,7.1,0.0,832,59.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,14:30,76.4,45.0,32.6,0.0,N @2.9,5.3,0.0,822,60.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,14:45,77.0,45.2,32.3,0.0,SE@3.1,6.7,0.0,797,60.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,15:00,76.9,44.3,31.4,0.0,SW@3.8,8.2,0.0,734,60.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,15:15,77.0,44.2,31.1,0.0,SW@3.6,6.7,0.0,720,60.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,15:30,77.8,44.5,30.7,0.0,SW@4.2,6.7,0.0,773,60.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,15:45,77.8,43.8,29.9,0.0,SW@4.0,8.9,0.0,699,61.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,16:00,78.0,42.8,28.5,0.0,SW@3.8,6.7,0.0,681,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,16:15,78.1,42.5,28.1,0.0,SW@3.4,6.0,0.0,618,61.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,16:30,77.8,43.5,29.5,0.0,SW@3.6,6.4,0.0,548,61.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,16:45,78.0,43.9,29.7,0.0,S@3.9,6.4,0.0,598,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,17:00,78.5,41.5,26.8,0.0,S@3.1,6.4,0.0,562,61.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,17:15,78.9,42.6,27.5,0.0,S@2.8,6.7,0.0,523,62.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,17:30,78.6,40.2,25.3,0.0,W@2.9,8.2,0.0,406,62.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,17:45,77.8,40.7,26.4,0.0,N@3.8,7.8,0.0,287,62.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,18:00,77.4,42.9,29.3,0.0,NW@2.6,4.2,0.0,271,62.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,18:15,78.6,42.5,27.6,0.0,NW@3.3,6.0,0.0,389,62.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,18:30,76.8,42.8,29.7,0.0,NW@3.5,6.0,0.0,207,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,18:45,77.4,42.6,28.8,0.0,NW@3.3,6.0,0.0,322,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,19:00,77.0,41.4,27.9,0.0,NW@4.1,7.4,0.0,216,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,19:15,76.2,40.2,27.4,0.0,N@5.5,8.5,0.0,172,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,19:30,75.4,40.0,27.9,0.0,NW@4.7,6.7,0.0,132,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,19:45,74.1,38.9,28.0,0.0,NW@3.9,5.7,0.0,53,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,20:00,73.5,37.1,26.6,0.0,NW@3.5,4.6,0.0,41,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,20:15,73.4,35.3,24.8,0.0,NW@3.6,4.6,0.0,22,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,20:30,72.8,34.7,24.7,0.0,NW@4.1,5.3,0.0,8,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,20:45,72.7,34.2,24.3,0.0,NW@4.0,5.3,0.0,3,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,21:00,72.6,33.7,23.9,0.0,NW@3.8,4.9,0.0,0,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,21:15,71.9,33.9,24.7,0.0,N@3.3,4.2,0.0,0,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,21:30,69.0,37.5,31.4,0.0,N @3.8,4.2,0.0,0,62.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,21:45,68.8,38.6,33.0,0.0,N @3.7,4.6,0.0,0,62.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,22:00,68.4,37.1,31.5,0.0,N @3.7,4.6,0.0,0,62.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,22:15,69.0,34.6,28.0,0.0,N @3.3,3.9,0.0,0,62.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,22:30,69.1,34.0,27.3,0.0,N @2.1,3.1,0.0,0,62.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,22:45,69.6,33.4,26.1,0.0,NW@2.6,3.5,0.0,0,62.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,23:00,69.9,33.2,25.7,0.0,NW@2.6,3.9,0.0,0,62.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,23:15,68.4,37.0,31.4,0.0,NW@3.2,3.9,0.0,0,61.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,23:30,66.9,39.8,37.0,0.0,N@2.6,3.5,0.0,0,61.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,23:45,65.8,39.5,38.0,0.0,N @1.9,2.8,0.0,0,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-28,24:00,67.2,36.9,32.7,0.0,N @1.1,2.4,0.0,0,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,00:15,67.5,36.9,32.4,0.0,N @1.0,2.1,0.0,0,61.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,00:30,64.5,38.6,38.4,0.0,W@1.6,3.1,0.0,0,61.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,00:45,63.3,37.4,38.1,0.0,E@0.4,2.4,0.0,0,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,01:00,64.4,38.3,38.0,0.0,SW@1.6,2.4,0.0,0,61.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,01:15,64.3,38.5,38.5,0.0,NW@3.3,4.6,0.0,0,61.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,01:30,62.2,39.6,43.3,0.0,N@2.1,3.5,0.0,0,61.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,01:45,61.7,39.0,43.1,0.0,E@0.5,1.7,0.0,0,60.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,02:00,62.7,38.4,40.5,0.0,SW@1.2,3.1,0.0,0,60.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,02:15,59.1,40.8,50.5,0.0,S@2.2,3.1,0.0,0,60.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,02:30,56.9,43.1,59.8,0.0,S@0.5,2.1,0.0,0,60.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,02:45,58.9,42.7,54.9,0.0,SE@1.0,2.1,0.0,0,60.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,03:00,57.5,43.9,60.4,0.0,SW@2.3,4.9,0.0,0,60.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,03:15,56.9,43.2,60.1,0.0,W@3.3,4.2,0.0,0,60.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,03:30,56.0,42.8,61.0,0.0,N@2.5,4.2,0.0,0,60.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,03:45,56.6,41.7,57.1,0.0,NW@2.8,3.9,0.0,0,60.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,04:00,56.6,42.0,58.1,0.0,NW@3.6,4.2,0.0,0,60.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,04:15,56.2,42.3,59.4,0.0,NW@3.1,3.9,0.0,0,60.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,04:30,56.0,42.4,60.2,0.0,NW@2.0,3.1,0.0,0,59.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,04:45,55.5,42.3,60.9,0.0,NW@2.4,3.5,0.0,0,59.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,05:00,54.2,42.6,64.8,0.0,E@1.8,3.1,0.0,3,59.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,05:15,54.2,42.8,65.2,0.0,SW@2.2,3.5,0.0,7,59.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,05:30,54.8,43.0,64.3,0.0,SW@1.3,2.8,0.0,17,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,05:45,55.0,43.2,64.3,0.0,N @2.0,2.8,0.0,50,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,06:00,56.5,44.3,63.6,0.0,NE@2.7,3.9,0.0,105,59.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,06:15,57.0,45.9,66.2,0.0,NE@3.3,4.6,0.0,145,59.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,06:30,59.4,45.7,60.3,0.0,E@2.7,4.2,0.0,177,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,06:45,60.1,45.7,58.9,0.0,S@2.4,4.2,0.0,214,59.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,07:00,59.8,46.5,61.3,0.0,NW@2.6,4.2,0.0,261,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,07:15,59.9,48.3,65.5,0.0,NW@3.8,5.7,0.0,302,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,07:30,61.3,46.3,57.6,0.0,N@2.1,3.9,0.0,332,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,07:45,63.6,48.6,58.0,0.0,SW@2.2,4.6,0.0,376,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,08:00,61.5,49.4,64.4,0.0,S@3.9,6.7,0.0,421,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,08:15,62.3,48.3,60.2,0.0,SE@4.0,6.4,0.0,455,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,08:30,63.7,48.2,57.0,0.0,SE@4.2,6.0,0.0,496,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,08:45,65.0,48.5,55.1,0.0,SE@3.5,6.4,0.0,533,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,09:00,64.7,49.3,57.3,0.0,S@4.1,6.4,0.0,567,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,09:15,65.9,48.2,52.9,0.0,S@2.9,5.3,0.0,608,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,09:30,67.6,47.8,49.1,0.0,SW@2.7,4.6,0.0,645,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,09:45,68.4,48.1,48.3,0.0,W@3.2,5.7,0.0,673,58.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,10:00,69.2,48.9,48.3,0.0,NW@3.3,6.0,0.0,708,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,10:15,69.5,49.1,48.2,0.0,NW@4.1,6.7,0.0,739,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,10:30,70.2,49.1,47.0,0.0,NW@4.3,6.4,0.0,763,59.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,10:45,71.5,46.6,41.0,0.0,NW@3.3,6.0,0.0,793,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,11:00,73.1,46.1,38.0,0.0,NW@3.2,6.0,0.0,815,59.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,11:15,73.5,45.9,37.2,0.0,W@3.4,5.7,0.0,834,59.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,11:30,74.2,45.8,36.2,0.0,N@3.6,6.0,0.0,850,59.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,11:45,75.0,48.4,39.0,0.0,NE@3.9,7.4,0.0,863,59.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,12:00,75.7,49.9,40.3,0.0,NE@4.0,7.8,0.0,872,60.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,12:15,76.8,50.4,39.6,0.0,E@3.6,11.4,0.0,879,60.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,12:30,77.5,50.9,39.4,0.0,S@3.7,7.1,0.0,885,60.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,12:45,78.5,50.3,37.3,0.0,S@3.6,6.7,0.0,889,60.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,13:00,78.8,49.4,35.7,0.0,S@3.2,5.7,0.0,888,60.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,13:15,79.4,49.8,35.5,0.0,N@2.7,5.3,0.0,885,61.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,13:30,80.0,49.6,34.6,0.0,N @2.9,7.8,0.0,879,61.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,13:45,80.1,50.2,35.1,0.0,N @4.4,8.2,0.0,868,61.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,14:00,80.7,50.3,34.7,0.0,NE@4.0,8.9,0.0,855,61.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,14:15,80.9,50.5,34.7,0.0,NE@4.4,7.4,0.0,840,62.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,14:30,81.1,50.1,34.1,0.0,NE@4.6,8.9,0.0,824,62.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,14:45,81.9,50.4,33.6,0.0,NE@3.7,8.5,0.0,803,62.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,15:00,82.2,50.2,32.9,0.0,SE@2.9,4.9,0.0,768,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,15:15,82.7,50.3,32.4,0.0,N@3.6,7.4,0.0,751,62.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,15:30,83.2,51.4,33.3,0.0,N @3.4,7.4,0.0,722,63.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,15:45,83.6,50.4,31.8,0.0,N @2.2,5.3,0.0,686,63.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,16:00,83.8,52.4,33.9,0.0,SE@2.9,5.7,0.0,658,63.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,16:15,84.1,53.4,34.9,0.0,SW@3.6,8.2,0.0,625,63.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,16:30,83.9,51.9,33.2,0.0,SE@2.9,6.7,0.0,596,63.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,16:45,84.7,53.5,34.3,0.0,S@2.7,5.7,0.0,562,64.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,17:00,85.0,51.9,32.0,0.0,N @3.4,7.1,0.0,528,64.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,17:15,84.3,48.7,29.1,0.0,E@2.3,4.9,0.0,450,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,17:30,83.6,52.1,33.7,0.0,S@2.6,6.7,0.0,386,64.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,17:45,84.1,52.7,33.9,0.0,S@2.4,4.2,0.0,415,64.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,18:00,83.6,51.6,33.1,0.0,SW@2.5,4.2,0.0,301,64.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,18:15,83.6,46.9,27.8,0.0,SW@0.4,1.7,0.0,216,64.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,18:30,84.5,48.9,29.1,0.0,E@0.6,2.4,0.0,227,64.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,18:45,83.2,52.6,34.8,0.0,E@1.3,2.4,0.0,274,65.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,19:00,83.5,51.9,33.6,0.0,E@1.2,2.1,0.0,213,65.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,19:15,83.1,51.2,33.2,0.0,E@0.5,1.7,0.0,144,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,19:30,82.0,52.3,35.8,0.0,NE@2.8,3.9,0.0,130,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,19:45,81.3,51.8,36.0,0.0,NE@3.2,4.2,0.0,100,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,20:00,80.1,52.4,38.3,0.0,NE@3.4,4.6,0.0,70,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,20:15,78.7,52.0,39.5,0.0,NE@3.8,4.6,0.0,29,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,20:30,77.8,52.2,40.8,0.0,NE@3.9,4.2,0.0,14,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,20:45,77.9,51.3,39.4,0.0,NE@3.8,4.2,0.0,5,65.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,21:00,77.5,50.3,38.4,0.0,NE@3.9,4.6,0.0,1,65.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,21:15,77.6,49.8,37.8,0.0,NE@3.9,4.6,0.0,0,65.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,21:30,76.5,50.8,40.5,0.0,NE@4.0,4.9,0.0,0,65.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,21:45,75.9,50.0,40.2,0.0,NE@4.0,4.9,0.0,0,64.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,22:00,76.1,49.4,39.0,0.0,NE@3.7,4.9,0.0,0,64.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,22:15,75.0,49.9,41.3,0.0,NE@4.0,5.3,0.0,0,64.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,22:30,74.0,50.2,43.1,0.0,E@3.9,5.3,0.0,0,64.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,22:45,74.8,49.6,41.1,0.0,NE@3.5,5.3,0.0,0,64.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,23:00,74.4,49.3,41.2,0.0,E@1.7,2.8,0.0,0,64.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,23:15,74.2,49.4,41.5,0.0,E@2.7,5.3,0.0,0,64.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,23:30,74.1,49.3,41.6,0.0,NE@2.4,3.5,0.0,0,64.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,23:45,73.1,49.6,43.5,0.0,NE@2.2,4.2,0.0,0,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-29,24:00,72.4,49.5,44.4,0.0,E@2.9,3.9,0.0,0,64.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,00:15,73.0,49.0,42.6,0.0,E@2.7,3.9,0.0,0,64.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,00:30,72.8,48.9,42.7,0.0,NE@1.8,2.4,0.0,0,64.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,00:45,72.7,48.7,42.6,0.0,E@2.2,3.1,0.0,0,63.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,01:00,71.3,49.3,45.7,0.0,N @2.6,3.5,0.0,0,63.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,01:15,71.1,49.0,45.5,0.0,NW@1.5,2.8,0.0,0,63.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,01:30,69.4,50.4,50.8,0.0,N@1.5,4.6,0.0,0,63.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,01:45,71.2,50.4,47.7,0.0,NW@3.0,4.2,0.0,0,63.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,02:00,69.7,50.5,50.3,0.0,W@1.6,3.5,0.0,0,63.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,02:15,65.4,53.5,65.3,0.0,W@3.0,5.3,0.0,0,63.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,02:30,65.1,53.5,65.8,0.0,SW@1.5,3.1,0.0,0,63.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,02:45,64.8,53.1,65.9,0.0,E@2.1,2.8,0.0,0,63.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,03:00,65.0,52.5,63.8,0.0,NE@2.8,3.9,0.0,0,63.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,03:15,65.0,52.2,63.0,0.0,SE@2.0,4.2,0.0,0,63.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,03:30,64.4,52.8,66.0,0.0,W@1.3,4.6,0.0,0,62.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,03:45,64.2,51.6,63.5,0.0,NW@2.6,3.5,0.0,0,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,04:00,63.1,51.7,66.2,0.0,N@3.1,4.2,0.0,0,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,04:15,63.1,51.1,64.8,0.0,N@4.3,5.3,0.0,0,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,04:30,62.0,51.5,68.4,0.0,E@2.8,4.9,0.0,0,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,04:45,62.5,51.2,66.4,0.0,NW@3.5,5.7,0.0,1,62.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,05:00,61.5,51.6,70.0,0.0,NW@4.5,5.3,0.0,7,62.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,05:15,62.3,51.6,68.0,0.0,NW@4.0,5.3,0.0,20,62.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,05:30,62.2,52.1,69.5,0.0,NE@3.9,4.9,0.0,65,62.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,05:45,63.7,52.1,65.9,0.0,N @3.9,5.3,0.0,113,62.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,06:00,65.1,52.9,64.6,0.0,E@2.1,4.2,0.0,145,62.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,06:15,64.8,52.3,63.7,0.0,N @3.3,5.7,0.0,116,62.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,06:30,64.8,51.4,61.6,0.0,N@3.3,5.3,0.0,135,61.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,06:45,62.8,54.0,72.8,0.0,NW@3.0,4.6,0.0,130,61.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,07:00,63.7,55.3,74.2,0.0,NE@2.1,3.1,0.0,158,61.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,07:15,64.8,55.2,71.0,0.0,SE@2.5,4.6,0.0,180,61.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,07:30,64.8,56.4,74.3,0.0,W@1.3,4.2,0.0,150,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,07:45,64.4,56.8,76.2,0.0,SW@2.6,4.6,0.0,105,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,08:00,63.8,55.2,73.5,0.0,SW@1.5,3.1,0.0,71,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,08:15,62.7,57.6,83.5,0.0,E@2.7,4.2,0.0,58,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,08:30,63.0,55.2,75.7,0.0,NE@3.0,3.9,0.0,43,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,08:45,62.9,55.5,76.7,0.0,NE@3.3,4.6,0.0,39,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,09:00,62.6,55.9,78.4,0.0,W@2.9,4.6,0.0,50,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,09:15,61.7,55.8,80.8,0.0,W@5.2,11.0,0.0,90,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,09:30,62.3,54.5,75.5,0.0,W@5.4,8.5,0.0,139,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,09:45,63.3,54.7,73.6,0.0,W@4.9,8.9,0.0,158,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,10:00,63.8,55.2,73.5,0.0,W@3.8,8.5,0.0,150,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,10:15,64.7,54.9,70.5,0.0,NW@2.7,4.6,0.0,163,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,10:30,66.7,53.7,63.0,0.0,N@2.9,5.3,0.0,252,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,10:45,67.1,56.9,69.7,0.0,NE@5.9,8.5,0.0,538,61.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,11:00,68.9,55.4,62.1,0.0,N @9.3,13.2,0.0,523,61.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,11:15,68.5,54.2,60.1,0.0,NE@10.0,14.6,0.0,330,61.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,11:30,68.7,54.2,59.8,0.0,NE@8.6,13.9,0.0,304,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,11:45,69.9,54.2,57.4,0.0,NE@7.5,11.7,0.0,314,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,12:00,71.8,55.9,57.2,0.0,S@5.8,13.2,0.0,471,61.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,12:15,70.1,56.6,62.2,0.0,SW@7.5,11.7,0.0,305,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,12:30,69.5,55.7,61.4,0.0,SW@4.6,9.2,0.0,194,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,12:45,70.7,56.9,61.5,0.0,NE@7.6,12.8,0.0,430,61.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,13:00,72.6,57.9,60.0,0.0,NE@8.9,13.9,0.0,752,61.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,13:15,74.0,57.5,56.2,0.0,NE@10.0,13.5,0.0,733,61.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,13:30,74.7,57.7,55.3,0.0,N @8.1,12.1,0.0,493,61.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,13:45,75.8,58.6,55.3,0.0,NW@5.7,9.2,0.0,330,62.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,14:00,75.7,58.1,54.3,0.0,NW@6.7,11.4,0.0,284,62.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,14:15,76.1,56.6,50.9,0.0,NW@6.9,9.6,0.0,286,62.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,14:30,78.5,56.9,47.4,0.0,N @8.7,13.5,0.0,687,62.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,14:45,80.5,56.4,43.6,0.0,N @9.0,14.2,0.0,757,62.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,15:00,80.2,57.8,46.3,0.0,N @8.2,12.8,0.0,588,62.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,15:15,80.0,57.6,46.2,0.0,N @8.3,13.9,0.0,521,62.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,15:30,79.4,57.4,46.9,0.0,N @8.2,11.4,0.0,504,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,15:45,81.6,58.3,45.1,0.0,N @8.2,12.4,0.0,718,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,16:00,82.0,58.4,44.7,0.0,N @7.0,10.3,0.0,550,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,16:15,81.5,58.4,45.4,0.0,NE@5.6,8.9,0.0,345,63.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,16:30,82.6,58.8,44.4,0.0,NE@4.3,7.1,0.0,523,63.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,16:45,83.7,59.2,43.5,0.0,N @3.0,4.6,0.0,474,63.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,17:00,84.9,59.5,42.4,0.0,E@3.4,6.4,0.0,571,63.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,17:15,84.1,59.1,42.8,0.0,NW@2.4,6.4,0.0,243,63.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,17:30,83.2,59.4,44.5,0.0,NW@3.2,5.3,0.0,276,63.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,17:45,83.2,61.2,47.6,0.0,NW@3.3,5.3,0.0,241,63.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,18:00,82.0,62.0,50.8,0.0,W@3.4,4.6,0.0,185,63.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,18:15,81.5,62.8,53.0,0.0,NW@2.9,4.2,0.0,159,63.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,18:30,81.4,59.9,48.0,0.0,N@3.7,5.7,0.0,129,64.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,18:45,79.7,61.2,53.1,0.0,N@3.3,5.7,0.0,96,64.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,19:00,80.5,58.9,47.7,0.0,N@2.7,3.9,0.0,49,64.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,19:15,78.6,59.7,52.4,0.0,NW@2.9,4.9,0.0,22,64.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,19:30,79.3,58.2,48.3,0.0,N @1.5,4.2,0.0,9,64.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,19:45,79.4,57.6,47.3,0.0,NW@2.8,4.2,0.0,3,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,20:00,77.3,59.8,54.9,0.0,SW@11.7,22.5,0.14,0,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,20:15,75.4,59.4,57.6,0.0,W@12.8,20.7,0.04,0,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,20:30,72.9,58.0,59.6,0.0,W@9.9,18.9,0.18,0,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,20:45,70.0,58.4,66.6,0.0,S@6.3,13.2,0.72,0,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,21:00,69.1,58.6,69.2,0.0,NE@6.3,11.0,0.47,0,64.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,21:15,68.5,58.1,69.4,0.0,NW@8.3,11.7,0.74,0,64.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,21:30,66.6,58.4,74.9,0.0,NE@5.6,10.3,0.86,0,64.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,21:45,66.8,58.3,73.9,0.0,S@5.6,10.3,0.48,0,64.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,22:00,66.0,57.6,74.3,0.0,SW@3.4,7.1,0.19,0,64.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,22:15,64.3,58.0,79.9,0.0,S@5.3,8.2,0.0,0,64.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,22:30,62.5,58.8,87.6,0.0,S@11.8,22.5,0.0,0,64.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,22:45,59.3,56.9,91.6,0.0,S@10.1,17.1,0.0,0,63.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,23:00,58.1,56.1,93.2,0.0,S@7.7,13.2,0.02,0,63.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,23:15,57.1,55.4,94.0,0.0,S@8.0,14.2,0.06,0,63.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,23:30,56.4,54.8,94.1,0.0,S@6.6,11.4,0.06,0,63.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,23:45,56.0,54.3,93.8,0.0,S@6.0,10.3,0.05,0,63.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-30,24:00,55.9,53.8,92.5,0.0,S@6.7,9.6,0.0,0,63.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,00:15,55.9,53.4,91.3,0.0,S@5.4,8.5,0.0,0,63.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,00:30,55.9,53.3,90.9,0.0,S@5.8,9.2,0.0,0,63.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,00:45,55.7,53.0,90.4,0.0,S@8.0,13.5,0.0,0,63.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,01:00,54.3,51.5,89.9,0.0,S@9.9,15.7,0.0,0,63.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,01:15,53.5,50.9,90.5,0.0,S@9.7,17.8,0.0,0,63.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,01:30,52.7,50.4,92.0,0.0,S@8.4,13.5,0.0,0,63.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,01:45,52.4,50.3,92.3,0.0,S@7.2,12.8,0.0,0,63.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,02:00,52.5,50.2,92.0,0.0,S@6.8,10.7,0.0,0,62.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,02:15,52.4,50.1,91.8,0.0,S@6.7,10.7,0.0,0,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,02:30,51.7,49.2,91.1,0.0,S@7.0,11.0,0.0,0,62.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,02:45,51.4,48.7,90.2,0.0,S@7.2,10.7,0.0,0,62.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,03:00,50.9,47.6,88.4,0.0,S@7.8,12.1,0.0,0,62.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,03:15,50.6,47.1,88.0,0.0,S@6.8,10.3,0.09,0,62.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,03:30,49.6,47.2,91.4,0.05,S@8.3,15.7,0.85,0,62.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,03:45,48.8,46.9,92.8,0.18,S@10.3,21.4,0.77,0,62.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,04:00,47.7,46.3,94.6,0.17,S@8.3,14.6,0.72,0,61.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,04:15,47.0,46.0,96.2,0.17,S@5.4,8.5,0.71,0,,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,04:30,47.0,46.3,97.3,0.03,S@5.0,8.2,0.7,0,60.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,04:45,47.1,46.6,97.9,0.04,S@6.1,9.9,0.76,0,60.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,05:00,47.4,46.9,98.2,0.04,S@7.7,11.7,0.72,0,60.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,05:15,47.5,47.1,98.3,0.05,S@7.2,11.7,0.75,0,60.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,05:30,47.4,47.0,98.3,0.06,S@6.9,10.3,0.68,0,59.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,05:45,47.3,46.9,98.3,0.05,S@6.8,12.8,0.66,3,59.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,06:00,46.9,46.4,98.2,0.05,S@7.0,11.0,0.68,4,59.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,06:15,46.5,46.0,98.1,0.02,S@8.4,15.3,0.62,3,59.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,06:30,46.2,45.6,97.6,0.01,S@8.0,15.0,0.61,2,59.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,06:45,46.3,45.6,97.4,0.02,S@6.4,11.0,0.67,2,58.9,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,07:00,46.0,45.4,97.7,0.06,S@9.2,14.6,0.66,5,58.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,07:15,45.8,45.2,97.9,0.05,S@9.1,14.2,0.61,9,58.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,07:30,45.8,45.3,97.9,0.05,S@7.7,13.5,0.57,13,58.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,07:45,45.9,45.3,97.7,0.02,S@7.5,11.4,0.61,22,58.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,08:00,45.9,45.3,97.4,0.01,S@7.8,12.8,0.64,24,58.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,08:15,45.9,45.1,97.2,0.02,S@6.7,11.0,0.62,16,58.0,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,08:30,45.8,45.0,97.2,0.03,S@8.9,15.3,0.66,21,57.8,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,08:45,45.8,45.1,97.3,0.01,S@8.7,13.9,0.64,22,57.7,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,09:00,46.0,45.0,96.5,0.0,S@9.2,16.4,0.54,21,57.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,09:15,46.3,44.8,94.5,0.0,S@9.7,16.7,0.28,34,57.6,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,09:30,46.4,44.7,93.8,0.0,S@8.0,13.2,0.03,32,57.5,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,09:45,46.6,44.8,93.3,0.0,S@8.2,12.1,0.0,45,57.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,10:00,46.8,44.9,92.8,0.0,S@8.2,15.3,0.0,43,57.4,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,10:15,47.0,44.9,92.1,0.0,S@8.3,13.2,0.0,40,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,10:30,47.3,44.8,91.0,0.0,S@8.6,12.8,0.0,46,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,10:45,47.3,44.7,90.4,0.0,S@8.4,13.5,0.0,47,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,11:00,47.6,45.1,91.1,0.0,S@7.0,11.0,0.0,75,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,11:15,47.9,45.3,90.3,0.0,S@7.5,13.5,0.0,100,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,11:30,48.8,45.6,88.5,0.0,S@9.0,15.7,0.0,218,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,11:45,49.8,45.8,86.1,0.0,S@9.0,13.5,0.0,269,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,12:00,49.7,45.5,85.4,0.0,S@7.6,12.4,0.0,143,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,12:15,50.5,45.8,83.9,0.0,S@7.1,12.1,0.0,195,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,12:30,51.8,46.2,80.9,0.0,S@8.0,13.9,0.0,187,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,12:45,52.2,45.3,77.2,0.0,SW@9.1,18.2,0.0,142,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,13:00,52.1,44.7,75.8,0.0,SW@8.8,16.4,0.0,102,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,13:15,52.1,44.7,75.9,0.0,SW@7.8,15.3,0.0,89,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,13:30,52.5,45.2,76.1,0.0,SW@6.9,11.7,0.0,167,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,13:45,53.9,45.9,74.3,0.0,SW@7.0,11.0,0.0,248,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,14:00,54.9,46.8,73.9,0.0,SW@6.0,11.7,0.0,213,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,14:15,55.5,45.9,70.0,0.0,SW@8.4,13.9,0.0,263,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,14:30,57.3,46.5,67.3,0.0,SW@9.0,15.3,0.0,599,57.1,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,14:45,57.7,46.6,66.3,0.0,SW@9.2,14.6,0.0,356,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,15:00,56.9,45.9,66.6,0.0,SW@7.2,11.7,0.0,136,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,15:15,57.5,45.5,64.1,0.0,SW@8.3,14.2,0.0,212,57.2,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,15:30,59.0,45.4,60.5,0.0,SW@8.4,12.8,0.0,337,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529
+2020-05-31,15:45,58.8,44.6,59.2,0.0,SW@9.6,15.0,0.0,237,57.3,"Green.Blff (Green Bluff), Spokane County",300048,Green.Blff,2020-05-31 15:55:17.007529

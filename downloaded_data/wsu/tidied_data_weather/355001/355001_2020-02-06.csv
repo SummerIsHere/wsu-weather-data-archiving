@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Atm. Press. inHg,Location,Station ID,Station Name,Download Timestamp
+2020-02-06,23:15,43.7,43.5,99.0,0.0,N @NA,,0.66,0,45.7,45.6,30.0,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-06,23:30,43.6,43.4,99.0,0.0,N @NA,,0.66,0,45.7,45.6,30.0,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-06,23:45,43.6,43.4,99.1,0.0,N @NA,,0.66,0,45.7,45.6,30.0,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-06,24:00,43.7,43.4,99.1,0.0,N @NA,,0.66,0,45.6,45.6,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,00:15,43.6,43.4,99.1,0.0,N @NA,,0.66,0,45.6,45.6,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,00:30,43.6,43.4,99.1,0.0,N @NA,,0.66,0,45.6,45.6,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,00:45,43.6,43.4,99.1,0.0,N @NA,,0.66,0,45.5,45.6,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,01:00,43.6,43.4,99.2,0.0,N @NA,,0.66,0,45.5,45.6,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,01:15,43.5,43.3,99.2,0.0,N @NA,,0.67,0,45.5,45.5,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,01:30,43.4,43.2,99.2,0.0,N @NA,,0.67,0,45.4,45.5,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,01:45,43.3,43.1,99.2,0.0,N @NA,,0.67,0,45.4,45.5,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,02:00,43.3,43.1,99.2,0.0,N @NA,,0.67,0,45.4,45.5,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,02:15,43.2,43.0,99.2,0.0,N @NA,,0.69,0,45.3,45.5,30.03,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,02:30,43.1,42.9,99.2,0.0,N @NA,,0.71,0,45.3,45.5,30.03,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,02:45,43.2,43.0,99.2,0.0,N @NA,,0.72,0,45.3,45.5,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,03:00,43.1,42.9,99.2,0.0,N @NA,,0.74,0,45.3,45.5,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,03:15,43.1,42.9,99.3,0.0,N @NA,,0.74,0,45.2,45.5,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,03:30,43.1,42.9,99.3,0.0,N @NA,,0.69,0,45.2,45.5,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,03:45,43.2,43.0,99.3,0.0,N @NA,,0.68,0,45.2,45.5,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,04:00,43.2,43.0,99.3,0.01,N @NA,,0.68,0,45.2,45.5,30.06,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,04:15,43.2,43.0,99.3,0.0,N @NA,,0.69,0,45.1,45.5,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,04:30,43.2,43.0,99.4,0.0,N @NA,,0.67,0,45.1,45.5,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,04:45,43.1,43.0,99.3,0.0,N @NA,,0.65,0,45.1,45.4,30.06,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,05:00,43.1,43.0,99.3,0.0,N @NA,,0.65,0,45.1,45.4,30.06,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,05:15,43.1,42.9,99.3,0.0,N @NA,,0.65,0,45.0,45.4,30.06,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,05:30,43.1,43.0,99.4,0.0,N @NA,,0.68,0,45.0,45.4,30.06,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,05:45,43.1,42.9,99.4,0.0,N @NA,,0.7,0,45.0,45.4,30.06,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,06:00,43.0,42.9,99.4,0.0,N @NA,,0.68,0,45.0,45.4,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,06:15,43.0,42.9,99.4,0.0,N @NA,,0.68,0,45.0,45.4,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,06:30,43.0,42.9,99.4,0.0,N @NA,,0.72,0,44.9,45.4,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,06:45,42.9,42.8,99.4,0.0,N @NA,,0.72,0,44.9,45.4,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,07:00,42.9,42.8,99.4,0.0,N @NA,,0.7,0,44.9,45.4,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,07:15,42.8,42.7,99.5,0.0,N @NA,,0.68,0,44.9,45.4,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,07:30,42.7,42.6,99.5,0.01,N @NA,,0.67,0,44.9,45.4,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,07:45,42.7,42.6,99.5,0.0,N @NA,,0.66,2,44.8,45.3,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,08:00,42.8,42.7,99.5,0.0,N @NA,,0.67,7,44.8,45.3,30.03,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,08:15,42.9,42.8,99.5,0.0,N @NA,,0.68,15,44.8,45.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,08:30,43.1,43.0,99.5,0.0,N @NA,,0.68,22,44.8,45.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,08:45,43.3,43.2,99.6,0.0,N @NA,,0.67,26,44.8,45.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,09:00,43.4,43.3,99.6,0.0,N @NA,,0.68,27,44.8,45.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,09:15,43.7,43.6,99.6,0.0,N @NA,,0.65,38,44.8,45.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,09:30,44.3,44.2,99.6,0.0,N @NA,,0.65,48,44.8,45.3,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,09:45,45.1,45.1,99.7,0.0,SW@NA,,0.65,86,44.8,45.3,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,10:00,46.5,46.4,99.7,0.0,SW@NA,,0.66,79,44.8,45.3,30.0,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,10:15,47.2,47.2,99.6,0.0,SW@NA,,0.67,96,44.9,45.3,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,10:30,48.6,48.4,99.5,0.0,SW@NA,,0.67,131,44.9,45.3,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,10:45,49.5,49.3,99.0,0.0,SW@NA,,0.67,147,45.0,45.3,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,11:00,50.0,49.4,97.9,0.0,S@NA,,0.62,140,45.1,45.3,29.96,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,11:15,50.5,49.5,96.3,0.0,SW@NA,,0.49,176,45.2,45.3,29.96,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,11:30,51.0,49.6,94.8,0.0,S@NA,,0.27,167,45.3,45.3,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,11:45,51.7,49.7,92.8,0.0,SW@NA,,0.03,222,45.5,45.3,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,12:00,51.9,49.6,91.6,0.01,SW@NA,,0.0,194,45.6,45.3,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,12:15,52.3,49.5,89.8,0.0,SW@NA,,0.0,230,45.8,45.3,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,12:30,53.0,49.3,87.2,0.0,SW@NA,,0.0,308,46.0,45.3,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,12:45,53.0,48.8,85.3,0.0,SW@NA,,0.0,267,46.2,45.3,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,13:00,52.9,48.2,83.7,0.0,SW@NA,,0.0,258,46.4,45.3,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,13:15,53.4,48.1,82.1,0.0,SW@NA,,0.0,285,46.6,45.3,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,13:30,53.6,47.4,79.5,0.0,S@NA,,0.0,363,46.8,45.4,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,13:45,53.0,46.7,79.1,0.0,S@NA,,0.0,230,47.0,45.4,29.89,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,14:00,52.5,46.4,79.5,0.0,S@NA,,0.0,210,47.2,45.4,29.88,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,14:15,52.9,46.5,78.8,0.0,SW@NA,,0.0,291,47.4,45.5,29.88,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,14:30,52.8,45.9,77.3,0.0,S@NA,,0.0,262,47.6,45.5,29.85,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,14:45,52.6,45.7,77.2,0.0,S@NA,,0.0,303,47.8,45.6,29.85,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,15:00,52.8,45.5,75.9,0.0,S@NA,,0.0,297,48.0,45.6,29.85,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,15:15,52.3,44.8,75.3,0.0,SW@NA,,0.0,219,48.1,45.7,29.84,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,15:30,52.3,44.4,74.3,0.0,S@NA,,0.0,261,48.3,45.7,29.82,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,15:45,51.4,44.4,76.9,0.0,SW@NA,,0.01,117,48.4,45.8,29.81,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,16:00,49.7,45.5,85.4,0.0,SW@NA,,0.15,51,48.6,45.8,29.81,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,16:15,49.6,45.2,84.6,0.0,SW@NA,,0.0,39,48.7,45.9,29.81,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,16:30,49.3,45.1,85.3,0.0,SW@NA,,0.44,28,48.7,46.0,29.81,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,16:45,48.6,45.6,89.3,0.01,SW@NA,,0.77,11,48.7,46.0,29.8,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,17:00,48.3,45.4,89.5,0.01,SW@NA,,0.71,8,48.7,46.1,29.79,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,17:15,48.1,45.1,89.5,0.0,SW@NA,,0.68,4,48.7,46.1,29.79,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,17:30,47.9,45.3,90.7,0.02,SW@NA,,0.68,1,48.7,46.2,29.77,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,17:45,47.6,45.4,92.1,0.01,SW@NA,,0.63,0,48.6,46.3,29.76,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,18:00,47.5,45.4,92.5,0.03,SW@NA,,0.6,0,48.5,46.3,29.75,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,18:15,47.4,45.5,93.0,0.02,SW@NA,,0.6,0,48.4,46.4,29.75,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,18:30,47.3,45.3,92.7,0.0,SW@NA,,0.57,0,48.4,46.4,29.75,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,18:45,46.7,44.0,90.1,0.0,SW@NA,,0.58,0,48.3,46.5,29.74,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,19:00,45.8,41.9,85.9,0.0,SW@NA,,0.56,0,48.2,46.5,29.74,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,19:15,44.9,39.9,82.6,0.0,SW@NA,,0.55,0,48.1,46.5,29.75,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,19:30,44.2,39.8,84.5,0.0,SW@NA,,0.56,0,48.0,46.6,29.73,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,19:45,44.6,38.9,80.3,0.0,SW@NA,,0.49,0,47.8,46.6,29.72,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,20:00,44.5,38.2,78.2,0.0,SW@NA,,0.26,0,47.7,46.6,29.73,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,20:15,44.6,37.9,76.9,0.0,SW@NA,,0.04,0,47.5,46.6,29.74,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,20:30,44.6,39.1,80.8,0.0,SW@NA,,0.05,0,47.3,46.6,29.75,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,20:45,44.7,39.7,82.6,0.0,SW@NA,,0.11,0,47.2,46.6,29.73,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,21:00,44.9,39.9,82.4,0.0,SW@NA,,0.13,0,47.0,46.6,29.74,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,21:15,44.4,40.0,84.2,0.0,SW@NA,,0.16,0,46.8,46.7,29.73,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,21:30,44.1,40.0,85.3,0.0,SW@NA,,0.01,0,46.7,46.6,29.73,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,21:45,44.4,39.9,84.2,0.0,SW@NA,,0.0,0,46.5,46.6,29.72,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,22:00,44.2,39.9,84.5,0.0,SW@NA,,0.0,0,46.4,46.6,29.71,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,22:15,44.6,39.9,83.5,0.0,SW@NA,,0.0,0,46.3,46.6,29.71,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,22:30,44.7,39.9,83.1,0.0,SW@NA,,0.0,0,46.2,46.6,29.7,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,22:45,44.7,40.0,83.4,0.0,SW@NA,,0.0,0,46.1,46.6,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,23:00,44.6,40.1,84.0,0.0,SW@NA,,0.0,0,46.0,46.5,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,23:15,44.4,39.9,83.9,0.0,SW@NA,,0.0,0,45.9,46.5,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,23:30,44.3,39.9,84.1,0.0,SW@NA,,0.0,0,45.8,46.5,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,23:45,44.1,39.9,85.1,0.0,SW@NA,,0.0,0,45.7,46.5,29.7,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-07,24:00,44.0,40.2,86.3,0.0,SW@NA,,0.0,0,45.7,46.4,29.7,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,00:15,44.0,40.1,86.2,0.0,SW@NA,,0.0,0,45.6,46.4,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,00:30,43.7,39.9,86.5,0.0,SW@NA,,0.0,0,45.5,46.4,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,00:45,43.7,40.2,87.3,0.0,SW@NA,,0.0,0,45.4,46.3,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,01:00,44.0,40.4,87.0,0.0,SW@NA,,0.0,0,45.3,46.3,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,01:15,44.0,40.5,87.2,0.0,SW@NA,,0.0,0,45.2,46.3,29.69,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,01:30,44.1,40.4,86.9,0.0,SW@NA,,0.0,0,45.1,46.2,29.7,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,01:45,43.7,40.1,87.2,0.0,SW@NA,,0.0,0,45.0,46.2,29.7,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,02:00,43.8,40.1,86.8,0.0,SW@NA,,0.0,0,44.9,46.2,29.7,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,02:15,43.9,40.1,86.3,0.0,SW@NA,,0.0,0,44.8,46.1,29.71,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,02:30,43.5,40.1,87.9,0.0,SW@NA,,0.0,0,44.7,46.1,29.71,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,02:45,43.1,40.0,88.9,0.0,W@NA,,0.0,0,44.6,46.1,29.72,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,03:00,43.2,39.9,87.9,0.0,W@NA,,0.0,0,44.5,46.0,29.73,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,03:15,42.2,39.1,88.8,0.0,NW@NA,,0.0,0,44.4,46.0,29.75,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,03:30,41.3,38.7,90.3,0.0,N@NA,,0.04,0,44.3,46.0,29.76,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,03:45,40.8,38.5,91.5,0.0,NW@NA,,0.1,0,44.2,45.9,29.77,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,04:00,40.1,38.2,92.5,0.0,N @NA,,0.14,0,44.1,45.9,29.79,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,04:15,40.0,38.3,93.5,0.0,NW@NA,,0.21,0,44.0,45.9,29.8,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,04:30,39.6,38.0,94.1,0.0,E@NA,,0.3,0,43.9,45.8,29.82,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,04:45,40.1,38.8,94.8,0.0,E@NA,,0.32,0,43.8,45.8,29.83,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,05:00,41.0,39.8,95.3,0.0,NE@NA,,0.36,0,43.7,45.7,29.84,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,05:15,41.4,40.1,95.3,0.0,SE@NA,,0.36,0,43.6,45.7,29.86,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,05:30,41.3,40.1,95.4,0.0,SW@NA,,0.39,0,43.5,45.7,29.87,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,05:45,40.8,39.6,95.6,0.0,SW@NA,,0.56,0,43.5,45.6,29.86,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,06:00,40.2,39.2,95.9,0.0,N@NA,,0.64,0,43.4,45.6,29.87,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,06:15,39.5,38.5,96.1,0.0,NE@NA,,0.67,0,43.4,45.5,29.88,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,06:30,39.3,38.4,96.5,0.0,NW@NA,,0.7,0,43.3,45.5,29.89,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,06:45,38.6,37.7,96.6,0.0,W@NA,,0.71,0,43.3,45.4,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,07:00,38.5,37.7,96.8,0.0,NE@NA,,0.72,0,43.2,45.4,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,07:15,38.8,38.1,97.2,0.0,NE@NA,,0.73,0,43.1,45.4,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,07:30,38.3,37.6,97.3,0.0,NE@NA,,0.75,3,43.0,45.3,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,07:45,37.6,37.0,97.4,0.0,N @NA,,0.75,7,43.0,45.3,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,08:00,37.9,37.2,97.6,0.0,NW@NA,,0.77,10,42.9,45.3,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,08:15,38.1,37.5,97.7,0.0,E@NA,,0.78,12,42.8,45.2,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,08:30,39.9,39.5,98.2,0.0,SE@NA,,0.78,20,42.7,45.2,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,08:45,40.9,40.5,98.2,0.0,SE@NA,,0.77,38,42.6,45.1,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,09:00,41.8,41.4,98.2,0.0,N@NA,,0.79,47,42.5,45.1,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,09:15,42.7,42.1,97.6,0.0,S@NA,,0.81,85,42.5,45.1,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,09:30,43.5,42.5,96.4,0.0,SE@NA,,0.78,121,42.5,45.0,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,09:45,43.6,42.3,95.0,0.0,SW@NA,,0.75,155,42.5,45.0,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,10:00,44.6,42.4,92.1,0.0,SW@NA,,0.65,322,42.6,44.9,30.03,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,10:15,44.8,41.9,89.4,0.0,SW@NA,,0.37,300,42.7,44.9,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,10:30,45.1,41.2,86.2,0.0,SW@NA,,0.01,248,42.8,44.9,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,10:45,45.4,41.0,84.2,0.0,SW@NA,,0.0,259,42.9,44.8,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,11:00,46.2,41.0,82.1,0.0,S@NA,,0.0,160,43.1,44.8,30.07,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,11:15,46.8,40.9,79.8,0.0,SW@NA,,0.0,327,43.3,44.8,30.08,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,11:30,46.8,40.3,77.9,0.0,S@NA,,0.0,160,43.5,44.8,30.08,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,11:45,46.5,40.4,79.0,0.0,S@NA,,0.0,124,43.6,44.8,30.09,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,12:00,46.3,40.7,80.5,0.0,SW@NA,,0.0,162,43.8,44.7,30.1,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,12:15,47.0,41.4,80.6,0.0,SW@NA,,0.05,202,44.0,44.7,30.1,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,12:30,47.4,41.8,81.0,0.0,S@NA,,0.0,247,44.2,44.7,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,12:45,47.3,41.1,79.0,0.0,SW@NA,,0.0,205,44.4,44.7,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,13:00,47.4,41.4,79.6,0.0,W@NA,,0.0,186,44.6,44.8,30.12,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,13:15,47.0,41.6,81.4,0.0,W@NA,,0.1,79,44.8,44.8,30.13,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,13:30,45.3,41.3,85.8,0.06,W@NA,,0.73,57,45.1,44.8,30.14,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,13:45,45.3,42.4,89.5,0.01,N @NA,,0.73,116,45.3,44.8,30.15,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,14:00,44.1,41.7,91.1,0.02,E@NA,,0.74,35,45.4,44.8,30.16,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,14:15,42.6,40.3,91.6,0.01,E@NA,,0.67,88,45.5,44.9,30.17,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,14:30,43.7,41.7,92.9,0.0,E@NA,,0.67,156,45.5,44.9,30.17,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,14:45,44.8,42.7,92.2,0.0,N @NA,,0.67,233,45.6,44.9,30.18,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,15:00,45.0,42.8,91.8,0.0,SE@NA,,0.69,136,45.6,45.0,30.19,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,15:15,44.8,42.5,91.7,0.0,SE@NA,,0.7,92,45.7,45.0,30.19,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,15:30,44.9,42.3,90.6,0.0,SE@NA,,0.7,89,45.8,45.1,30.2,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,15:45,45.1,42.7,91.3,0.0,SE@NA,,0.67,40,45.9,45.1,30.21,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,16:00,44.9,43.0,93.0,0.0,SE@NA,,0.66,36,46.0,45.1,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,16:15,44.9,43.2,93.8,0.0,NW@NA,,0.64,43,46.0,45.2,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,16:30,44.4,42.6,93.0,0.0,NE@NA,,0.61,43,46.1,45.2,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,16:45,43.3,41.1,91.8,0.0,E@NA,,0.6,23,46.2,45.3,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,17:00,42.5,40.6,92.9,0.0,NE@NA,,0.64,18,46.2,45.3,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,17:15,41.7,40.0,93.8,0.0,NE@NA,,0.67,10,46.2,45.3,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,17:30,40.9,39.5,94.6,0.0,NW@NA,,0.7,5,46.2,45.4,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,17:45,40.4,39.1,95.3,0.0,NW@NA,,0.72,1,46.1,45.4,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,18:00,40.5,39.3,95.3,0.0,N @NA,,0.74,0,46.0,45.4,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,18:15,40.7,39.1,94.3,0.0,E@NA,,0.75,0,45.9,45.5,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,18:30,40.4,38.7,93.5,0.0,NE@NA,,0.76,0,45.7,45.5,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,18:45,40.4,38.6,93.3,0.0,W@NA,,0.76,0,45.5,45.5,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,19:00,39.7,38.1,93.9,0.0,NW@NA,,0.76,0,45.4,45.5,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,19:15,38.9,37.5,94.5,0.0,E@NA,,0.76,0,45.2,45.6,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,19:30,38.5,37.2,94.9,0.0,N@NA,,0.76,0,45.0,45.6,30.33,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,19:45,38.3,37.1,95.4,0.0,NW@NA,,0.76,0,44.8,45.6,30.34,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,20:00,37.9,36.8,95.8,0.0,NW@NA,,0.75,0,44.6,45.6,30.34,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,20:15,38.3,37.2,96.0,0.0,NW@NA,,0.75,0,44.5,45.6,30.36,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,20:30,38.4,37.3,95.7,0.0,W@NA,,0.74,0,44.3,45.6,30.36,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,20:45,37.3,36.1,95.2,0.0,W@NA,,0.74,0,44.1,45.5,30.36,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,21:00,36.4,35.3,95.6,0.0,W@NA,,0.74,0,43.9,45.5,30.37,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,21:15,36.2,35.2,96.0,0.0,W@NA,,0.73,0,43.7,45.5,30.38,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,21:30,35.8,34.8,96.3,0.0,W@NA,,0.72,0,43.6,45.5,30.38,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,21:45,35.4,34.5,96.5,0.0,W@NA,,0.72,0,43.4,45.4,30.39,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,22:00,34.8,34.0,96.6,0.0,W@NA,,0.71,0,43.2,45.4,30.39,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,22:15,34.8,34.1,96.9,0.0,W@NA,,0.71,0,43.0,45.3,30.39,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,22:30,34.5,33.8,97.1,0.0,SW@NA,,0.7,0,42.9,45.3,30.4,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,22:45,34.6,33.9,97.3,0.0,S@NA,,0.69,0,42.7,45.3,30.4,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,23:00,36.4,35.7,97.3,0.0,NE@NA,,0.69,0,42.6,45.2,30.41,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,23:15,38.8,37.0,93.2,0.0,NE@NA,,0.68,0,42.4,45.2,30.42,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,23:30,39.4,36.0,87.4,0.0,W@NA,,0.67,0,42.3,45.1,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,23:45,40.5,35.1,80.9,0.0,NW@NA,,0.66,0,42.1,45.1,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-08,24:00,40.4,34.0,77.9,0.0,N@NA,,0.65,0,42.0,45.0,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,00:15,39.5,34.1,81.0,0.0,W@NA,,0.66,0,41.9,45.0,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,00:30,39.9,34.4,80.3,0.0,NW@NA,,0.66,0,41.7,44.9,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,00:45,39.0,34.0,81.9,0.0,E@NA,,0.66,0,41.6,44.8,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,01:00,38.5,34.1,83.9,0.0,NW@NA,,0.66,0,41.5,44.8,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,01:15,36.8,33.5,87.4,0.0,SW@NA,,0.67,0,41.4,44.7,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,01:30,35.4,32.8,90.4,0.0,W@NA,,0.67,0,41.3,44.7,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,01:45,34.8,32.8,92.3,0.0,N@NA,,0.68,0,41.2,44.6,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,02:00,34.1,32.3,93.3,0.0,SW@NA,,0.69,0,41.1,44.6,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,02:15,33.5,32.0,94.1,0.0,SW@NA,,0.69,0,41.0,44.5,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,02:30,33.1,31.8,94.7,0.0,NW@NA,,0.69,0,40.9,44.4,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,02:45,32.5,31.2,95.1,0.0,N @NA,,0.68,0,40.8,44.4,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,03:00,32.2,31.0,95.6,0.0,N @NA,,0.66,0,40.7,44.3,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,03:15,31.9,30.8,96.0,0.0,N @NA,,0.08,0,40.6,44.3,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,03:30,31.7,30.6,96.2,0.0,N @NA,,0.0,0,40.5,44.2,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,03:45,31.4,30.3,96.4,0.0,SW@NA,,0.0,0,40.4,44.2,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,04:00,31.3,30.2,96.7,0.0,NW@NA,,0.0,0,40.3,44.1,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,04:15,31.1,30.0,96.8,0.0,N @NA,,0.0,0,40.2,44.1,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,04:30,31.0,30.0,97.0,0.0,N @NA,,0.0,0,40.1,44.0,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,04:45,30.8,29.8,97.1,0.0,N @NA,,0.0,0,40.1,43.9,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,05:00,30.7,29.6,97.2,0.0,N @NA,,0.0,0,40.0,43.9,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,05:15,30.8,29.8,97.3,0.0,NW@NA,,0.0,0,39.9,43.8,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,05:30,30.5,29.5,97.5,0.0,NW@NA,,0.0,0,39.8,43.8,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,05:45,30.2,29.3,97.6,0.0,NW@NA,,0.0,0,39.7,43.7,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,06:00,30.2,29.3,97.6,0.0,NW@NA,,0.0,0,39.7,43.7,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,06:15,30.1,29.1,97.7,0.0,N @NA,,0.0,0,39.6,43.6,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,06:30,30.0,29.1,97.7,0.0,NW@NA,,0.0,0,39.5,43.6,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,06:45,30.0,29.1,97.8,0.0,NW@NA,,0.0,0,39.5,43.5,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,07:00,30.0,29.1,97.8,0.0,NW@NA,,0.0,0,39.4,43.5,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,07:15,29.9,28.9,97.9,0.0,N @NA,,0.0,1,39.3,43.4,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,07:30,29.8,28.8,97.9,0.0,N @NA,,0.0,5,39.3,43.4,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,07:45,30.0,29.1,97.9,0.0,N @NA,,0.0,15,39.2,43.3,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,08:00,30.3,29.4,97.8,0.0,NW@NA,,0.0,30,39.1,43.3,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,08:15,30.7,29.8,97.8,0.0,N @NA,,0.0,45,39.1,43.2,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,08:30,31.1,30.3,97.8,0.0,N @NA,,0.01,60,39.0,43.2,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,08:45,32.2,31.6,97.6,0.0,N @NA,,0.15,91,39.0,43.1,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,09:00,32.8,32.2,97.6,0.0,NW@NA,,0.48,121,38.9,43.1,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,09:15,32.6,32.0,97.6,0.0,SW@NA,,0.77,110,38.9,43.0,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,09:30,33.5,32.9,97.6,0.0,NW@NA,,0.8,174,38.8,43.0,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,09:45,36.0,35.4,97.7,0.0,E@NA,,0.67,209,38.8,42.9,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,10:00,36.8,36.1,97.5,0.0,SE@NA,,0.66,216,38.7,42.9,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,10:15,40.0,39.2,97.0,0.0,SE@NA,,0.68,334,38.7,42.8,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,10:30,41.7,39.9,93.5,0.0,S@NA,,0.68,368,38.7,42.8,30.53,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,10:45,43.0,38.8,85.0,0.0,SE@NA,,0.59,387,38.6,42.7,30.53,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,11:00,44.1,38.0,78.9,0.0,S@NA,,0.34,409,38.6,42.7,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,11:15,44.9,36.8,73.2,0.0,SE@NA,,0.02,423,38.7,42.7,30.52,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,11:30,45.3,36.5,71.3,0.0,S@NA,,0.0,378,38.8,42.6,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,11:45,44.5,36.6,73.5,0.0,SE@NA,,0.0,274,38.9,42.6,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,12:00,45.8,37.8,73.5,0.0,SW@NA,,0.0,473,39.1,42.5,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,12:15,46.7,35.8,65.5,0.0,SE@NA,,0.0,386,39.4,42.5,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,12:30,46.1,36.2,68.0,0.0,SE@NA,,0.0,322,39.7,42.5,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,12:45,46.9,36.0,65.6,0.0,SW@NA,,0.0,446,40.0,42.5,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,13:00,47.3,35.8,64.0,0.0,W@NA,,0.0,458,40.4,42.4,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,13:15,47.0,35.8,64.7,0.0,SW@NA,,0.0,402,40.8,42.4,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,13:30,48.0,35.7,62.4,0.0,SW@NA,,0.0,512,41.1,42.4,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,13:45,48.5,36.1,61.9,0.0,SW@NA,,0.0,463,41.5,42.5,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,14:00,48.7,35.9,61.1,0.0,S@NA,,0.0,430,41.9,42.5,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,14:15,49.2,35.1,58.1,0.0,SW@NA,,0.0,404,42.3,42.5,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,14:30,48.9,34.4,57.0,0.0,SW@NA,,0.0,382,42.7,42.5,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,14:45,49.3,33.3,53.9,0.0,SW@NA,,0.0,368,43.1,42.6,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,15:00,49.2,34.2,56.0,0.0,SW@NA,,0.0,340,43.4,42.7,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,15:15,49.5,34.8,56.8,0.0,SW@NA,,0.0,312,43.8,42.7,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,15:30,49.7,34.5,55.7,0.0,SW@NA,,0.0,277,44.1,42.8,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,15:45,49.1,34.8,57.7,0.0,W@NA,,0.0,237,44.3,42.9,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,16:00,48.9,34.9,58.1,0.0,SW@NA,,0.0,177,44.6,42.9,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,16:15,48.5,34.6,58.4,0.0,S@NA,,0.0,170,44.8,43.0,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,16:30,48.4,35.1,59.8,0.0,W@NA,,0.0,139,45.0,43.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,16:45,47.3,35.4,63.0,0.0,SW@NA,,0.0,98,45.1,43.2,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,17:00,45.9,35.3,66.4,0.0,W@NA,,0.0,23,45.2,43.3,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,17:15,44.8,35.7,70.3,0.0,SW@NA,,0.0,8,45.2,43.4,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,17:30,43.1,36.0,75.9,0.0,N @NA,,0.0,3,45.2,43.5,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,17:45,41.4,36.0,81.1,0.0,NW@NA,,0.0,0,45.2,43.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,18:00,40.4,36.1,84.6,0.0,NW@NA,,0.0,0,45.1,43.6,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,18:15,39.4,35.7,86.7,0.0,N @NA,,0.02,0,45.0,43.7,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,18:30,38.6,35.7,89.0,0.0,N@NA,,0.15,0,44.8,43.8,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,18:45,38.1,35.5,90.5,0.0,NW@NA,,0.27,0,44.7,43.9,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,19:00,37.1,34.9,91.4,0.0,NE@NA,,0.38,0,44.5,43.9,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,19:15,36.6,34.6,92.3,0.0,N @NA,,0.47,0,44.3,44.0,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,19:30,36.2,34.4,93.0,0.0,N @NA,,0.54,0,44.1,44.0,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,19:45,36.0,34.4,93.8,0.0,N @NA,,0.59,0,44.0,44.1,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,20:00,35.5,34.0,94.2,0.0,NE@NA,,0.63,0,43.8,44.1,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,20:15,35.3,34.0,94.7,0.0,W@NA,,0.65,0,43.6,44.1,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,20:30,35.1,33.8,95.0,0.0,NE@NA,,0.67,0,43.4,44.1,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,20:45,34.9,33.7,95.4,0.0,NW@NA,,0.69,0,43.2,44.2,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,21:00,34.5,33.4,95.5,0.0,SW@NA,,0.71,0,43.0,44.2,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,21:15,34.1,33.0,95.7,0.0,NW@NA,,0.72,0,42.9,44.1,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,21:30,33.9,32.9,96.0,0.0,N @NA,,0.74,0,42.7,44.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,21:45,33.4,32.4,96.1,0.0,SW@NA,,0.74,0,42.5,44.1,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,22:00,33.0,32.0,96.2,0.0,N@NA,,0.76,0,42.4,44.1,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,22:15,33.0,32.0,96.4,0.0,NW@NA,,0.77,0,42.2,44.1,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,22:30,32.6,31.7,96.5,0.0,SE@NA,,0.77,0,42.1,44.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,22:45,32.5,31.7,96.6,0.0,N @NA,,0.78,0,41.9,44.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,23:00,32.5,31.7,96.7,0.0,NW@NA,,0.79,0,41.8,44.0,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,23:15,32.2,31.4,96.8,0.0,N @NA,,0.8,0,41.6,44.0,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,23:30,32.0,31.2,96.9,0.0,NE@NA,,0.8,0,41.5,44.0,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,23:45,31.9,31.1,97.0,0.0,SW@NA,,0.81,0,41.4,43.9,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-09,24:00,31.8,31.0,97.1,0.0,NW@NA,,0.81,0,41.2,43.9,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,00:15,31.6,30.7,97.1,0.0,N @NA,,0.66,0,41.1,43.9,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,00:30,31.4,30.5,97.2,0.0,N @NA,,0.02,0,41.0,43.8,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,00:45,31.1,30.1,97.3,0.0,NW@NA,,0.0,0,40.9,43.8,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,01:00,31.0,30.1,97.4,0.0,NE@NA,,0.0,0,40.8,43.7,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,01:15,30.9,29.9,97.5,0.0,N @NA,,0.0,0,40.7,43.7,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,01:30,30.9,30.1,97.5,0.0,N @NA,,0.0,0,40.5,43.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,01:45,30.8,29.9,97.6,0.0,N @NA,,0.0,0,40.4,43.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,02:00,30.7,29.8,97.6,0.0,N @NA,,0.0,0,40.3,43.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,02:15,30.4,29.5,97.7,0.0,N @NA,,0.0,0,40.2,43.5,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,02:30,30.5,29.6,97.8,0.0,W@NA,,0.0,0,40.1,43.5,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,02:45,30.4,29.5,97.8,0.0,W@NA,,0.0,0,40.1,43.4,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,03:00,30.6,29.8,97.9,0.0,NW@NA,,0.0,0,40.0,43.4,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,03:15,30.6,29.8,97.9,0.0,N @NA,,0.0,0,39.9,43.3,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,03:30,31.0,30.2,98.0,0.0,W@NA,,0.0,0,39.8,43.3,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,03:45,30.7,30.0,98.0,0.0,W@NA,,0.0,0,39.7,43.2,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,04:00,30.5,29.7,98.1,0.0,N @NA,,0.0,0,39.7,43.2,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,04:15,30.6,29.8,98.1,0.0,N @NA,,0.0,0,39.6,43.1,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,04:30,30.1,29.2,98.2,0.0,W@NA,,0.0,0,39.5,43.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,04:45,30.0,29.1,98.2,0.0,N @NA,,0.0,0,39.5,43.0,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,05:00,30.0,29.2,98.3,0.0,W@NA,,0.0,0,39.4,43.0,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,05:15,30.0,29.2,98.3,0.0,W@NA,,0.0,0,39.3,42.9,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,05:30,30.0,29.2,98.3,0.0,W@NA,,0.0,0,39.3,42.9,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,05:45,29.9,29.1,98.3,0.0,N @NA,,0.0,0,39.2,42.9,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,06:00,29.8,29.0,98.4,0.0,W@NA,,0.0,0,39.1,42.8,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,06:15,29.6,28.7,98.4,0.0,W@NA,,0.0,0,39.1,42.8,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,06:30,29.6,28.7,98.4,0.0,W@NA,,0.0,0,39.0,42.7,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,06:45,29.3,28.4,98.4,0.0,W@NA,,0.0,0,39.0,42.7,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,07:00,29.8,28.9,98.4,0.0,W@NA,,0.0,0,38.9,42.6,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,07:15,29.8,29.0,98.4,0.0,N @NA,,0.0,1,38.8,42.6,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,07:30,29.9,29.1,98.4,0.0,W@NA,,0.0,3,38.8,42.5,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,07:45,30.2,29.5,98.3,0.0,W@NA,,0.0,8,38.7,42.5,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,08:00,30.4,29.6,98.3,0.0,N @NA,,0.0,22,38.7,42.5,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,08:15,30.6,29.8,98.2,0.0,N @NA,,0.02,37,38.6,42.4,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,08:30,31.4,30.8,98.2,0.0,W@NA,,0.25,34,38.6,42.4,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,08:45,32.1,31.7,98.1,0.0,W@NA,,0.59,28,38.5,42.3,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,09:00,32.4,31.9,98.1,0.0,NW@NA,,0.74,47,38.5,42.3,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,09:15,32.9,32.5,98.2,0.0,SE@NA,,0.82,43,38.5,42.3,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,09:30,33.4,33.0,98.3,0.0,SW@NA,,0.74,43,38.4,42.2,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,09:45,34.0,33.6,98.4,0.0,N @NA,,0.69,60,38.4,42.2,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,10:00,35.1,34.8,98.5,0.0,N @NA,,0.69,52,38.4,42.1,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,10:15,35.7,35.3,98.5,0.0,N @NA,,0.7,56,38.4,42.1,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,10:30,36.4,36.1,98.6,0.0,N @NA,,0.7,70,38.4,42.1,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,10:45,37.4,37.1,98.7,0.0,N @NA,,0.71,85,38.4,42.0,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,11:00,38.0,37.6,98.7,0.0,N @NA,,0.72,74,38.4,42.0,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,11:15,38.6,38.3,98.8,0.0,N @NA,,0.73,82,38.4,42.0,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,11:30,39.0,38.7,98.8,0.0,N @NA,,0.74,86,38.5,41.9,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,11:45,39.7,39.4,98.9,0.0,SE@NA,,0.74,75,38.6,41.9,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,12:00,40.1,39.8,98.9,0.0,SW@NA,,0.75,86,38.7,41.9,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,12:15,40.9,40.6,98.9,0.0,SE@NA,,0.76,94,38.8,41.8,30.51,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,12:30,41.2,40.9,98.8,0.0,N @NA,,0.76,94,38.9,41.8,30.5,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,12:45,41.4,41.0,98.7,0.0,W@NA,,0.76,94,39.0,41.8,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,13:00,41.5,41.1,98.3,0.0,SW@NA,,0.75,94,39.2,41.8,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,13:15,41.8,41.2,97.7,0.0,SW@NA,,0.73,92,39.4,41.8,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,13:30,42.3,41.5,96.9,0.0,SW@NA,,0.72,107,39.5,41.8,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,13:45,42.3,41.1,95.4,0.0,SW@NA,,0.68,98,39.7,41.8,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,14:00,42.2,40.3,92.9,0.0,SW@NA,,0.59,93,39.9,41.8,30.49,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,14:15,42.5,40.0,90.9,0.0,SW@NA,,0.42,90,40.0,41.8,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,14:30,42.9,39.9,89.1,0.0,SW@NA,,0.22,99,40.2,41.8,30.48,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,14:45,43.2,39.5,86.8,0.0,SW@NA,,0.04,102,40.4,41.8,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,15:00,43.4,39.2,85.0,0.0,SW@NA,,0.0,93,40.6,41.8,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,15:15,43.7,39.1,83.6,0.0,SW@NA,,0.0,95,40.7,41.8,30.47,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,15:30,44.0,39.1,82.6,0.0,SW@NA,,0.0,89,40.9,41.9,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,15:45,44.1,38.8,81.7,0.0,SW@NA,,0.0,78,41.0,41.9,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,16:00,44.1,39.0,81.9,0.0,SW@NA,,0.0,65,41.2,41.9,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,16:15,44.0,38.8,81.7,0.0,SW@NA,,0.0,58,41.3,41.9,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,16:30,44.0,38.8,81.9,0.0,W@NA,,0.0,46,41.5,42.0,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,16:45,43.8,38.7,82.1,0.0,SW@NA,,0.0,35,41.6,42.0,30.46,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,17:00,43.6,38.4,81.8,0.0,SW@NA,,0.0,29,41.7,42.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,17:15,43.4,38.3,82.2,0.0,W@NA,,0.0,16,41.8,42.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,17:30,43.0,38.4,83.7,0.0,NW@NA,,0.0,6,41.9,42.1,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,17:45,42.6,38.5,85.3,0.0,W@NA,,0.0,1,41.9,42.2,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,18:00,42.3,38.6,86.4,0.0,NW@NA,,0.0,0,42.0,42.2,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,18:15,41.4,38.2,88.3,0.0,N @NA,,0.0,0,42.0,42.3,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,18:30,40.0,37.3,90.1,0.0,N @NA,,0.04,0,42.0,42.3,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,18:45,39.2,37.0,91.8,0.0,N @NA,,0.19,0,42.0,42.3,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,19:00,38.4,36.6,93.2,0.0,N @NA,,0.37,0,42.0,42.4,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,19:15,37.5,35.9,94.0,0.0,N @NA,,0.51,0,41.9,42.4,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,19:30,36.8,35.5,94.8,0.0,N @NA,,0.59,0,41.8,42.4,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,19:45,36.4,35.2,95.4,0.0,N @NA,,0.65,0,41.7,42.5,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,20:00,35.9,34.8,95.8,0.0,N @NA,,0.69,0,41.6,42.5,30.45,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,20:15,35.6,34.6,96.1,0.0,N @NA,,0.71,0,41.5,42.5,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,20:30,35.1,34.2,96.3,0.0,N @NA,,0.73,0,41.4,42.5,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,20:45,34.7,33.8,96.5,0.0,N @NA,,0.75,0,41.2,42.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,21:00,33.9,33.0,96.7,0.0,N @NA,,0.76,0,41.1,42.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,21:15,33.7,32.9,96.9,0.0,N @NA,,0.78,0,41.0,42.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,21:30,33.2,32.5,97.0,0.0,N @NA,,0.78,0,40.8,42.6,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,21:45,33.1,32.4,97.1,0.0,SW@NA,,0.79,0,40.7,42.6,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,22:00,32.8,32.1,97.2,0.0,NW@NA,,0.8,0,40.6,42.6,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,22:15,32.5,31.8,97.2,0.0,N @NA,,0.81,0,40.5,42.6,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,22:30,32.6,31.9,97.3,0.0,N @NA,,0.82,0,40.3,42.6,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,22:45,32.4,31.8,97.4,0.0,N @NA,,0.82,0,40.2,42.5,30.44,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,23:00,32.3,31.6,97.4,0.0,N @NA,,0.59,0,40.1,42.5,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,23:15,32.5,31.9,97.6,0.0,N @NA,,0.25,0,40.0,42.5,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,23:30,32.7,32.1,97.6,0.0,N @NA,,0.2,0,39.9,42.5,30.43,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,23:45,33.0,32.4,97.7,0.0,N @NA,,0.29,0,39.8,42.5,30.42,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-10,24:00,32.8,32.2,97.7,0.0,N @NA,,0.24,0,39.7,42.4,30.42,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,00:15,32.8,32.2,97.8,0.0,N @NA,,0.25,0,39.6,42.4,30.42,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,00:30,32.9,32.3,97.8,0.0,N @NA,,0.2,0,39.6,42.4,30.42,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,00:45,32.8,32.3,97.8,0.0,N @NA,,0.18,0,39.5,42.3,30.42,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,01:00,32.8,32.2,97.8,0.0,N @NA,,0.14,0,39.4,42.3,30.41,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,01:15,32.8,32.3,97.9,0.0,N @NA,,0.17,0,39.3,42.3,30.41,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,01:30,32.8,32.3,97.9,0.0,N @NA,,0.24,0,39.3,42.3,30.4,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,01:45,32.8,32.3,97.9,0.0,N @NA,,0.21,0,39.2,42.2,30.4,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,02:00,32.6,32.1,97.9,0.0,N @NA,,0.15,0,39.2,42.2,30.4,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,02:15,32.6,32.1,98.0,0.0,N @NA,,0.12,0,39.1,42.2,30.39,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,02:30,32.5,32.0,98.0,0.0,N @NA,,0.1,0,39.1,42.1,30.39,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,02:45,32.6,32.1,98.0,0.0,N @NA,,0.1,0,39.0,42.1,30.4,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,03:00,32.3,31.8,98.0,0.0,N @NA,,0.07,0,39.0,42.1,30.39,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,03:15,32.4,31.9,98.1,0.0,N @NA,,0.11,0,38.9,42.0,30.38,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,03:30,32.3,31.8,98.1,0.0,N @NA,,0.1,0,38.9,42.0,30.36,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,03:45,32.2,31.8,98.1,0.0,N @NA,,0.13,0,38.8,42.0,30.35,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,04:00,31.9,31.3,98.1,0.0,N @NA,,0.03,0,38.8,41.9,30.34,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,04:15,31.7,31.1,98.2,0.0,N @NA,,0.0,0,38.7,41.9,30.34,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,04:30,31.7,31.1,98.3,0.0,NW@NA,,0.0,0,38.7,41.9,30.34,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,04:45,31.2,30.5,98.3,0.0,NW@NA,,0.0,0,38.6,41.9,30.33,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,05:00,31.0,30.4,98.4,0.0,NW@NA,,0.0,0,38.6,41.8,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,05:15,30.7,30.0,98.4,0.0,N @NA,,0.0,0,38.5,41.8,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,05:30,31.6,31.0,98.5,0.0,NW@NA,,0.07,0,38.5,41.8,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,05:45,33.7,33.3,98.7,0.0,W@NA,,0.47,0,38.4,41.7,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,06:00,36.3,36.0,99.0,0.0,SW@NA,,0.77,0,38.4,41.7,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,06:15,36.7,36.5,98.8,0.0,S@NA,,0.72,0,38.3,41.7,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,06:30,36.6,36.2,98.7,0.0,E@NA,,0.72,0,38.3,41.6,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,06:45,36.9,36.6,98.7,0.0,S@NA,,0.73,0,38.2,41.6,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,07:00,36.9,36.6,98.7,0.0,SE@NA,,0.73,0,38.2,41.6,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,07:15,37.0,36.7,98.7,0.0,E@NA,,0.73,0,38.2,41.5,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,07:30,37.3,37.0,98.7,0.0,E@NA,,0.74,0,38.1,41.5,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,07:45,37.6,37.2,98.7,0.0,E@NA,,0.74,2,38.1,41.5,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,08:00,37.7,37.3,98.6,0.0,N @NA,,0.74,4,38.1,41.5,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,08:15,37.6,37.3,98.6,0.0,NW@NA,,0.75,5,38.1,41.4,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,08:30,37.7,37.4,98.6,0.0,N @NA,,0.75,10,38.1,41.4,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,08:45,37.9,37.6,98.6,0.0,N @NA,,0.76,17,38.1,41.4,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,09:00,38.3,38.0,98.7,0.0,N @NA,,0.76,26,38.1,41.4,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,09:15,38.7,38.4,98.6,0.0,N @NA,,0.77,40,38.2,41.3,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,09:30,38.8,38.5,98.6,0.0,N @NA,,0.77,44,38.2,41.3,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,09:45,39.2,38.8,98.7,0.0,SE@NA,,0.77,49,38.2,41.3,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,10:00,39.8,39.5,98.5,0.0,SW@NA,,0.77,58,38.3,41.3,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,10:15,39.8,39.4,98.1,0.0,SW@NA,,0.77,50,38.4,41.2,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,10:30,39.7,39.1,97.5,0.0,SW@NA,,0.78,54,38.5,41.2,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,10:45,39.9,39.0,96.8,0.0,W@NA,,0.78,87,38.6,41.2,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,11:00,40.5,39.4,95.8,0.0,W@NA,,0.78,146,38.7,41.2,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,11:15,41.2,39.5,93.9,0.0,NE@NA,,0.72,199,38.8,41.2,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,11:30,42.1,40.0,91.9,0.0,S@NA,,0.63,229,38.9,41.2,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,11:45,42.6,39.4,88.3,0.0,SW@NA,,0.43,245,39.1,41.2,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,12:00,43.9,39.6,84.5,0.0,SW@NA,,0.16,301,39.3,41.2,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,12:15,46.7,40.5,78.8,0.0,S@NA,,0.0,445,39.5,41.2,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,12:30,47.9,40.1,74.1,0.01,S@NA,,0.0,466,39.7,41.2,30.27,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,12:45,47.8,39.9,73.9,0.0,SW@NA,,0.0,387,40.0,41.2,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,13:00,48.1,40.1,73.8,0.0,SW@NA,,0.0,494,40.3,41.2,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,13:15,48.7,40.4,73.1,0.0,SW@NA,,0.0,485,40.6,41.2,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,13:30,49.7,41.0,71.9,0.0,SW@NA,,0.0,496,40.9,41.3,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,13:45,49.6,41.0,72.1,0.0,SW@NA,,0.0,455,41.3,41.3,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,14:00,48.8,40.8,73.5,0.0,S@NA,,0.0,176,41.6,41.3,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,14:15,48.0,41.0,76.7,0.0,SW@NA,,0.0,162,42.0,41.4,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,14:30,48.1,41.6,78.1,0.0,SE@NA,,0.0,127,42.3,41.4,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,14:45,47.8,41.6,79.0,0.0,SE@NA,,0.0,102,42.6,41.5,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,15:00,47.1,41.5,80.6,0.0,SE@NA,,0.0,78,42.9,41.5,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,15:15,47.0,41.3,80.6,0.0,SE@NA,,0.0,71,43.1,41.6,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,15:30,47.1,41.4,80.6,0.0,E@NA,,0.0,45,43.3,41.7,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,15:45,47.0,41.5,81.1,0.0,E@NA,,0.0,32,43.4,41.8,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,16:00,46.7,41.4,81.5,0.0,E@NA,,0.0,40,43.6,41.8,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,16:15,46.6,41.6,82.5,0.0,SE@NA,,0.0,35,43.7,41.9,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,16:30,46.7,41.6,82.2,0.0,SE@NA,,0.0,39,43.8,42.0,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,16:45,46.7,41.5,82.1,0.0,E@NA,,0.0,29,43.8,42.1,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,17:00,46.5,41.5,82.6,0.0,E@NA,,0.0,11,43.9,42.2,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,17:15,46.3,41.6,83.4,0.0,NE@NA,,0.0,4,43.9,42.3,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,17:30,46.2,41.6,83.9,0.0,N @NA,,0.0,2,44.0,42.3,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,17:45,45.9,41.7,85.1,0.0,N @NA,,0.0,0,44.0,42.4,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,18:00,45.3,41.6,86.7,0.0,N @NA,,0.0,0,44.0,42.5,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,18:15,44.9,41.5,87.9,0.0,N @NA,,0.0,0,44.0,42.5,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,18:30,44.2,41.3,89.2,0.0,N @NA,,0.0,0,44.0,42.6,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,18:45,43.7,41.1,90.6,0.0,N @NA,,0.0,0,43.9,42.7,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,19:00,42.8,40.5,91.5,0.0,N @NA,,0.05,0,43.9,42.7,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,19:15,42.1,40.1,92.7,0.0,N @NA,,0.22,0,43.8,42.8,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,19:30,41.2,39.5,93.6,0.0,N @NA,,0.4,0,43.8,42.8,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,19:45,41.0,39.6,94.5,0.0,N @NA,,0.47,0,43.7,42.9,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,20:00,41.1,39.8,95.0,0.0,N @NA,,0.49,0,43.6,42.9,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,20:15,41.1,39.9,95.3,0.0,N @NA,,0.5,0,43.5,43.0,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,20:30,41.0,39.8,95.6,0.0,N @NA,,0.54,0,43.4,43.0,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,20:45,40.3,39.2,95.7,0.0,N @NA,,0.6,0,43.3,43.0,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,21:00,39.7,38.7,95.9,0.0,N @NA,,0.67,0,43.2,43.1,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,21:15,39.8,38.9,96.3,0.0,N @NA,,0.69,0,43.1,43.1,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,21:30,39.9,39.0,96.5,0.0,N @NA,,0.71,0,43.0,43.1,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,21:45,39.2,38.3,96.6,0.0,N @NA,,0.74,0,42.9,43.1,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,22:00,39.5,38.7,97.0,0.0,N @NA,,0.75,0,42.8,43.1,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,22:15,39.8,39.1,97.2,0.0,N @NA,,0.76,0,42.7,43.1,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,22:30,39.8,39.1,97.3,0.0,N @NA,,0.76,0,42.6,43.1,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,22:45,40.2,39.5,97.4,0.0,N @NA,,0.76,0,42.5,43.1,30.27,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,23:00,40.4,39.7,97.5,0.0,N @NA,,0.76,0,42.4,43.1,30.27,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,23:15,40.3,39.6,97.5,0.0,N @NA,,0.76,0,42.3,43.1,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,23:30,40.2,39.6,97.6,0.0,N @NA,,0.76,0,42.3,43.1,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,23:45,40.5,39.9,97.7,0.0,N @NA,,0.76,0,42.2,43.1,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-11,24:00,40.6,40.0,97.7,0.0,N @NA,,0.76,0,42.2,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,00:15,40.8,40.2,97.8,0.0,N @NA,,0.76,0,42.2,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,00:30,40.8,40.2,97.8,0.0,N @NA,,0.8,0,42.2,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,00:45,40.9,40.4,97.8,0.0,N @NA,,0.87,0,42.1,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,01:00,41.0,40.4,97.8,0.0,N @NA,,0.88,0,42.1,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,01:15,40.7,40.1,97.8,0.0,N @NA,,0.88,0,42.1,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,01:30,40.7,40.1,97.9,0.0,N @NA,,0.88,0,42.1,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,01:45,40.7,40.2,98.0,0.0,N @NA,,0.88,0,42.1,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,02:00,40.8,40.3,98.1,0.0,S@NA,,0.88,0,42.1,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,02:15,41.1,40.6,98.2,0.0,N @NA,,0.87,0,42.1,43.0,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,02:30,41.1,40.7,98.3,0.0,SW@NA,,0.87,0,42.0,43.0,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,02:45,41.2,40.7,98.3,0.0,N @NA,,0.87,0,42.0,43.0,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,03:00,41.2,40.7,98.3,0.0,N @NA,,0.86,0,42.0,43.0,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,03:15,41.1,40.7,98.4,0.0,N @NA,,0.86,0,42.0,43.0,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,03:30,41.0,40.6,98.4,0.0,NE@NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,03:45,41.1,40.7,98.5,0.0,N @NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,04:00,40.8,40.4,98.5,0.0,N @NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,04:15,40.8,40.4,98.5,0.0,N @NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,04:30,40.4,40.0,98.5,0.0,NW@NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,04:45,40.1,39.7,98.6,0.0,NW@NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,05:00,40.2,39.9,98.6,0.0,N @NA,,0.86,0,42.0,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,05:15,40.2,39.9,98.7,0.0,N @NA,,0.86,0,41.9,43.0,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,05:30,40.4,40.0,98.7,0.0,N @NA,,0.86,0,41.9,43.0,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,05:45,40.5,40.2,98.8,0.0,N @NA,,0.86,0,41.9,43.0,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,06:00,40.6,40.3,98.8,0.0,N @NA,,0.85,0,41.8,43.0,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,06:15,40.5,40.2,98.8,0.0,N @NA,,0.85,0,41.8,43.0,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,06:30,40.5,40.2,98.8,0.0,NW@NA,,0.85,0,41.8,43.0,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,06:45,40.5,40.3,98.9,0.0,N @NA,,0.85,0,41.8,43.0,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,07:00,40.5,40.2,98.9,0.0,N @NA,,0.85,0,41.8,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,07:15,40.5,40.2,98.9,0.0,N @NA,,0.85,1,41.8,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,07:30,40.3,40.0,98.9,0.0,N @NA,,0.85,4,41.8,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,07:45,40.4,40.1,98.9,0.0,N @NA,,0.85,11,41.7,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,08:00,40.4,40.1,98.9,0.0,N @NA,,0.85,26,41.7,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,08:15,40.8,40.6,99.0,0.0,N @NA,,0.85,28,41.7,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,08:30,41.3,41.0,99.0,0.0,N @NA,,0.85,35,41.7,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,08:45,41.6,41.4,99.1,0.0,N @NA,,0.84,49,41.7,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,09:00,42.4,42.1,99.1,0.0,N @NA,,0.84,58,41.7,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,09:15,43.1,42.9,99.2,0.0,N @NA,,0.83,71,41.7,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,09:30,43.8,43.5,99.1,0.0,N @NA,,0.83,88,41.8,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,09:45,44.4,44.2,99.0,0.0,N @NA,,0.83,112,41.8,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,10:00,44.9,44.6,98.7,0.0,E@NA,,0.8,177,41.9,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,10:15,45.7,44.9,97.1,0.0,NW@NA,,0.69,297,42.0,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,10:30,45.8,44.1,93.7,0.0,NE@NA,,0.27,201,42.1,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,10:45,45.9,43.6,91.5,0.0,NE@NA,,0.0,197,42.3,42.9,30.33,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,11:00,46.4,43.3,89.0,0.0,NE@NA,,0.0,183,42.4,42.9,30.34,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,11:15,46.3,42.7,87.0,0.0,NE@NA,,0.02,96,42.6,42.9,30.33,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,11:30,46.5,42.6,86.3,0.0,N@NA,,0.76,93,42.8,42.9,30.33,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,11:45,46.7,42.8,86.4,0.0,NW@NA,,0.82,108,43.1,42.9,30.32,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,12:00,47.1,43.3,86.6,0.0,NW@NA,,0.8,135,43.2,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,12:15,46.8,42.9,86.4,0.0,W@NA,,0.79,113,43.4,42.9,30.31,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,12:30,47.1,43.2,86.0,0.0,NW@NA,,0.8,119,43.6,43.0,30.3,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,12:45,47.5,42.8,83.8,0.0,W@NA,,0.79,175,43.7,43.0,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,13:00,47.9,42.7,82.0,0.0,W@NA,,0.71,210,43.9,43.0,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,13:15,47.9,42.0,79.8,0.0,NW@NA,,0.32,161,44.0,43.1,30.29,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,13:30,48.1,41.8,78.7,0.0,SW@NA,,0.0,127,44.2,43.1,30.28,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,13:45,48.3,41.7,77.6,0.0,S@NA,,0.0,135,44.3,43.1,30.27,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,14:00,48.3,41.4,76.7,0.0,SE@NA,,0.0,146,44.5,43.2,30.27,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,14:15,48.3,40.7,74.9,0.0,E@NA,,0.0,141,44.7,43.2,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,14:30,48.3,41.3,76.7,0.0,SE@NA,,0.0,137,44.8,43.3,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,14:45,48.2,41.2,76.6,0.0,E@NA,,0.0,128,45.0,43.3,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,15:00,48.3,41.1,75.8,0.0,NE@NA,,0.0,116,45.1,43.4,30.26,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,15:15,48.4,41.5,76.9,0.0,E@NA,,0.0,101,45.3,43.4,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,15:30,48.1,41.1,76.4,0.0,E@NA,,0.0,79,45.4,43.5,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,15:45,48.1,40.9,75.9,0.0,NE@NA,,0.0,69,45.5,43.6,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,16:00,48.1,40.5,74.7,0.0,NE@NA,,0.0,60,45.6,43.6,30.25,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,16:15,48.0,41.0,76.4,0.0,E@NA,,0.0,46,45.7,43.7,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,16:30,47.8,41.4,78.3,0.0,E@NA,,0.0,34,45.8,43.7,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,16:45,47.4,41.6,80.1,0.0,E@NA,,0.0,24,45.9,43.8,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,17:00,47.1,41.9,82.1,0.0,E@NA,,0.0,16,45.9,43.8,30.24,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,17:15,46.8,42.1,83.4,0.0,NE@NA,,0.0,8,45.9,43.9,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,17:30,46.4,42.3,85.3,0.0,N @NA,,0.0,3,45.9,44.0,30.23,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,17:45,46.0,42.4,87.2,0.0,N @NA,,0.0,1,45.9,44.0,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,18:00,45.6,42.5,88.8,0.0,N @NA,,0.0,0,45.9,44.1,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,18:15,45.2,42.3,89.5,0.0,N @NA,,0.0,0,45.9,44.1,30.22,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,18:30,44.9,42.3,90.4,0.0,N @NA,,0.0,0,45.8,44.2,30.21,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,18:45,44.6,42.2,91.2,0.0,N @NA,,0.0,0,45.8,44.2,30.21,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,19:00,44.3,42.1,91.9,0.0,SE@NA,,0.0,0,45.7,44.3,30.2,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,19:15,44.0,42.0,92.6,0.0,E@NA,,0.0,0,45.7,44.3,30.2,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,19:30,44.0,42.1,93.3,0.0,N @NA,,0.0,0,45.6,44.3,30.19,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,19:45,43.6,41.9,93.6,0.0,N @NA,,0.0,0,45.5,44.4,30.19,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,20:00,42.9,41.3,94.0,0.0,NW@NA,,0.09,0,45.4,44.4,30.18,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,20:15,42.2,40.8,94.6,0.0,N @NA,,0.25,0,45.3,44.4,30.17,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,20:30,41.8,40.6,95.4,0.0,NW@NA,,0.4,0,45.3,44.4,30.17,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,20:45,41.6,40.5,95.8,0.0,NW@NA,,0.48,0,45.2,44.5,30.16,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,21:00,41.5,40.5,96.1,0.0,NE@NA,,0.51,0,45.0,44.5,30.16,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,21:15,41.7,40.8,96.4,0.0,NE@NA,,0.53,0,44.9,44.5,30.15,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,21:30,41.7,40.9,96.7,0.0,NW@NA,,0.55,0,44.8,44.5,30.15,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,21:45,41.7,40.9,96.8,0.0,N@NA,,0.55,0,44.7,44.5,30.15,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,22:00,41.6,40.8,96.9,0.0,NW@NA,,0.57,0,44.6,44.5,30.14,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,22:15,41.5,40.7,97.0,0.0,SW@NA,,0.58,0,44.6,44.5,30.14,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,22:30,41.5,40.7,97.1,0.0,N @NA,,0.59,0,44.5,44.5,30.13,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,22:45,41.3,40.6,97.2,0.0,E@NA,,0.61,0,44.4,44.5,30.12,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,23:00,41.3,40.7,97.4,0.0,SW@NA,,0.63,0,44.3,44.5,30.12,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,23:15,41.3,40.6,97.4,0.0,SW@NA,,0.64,0,44.3,44.5,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,23:30,40.9,40.2,97.5,0.0,N@NA,,0.66,0,44.2,44.5,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,23:45,40.6,40.0,97.5,0.0,SW@NA,,0.69,0,44.1,44.5,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-12,24:00,40.7,40.1,97.7,0.0,NE@NA,,0.71,0,44.1,44.5,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,00:15,40.8,40.2,97.8,0.0,N @NA,,0.72,0,44.0,44.5,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,00:30,40.9,40.3,97.8,0.0,N @NA,,0.72,0,43.9,44.5,30.11,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,00:45,40.8,40.2,97.9,0.0,N @NA,,0.73,0,43.9,44.4,30.1,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,01:00,40.8,40.3,97.9,0.0,N @NA,,0.73,0,43.8,44.4,30.1,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,01:15,40.9,40.4,98.0,0.0,N @NA,,0.74,0,43.7,44.4,30.1,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,01:30,40.9,40.4,98.0,0.0,N @NA,,0.74,0,43.7,44.4,30.1,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,01:45,41.0,40.5,98.0,0.0,N @NA,,0.74,0,43.7,44.4,30.09,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,02:00,41.0,40.5,98.1,0.0,N @NA,,0.75,0,43.6,44.4,30.08,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,02:15,41.1,40.6,98.2,0.0,SW@NA,,0.75,0,43.6,44.4,30.08,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,02:30,40.7,40.3,98.2,0.0,SE@NA,,0.75,0,43.5,44.3,30.07,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,02:45,40.7,40.3,98.3,0.0,NW@NA,,0.76,0,43.5,44.3,30.05,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,03:00,40.7,40.3,98.3,0.0,N @NA,,0.76,0,43.5,44.3,30.04,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,03:15,40.7,40.3,98.4,0.0,W@NA,,0.77,0,43.4,44.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,03:30,40.8,40.4,98.5,0.0,W@NA,,0.78,0,43.4,44.3,30.02,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,03:45,40.6,40.2,98.5,0.0,S@NA,,0.78,0,43.3,44.3,30.01,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,04:00,41.4,41.0,98.6,0.0,W@NA,,0.78,0,43.3,44.2,30.0,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,04:15,41.7,41.3,98.5,0.0,SW@NA,,0.77,0,43.3,44.2,30.0,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,04:30,42.0,41.5,98.1,0.0,S@NA,,0.76,0,43.2,44.2,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,04:45,42.0,41.4,97.4,0.0,S@NA,,0.73,0,43.2,44.2,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,05:00,42.0,41.0,96.4,0.0,S@NA,,0.7,0,43.2,44.2,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,05:15,41.9,40.8,95.7,0.0,SW@NA,,0.66,0,43.1,44.2,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,05:30,41.8,40.5,95.1,0.0,SW@NA,,0.6,0,43.1,44.1,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,05:45,41.6,40.2,94.5,0.0,S@NA,,0.52,0,43.1,44.1,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,06:00,41.6,40.1,94.2,0.0,S@NA,,0.39,0,43.1,44.1,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,06:15,41.5,40.0,94.1,0.0,SE@NA,,0.27,0,43.0,44.1,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,06:30,41.5,39.9,94.0,0.0,S@NA,,0.15,0,43.0,44.1,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,06:45,41.6,39.9,93.4,0.0,S@NA,,0.05,0,43.0,44.1,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,07:00,41.8,39.8,92.4,0.0,S@NA,,0.0,0,43.0,44.1,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,07:15,41.9,39.6,91.4,0.0,S@NA,,0.0,1,43.0,44.0,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,07:30,41.8,39.3,90.7,0.0,SE@NA,,0.0,8,42.9,44.0,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,07:45,41.9,39.1,89.6,0.0,SE@NA,,0.0,14,42.9,44.0,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,08:00,41.9,38.7,88.5,0.0,S@NA,,0.09,5,42.9,44.0,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,08:15,41.8,38.8,88.7,0.01,S@NA,,0.57,8,42.9,44.0,29.99,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,08:30,41.6,38.9,90.3,0.02,SW@NA,,0.78,13,42.8,44.0,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,08:45,41.4,39.2,92.0,0.0,S@NA,,0.73,20,42.8,43.9,29.98,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,09:00,41.5,39.6,92.9,0.0,S@NA,,0.74,30,42.8,43.9,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,09:15,41.6,39.8,93.4,0.0,S@NA,,0.71,57,42.8,43.9,29.97,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,09:30,41.8,40.1,93.7,0.0,S@NA,,0.72,59,42.8,43.9,29.96,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,09:45,42.0,40.4,94.0,0.0,SW@NA,,0.73,56,42.8,43.9,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,10:00,42.0,40.4,94.0,0.0,S@NA,,0.74,50,42.8,43.9,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,10:15,42.2,40.5,93.7,0.0,S@NA,,0.73,72,42.9,43.9,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,10:30,42.3,40.6,93.7,0.0,S@NA,,0.7,117,42.9,43.9,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,10:45,43.2,41.2,92.8,0.0,SW@NA,,0.58,212,42.9,43.9,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,11:00,42.8,40.4,91.0,0.01,SW@NA,,0.27,117,43.0,43.9,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,11:15,43.4,40.3,88.6,0.0,SW@NA,,0.0,207,43.1,43.9,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,11:30,43.9,40.2,86.7,0.0,SW@NA,,0.0,203,43.2,43.8,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,11:45,44.5,40.2,84.8,0.0,SW@NA,,0.0,210,43.3,43.8,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,12:00,44.8,40.5,84.6,0.0,SW@NA,,0.0,205,43.4,43.8,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,12:15,44.9,40.4,84.3,0.0,SW@NA,,0.0,162,43.5,43.8,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,12:30,45.0,40.4,83.6,0.0,SW@NA,,0.0,166,43.7,43.8,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,12:45,45.4,40.4,82.5,0.0,SW@NA,,0.0,170,43.8,43.8,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,13:00,45.9,40.6,81.7,0.0,S@NA,,0.0,179,43.9,43.9,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,13:15,46.1,40.8,81.3,0.0,S@NA,,0.0,199,44.1,43.9,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,13:30,46.7,41.0,80.6,0.0,S@NA,,0.0,332,44.2,43.9,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,13:45,47.8,40.9,76.9,0.0,SW@NA,,0.0,408,44.4,43.9,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,14:00,47.2,40.8,78.3,0.0,SW@NA,,0.0,280,44.5,43.9,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,14:15,46.8,41.0,80.2,0.0,SW@NA,,0.0,144,44.7,44.0,29.9,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,14:30,46.2,40.9,81.8,0.0,SW@NA,,0.0,63,44.9,44.0,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,14:45,45.7,41.1,83.9,0.0,SW@NA,,0.0,59,45.1,44.0,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,15:00,45.4,41.3,85.4,0.0,SW@NA,,0.0,65,45.2,44.0,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,15:15,45.5,41.6,86.1,0.0,S@NA,,0.0,68,45.4,44.1,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,15:30,45.6,41.6,85.9,0.0,S@NA,,0.0,70,45.4,44.1,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,15:45,44.1,40.0,85.4,0.01,N@NA,,0.55,17,45.5,44.1,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,16:00,42.8,40.2,90.2,0.02,E@NA,,0.61,17,45.6,44.2,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,16:15,42.7,40.7,92.7,0.02,E@NA,,0.6,34,45.6,44.2,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,16:30,42.8,41.3,94.2,0.0,SE@NA,,0.59,44,45.6,44.3,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,16:45,42.5,41.2,95.1,0.0,SE@NA,,0.59,19,45.6,44.3,29.91,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,17:00,42.4,41.1,95.2,0.0,E@NA,,0.61,8,45.6,44.4,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,17:15,42.3,41.0,95.3,0.0,E@NA,,0.66,7,45.6,44.4,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,17:30,42.1,41.0,95.7,0.01,SE@NA,,0.65,3,45.6,44.4,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,17:45,42.1,41.0,95.8,0.0,NE@NA,,0.63,1,45.6,44.5,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,18:00,41.9,40.9,95.9,0.0,E@NA,,0.64,0,45.5,44.5,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,18:15,41.8,40.7,95.9,0.0,NE@NA,,0.65,0,45.5,44.6,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,18:30,42.0,41.0,96.0,0.0,NE@NA,,0.64,0,45.4,44.6,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,18:45,42.0,41.0,96.2,0.0,NE@NA,,0.64,0,45.4,44.6,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,19:00,42.0,41.1,96.4,0.0,E@NA,,0.64,0,45.3,44.6,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,19:15,42.0,41.1,96.5,0.0,NE@NA,,0.65,0,45.3,44.7,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,19:30,42.0,41.1,96.7,0.0,NE@NA,,0.65,0,45.2,44.7,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,19:45,42.0,41.1,96.8,0.0,E@NA,,0.66,0,45.2,44.7,29.92,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,20:00,42.0,41.2,96.9,0.0,NE@NA,,0.66,0,45.1,44.7,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,20:15,42.0,41.2,97.1,0.0,NE@NA,,0.67,0,45.0,44.7,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,20:30,41.9,41.2,97.2,0.0,NE@NA,,0.67,0,45.0,44.7,29.93,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,20:45,41.7,41.0,97.3,0.0,N @NA,,0.68,0,44.9,44.8,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,21:00,41.4,40.7,97.4,0.0,N @NA,,0.68,0,44.9,44.8,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,21:15,41.0,40.3,97.5,0.0,W@NA,,0.69,0,44.8,44.8,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,21:30,40.4,39.8,97.6,0.0,NW@NA,,0.69,0,44.8,44.8,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,21:45,40.3,39.7,97.8,0.0,W@NA,,0.69,0,44.7,44.8,29.94,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,22:00,40.1,39.4,97.5,0.0,W@NA,,0.68,0,44.6,44.8,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,22:15,40.0,39.3,97.1,0.0,W@NA,,0.68,0,44.5,44.8,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,22:30,39.9,39.1,96.8,0.0,W@NA,,0.68,0,44.4,44.8,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,22:45,39.6,38.7,96.7,0.0,NE@NA,,0.69,0,44.3,44.7,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651
+2020-02-13,23:00,39.3,38.5,97.0,0.0,NE@NA,,0.69,0,44.2,44.7,29.95,"Poulsbo.S (Poulsbo South), Poulsbo, Kitsap County",355001,Poulsbo.S,2020-05-03 15:23:08.891651

@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2020-03-20,00:15,38.9,35.8,88.7,0.0,E@0.1,1.4,0.5,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,00:30,39.1,36.2,89.4,0.0,NE@1.1,2.8,0.56,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,00:45,38.4,35.4,88.6,0.0,N@0.1,2.1,0.6,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,01:00,37.7,35.4,91.4,0.0,NE@0.2,2.4,0.65,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,01:15,37.7,35.1,90.2,0.0,N @0.0,0.0,0.69,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,01:30,36.2,34.2,92.4,0.0,N @0.0,0.0,0.73,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,01:45,36.1,34.4,93.7,0.0,N @0.0,0.0,0.77,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,02:00,35.3,33.9,94.4,0.0,N @0.0,0.0,0.81,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,02:15,35.4,34.2,95.1,0.0,N @0.0,0.0,0.84,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,02:30,35.3,34.1,95.5,0.0,N @0.0,0.0,0.86,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,02:45,34.4,33.3,95.7,0.0,N @0.0,0.0,0.87,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,03:00,34.7,33.7,96.2,0.0,N @0.0,0.0,0.89,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,03:15,33.4,32.4,96.0,0.0,N @0.0,0.0,0.89,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,03:30,33.0,32.1,96.4,0.0,N @0.0,0.0,0.9,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,03:45,33.0,32.2,96.7,0.0,N @0.0,0.0,0.9,0,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,04:00,33.1,32.3,97.0,0.0,N @0.0,0.0,0.91,0,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,04:15,32.7,32.0,97.2,0.0,N @0.0,0.0,0.91,0,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,04:30,32.3,31.7,97.4,0.0,N @0.0,0.0,0.53,0,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,04:45,31.9,31.1,97.5,0.0,N @0.0,0.0,0.06,0,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,05:00,31.8,31.1,97.7,0.0,N @0.0,0.0,0.05,0,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,05:15,31.6,30.9,97.8,0.0,N @0.0,0.0,0.05,0,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,05:30,31.3,30.5,97.9,0.0,N @0.0,0.0,0.04,0,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,05:45,31.0,30.3,98.1,0.0,N @0.0,0.0,0.04,0,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,06:00,30.6,29.8,98.2,0.0,N @0.0,0.0,0.04,0,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,06:15,31.0,30.3,98.3,0.0,N @0.0,0.0,0.04,0,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,06:30,31.1,30.5,98.4,0.0,N@0.3,2.1,0.05,0,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,06:45,30.6,29.9,98.4,0.0,N @0.0,0.0,0.04,0,43.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,07:00,30.7,30.1,98.5,0.0,N @0.0,0.0,0.04,0,43.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,07:15,30.9,30.3,98.5,0.0,N @0.0,0.0,0.04,3,43.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,07:30,31.2,30.6,98.6,0.0,N @0.0,0.0,0.05,12,43.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,07:45,31.0,30.4,98.6,0.0,N @0.0,0.0,0.05,23,43.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,08:00,31.4,30.9,98.6,0.0,N @0.4,2.4,0.09,34,43.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,08:15,32.7,32.4,98.6,0.0,N @0.0,0.0,0.23,76,43.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,08:30,34.3,34.0,98.6,0.0,N @0.0,0.0,0.56,102,42.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,08:45,35.1,34.7,98.5,0.0,E@0.4,2.1,0.9,174,42.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,09:00,38.3,37.9,98.5,0.0,N @0.0,0.0,0.92,208,42.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,09:15,39.5,39.0,98.2,0.0,N @0.0,0.0,0.92,204,42.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,09:30,41.3,40.5,96.7,0.0,SE@0.4,2.1,0.92,301,42.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,09:45,43.0,40.9,92.0,0.0,SW@1.4,2.8,0.92,367,42.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,10:00,44.5,40.6,86.0,0.0,S@1.9,3.5,0.92,375,42.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,10:15,46.4,40.8,80.7,0.0,SW@2.0,3.1,0.91,454,42.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,10:30,48.3,40.6,74.5,0.0,S@2.0,3.9,0.87,463,42.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,10:45,49.6,39.8,68.7,0.0,E@2.0,4.2,0.68,438,42.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,11:00,51.3,40.0,65.2,0.0,SE@2.5,5.7,0.11,542,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,11:15,52.5,40.2,62.8,0.0,SW@2.6,6.0,0.0,564,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,11:30,53.6,40.5,61.0,0.0,W@3.1,4.9,0.0,585,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,11:45,54.5,40.8,59.7,0.0,W@2.9,7.1,0.0,606,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,12:00,55.6,41.0,57.9,0.0,S@3.0,5.7,0.0,622,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,12:15,56.3,40.8,56.0,0.0,W@3.2,6.7,0.0,640,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,12:30,57.1,41.4,55.6,0.0,SW@4.3,7.4,0.0,652,42.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,12:45,57.8,40.8,53.1,0.0,N@3.3,6.0,0.0,661,42.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,13:00,58.9,40.6,50.5,0.0,W@2.9,7.4,0.0,667,42.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,13:15,59.1,40.9,50.7,0.0,NW@4.2,7.8,0.0,664,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,13:30,60.0,41.1,49.4,0.0,W@3.5,6.4,0.0,669,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,13:45,60.4,40.4,47.6,0.0,S@3.2,5.3,0.0,663,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,14:00,61.1,40.4,46.4,0.0,NW@3.2,6.7,0.0,654,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,14:15,61.0,39.8,45.4,0.0,S@3.4,7.4,0.0,645,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,14:30,61.4,40.4,45.9,0.0,NW@4.5,8.5,0.0,631,42.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,14:45,62.3,40.4,44.4,0.0,W@3.3,6.7,0.0,611,42.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,15:00,62.2,39.9,43.8,0.0,W@3.7,9.2,0.0,597,42.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,15:15,62.6,38.1,40.2,0.0,NW@4.7,7.8,0.0,578,42.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,15:30,62.6,37.3,38.9,0.0,N@4.1,7.4,0.0,554,42.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,15:45,62.9,36.6,37.6,0.0,W@4.1,7.1,0.0,525,42.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,16:00,63.1,37.4,38.4,0.0,NW@4.6,8.2,0.0,493,42.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,16:15,63.1,37.1,38.0,0.0,NW@5.0,9.6,0.0,463,42.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,16:30,63.1,36.2,36.7,0.0,W@5.2,8.2,0.0,429,42.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,16:45,62.7,36.3,37.3,0.0,NW@5.1,8.2,0.0,393,42.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,17:00,62.4,35.9,37.2,0.0,NW@4.7,9.2,0.0,354,42.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,17:15,62.4,35.8,37.1,0.0,NW@4.8,8.2,0.0,315,43.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,17:30,61.9,34.7,35.9,0.0,W@5.2,9.6,0.0,275,43.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,17:45,61.5,34.3,36.1,0.0,NW@5.0,8.2,0.0,234,43.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,18:00,61.1,33.5,35.4,0.0,W@4.6,7.4,0.0,195,43.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,18:15,60.6,32.8,34.9,0.0,NW@4.1,6.4,0.0,155,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,18:30,59.6,34.5,38.7,0.0,NW@5.0,7.8,0.0,116,43.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,18:45,58.6,36.0,42.5,0.0,NW@4.9,8.9,0.0,75,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,19:00,57.2,37.0,46.8,0.0,NW@4.8,7.8,0.0,29,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,19:15,56.1,36.4,47.5,0.0,NW@3.4,7.4,0.0,11,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,19:30,54.2,35.9,49.8,0.0,N@2.5,3.5,0.0,4,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,19:45,53.3,36.4,52.6,0.0,N@1.6,3.5,0.0,1,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,20:00,52.0,37.4,57.3,0.0,NE@0.4,2.1,0.0,0,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,20:15,50.1,38.0,63.0,0.0,NE@0.1,1.7,0.0,0,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,20:30,48.4,37.9,66.7,0.0,N @0.0,0.0,0.01,0,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,20:45,48.4,37.2,65.0,0.0,NW@1.9,5.3,0.0,0,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,21:00,49.5,36.4,60.6,0.0,NW@3.7,6.0,0.0,0,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,21:15,48.8,36.3,61.8,0.0,N@3.6,5.3,0.0,0,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,21:30,48.6,37.1,64.1,0.0,N@4.2,7.8,0.0,0,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,21:45,48.4,37.5,65.7,0.0,N @3.4,6.4,0.0,0,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,22:00,47.3,37.5,68.5,0.0,NE@1.9,2.4,0.0,0,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,22:15,46.1,37.2,71.1,0.0,NE@1.2,2.4,0.0,0,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,22:30,45.4,37.3,73.1,0.0,NE@1.3,2.4,0.0,0,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,22:45,44.7,37.2,74.6,0.0,N @0.0,0.0,0.0,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,23:00,43.8,37.1,77.2,0.0,N @0.0,0.0,0.01,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,23:15,42.0,36.3,80.2,0.0,N @0.0,0.0,0.02,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,23:30,41.6,36.9,83.3,0.0,N @0.0,0.0,0.03,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,23:45,41.1,36.9,84.9,0.0,N @0.0,0.0,0.02,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-20,24:00,41.5,37.3,84.9,0.0,N @0.0,0.0,0.02,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,00:15,41.1,37.1,85.6,0.0,NW@0.4,2.8,0.03,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,00:30,41.2,37.4,86.3,0.0,N @0.0,0.0,0.03,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,00:45,41.5,37.8,86.6,0.0,N @0.0,0.0,0.03,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,01:00,42.7,38.1,83.7,0.0,N@0.0,1.4,0.02,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,01:15,42.4,37.8,83.6,0.0,N @0.0,0.0,0.01,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,01:30,42.2,37.9,84.5,0.0,N @0.0,0.0,0.01,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,01:45,41.6,37.6,85.5,0.0,N @0.0,0.0,0.02,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,02:00,40.5,37.2,87.6,0.0,N @0.0,0.0,0.04,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,02:15,39.5,36.7,89.3,0.0,N @0.0,0.0,0.07,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,02:30,39.6,37.2,90.9,0.0,N @0.0,0.0,0.15,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,02:45,38.4,36.1,91.3,0.0,N @0.0,0.0,0.24,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,03:00,38.2,36.3,92.9,0.0,N @0.0,0.0,0.37,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,03:15,37.2,35.4,93.4,0.0,N @0.0,0.0,0.49,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,03:30,37.3,35.9,94.6,0.0,N @0.0,0.0,0.62,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,03:45,36.3,35.0,94.9,0.0,N @0.0,0.0,0.69,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,04:00,35.8,34.7,95.6,0.0,N @0.0,0.0,0.75,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,04:15,36.0,35.0,96.2,0.0,N @0.0,0.0,0.81,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,04:30,35.1,34.2,96.5,0.0,N @0.0,0.0,0.84,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,04:45,33.8,32.9,96.6,0.0,N @0.0,0.0,0.86,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,05:00,34.5,33.7,96.9,0.0,N @0.0,0.0,0.88,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,05:15,34.4,33.7,97.2,0.0,N @0.0,0.0,0.9,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,05:30,34.2,33.6,97.4,0.0,N @0.0,0.0,0.9,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,05:45,33.5,32.9,97.5,0.0,N @0.0,0.0,0.91,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,06:00,33.9,33.4,97.7,0.0,N @0.0,0.0,0.91,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,06:15,33.6,33.1,97.9,0.0,N @0.0,0.0,0.92,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,06:30,32.3,31.8,97.9,0.0,N @0.0,0.0,0.91,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,06:45,32.5,32.0,98.0,0.0,N @0.0,0.0,0.48,0,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,07:00,32.0,31.4,98.1,0.0,N @0.0,0.0,0.09,1,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,07:15,32.3,31.9,98.2,0.0,N @0.0,0.0,0.18,5,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,07:30,32.7,32.3,98.3,0.0,N @0.0,0.0,0.23,13,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,07:45,33.3,32.9,98.5,0.0,N @0.0,0.0,0.71,18,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,08:00,34.0,33.6,98.5,0.0,N @0.0,0.0,0.93,42,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,08:15,35.3,35.0,98.6,0.0,N @0.0,0.0,0.93,63,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,08:30,36.8,36.4,98.6,0.0,N @0.0,0.0,0.93,59,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,08:45,38.0,37.6,98.6,0.0,N @0.0,0.0,0.93,62,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,09:00,38.6,38.2,98.4,0.0,N @0.0,0.0,0.93,69,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,09:15,39.5,39.0,97.9,0.0,N@1.4,3.9,0.94,71,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,09:30,40.7,39.8,96.7,0.0,N@0.1,2.8,0.93,81,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,09:45,41.9,40.4,94.3,0.0,NW@1.6,4.2,0.92,84,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,10:00,42.9,40.5,91.0,0.0,NW@2.7,4.6,0.91,101,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,10:15,43.6,40.3,87.9,0.0,NW@2.4,4.2,0.87,124,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,10:30,44.0,39.8,85.1,0.0,N@3.4,6.4,0.76,140,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,10:45,44.1,39.6,83.8,0.0,NE@2.4,5.7,0.46,161,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,11:00,44.3,39.2,82.0,0.0,NE@1.0,2.4,0.07,171,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,11:15,44.6,39.4,81.7,0.0,S@1.9,3.5,0.0,146,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,11:30,45.1,39.9,82.0,0.0,N@2.0,4.6,0.0,144,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,11:45,45.4,39.9,80.9,0.0,NW@2.4,5.7,0.0,178,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,12:00,46.5,40.5,79.4,0.0,E@2.1,4.6,0.0,404,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,12:15,48.7,40.9,74.4,0.0,S@3.1,6.7,0.0,629,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,12:30,49.1,40.2,71.4,0.0,S@2.7,6.0,0.0,673,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,12:45,49.8,40.1,69.2,0.0,NW@2.4,4.2,0.0,585,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,13:00,50.6,40.2,67.5,0.0,S@3.6,10.7,0.0,600,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,13:15,51.3,40.1,65.5,0.0,SE@3.3,6.7,0.0,671,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,13:30,52.3,40.3,63.6,0.0,NE@2.9,5.7,0.0,709,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,13:45,53.2,40.4,61.6,0.0,SW@3.1,5.7,0.0,687,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,14:00,53.9,40.3,59.9,0.0,W@4.0,7.8,0.0,673,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,14:15,54.3,40.5,59.5,0.0,SW@4.5,7.8,0.0,660,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,14:30,54.8,40.3,58.0,0.0,W@4.2,7.8,0.0,646,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,14:45,56.1,39.5,53.5,0.0,W@4.3,7.4,0.0,629,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,15:00,56.8,39.6,52.4,0.0,NW@5.1,9.2,0.0,609,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,15:15,56.7,39.2,51.7,0.0,W@5.7,10.7,0.0,588,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,15:30,57.3,39.3,50.9,0.0,W@4.9,9.6,0.0,563,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,15:45,57.3,38.8,49.9,0.0,W@5.6,10.7,0.0,535,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,16:00,57.6,38.9,49.6,0.0,W@4.5,8.5,0.0,505,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,16:15,57.7,39.3,50.0,0.0,NW@5.2,8.5,0.0,470,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,16:30,57.6,39.1,50.0,0.0,W@5.1,8.9,0.0,435,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,16:45,57.6,38.8,49.4,0.0,W@5.2,9.9,0.0,397,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,17:00,57.4,38.2,48.6,0.0,W@5.7,9.2,0.0,357,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,17:15,57.5,37.8,47.7,0.0,W@5.1,8.5,0.0,318,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,17:30,57.1,38.6,50.0,0.0,NW@5.0,9.9,0.0,279,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,17:45,56.6,38.4,50.3,0.0,W@5.3,9.2,0.0,238,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,18:00,56.3,38.1,50.3,0.0,NW@4.7,7.8,0.0,199,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,18:15,56.2,37.7,49.7,0.0,W@4.1,6.7,0.0,159,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,18:30,55.6,37.4,50.1,0.0,W@3.8,7.4,0.0,123,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,18:45,55.0,37.0,50.5,0.0,W@3.6,5.7,0.0,88,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,19:00,53.7,37.2,53.5,0.0,W@3.0,6.0,0.0,33,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,19:15,52.0,37.2,56.9,0.0,NW@1.8,3.1,0.0,14,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,19:30,50.6,37.3,60.1,0.0,N@0.6,2.8,0.0,5,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,19:45,49.9,38.1,63.4,0.0,NE@1.8,3.5,0.0,1,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,20:00,46.1,36.8,69.8,0.0,SW@0.0,1.4,0.01,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,20:15,44.4,37.4,76.2,0.0,N @0.0,0.0,0.02,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,20:30,43.5,37.9,80.2,0.0,N @0.0,0.0,0.05,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,20:45,42.2,37.3,82.7,0.0,N @0.0,0.0,0.08,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,21:00,41.6,37.7,85.9,0.0,NW@0.3,2.1,0.16,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,21:15,41.2,37.4,86.4,0.0,N @0.0,0.0,0.25,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,21:30,39.8,36.7,88.5,0.0,N @0.0,0.0,0.35,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,21:45,39.5,37.0,90.6,0.0,N @0.0,0.0,0.49,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,22:00,39.7,37.5,91.7,0.0,N@0.4,2.4,0.61,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,22:15,38.5,36.2,91.6,0.0,N @0.0,0.0,0.67,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,22:30,40.2,38.1,92.0,0.0,NE@0.8,3.5,0.75,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,22:45,39.0,36.3,89.8,0.0,N @0.0,0.0,0.76,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,23:00,37.7,35.5,91.7,0.0,N @0.0,0.0,0.79,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,23:15,37.1,35.4,93.2,0.0,N @0.0,0.0,0.83,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,23:30,36.3,34.8,94.2,0.0,N @0.0,0.0,0.86,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,23:45,36.7,35.5,95.4,0.0,N @0.0,0.0,0.88,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-21,24:00,36.2,35.1,95.9,0.0,N @0.0,0.0,0.9,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,00:15,35.9,34.9,96.3,0.0,N @0.0,0.0,0.91,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,00:30,35.1,34.2,96.6,0.0,N @0.0,0.0,0.91,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,00:45,34.6,33.8,96.8,0.0,N @0.0,0.0,0.92,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,01:00,34.2,33.5,97.0,0.0,N @0.0,0.0,0.92,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,01:15,34.3,33.6,97.2,0.0,N @0.0,0.0,0.92,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,01:30,33.4,32.8,97.3,0.0,N @0.0,0.0,0.92,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,01:45,33.8,33.2,97.6,0.0,N @0.0,0.0,0.93,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,02:00,33.6,33.1,97.7,0.0,N @0.0,0.0,0.93,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,02:15,32.9,32.4,97.8,0.0,N @0.0,0.0,0.9,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,02:30,32.9,32.4,98.0,0.0,N @0.0,0.0,0.38,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,02:45,32.3,31.8,98.0,0.0,N @0.0,0.0,0.11,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,03:00,31.9,31.3,98.0,0.0,N @0.0,0.0,0.09,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,03:15,32.4,31.9,98.2,0.0,N @0.0,0.0,0.12,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,03:30,32.7,32.3,98.3,0.0,N @0.0,0.0,0.12,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,03:45,31.4,30.8,98.3,0.0,N @0.0,0.0,0.07,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,04:00,31.6,31.1,98.4,0.0,N @0.0,0.0,0.07,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,04:15,31.9,31.5,98.5,0.0,N @0.0,0.0,0.09,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,04:30,31.5,30.9,98.5,0.0,N @0.0,0.0,0.06,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,04:45,30.7,30.1,98.6,0.0,N @0.0,0.0,0.05,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,05:00,31.8,31.4,98.7,0.0,N @0.0,0.0,0.19,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,05:15,30.4,29.8,98.7,0.0,N @0.0,0.0,0.06,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,05:30,30.8,30.2,98.7,0.0,N @0.0,0.0,0.08,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,05:45,31.0,30.4,98.8,0.0,N @0.0,0.0,0.06,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,06:00,30.3,29.6,98.8,0.0,N @0.0,0.0,0.05,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,06:15,30.3,29.6,98.8,0.0,N @0.0,0.0,0.04,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,06:30,30.0,29.3,98.9,0.0,N @0.0,0.0,0.04,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,06:45,30.2,29.5,98.9,0.0,N @0.0,0.0,0.05,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,07:00,30.4,29.7,98.9,0.0,N @0.0,0.0,0.06,2,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,07:15,30.2,29.5,98.9,0.0,N @0.0,0.0,0.05,10,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,07:30,30.0,29.4,99.0,0.0,N @0.0,0.0,0.06,30,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,07:45,30.5,30.0,99.0,0.0,N @0.0,0.0,0.13,50,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,08:00,31.5,31.1,98.9,0.0,N @0.0,0.0,0.46,83,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,08:15,32.9,32.7,98.9,0.0,N @0.0,0.0,0.85,121,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,08:30,34.4,34.2,98.9,0.0,N @0.0,0.0,0.94,114,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,08:45,35.6,35.3,98.9,0.0,N @0.0,0.0,0.92,159,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,09:00,36.3,36.0,98.8,0.0,N @0.0,0.0,0.92,177,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,09:15,37.4,37.0,98.8,0.0,N @0.0,0.0,0.92,179,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,09:30,38.2,37.9,98.6,0.0,SE@0.5,3.5,0.92,176,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,09:45,39.7,39.3,98.2,0.0,S@0.7,2.8,0.93,282,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,10:00,41.7,40.7,96.3,0.0,E@2.0,3.5,0.93,387,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,10:15,44.0,40.1,85.9,0.0,SE@2.2,3.5,0.93,343,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,10:30,46.7,39.3,75.5,0.0,SE@2.1,5.7,0.89,413,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,10:45,48.1,39.2,70.9,0.0,S@2.7,4.9,0.72,463,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,11:00,49.3,39.3,68.4,0.0,S@2.0,4.2,0.13,467,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,11:15,50.7,39.6,65.6,0.0,S@1.8,3.9,0.0,441,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,11:30,51.2,39.5,64.0,0.0,S@2.3,4.6,0.0,576,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,11:45,52.0,40.1,63.5,0.0,E@2.7,4.9,0.0,571,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,12:00,53.0,40.2,61.5,0.0,SW@3.6,9.2,0.0,554,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,12:15,52.8,39.9,61.4,0.0,SW@5.1,9.6,0.0,398,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,12:30,52.7,39.2,60.0,0.0,SW@4.9,8.2,0.0,390,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,12:45,54.2,38.9,56.2,0.0,S@5.2,10.3,0.0,480,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,13:00,55.5,38.7,53.1,0.0,SE@4.3,9.2,0.0,555,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,13:15,57.5,38.5,49.1,0.0,SE@3.7,6.4,0.0,585,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,13:30,58.1,38.4,47.8,0.0,S@4.9,10.7,0.0,598,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,13:45,58.1,37.7,46.3,0.0,S@6.1,13.2,0.0,573,43.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,14:00,57.8,37.3,46.2,0.0,S@5.8,8.5,0.0,419,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,14:15,57.6,37.6,47.1,0.0,S@6.5,10.7,0.0,426,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,14:30,58.0,37.9,47.0,0.0,S@5.2,11.0,0.0,363,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,14:45,57.9,37.5,46.4,0.0,S@5.6,10.7,0.0,316,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,15:00,57.6,35.5,43.3,0.0,S@6.7,11.4,0.0,285,43.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,15:15,57.1,35.7,44.6,0.0,S@4.9,8.9,0.0,179,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,15:30,56.9,35.8,45.0,0.0,S@6.0,15.3,0.0,169,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,15:45,56.9,36.2,45.7,0.0,S@6.6,11.4,0.0,206,43.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,16:00,56.7,36.7,46.8,0.0,S@7.4,13.9,0.0,199,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,16:15,56.5,36.9,47.7,0.0,S@7.4,15.0,0.0,144,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,16:30,56.0,36.8,48.4,0.0,S@7.2,12.4,0.0,108,43.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,16:45,55.8,37.3,49.6,0.0,S@5.6,9.9,0.0,100,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,17:00,55.6,37.6,50.7,0.0,S@5.7,10.3,0.0,84,43.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,17:15,55.2,37.9,52.0,0.0,S@4.9,14.6,0.0,75,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,17:30,54.9,38.2,53.3,0.0,S@3.8,8.5,0.0,75,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,17:45,54.8,38.4,53.9,0.0,S@3.1,6.4,0.0,70,43.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,18:00,54.1,38.9,56.3,0.0,S@3.8,8.9,0.0,55,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,18:15,53.6,38.6,56.7,0.0,SE@3.5,7.8,0.0,50,43.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,18:30,53.5,37.9,55.5,0.0,S@4.7,11.0,0.0,49,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,18:45,53.3,38.3,56.6,0.0,S@3.8,8.5,0.0,50,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,19:00,53.0,38.7,58.2,0.0,SW@3.9,8.2,0.0,23,44.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,19:15,52.1,39.6,62.2,0.0,S@5.2,9.2,0.0,13,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,19:30,51.3,39.7,64.4,0.0,S@4.8,9.2,0.0,3,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,19:45,50.5,39.9,66.8,0.0,S@3.1,6.4,0.0,0,44.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,20:00,49.7,40.0,69.1,0.0,S@3.4,6.4,0.0,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,20:15,49.2,39.1,68.2,0.0,S@5.8,14.2,0.0,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,20:30,48.3,38.4,68.4,0.0,S@7.5,16.4,0.0,0,44.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,20:45,47.4,38.7,71.4,0.0,S@5.1,12.1,0.0,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,21:00,46.9,38.9,73.6,0.0,S@4.6,9.2,0.0,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,21:15,46.6,38.7,73.9,0.0,S@4.6,10.3,0.0,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,21:30,46.9,38.9,73.3,0.0,S@5.8,13.5,0.0,0,44.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,21:45,46.9,39.1,74.2,0.0,S@4.4,8.5,0.0,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,22:00,46.6,39.1,74.9,0.0,S@4.0,8.5,0.0,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,22:15,46.6,38.9,74.4,0.0,S@5.3,10.3,0.0,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,22:30,46.7,38.8,73.8,0.0,S@5.9,11.0,0.0,0,44.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,22:45,46.4,38.5,73.8,0.0,S@4.9,9.2,0.0,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,23:00,46.5,38.2,72.4,0.0,S@5.4,9.9,0.0,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,23:15,46.6,38.1,71.9,0.0,S@5.6,11.0,0.0,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,23:30,46.6,38.0,71.7,0.0,S@4.5,9.6,0.0,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,23:45,46.6,38.1,71.9,0.0,S@3.8,11.7,0.0,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-22,24:00,46.4,38.1,72.8,0.0,S@3.9,8.2,0.0,0,44.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,00:15,46.2,37.9,72.4,0.0,S@5.4,12.1,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,00:30,45.9,37.4,72.2,0.0,S@4.5,9.9,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,00:45,45.6,37.1,71.9,0.0,S@4.5,8.2,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,01:00,45.3,37.0,72.6,0.0,SE@3.8,7.4,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,01:15,45.2,37.0,72.8,0.0,S@4.3,8.5,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,01:30,45.1,37.5,74.4,0.0,S@4.7,9.2,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,01:45,44.7,37.8,76.7,0.0,SE@3.8,7.4,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,02:00,44.3,37.4,76.5,0.0,SE@3.7,8.5,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,02:15,44.0,37.1,76.3,0.0,S@2.7,7.1,0.0,0,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,02:30,43.8,37.1,77.1,0.0,SE@2.5,5.3,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,02:45,43.7,36.9,76.6,0.0,SE@2.8,5.3,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,03:00,43.8,36.7,75.9,0.0,SE@3.0,6.7,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,03:15,44.0,36.6,74.8,0.0,SE@3.2,7.1,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,03:30,44.1,36.5,74.4,0.0,SE@3.3,8.2,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,03:45,44.0,37.0,76.1,0.0,SE@3.4,6.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,04:00,44.0,37.7,78.2,0.0,SE@3.3,6.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,04:15,44.0,37.7,78.2,0.0,SE@3.7,6.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,04:30,44.0,37.7,78.3,0.0,S@4.0,8.2,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,04:45,43.7,37.7,79.1,0.0,S@3.4,7.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,05:00,43.7,37.6,79.1,0.0,SE@3.0,6.0,0.01,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,05:15,43.8,37.5,78.3,0.0,S@3.3,9.2,0.01,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,05:30,44.0,37.2,76.8,0.0,S@3.5,8.9,0.01,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,05:45,43.8,37.3,77.8,0.0,S@3.7,8.5,0.07,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,06:00,43.6,37.8,79.9,0.0,S@3.3,6.0,0.01,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,06:15,43.5,38.1,81.1,0.0,S@3.1,7.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,06:30,43.4,38.0,80.9,0.0,S@3.3,6.7,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,06:45,43.3,37.8,80.7,0.0,S@3.6,7.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,07:00,43.1,37.7,81.1,0.0,SE@3.3,7.4,0.0,0,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,07:15,43.0,37.6,81.2,0.0,S@3.8,8.5,0.0,4,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,07:30,42.9,37.7,81.7,0.0,S@4.4,9.9,0.0,7,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,07:45,43.0,37.9,82.1,0.0,S@4.3,8.9,0.0,9,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,08:00,43.2,38.3,82.6,0.0,S@5.2,12.4,0.0,13,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,08:15,43.1,38.0,81.9,0.0,S@5.3,10.3,0.0,20,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,08:30,42.9,37.9,82.1,0.0,S@3.9,8.2,0.0,35,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,08:45,43.5,38.1,81.1,0.0,S@3.6,8.2,0.0,56,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,09:00,43.9,38.1,79.8,0.0,S@4.7,12.1,0.0,55,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,09:15,44.4,38.2,78.8,0.0,S@4.9,8.5,0.0,97,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,09:30,44.4,38.1,78.2,0.0,S@4.8,10.7,0.0,74,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,09:45,44.8,37.8,76.0,0.0,S@5.9,12.4,0.0,116,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,10:00,45.5,37.7,74.2,0.0,S@6.0,12.8,0.0,201,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,10:15,45.7,37.5,72.8,0.0,S@6.4,13.5,0.0,172,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,10:30,45.9,37.9,73.2,0.0,S@6.6,14.2,0.0,249,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,10:45,48.2,38.2,68.1,0.0,S@6.5,12.1,0.0,522,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,11:00,48.5,37.0,64.2,0.0,S@7.8,12.8,0.0,484,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,11:15,48.6,36.4,62.5,0.0,S@7.5,15.3,0.0,446,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,11:30,49.7,36.8,60.9,0.0,S@7.9,18.2,0.0,671,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,11:45,50.1,36.6,59.7,0.0,S@7.7,15.7,0.0,594,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,12:00,50.1,35.7,57.3,0.0,S@7.8,15.0,0.0,449,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,12:15,50.6,35.7,56.5,0.0,S@8.0,15.0,0.0,607,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,12:30,51.3,35.8,55.3,0.0,S@7.9,17.1,0.0,604,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,12:45,51.2,35.2,54.1,0.0,S@9.3,17.8,0.0,770,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,13:00,51.4,35.5,54.4,0.0,S@8.6,15.3,0.0,661,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,13:15,51.5,36.3,55.8,0.0,S@7.8,14.6,0.0,646,44.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,13:30,51.5,36.5,56.4,0.0,S@7.5,14.6,0.0,668,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,13:45,50.1,35.6,57.5,0.0,S@6.8,10.7,0.0,311,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,14:00,49.6,35.5,57.9,0.0,S@7.3,15.3,0.0,254,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,14:15,51.1,36.1,56.4,0.0,S@7.9,14.6,0.01,673,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,14:30,52.1,36.3,54.7,0.0,S@8.4,17.8,0.0,670,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,14:45,51.4,36.4,56.2,0.0,S@8.0,15.7,0.0,643,44.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,15:00,51.7,37.2,57.5,0.0,S@7.5,15.0,0.0,557,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,15:15,50.4,37.9,62.0,0.0,S@5.8,11.0,0.0,473,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,15:30,50.7,37.3,59.8,0.0,S@9.1,17.8,0.0,596,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,15:45,51.0,37.0,58.5,0.0,S@9.0,22.8,0.0,545,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,16:00,48.8,35.9,60.7,0.0,S@9.2,17.5,0.0,293,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,16:15,49.1,35.9,60.1,0.0,S@6.8,14.2,0.0,426,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,16:30,51.1,37.4,59.4,0.0,S@7.4,15.3,0.0,550,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,16:45,50.6,37.0,59.3,0.0,S@8.2,14.6,0.0,457,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,17:00,50.2,36.7,59.6,0.0,S@8.3,14.6,0.0,426,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,17:15,49.0,35.5,59.6,0.0,S@9.2,18.5,0.0,268,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,17:30,49.2,36.1,60.5,0.0,S@8.2,17.5,0.0,269,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,17:45,47.6,35.2,61.9,0.0,S@6.1,11.7,0.0,159,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,18:00,49.1,35.4,59.0,0.0,S@5.1,9.6,0.0,235,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,18:15,48.8,34.9,58.6,0.0,S@7.0,13.2,0.0,196,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,18:30,48.0,35.2,60.8,0.0,S@6.2,13.2,0.0,144,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,18:45,47.5,36.0,64.1,0.0,S@4.8,8.9,0.0,106,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,19:00,46.7,36.2,66.7,0.0,S@4.5,8.2,0.0,91,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,19:15,45.5,34.9,66.2,0.0,S@3.7,8.2,0.0,19,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,19:30,44.9,34.9,67.9,0.0,S@3.7,6.4,0.0,6,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,19:45,44.9,35.5,69.2,0.0,S@4.0,8.9,0.0,1,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,20:00,44.5,36.0,71.9,0.0,S@3.6,9.6,0.0,0,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,20:15,43.6,36.3,75.3,0.0,S@3.6,7.8,0.0,0,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,20:30,43.3,36.5,76.6,0.0,SE@3.9,7.1,0.0,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,20:45,43.1,36.6,77.6,0.0,S@3.1,6.7,0.0,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,21:00,42.6,36.7,79.2,0.0,S@3.2,6.4,0.0,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,21:15,42.8,37.0,79.9,0.0,SE@2.9,7.8,0.0,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,21:30,42.3,36.8,80.8,0.0,SE@2.7,5.3,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,21:45,42.2,37.1,82.0,0.0,S@2.1,6.7,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,22:00,42.1,37.4,83.2,0.0,S@2.4,6.4,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,22:15,42.5,37.8,83.5,0.0,S@2.7,5.3,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,22:30,42.8,37.9,82.4,0.0,S@2.9,6.0,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,22:45,42.9,37.9,82.3,0.0,S@3.2,7.1,0.04,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,23:00,42.5,37.9,83.5,0.0,S@2.4,6.7,0.26,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,23:15,42.4,37.9,83.9,0.0,S@3.6,7.4,0.08,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,23:30,42.3,37.4,82.7,0.0,S@3.8,12.4,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,23:45,42.6,37.5,82.1,0.0,S@4.6,9.9,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-23,24:00,42.4,37.4,82.5,0.0,S@4.2,9.9,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,00:15,42.0,37.0,82.2,0.0,S@3.3,7.8,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,00:30,41.8,36.8,82.3,0.0,S@3.3,6.7,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,00:45,41.4,36.6,83.0,0.0,S@2.8,5.3,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,01:00,41.6,36.8,83.1,0.0,S@2.9,5.7,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,01:15,41.9,37.2,83.4,0.0,S@3.3,6.0,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,01:30,42.1,37.3,82.9,0.0,S@3.9,8.2,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,01:45,41.8,37.1,83.3,0.0,S@3.5,6.7,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,02:00,41.9,37.2,83.5,0.0,S@3.0,7.4,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,02:15,41.8,37.0,83.1,0.0,SE@2.8,5.7,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,02:30,41.8,36.9,82.6,0.0,SE@2.1,4.9,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,02:45,41.9,37.0,82.7,0.0,SE@2.4,5.3,0.0,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,03:00,41.9,37.0,82.5,0.0,SE@2.4,6.0,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,03:15,42.0,37.0,82.4,0.0,SE@2.5,8.5,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,03:30,41.9,37.0,82.7,0.0,SE@2.0,3.9,0.01,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,03:45,41.7,37.0,83.0,0.0,S@1.4,3.9,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,04:00,41.4,36.9,83.7,0.0,S@0.2,2.4,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,04:15,41.1,36.9,84.9,0.0,N @0.0,0.0,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,04:30,41.0,37.1,86.1,0.0,N @0.0,0.0,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,04:45,40.6,37.0,86.8,0.0,N @0.0,0.0,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,05:00,40.6,37.3,87.9,0.0,N @0.0,0.0,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,05:15,41.1,37.8,87.9,0.0,N @0.0,0.0,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,05:30,41.2,37.6,87.0,0.0,SE@0.5,4.2,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,05:45,40.8,36.9,85.9,0.0,SE@1.1,3.5,0.01,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,06:00,40.1,36.2,85.9,0.0,S@0.3,2.4,0.02,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,06:15,39.5,36.0,87.1,0.0,N @0.0,0.0,0.03,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,06:30,39.5,36.2,88.1,0.0,N @0.0,0.0,0.04,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,06:45,39.7,36.6,88.6,0.0,N @0.0,0.0,0.04,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,07:00,39.5,36.4,88.6,0.0,N @0.0,0.0,0.04,1,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,07:15,39.9,37.0,89.1,0.0,N @0.0,0.0,0.04,4,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,07:30,40.4,37.3,88.7,0.0,N @0.0,0.0,0.03,18,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,07:45,41.1,37.6,87.3,0.0,N @0.0,0.0,0.02,38,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,08:00,41.6,37.8,86.4,0.0,N @0.0,0.0,0.18,30,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,08:15,41.9,38.4,87.3,0.0,N @0.0,0.0,0.83,37,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,08:30,42.2,38.7,87.5,0.0,N @0.0,0.0,0.9,56,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,08:45,42.7,38.8,86.0,0.0,S@0.3,3.1,0.89,104,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,09:00,43.3,38.6,83.4,0.0,SE@1.8,4.2,0.82,95,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,09:15,43.9,38.2,80.3,0.0,SE@2.7,4.9,0.5,112,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,09:30,44.1,37.7,78.0,0.0,S@2.8,5.7,0.03,152,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,09:45,44.8,37.6,75.7,0.0,SE@3.5,6.7,0.0,189,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,10:00,44.7,37.7,76.1,0.0,S@3.6,9.9,0.0,125,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,10:15,45.2,37.6,74.6,0.0,S@4.4,8.9,0.0,162,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,10:30,45.2,37.6,74.5,0.0,S@4.2,7.4,0.02,171,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,10:45,45.6,37.1,72.1,0.0,S@3.7,5.7,0.0,167,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,11:00,45.6,37.0,71.5,0.0,SW@5.2,8.5,0.0,239,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,11:15,46.0,36.8,70.0,0.0,SW@5.8,9.9,0.0,318,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,11:30,46.4,36.5,68.2,0.0,SW@6.2,11.4,0.0,325,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,11:45,46.6,36.4,67.4,0.0,SW@5.4,9.9,0.0,312,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,12:00,47.0,36.3,66.1,0.0,SW@4.1,8.5,0.0,286,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,12:15,49.0,37.0,63.2,0.0,S@3.4,7.1,0.0,614,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,12:30,49.0,36.1,60.8,0.0,SW@5.2,8.9,0.0,391,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,12:45,49.0,36.6,62.2,0.0,SW@5.1,9.9,0.0,531,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,13:00,48.9,37.0,63.4,0.0,SW@5.8,10.7,0.0,612,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,13:15,49.6,35.7,58.7,0.0,SW@5.4,13.2,0.0,453,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,13:30,49.0,35.4,59.1,0.0,SW@3.5,9.2,0.0,375,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,13:45,51.2,36.1,56.0,0.0,SW@4.8,10.3,0.0,663,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,14:00,52.1,35.2,52.4,0.0,S@5.1,11.0,0.0,679,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,14:15,51.4,34.9,53.2,0.0,S@5.3,9.6,0.0,574,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,14:30,51.8,35.4,53.3,0.0,SW@5.1,9.6,0.0,592,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,14:45,52.1,35.2,52.3,0.0,SW@5.3,10.7,0.0,657,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,15:00,50.9,33.6,51.3,0.0,SW@5.9,11.7,0.0,353,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,15:15,50.1,34.0,53.8,0.0,SW@5.5,10.3,0.0,449,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,15:30,49.8,33.9,54.2,0.0,SW@3.2,7.8,0.0,181,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,15:45,48.6,36.2,62.0,0.0,S@3.9,7.4,0.0,121,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,16:00,46.9,39.0,73.9,0.0,S@4.9,10.3,0.45,286,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,16:15,46.5,41.2,81.8,0.0,SE@3.7,6.4,0.79,383,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,16:30,46.9,40.0,76.7,0.0,SE@3.4,7.1,0.23,416,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,16:45,48.5,37.7,66.1,0.0,SE@3.6,7.1,0.0,376,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,17:00,47.8,36.5,64.5,0.0,SE@3.6,7.1,0.0,208,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,17:15,48.0,36.1,63.2,0.0,SE@2.9,5.3,0.0,243,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,17:30,48.0,36.0,63.0,0.0,SE@2.3,4.9,0.0,194,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,17:45,48.0,36.7,64.5,0.0,S@2.8,4.9,0.0,144,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,18:00,46.9,38.1,71.5,0.0,S@2.2,4.9,0.0,68,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,18:15,46.3,38.7,74.4,0.0,SE@0.0,2.1,0.0,49,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,18:30,45.9,38.8,76.2,0.0,N @0.0,0.0,0.01,40,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,18:45,46.1,38.9,75.7,0.0,N @0.0,0.0,0.0,23,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,19:00,46.1,39.3,77.1,0.0,N @0.0,0.0,0.0,9,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,19:15,45.5,38.6,76.8,0.0,S@3.2,6.0,0.0,2,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,19:30,42.8,37.4,81.1,0.0,S@4.3,8.5,0.09,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,19:45,42.1,37.1,82.3,0.0,S@2.8,5.7,0.1,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,20:00,41.8,36.9,82.7,0.0,SE@1.3,4.9,0.01,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,20:15,41.4,37.2,84.8,0.02,E@2.8,5.3,0.72,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,20:30,40.7,37.3,87.5,0.02,N @0.0,0.0,0.85,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,20:45,40.4,37.9,90.6,0.04,N @0.0,0.0,0.8,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,21:00,40.3,38.2,92.3,0.05,N @0.0,0.0,0.75,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,21:15,40.1,38.6,94.0,0.05,SE@0.7,2.4,0.69,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,21:30,40.2,38.9,95.0,0.03,E@0.1,1.7,0.71,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,21:45,40.2,39.0,95.4,0.03,SE@0.3,2.1,0.7,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,22:00,40.1,39.0,95.8,0.03,SE@0.6,2.1,0.67,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,22:15,40.0,39.0,96.2,0.02,S@0.2,2.1,0.67,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,22:30,40.0,39.1,96.4,0.01,N @0.0,0.0,0.68,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,22:45,40.0,39.2,96.7,0.0,E@0.5,2.8,0.69,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,23:00,40.0,39.2,96.8,0.0,N @0.0,0.0,0.7,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,23:15,40.0,39.2,97.0,0.0,N @0.0,0.0,0.71,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,23:30,39.9,39.2,97.0,0.0,N @0.0,0.0,0.74,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,23:45,40.0,39.3,97.1,0.01,N @0.0,0.0,0.75,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-24,24:00,40.0,39.3,97.2,0.0,E@0.2,2.4,0.74,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,00:15,40.0,39.3,97.3,0.0,E@0.4,2.1,0.74,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,00:30,40.0,39.4,97.4,0.0,N @0.0,0.0,0.74,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,00:45,40.0,39.3,97.4,0.0,N @0.0,0.0,0.74,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,01:00,39.9,39.3,97.5,0.01,N @0.0,0.0,0.76,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,01:15,40.0,39.3,97.6,0.0,N @0.0,0.0,0.75,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,01:30,39.9,39.3,97.6,0.0,N @0.0,0.0,0.75,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,01:45,40.0,39.4,97.7,0.0,N @0.0,0.0,0.75,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,02:00,40.0,39.4,97.8,0.0,N @0.0,0.0,0.76,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,02:15,39.9,39.4,97.8,0.0,N @0.0,0.0,0.78,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,02:30,40.0,39.4,97.8,0.0,N @0.0,0.0,0.78,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,02:45,40.0,39.4,97.8,0.0,N @0.0,0.0,0.77,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,03:00,40.0,39.5,97.9,0.0,N @0.0,0.0,0.77,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,03:15,40.0,39.5,97.9,0.01,N @0.0,0.0,0.77,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,03:30,40.0,39.5,97.9,0.0,N @0.0,0.0,0.77,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,03:45,40.1,39.6,97.9,0.0,N @0.0,0.0,0.76,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,04:00,40.1,39.6,97.9,0.0,SE@0.0,1.4,0.76,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,04:15,40.0,39.5,97.9,0.01,SE@0.0,1.4,0.76,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,04:30,40.0,39.5,98.0,0.0,N @0.0,0.0,0.76,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,04:45,40.0,39.4,98.0,0.0,N @0.0,0.0,0.75,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,05:00,40.0,39.5,98.0,0.0,N @0.0,0.0,0.75,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,05:15,40.1,39.5,98.0,0.0,N @0.0,0.0,0.75,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,05:30,40.0,39.5,98.0,0.01,SW@0.0,2.1,0.75,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,05:45,39.7,39.2,98.0,0.0,SW@2.2,4.9,0.75,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,06:00,39.1,38.4,97.4,0.0,W@0.2,2.4,0.75,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,06:15,38.9,38.1,96.9,0.02,N @0.0,0.0,0.75,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,06:30,38.7,37.7,96.4,0.01,N @0.0,0.0,0.68,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,06:45,38.8,37.8,96.3,0.0,N @0.0,0.0,0.68,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,07:00,38.9,38.0,96.4,0.0,N @0.0,0.0,0.67,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,07:15,39.0,38.1,96.5,0.0,N @0.0,0.0,0.67,3,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,07:30,39.0,38.2,96.7,0.0,N @0.0,0.0,0.68,7,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,07:45,39.2,38.4,96.9,0.0,N @0.0,0.0,0.68,20,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,08:00,39.4,38.7,97.1,0.0,S@0.0,1.7,0.68,35,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,08:15,39.7,39.0,97.2,0.0,N @0.0,0.0,0.68,34,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,08:30,39.9,39.2,97.2,0.0,S@0.1,2.4,0.69,38,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,08:45,40.1,39.3,97.1,0.0,S@0.5,3.5,0.69,65,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,09:00,40.3,39.5,96.6,0.0,SE@1.6,4.6,0.7,126,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,09:15,40.6,39.4,95.5,0.0,S@2.3,4.6,0.71,153,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,09:30,41.1,39.6,94.3,0.0,SE@1.5,3.5,0.71,135,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,09:45,41.0,39.1,92.9,0.0,S@1.6,3.9,0.72,76,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,10:00,41.3,39.2,92.1,0.0,S@1.4,4.2,0.72,88,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,10:15,41.5,39.0,90.7,0.0,S@2.3,4.2,0.72,94,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,10:30,41.9,39.1,89.4,0.0,S@2.4,5.3,0.72,170,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,10:45,43.3,39.8,87.3,0.0,S@2.1,4.2,0.65,258,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,11:00,42.6,38.4,84.9,0.0,SW@2.9,4.9,0.54,101,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,11:15,42.4,38.7,86.8,0.0,SW@3.3,6.4,0.5,74,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,11:30,42.3,39.0,88.0,0.0,SW@2.7,4.9,0.56,66,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,11:45,42.3,39.2,88.8,0.0,SW@3.2,6.0,0.61,130,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,12:00,42.8,39.8,89.1,0.01,W@3.6,5.7,0.63,233,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,12:15,43.6,39.7,85.8,0.0,W@2.8,4.9,0.78,356,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,12:30,43.8,39.1,83.4,0.0,NW@3.0,4.9,0.72,261,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,12:45,44.8,39.8,82.2,0.0,NW@2.7,4.6,0.68,393,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,13:00,44.8,38.9,79.7,0.0,NW@2.9,4.9,0.53,311,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,13:15,45.9,39.5,78.0,0.0,SW@2.8,6.0,0.26,611,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,13:30,45.5,38.8,77.2,0.01,N@4.4,11.4,0.19,251,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,13:45,40.9,37.1,86.0,0.01,NE@2.5,7.4,0.72,72,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,14:00,41.8,38.2,86.9,0.01,SW@1.2,3.5,0.69,332,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,14:15,45.1,39.8,81.7,0.0,S@2.3,4.6,0.69,735,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,14:30,47.5,41.0,77.8,0.0,S@3.1,6.0,0.68,780,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,14:45,47.3,38.8,72.0,0.0,E@3.2,8.2,0.51,258,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,15:00,46.9,38.4,72.2,0.0,W@3.8,7.1,0.29,334,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,15:15,49.3,39.5,68.7,0.0,SW@2.8,5.7,0.04,661,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,15:30,49.4,38.3,65.4,0.0,W@3.0,6.7,0.0,241,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,15:45,49.4,38.1,64.8,0.0,W@3.7,6.0,0.0,440,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,16:00,50.0,37.5,62.2,0.0,W@4.3,7.8,0.0,443,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,16:15,50.3,37.0,60.0,0.0,W@3.6,7.4,0.0,302,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,16:30,50.0,36.3,59.2,0.0,W@4.2,7.4,0.0,287,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,16:45,51.3,35.9,55.4,0.0,W@2.8,6.0,0.0,408,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,17:00,51.3,35.1,53.7,0.0,NW@4.3,8.9,0.0,396,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,17:15,51.8,34.9,52.3,0.0,NW@4.4,8.9,0.0,420,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,17:30,51.7,35.0,52.5,0.0,W@4.5,6.7,0.0,326,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,17:45,51.7,34.1,50.9,0.0,W@4.1,8.5,0.0,281,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,18:00,51.3,33.5,50.3,0.0,W@4.1,7.1,0.0,230,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,18:15,50.9,33.0,50.2,0.0,W@4.2,7.1,0.0,182,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,18:30,50.7,33.1,50.7,0.0,W@3.4,5.7,0.0,140,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,18:45,50.3,33.4,52.2,0.0,SW@2.7,4.9,0.0,97,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,19:00,48.8,33.4,55.2,0.0,W@2.4,4.9,0.0,45,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,19:15,47.2,33.5,58.7,0.0,W@1.5,4.2,0.0,17,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,19:30,44.7,34.5,67.0,0.0,S@0.6,3.9,0.0,9,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,19:45,43.1,36.9,78.4,0.0,E@0.9,3.5,0.0,3,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,20:00,41.6,37.1,83.7,0.0,N @0.0,0.0,0.01,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,20:15,40.0,36.0,85.2,0.0,N @0.0,0.0,0.02,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,20:30,39.3,36.2,88.7,0.0,SW@0.1,1.7,0.04,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,20:45,38.6,36.2,91.0,0.0,N @0.0,0.0,0.07,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,21:00,37.8,35.7,92.1,0.0,E@0.0,1.4,0.11,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,21:15,37.7,36.0,93.6,0.0,N @0.0,0.0,0.18,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,21:30,36.6,35.1,94.3,0.0,N @0.0,0.0,0.26,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,21:45,37.0,35.8,95.4,0.0,N @0.0,0.0,0.35,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,22:00,35.6,34.4,95.5,0.0,N @0.0,0.0,0.42,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,22:15,35.6,34.6,96.0,0.0,N @0.0,0.0,0.49,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,22:30,35.0,34.1,96.2,0.0,N @0.0,0.0,0.54,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,22:45,34.3,33.4,96.5,0.0,N @0.0,0.0,0.59,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,23:00,34.5,33.7,96.9,0.0,N @0.0,0.0,0.64,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,23:15,34.4,33.7,97.1,0.0,N @0.0,0.0,0.67,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,23:30,33.9,33.2,97.3,0.0,N @0.0,0.0,0.69,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,23:45,34.2,33.6,97.5,0.0,N @0.1,2.1,0.72,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-25,24:00,32.8,32.2,97.6,0.0,N @0.0,0.0,0.72,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,00:15,32.9,32.3,97.7,0.0,N @0.0,0.0,0.73,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,00:30,32.9,32.4,97.9,0.0,N @0.0,0.0,0.37,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,00:45,32.3,31.8,98.0,0.0,N @0.0,0.0,0.02,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,01:00,32.0,31.4,98.1,0.0,N @0.0,0.0,0.02,0,45.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,01:15,31.8,31.2,98.1,0.0,N @0.0,0.0,0.02,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,01:30,32.0,31.4,98.3,0.0,N @0.0,0.0,0.02,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,01:45,31.6,31.0,98.3,0.0,N @0.0,0.0,0.01,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,02:00,31.7,31.1,98.4,0.0,N @0.0,0.0,0.02,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,02:15,32.2,31.8,98.5,0.0,N @0.0,0.0,0.03,0,45.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,02:30,32.2,31.9,98.5,0.0,N @0.0,0.0,0.02,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,02:45,32.4,32.0,98.6,0.0,N @0.0,0.0,0.04,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,03:00,32.3,31.9,98.6,0.0,W@0.3,2.1,0.13,0,45.7,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,03:15,33.3,32.9,98.8,0.0,N @0.0,0.0,0.54,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,03:30,34.2,33.9,98.8,0.0,SW@0.2,2.8,0.8,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,03:45,34.8,34.5,98.9,0.0,SW@0.2,1.7,0.79,0,45.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,04:00,35.3,35.0,98.9,0.0,S@0.0,1.7,0.79,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,04:15,35.5,35.2,98.9,0.0,SW@0.4,2.8,0.79,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,04:30,35.9,35.6,98.9,0.0,SE@0.2,2.8,0.79,0,45.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,04:45,36.4,36.1,98.9,0.0,S@0.2,2.1,0.8,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,05:00,36.5,36.2,98.9,0.0,E@0.4,2.8,0.8,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,05:15,37.1,36.8,98.9,0.0,E@0.4,3.9,0.8,0,45.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,05:30,37.4,37.1,98.8,0.0,N @0.0,0.0,0.8,0,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,05:45,37.4,37.1,98.7,0.0,N @0.0,0.0,0.8,0,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,06:00,37.5,37.2,98.7,0.0,N @0.0,0.0,0.81,0,45.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,06:15,37.9,37.6,98.6,0.0,S@0.1,2.8,0.81,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,06:30,38.5,38.1,98.4,0.0,S@1.0,4.9,0.81,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,06:45,38.9,38.3,97.7,0.0,SE@1.1,3.1,0.81,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,07:00,39.1,38.3,96.9,0.0,SE@0.2,2.8,0.81,1,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,07:15,39.0,38.0,96.1,0.0,SE@0.2,2.4,0.82,3,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,07:30,38.9,37.8,95.7,0.0,S@0.1,3.1,0.82,9,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,07:45,39.4,38.0,94.4,0.0,S@1.3,3.9,0.82,20,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,08:00,39.9,37.8,92.0,0.0,SE@0.5,2.8,0.82,45,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,08:15,40.6,38.0,90.5,0.0,S@1.3,4.2,0.82,40,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,08:30,41.3,37.8,87.2,0.0,S@1.6,3.9,0.83,56,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,08:45,41.7,37.7,85.6,0.0,S@1.7,3.9,0.83,36,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,09:00,42.2,37.6,83.7,0.0,S@2.4,5.7,0.83,56,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,09:15,42.8,37.6,81.9,0.0,S@2.9,5.3,0.8,96,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,09:30,43.3,37.1,78.6,0.0,S@3.7,7.1,0.72,110,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,09:45,43.6,36.9,77.3,0.0,S@4.7,8.2,0.55,110,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,10:00,43.9,37.0,76.5,0.0,S@4.3,7.8,0.2,148,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,10:15,44.5,37.3,75.6,0.0,S@3.9,7.8,0.0,175,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,10:30,44.7,36.8,73.6,0.0,S@4.8,8.5,0.0,145,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,10:45,44.5,36.6,73.7,0.0,S@4.4,8.9,0.0,77,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,11:00,44.7,36.6,73.1,0.0,S@5.3,10.7,0.0,130,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,11:15,44.7,36.7,73.2,0.0,SW@4.6,8.5,0.0,80,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,11:30,45.0,36.8,72.7,0.0,S@4.3,8.5,0.0,125,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,11:45,45.3,37.1,72.8,0.0,S@5.3,11.4,0.0,206,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,12:00,45.1,37.7,75.2,0.0,S@5.3,9.6,0.05,190,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,12:15,45.3,38.8,77.8,0.0,S@4.2,7.8,0.11,273,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,12:30,45.7,38.4,75.3,0.0,SW@5.3,12.1,0.02,233,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,12:45,45.7,38.0,74.3,0.0,S@6.8,14.2,0.01,241,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,13:00,44.2,38.9,81.4,0.02,SW@4.3,9.9,0.68,161,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,13:15,44.6,39.7,82.8,0.0,S@3.4,5.7,0.84,260,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,13:30,46.1,40.7,81.1,0.0,S@4.7,12.1,0.75,314,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,13:45,46.4,39.4,76.4,0.0,S@6.2,13.5,0.28,259,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,14:00,46.3,38.6,74.2,0.0,S@6.7,13.9,0.0,286,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,14:15,46.6,38.5,73.2,0.0,S@6.9,12.8,0.0,274,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,14:30,46.8,38.7,73.3,0.0,S@6.2,12.8,0.0,230,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,14:45,46.7,39.2,75.1,0.0,S@5.5,11.7,0.0,227,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,15:00,46.7,39.8,76.6,0.0,S@5.6,11.4,0.0,326,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,15:15,47.6,40.2,75.3,0.0,S@4.4,8.5,0.0,345,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,15:30,48.2,40.2,73.7,0.0,S@4.3,8.2,0.0,303,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,15:45,46.6,39.3,75.5,0.0,SW@4.5,11.0,0.04,133,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,16:00,46.6,40.0,77.6,0.0,S@1.7,4.2,0.01,160,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,16:15,47.4,39.7,74.2,0.0,S@3.2,7.8,0.0,156,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,16:30,47.6,38.5,70.5,0.0,SW@3.9,7.1,0.0,103,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,16:45,47.7,38.0,69.0,0.0,S@3.0,6.0,0.01,80,44.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,17:00,48.0,38.4,69.0,0.0,S@4.8,9.9,0.01,139,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,17:15,48.0,38.1,68.5,0.0,S@4.2,8.5,0.0,93,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,17:30,47.8,37.6,67.7,0.0,S@4.9,8.5,0.0,79,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,17:45,47.8,37.3,66.6,0.0,S@4.4,11.7,0.0,73,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,18:00,47.8,36.7,65.2,0.0,S@5.6,14.6,0.0,58,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,18:15,47.6,36.8,65.8,0.0,S@4.5,9.9,0.0,41,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,18:30,47.5,36.8,66.1,0.0,S@3.9,7.1,0.0,32,44.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,18:45,47.1,37.5,69.3,0.0,S@4.4,9.2,0.02,17,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,19:00,46.5,37.8,71.5,0.0,S@5.3,13.2,0.02,16,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,19:15,46.8,36.9,68.4,0.0,S@5.1,9.9,0.0,9,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,19:30,46.6,37.4,70.0,0.0,S@3.7,9.2,0.0,4,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,19:45,46.3,37.8,72.0,0.0,S@3.5,6.7,0.0,1,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,20:00,45.7,38.7,76.2,0.0,S@2.4,5.7,0.0,0,45.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,20:15,45.2,39.5,80.3,0.0,S@2.1,7.1,0.02,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,20:30,44.6,39.9,83.3,0.0,S@1.5,4.2,0.11,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,20:45,44.5,39.8,83.3,0.0,S@0.6,3.5,0.09,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,21:00,44.1,40.1,85.4,0.0,S@0.1,1.7,0.22,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,21:15,44.0,40.1,86.1,0.0,S@1.1,3.5,0.27,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,21:30,43.9,39.9,85.9,0.0,S@1.6,4.9,0.27,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,21:45,43.9,39.5,84.5,0.0,S@1.7,5.3,0.24,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,22:00,43.7,39.3,84.1,0.0,S@1.3,6.4,0.22,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,22:15,43.7,39.2,83.9,0.0,S@2.5,4.6,0.28,0,45.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,22:30,43.5,39.3,84.8,0.0,S@0.4,3.1,0.36,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,22:45,43.4,39.4,85.7,0.0,S@0.2,3.5,0.42,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,23:00,43.4,39.5,86.0,0.0,N @0.0,0.0,0.58,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,23:15,43.2,39.7,87.4,0.0,N @0.0,0.0,0.7,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,23:30,42.8,39.8,88.9,0.0,S@0.3,2.4,0.8,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,23:45,42.6,39.8,89.9,0.0,N @0.0,0.0,0.81,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
+2020-03-26,24:00,42.7,40.0,90.2,0.0,S@0.0,1.4,0.8,0,45.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:07:24.781698
