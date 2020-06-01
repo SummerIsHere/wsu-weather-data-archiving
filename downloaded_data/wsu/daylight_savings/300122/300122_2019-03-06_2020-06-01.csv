@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2019-03-06,23:15,23.6,22.2,99.3,0.0,E@9.6,12.8,0.23,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-06,23:30,23.6,22.2,99.3,0.0,SE@10.4,13.5,0.23,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-06,23:45,23.6,22.1,99.3,0.0,E@10.0,13.2,0.23,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-06,24:00,23.5,22.0,99.3,0.0,E@7.6,9.6,0.22,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,00:15,23.2,21.8,99.3,0.0,E@8.6,11.0,0.21,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,00:30,23.1,21.7,99.3,0.0,SE@9.3,12.1,0.2,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,00:45,22.9,21.4,99.3,0.0,E@8.7,11.4,0.19,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,01:00,22.7,21.2,99.3,0.0,E@8.2,9.6,0.19,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,01:15,23.1,21.7,99.3,0.0,E@7.8,9.9,0.21,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,01:30,23.9,22.5,99.4,0.0,E@8.7,12.4,0.24,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,01:45,24.3,22.9,99.4,0.0,E@9.2,11.4,0.26,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,02:00,24.8,23.5,99.4,0.0,SE@10.7,15.0,0.28,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,02:15,25.0,23.7,99.3,0.0,SE@11.0,13.9,0.28,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,02:30,25.0,23.8,99.3,0.0,E@10.0,13.9,0.28,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,02:45,25.1,23.9,99.3,0.0,SE@12.6,17.1,0.29,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,03:00,25.1,23.8,99.3,0.0,SE@13.1,17.1,0.28,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,03:15,24.8,23.5,99.3,0.0,SE@14.2,17.8,0.27,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,03:30,24.3,23.0,99.3,0.0,SE@14.0,17.8,0.24,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,03:45,23.8,22.3,99.3,0.0,SE@12.4,14.6,0.22,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,04:00,24.1,22.7,99.3,0.0,S@11.5,15.0,0.24,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,04:15,23.8,22.4,99.3,0.0,SE@11.2,14.6,0.21,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,04:30,23.2,21.7,99.3,0.0,S@11.5,13.9,0.19,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,04:45,22.6,21.0,99.3,0.0,S@9.6,12.8,0.17,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,05:00,21.9,20.3,99.3,0.0,S@8.6,11.4,0.15,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,05:15,21.6,20.0,99.3,0.0,SE@8.0,11.0,0.15,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,05:30,21.1,19.4,99.3,0.0,SE@8.8,10.3,0.14,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,05:45,20.8,19.1,99.3,0.0,SE@8.2,11.0,0.13,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,06:00,20.3,18.5,99.3,0.0,S@7.2,9.9,0.12,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,06:15,20.1,18.4,99.3,0.0,SE@6.9,8.9,0.12,1,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,06:30,20.5,18.7,99.3,0.0,SE@6.7,8.5,0.12,5,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,06:45,20.6,18.8,99.3,0.0,S@6.5,8.5,0.12,42,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,07:00,20.5,18.7,99.3,0.0,SE@6.1,8.5,0.12,102,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,07:15,20.7,19.0,99.3,0.0,SE@6.3,9.9,0.13,152,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,07:30,21.6,20.0,99.3,0.0,E@7.2,9.6,0.15,200,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,07:45,22.1,20.5,99.2,0.0,E@8.5,11.4,0.16,240,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,08:00,23.2,21.7,99.2,0.0,S@9.8,12.8,0.19,278,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,08:15,24.0,22.4,98.2,0.0,E@8.3,11.4,0.21,316,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,08:30,24.8,22.9,96.7,0.0,SE@7.0,9.6,0.23,254,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,08:45,25.4,23.5,96.2,0.0,SE@7.6,9.6,0.26,386,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,09:00,26.7,25.0,96.7,0.0,E@7.7,11.4,0.34,417,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,09:15,28.3,26.5,95.1,0.0,S@7.5,10.3,0.48,449,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,09:30,29.6,27.0,91.6,0.01,E@7.5,9.9,0.76,482,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,09:45,30.1,27.6,91.9,0.02,S@8.4,10.7,1.0,516,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,10:00,30.1,28.5,95.0,0.0,SE@8.9,11.0,0.84,550,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,10:15,31.2,28.8,91.8,0.0,E@8.0,9.6,0.9,599,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,10:30,32.5,30.1,90.9,0.0,SE@7.9,10.3,1.0,656,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,10:45,33.4,30.0,87.1,0.02,E@8.1,12.1,1.0,652,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,11:00,34.2,28.3,78.7,0.0,S@9.7,12.8,1.0,622,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,11:15,34.8,27.9,75.7,0.0,S@9.9,12.8,1.0,633,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,11:30,35.1,27.5,73.6,0.0,S@11.1,15.0,1.0,653,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,11:45,35.4,27.4,72.3,0.0,SE@11.4,15.7,1.0,669,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,12:00,35.7,27.1,70.5,0.0,SE@12.3,16.0,0.99,676,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,12:15,35.7,27.4,71.6,0.0,SE@13.0,16.7,0.95,663,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,12:30,36.2,27.4,70.1,0.0,SE@11.5,16.7,0.94,681,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,12:45,36.6,27.5,69.2,0.0,SE@9.3,13.2,0.92,717,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,13:00,36.3,28.0,71.5,0.0,SE@10.7,13.5,0.88,688,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,13:15,36.2,27.6,70.8,0.0,SE@11.6,15.0,0.78,583,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,13:30,36.7,28.5,72.0,0.0,SE@7.6,9.9,0.31,660,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,13:45,36.5,28.1,71.1,0.0,SE@10.2,13.2,0.0,603,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,14:00,36.4,28.0,71.2,0.0,E@11.2,15.0,0.0,579,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,14:15,36.5,27.6,69.8,0.0,SE@11.7,14.6,0.0,558,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,14:30,36.6,28.0,70.5,0.0,SE@10.6,16.0,0.0,528,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,14:45,36.9,27.8,69.5,0.0,SE@9.7,13.5,0.0,496,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,15:00,37.0,28.0,69.6,0.0,SE@8.0,10.7,0.0,464,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,15:15,36.7,28.0,70.4,0.0,SE@10.3,13.9,0.0,427,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,15:30,36.5,28.4,72.3,0.0,SE@11.0,14.2,0.0,388,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,15:45,36.1,28.9,75.0,0.0,SE@9.7,12.4,0.0,347,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,16:00,35.8,28.7,75.1,0.0,SE@13.0,15.3,0.0,306,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,16:15,35.5,29.3,78.1,0.0,SE@11.5,15.7,0.0,264,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,16:30,35.2,29.6,80.1,0.0,SE@10.1,12.1,0.0,220,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,16:45,35.1,29.1,78.6,0.0,E@10.5,12.8,0.0,177,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,17:00,35.1,28.7,77.4,0.0,E@9.2,10.7,0.0,136,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,17:15,34.1,29.0,81.3,0.0,SE@7.8,8.9,0.0,62,32.5,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,17:30,34.0,29.0,81.6,0.0,E@9.1,10.7,0.0,49,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,17:45,33.4,28.8,83.1,0.0,E@9.0,11.4,0.0,29,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,18:00,33.0,28.6,83.8,0.0,E@7.3,9.6,0.0,6,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,18:15,32.2,28.9,87.6,0.0,E@6.1,8.5,0.0,1,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,18:30,31.7,28.8,89.5,0.0,NE@5.9,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,18:45,31.6,28.7,89.3,0.0,E@6.9,8.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,19:00,31.7,28.4,88.0,0.0,E@8.2,9.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,19:15,31.1,28.0,88.7,0.0,E@3.3,7.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,19:30,30.4,27.9,91.7,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,19:45,32.0,27.8,84.6,0.0,E@4.2,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,20:00,30.4,27.4,89.8,0.0,E@3.9,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,20:15,29.2,27.1,93.4,0.0,SE@1.7,4.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,20:30,28.1,26.7,97.2,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,20:45,26.8,25.8,99.2,0.0,E@2.1,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,21:00,28.0,26.7,97.6,0.0,E@4.5,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,21:15,26.3,25.2,99.2,0.0,E@3.3,4.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,21:30,25.5,24.3,99.2,0.0,E@4.1,4.9,0.05,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,21:45,26.9,25.9,99.1,0.0,E@4.9,6.7,0.01,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,22:00,25.8,24.6,99.2,0.0,E@3.2,4.6,0.03,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,22:15,26.2,25.0,99.2,0.0,E@3.0,5.3,0.07,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,22:30,26.9,25.6,98.2,0.0,E@4.5,5.7,0.07,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,22:45,26.9,25.8,99.1,0.0,E@4.3,6.0,0.06,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,23:00,24.5,23.0,98.6,0.0,E@3.6,4.9,0.01,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,23:15,24.6,23.3,99.3,0.0,E@5.0,6.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,23:30,23.3,21.8,99.3,0.0,SE@3.5,4.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,23:45,22.6,21.1,99.3,0.0,SE@3.4,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-07,24:00,23.1,21.6,99.3,0.0,S@3.3,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,00:15,23.4,21.9,99.3,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,00:30,23.3,21.8,99.3,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,00:45,23.1,21.7,99.3,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,01:00,24.6,23.3,99.3,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,01:15,25.5,24.3,99.3,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,01:30,22.6,21.1,99.3,0.0,N @0.1,4.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,01:45,19.1,17.2,99.3,0.0,N @2.0,4.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,02:00,22.7,21.2,99.3,0.0,N @1.8,3.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,02:15,22.9,21.4,99.3,0.0,SE@0.3,3.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,02:30,22.1,20.5,99.3,0.0,N @0.0,0.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,02:45,22.6,21.1,99.3,0.0,E@0.0,2.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,03:00,22.6,21.1,99.3,0.0,SE@0.6,3.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,03:15,22.3,20.8,99.3,0.0,W@0.2,3.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,03:30,22.5,21.0,99.4,0.0,W@1.6,4.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,03:45,20.8,19.1,99.3,0.0,W@4.2,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,04:00,19.7,17.8,99.3,0.0,W@4.4,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,04:15,17.9,15.8,99.3,0.0,W@3.8,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,04:30,16.0,13.8,99.3,0.0,W@4.5,6.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,04:45,15.2,13.0,99.3,0.0,W@5.2,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,05:00,15.3,13.0,99.3,0.0,W@6.1,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,05:15,15.2,12.9,99.3,0.0,W@7.6,9.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,05:30,14.5,12.2,99.3,0.0,W@7.5,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,05:45,14.5,12.2,99.3,0.0,W@7.0,8.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,06:00,14.5,12.1,99.3,0.0,NW@4.7,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,06:15,14.2,11.9,99.3,0.0,W@1.8,4.2,0.0,1,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,06:30,13.4,11.0,99.3,0.0,W@3.0,3.9,0.0,4,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,06:45,13.8,11.4,99.3,0.0,W@3.9,5.3,0.0,10,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,07:00,12.5,10.0,99.3,0.0,NW@3.9,4.6,0.0,15,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,07:15,11.7,9.1,99.2,0.0,N @3.4,4.2,0.0,19,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,07:30,11.5,8.9,99.2,0.0,N @4.3,4.9,0.0,25,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,07:45,11.7,9.2,99.2,0.0,N @4.3,5.3,0.0,32,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,08:00,11.7,9.1,99.2,0.0,W@3.1,4.2,0.0,34,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,08:15,13.6,11.2,99.3,0.0,W@4.1,4.9,0.0,45,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,08:30,15.0,12.7,99.3,0.0,W@2.8,4.6,0.0,64,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,08:45,16.7,14.6,99.3,0.0,SW@3.1,4.2,0.0,231,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,09:00,19.4,17.5,99.3,0.0,SW@3.4,4.2,0.0,349,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,09:15,20.5,18.7,99.3,0.0,W@3.0,3.9,0.0,376,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,09:30,22.2,20.6,99.3,0.0,SW@2.4,3.5,0.0,413,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,09:45,23.1,21.6,99.3,0.0,SW@3.3,4.2,0.0,445,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,10:00,24.0,22.7,99.3,0.0,N @3.0,3.5,0.03,476,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,10:15,24.9,23.6,99.3,0.0,W@3.4,4.6,0.06,513,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,10:30,26.0,24.9,99.3,0.0,W@4.3,5.3,0.07,545,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,10:45,26.2,25.1,99.3,0.0,NW@4.8,5.7,0.07,596,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,11:00,27.1,26.1,99.3,0.0,W@4.0,5.7,0.09,635,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,11:15,28.4,27.6,99.2,0.0,W@3.9,4.9,0.11,649,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,11:30,28.5,27.7,99.2,0.0,NW@4.0,5.7,0.12,662,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,11:45,28.9,28.1,99.0,0.0,NW@4.6,7.1,0.13,670,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,12:00,29.0,27.9,97.9,0.0,NW@5.5,7.1,0.13,675,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,12:15,29.3,27.9,96.4,0.0,NW@6.1,8.2,0.13,677,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,12:30,29.7,27.7,94.1,0.0,NW@4.9,6.7,0.13,673,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,12:45,29.8,27.2,91.5,0.0,NW@5.2,7.8,0.11,669,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,13:00,30.3,27.4,89.9,0.0,NW@4.9,7.1,0.1,659,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,13:15,31.2,27.2,86.0,0.0,NW@4.6,6.4,0.18,646,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,13:30,31.5,26.7,82.9,0.0,NW@4.4,6.4,0.26,629,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,13:45,32.5,27.0,80.1,0.0,N@3.4,5.3,0.41,605,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,14:00,30.9,27.3,87.6,0.0,NW@3.8,5.3,0.03,586,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,14:15,30.6,27.4,88.9,0.0,N@3.8,5.7,0.0,560,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,14:30,30.4,27.5,90.3,0.0,N @4.4,6.4,0.0,530,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,14:45,30.9,28.0,89.8,0.0,NE@3.8,5.3,0.0,501,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,15:00,30.6,27.9,90.6,0.0,NE@4.1,5.7,0.0,465,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,15:15,30.7,27.9,90.3,0.0,NE@3.7,4.9,0.0,429,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,15:30,31.0,28.2,90.3,0.0,NE@4.0,5.7,0.0,391,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,15:45,30.7,28.4,92.2,0.0,NE@4.5,6.0,0.0,348,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,16:00,30.6,28.3,92.0,0.0,NE@4.2,4.9,0.0,295,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,16:15,30.3,28.1,92.6,0.0,E@4.4,5.7,0.0,245,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,16:30,30.7,29.0,94.5,0.0,E@3.6,4.9,0.0,219,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,16:45,29.9,28.4,95.5,0.0,NE@3.6,6.0,0.0,175,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,17:00,29.6,28.2,96.4,0.0,E@2.4,5.7,0.0,105,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,17:15,28.8,27.9,98.9,0.0,E@0.1,2.8,0.0,54,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,17:30,28.3,27.4,99.0,0.0,SE@1.5,4.6,0.0,20,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,17:45,27.4,26.5,99.2,0.0,SE@3.4,4.6,0.03,10,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,18:00,27.2,26.2,99.2,0.0,E@3.4,4.6,0.07,4,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,18:15,27.8,26.8,99.2,0.0,E@4.1,4.9,0.08,1,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,18:30,26.8,25.8,99.2,0.0,E@3.1,4.2,0.07,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,18:45,24.5,23.2,99.3,0.0,E@2.8,3.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,19:00,24.8,23.5,99.3,0.0,N @2.8,3.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,19:15,24.8,23.5,99.3,0.0,N @3.1,3.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,19:30,25.4,24.2,99.3,0.0,N @4.2,5.3,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,19:45,24.0,22.7,99.3,0.0,N @3.6,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,20:00,22.2,20.7,99.3,0.0,N @3.8,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,20:15,23.0,21.6,99.3,0.0,N @4.2,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,20:30,22.9,21.4,99.3,0.0,N @3.9,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,20:45,23.9,22.6,99.3,0.0,N @4.3,5.3,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,21:00,23.2,21.7,99.3,0.0,N @4.6,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,21:15,22.6,21.1,99.3,0.0,NE@5.0,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,21:30,22.4,20.9,99.3,0.0,NE@5.8,8.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,21:45,23.5,22.1,99.3,0.0,N @5.8,8.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,22:00,22.4,20.9,99.3,0.0,N @5.6,8.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,22:15,21.2,19.5,99.3,0.0,N @5.0,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,22:30,20.2,18.4,99.3,0.0,N @5.0,7.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,22:45,22.0,20.4,99.3,0.0,N@5.9,8.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,23:00,22.0,20.4,99.3,0.0,N@6.8,9.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,23:15,21.0,19.3,99.3,0.0,N @6.9,9.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,23:30,19.7,17.8,99.3,0.0,NE@6.1,9.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,23:45,18.9,17.0,99.3,0.0,N @6.4,9.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-08,24:00,18.7,16.7,99.3,0.0,N @6.3,8.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,00:15,19.3,17.4,99.3,0.0,N @6.9,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,00:30,19.1,17.2,99.3,0.0,N @4.8,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,00:45,18.4,16.5,99.3,0.0,N @6.2,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,01:00,17.7,15.7,99.3,0.0,NE@5.7,8.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,01:15,18.6,16.6,99.3,0.0,N @6.7,9.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,01:30,20.3,18.6,99.3,0.0,N @7.4,12.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,01:45,21.2,19.5,99.4,0.0,N @7.1,10.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,02:00,22.0,20.4,99.4,0.0,N @7.1,8.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,02:15,22.4,20.9,99.4,0.0,N @6.5,9.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,02:30,22.9,21.4,99.4,0.0,N @5.6,7.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,02:45,23.2,21.7,99.4,0.0,N@6.1,8.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,03:00,23.3,21.9,99.4,0.0,N@5.6,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,03:15,23.5,22.1,99.4,0.0,N @4.3,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,03:30,23.6,22.2,99.4,0.0,N @4.7,6.0,0.02,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,03:45,23.6,22.2,99.4,0.0,NE@4.7,7.1,0.01,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,04:00,23.5,22.0,99.4,0.0,N@4.6,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,04:15,23.6,22.2,99.4,0.0,NW@4.6,6.0,0.01,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,04:30,23.6,22.2,99.4,0.0,N@5.3,7.1,0.02,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,04:45,23.6,22.2,99.4,0.0,N @6.0,7.4,0.02,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,05:00,23.7,22.3,99.4,0.0,N @5.8,8.2,0.04,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,05:15,23.8,22.4,99.4,0.0,N @6.6,9.2,0.05,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,05:30,24.0,22.6,99.4,0.0,N @5.9,8.5,0.05,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,05:45,24.0,22.7,99.4,0.0,NW@7.0,9.9,0.02,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,06:00,23.8,22.4,99.4,0.0,W@6.6,8.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,06:15,23.2,21.8,99.4,0.0,W@4.0,6.0,0.0,2,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,06:30,22.5,21.0,99.4,0.0,W@4.3,7.4,0.0,9,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,06:45,19.8,18.0,99.4,0.0,W@5.3,8.5,0.0,18,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,07:00,19.7,17.9,99.3,0.0,W@4.5,7.1,0.0,37,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,07:15,19.9,18.1,99.3,0.0,W@4.2,6.7,0.0,62,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,07:30,20.1,18.3,99.3,0.0,W@5.3,8.2,0.0,83,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,07:45,19.8,18.0,99.3,0.0,W@7.4,9.9,0.0,109,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,08:00,20.7,19.0,99.3,0.0,NW@7.4,8.9,0.0,136,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,08:15,22.0,20.4,99.3,0.0,W@6.7,9.2,0.0,184,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,08:30,22.9,21.4,99.4,0.0,W@7.5,9.6,0.04,225,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,08:45,23.8,22.4,99.4,0.0,W@6.4,9.2,0.06,273,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,09:00,23.7,22.3,99.4,0.0,W@6.9,9.2,0.06,263,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,09:15,24.7,23.4,99.4,0.0,W@6.2,9.2,0.08,334,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,09:30,25.4,24.2,99.4,0.0,W@5.7,8.5,0.09,341,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,09:45,26.6,25.5,99.4,0.0,W@5.3,8.9,0.09,491,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,10:00,27.4,26.5,99.4,0.0,W@5.0,7.4,0.11,530,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,10:15,28.1,27.3,99.4,0.0,W@5.5,8.9,0.13,559,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,10:30,28.7,28.0,99.4,0.0,W@5.5,9.2,0.15,606,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,10:45,29.4,28.8,99.4,0.0,W@5.4,9.2,0.23,586,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,11:00,29.8,29.2,99.4,0.0,W@5.1,8.2,0.25,619,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,11:15,30.0,29.5,99.4,0.0,W@5.5,7.8,0.27,621,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,11:30,30.4,29.9,99.3,0.0,W@5.4,9.2,0.66,590,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,11:45,31.0,30.5,99.3,0.0,W@6.7,9.2,0.94,655,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,12:00,31.7,31.3,99.3,0.0,W@6.8,9.2,1.0,708,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,12:15,32.3,32.1,98.9,0.0,W@6.7,10.7,0.99,688,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,12:30,32.5,31.7,97.0,0.0,W@7.4,11.4,0.87,690,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,12:45,32.6,31.2,94.6,0.0,W@7.5,11.0,0.27,678,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,13:00,32.8,30.8,92.1,0.0,W@7.5,10.3,0.0,693,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,13:15,33.0,30.6,90.8,0.0,W@7.5,11.0,0.0,647,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,13:30,33.5,30.5,88.4,0.0,W@7.8,10.3,0.0,706,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,13:45,33.6,30.1,87.1,0.0,W@7.2,10.3,0.0,573,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,14:00,33.6,29.7,85.3,0.0,W@7.7,11.4,0.0,588,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,14:15,33.8,29.6,84.5,0.0,SW@7.0,10.7,0.0,596,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,14:30,33.6,29.4,84.2,0.0,W@7.3,11.4,0.0,561,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,14:45,34.1,29.5,83.2,0.0,SW@6.2,9.6,0.0,516,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,15:00,33.7,28.9,82.2,0.0,SW@6.7,9.2,0.0,472,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,15:15,34.1,27.8,77.8,0.0,SW@5.9,10.3,0.0,436,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,15:30,34.0,27.6,77.3,0.0,SW@6.2,8.9,0.0,397,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,15:45,33.8,28.3,80.3,0.0,W@6.4,9.2,0.0,356,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,16:00,33.7,28.4,80.6,0.0,SW@6.0,8.2,0.0,315,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,16:15,33.5,28.0,79.9,0.0,W@6.1,9.2,0.0,272,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,16:30,33.2,28.0,81.0,0.0,W@5.7,8.9,0.0,228,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,16:45,32.8,28.3,83.4,0.0,SW@4.8,6.7,0.0,185,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,17:00,32.3,28.0,84.0,0.0,W@5.1,8.5,0.0,142,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,17:15,31.6,27.6,85.5,0.0,SW@5.7,8.2,0.0,101,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,17:30,30.9,27.5,88.0,0.0,SW@4.8,6.7,0.0,65,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,17:45,29.7,27.2,91.8,0.0,W@4.6,5.7,0.0,32,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,18:00,28.8,26.6,93.7,0.0,SW@5.0,6.7,0.0,8,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,18:15,28.2,26.2,94.3,0.0,SW@5.2,7.1,0.0,2,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,18:30,27.6,26.2,97.3,0.0,SW@6.6,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,18:45,26.9,25.8,98.8,0.0,W@6.3,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,19:00,26.4,25.2,98.7,0.0,W@5.8,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,19:15,26.0,24.7,98.5,0.0,SW@5.7,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,19:30,25.4,24.2,99.2,0.0,SW@5.2,6.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,19:45,25.0,23.7,99.2,0.0,W@5.0,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,20:00,24.4,23.1,99.1,0.0,SW@5.3,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,20:15,24.4,23.0,99.2,0.0,SW@6.2,7.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,20:30,24.7,23.4,99.2,0.0,SW@6.7,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,20:45,24.5,23.2,99.2,0.0,SW@6.7,8.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,21:00,24.3,22.8,98.8,0.0,SW@6.5,8.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,21:15,23.8,22.3,99.0,0.0,SW@5.6,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,21:30,22.7,21.2,99.2,0.0,W@4.3,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,21:45,21.9,20.2,99.2,0.0,W@4.5,6.7,0.05,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,22:00,21.2,19.5,99.3,0.0,W@5.7,7.4,0.01,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,22:15,20.0,18.1,99.3,0.0,W@5.9,7.1,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,22:30,19.8,18.0,99.3,0.0,W@7.0,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,22:45,19.8,17.9,99.3,0.0,W@6.5,7.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,23:00,19.9,18.0,99.3,0.0,W@7.8,10.3,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,23:15,19.8,18.0,99.2,0.0,W@7.5,9.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,23:30,19.2,17.3,99.2,0.0,W@6.0,7.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,23:45,18.9,17.0,99.2,0.0,W@5.2,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-09,24:00,18.9,17.0,99.3,0.0,W@5.0,7.1,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,00:15,18.2,16.2,99.2,0.0,NW@5.6,7.1,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,00:30,18.1,16.1,99.3,0.0,W@6.0,7.8,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,00:45,18.1,16.1,99.3,0.0,W@4.7,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,01:00,17.3,15.2,99.3,0.0,W@3.9,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,01:15,16.6,14.5,99.3,0.0,W@4.3,5.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,01:30,17.0,14.8,99.3,0.0,W@4.8,5.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,01:45,16.8,14.7,99.3,0.0,W@3.9,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,03:00,16.8,14.7,99.3,0.0,N @2.7,3.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,03:15,17.2,15.1,99.3,0.0,W@3.0,4.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,03:30,17.6,15.5,99.3,0.0,W@3.6,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,03:45,17.2,15.1,99.3,0.0,W@2.9,3.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,04:00,17.0,14.9,99.3,0.0,W@1.2,3.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,04:15,17.3,15.2,99.3,0.0,W@2.5,3.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,04:30,16.9,14.8,99.3,0.0,W@3.1,3.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,04:45,16.5,14.4,99.3,0.0,NW@4.2,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,05:00,15.4,13.2,99.3,0.0,NE@2.8,3.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,05:15,16.4,14.3,99.3,0.0,N @2.8,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,05:30,12.4,9.9,99.3,0.0,N @4.2,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,05:45,14.9,12.7,99.3,0.0,N @3.8,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,06:00,16.8,14.7,99.3,0.0,N @3.7,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,06:15,17.0,15.0,99.3,0.0,N @2.4,3.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,06:30,16.6,14.4,99.3,0.0,N @0.7,2.1,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,06:45,16.2,14.0,99.3,0.0,N @3.4,6.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,07:00,12.8,10.4,99.3,0.0,NE@4.7,6.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,07:15,12.8,10.3,99.3,0.0,N @5.4,6.7,0.0,2,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,07:30,13.0,10.6,99.3,0.0,N @5.1,6.4,0.0,6,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,07:45,14.1,11.7,99.3,0.0,N@4.9,6.4,0.0,17,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,08:00,15.0,12.7,99.3,0.0,N@4.4,5.7,0.0,33,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,08:15,15.7,13.5,99.3,0.0,NE@4.1,4.9,0.0,59,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,08:30,16.4,14.2,99.3,0.0,N @3.9,4.6,0.0,96,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,08:45,16.7,14.6,99.3,0.0,N @3.6,4.6,0.0,138,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,09:00,17.2,15.1,99.3,0.0,NE@4.4,5.7,0.0,166,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,09:15,18.3,16.3,99.3,0.0,N @4.2,5.7,0.0,210,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,09:30,19.5,17.7,99.3,0.0,N @3.7,4.9,0.0,266,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,09:45,20.1,18.3,99.3,0.0,N @4.6,5.7,0.0,277,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,10:00,20.4,18.7,99.3,0.0,NW@1.9,4.9,0.0,298,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,10:15,21.1,19.5,99.3,0.0,N @0.0,0.0,0.0,342,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,10:30,22.3,20.7,99.3,0.0,NW@0.0,1.4,0.01,411,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,10:45,22.7,21.2,99.3,0.0,N @0.0,0.0,0.04,384,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,11:00,23.2,21.8,99.3,0.0,N @0.0,0.0,0.07,398,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,11:15,24.4,23.1,99.3,0.0,N @0.0,0.0,0.09,494,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,11:30,25.5,24.4,99.4,0.0,W@0.4,5.3,0.17,503,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,11:45,25.9,24.8,99.4,0.0,N @2.7,5.7,0.25,536,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,12:00,26.6,25.6,99.4,0.0,N @2.8,4.6,0.33,674,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,12:15,26.6,25.6,99.3,0.0,N @3.8,5.7,0.19,693,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,12:30,27.5,26.5,99.3,0.0,N @3.4,6.0,0.35,686,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,12:45,27.4,26.5,99.3,0.0,N @4.2,6.4,0.35,515,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,13:00,28.0,27.1,99.3,0.0,E@5.1,7.4,0.16,675,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,13:15,28.6,27.8,99.3,0.0,E@4.3,6.7,0.1,665,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,13:30,28.8,28.0,99.3,0.0,E@4.8,6.0,0.07,653,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,13:45,28.9,28.1,99.3,0.0,SE@5.5,7.4,0.06,670,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,14:00,29.0,28.3,99.3,0.0,SE@5.6,8.2,0.0,677,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,14:15,29.2,28.5,99.3,0.0,E@5.2,7.1,0.0,660,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,14:30,29.5,28.9,99.2,0.0,SE@4.7,6.7,0.0,642,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,14:45,30.0,29.4,99.2,0.0,SE@4.4,6.7,0.0,625,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,15:00,30.1,29.5,99.2,0.0,S@5.1,7.4,0.0,600,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,15:15,30.1,29.3,98.6,0.0,S@5.5,7.8,0.0,571,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,15:30,30.8,29.2,94.9,0.0,SE@3.6,4.9,0.0,544,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,15:45,29.9,28.7,97.0,0.0,SE@4.4,6.4,0.0,311,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,16:00,30.3,29.4,97.9,0.0,SE@4.3,6.4,0.0,467,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,16:15,30.8,29.4,95.7,0.0,E@4.0,5.7,0.0,433,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,16:30,31.1,29.5,94.7,0.0,E@3.5,4.6,0.0,401,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,16:45,31.0,28.8,92.3,0.0,E@3.5,4.9,0.0,360,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,17:00,31.0,28.9,93.0,0.0,E@3.8,4.9,0.0,320,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,17:15,30.9,28.8,92.5,0.0,E@3.2,4.2,0.0,276,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,17:30,30.8,28.6,92.6,0.0,E@3.3,4.2,0.0,233,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,17:45,30.3,28.4,93.9,0.0,E@3.1,4.2,0.0,187,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,18:00,30.3,28.6,94.8,0.0,E@2.4,3.1,0.0,146,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,18:15,30.0,28.3,95.1,0.0,E@2.2,3.1,0.0,106,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,18:30,29.2,27.9,97.0,0.0,E@2.5,3.1,0.0,64,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,18:45,27.1,26.1,99.2,0.0,E@3.9,4.6,0.05,19,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,19:00,25.7,24.5,99.3,0.0,E@4.3,5.3,0.06,4,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,19:15,25.3,24.1,99.3,0.0,E@5.5,7.8,0.05,1,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,19:30,25.3,24.1,99.3,0.0,E@6.4,7.8,0.05,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,19:45,24.6,23.3,99.3,0.0,E@7.2,8.9,0.01,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,20:00,25.0,23.8,99.3,0.0,E@7.7,9.9,0.01,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,20:15,24.8,23.5,99.3,0.0,E@7.9,10.3,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,20:30,24.7,23.4,99.3,0.0,E@9.5,12.8,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,20:45,24.3,23.0,99.3,0.0,E@9.6,13.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,21:00,24.0,22.7,99.3,0.0,E@8.6,11.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,21:15,23.3,21.9,99.3,0.0,E@9.0,10.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,21:30,22.8,21.3,99.3,0.0,E@9.0,11.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,21:45,22.4,20.8,99.3,0.0,E@8.1,9.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,22:00,21.5,19.8,99.3,0.0,E@5.0,7.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,22:15,21.0,19.3,99.3,0.0,E@3.1,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,22:30,21.2,19.6,99.3,0.0,NE@3.8,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,22:45,21.4,19.7,99.3,0.0,E@3.6,5.3,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,23:00,21.1,19.4,99.3,0.0,E@4.3,5.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,23:15,20.9,19.2,99.3,0.0,E@5.2,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,23:30,21.7,20.0,99.3,0.0,E@5.4,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,23:45,21.2,19.5,99.3,0.0,NE@5.7,7.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-10,24:00,20.4,18.7,99.3,0.0,NE@7.1,10.3,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,00:15,20.5,18.8,99.3,0.0,NE@7.4,11.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,00:30,20.7,18.9,99.3,0.0,NE@6.2,8.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,00:45,21.0,19.4,99.3,0.0,NE@6.9,8.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,01:00,20.6,18.9,99.3,0.0,N @7.2,9.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,01:15,19.6,17.8,99.3,0.0,NE@7.3,9.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,01:30,19.2,17.4,99.3,0.0,E@7.0,8.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,01:45,19.2,17.4,99.3,0.0,NE@8.5,10.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,02:00,20.1,18.3,99.3,0.0,NE@10.1,13.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,02:15,21.1,19.4,99.4,0.0,NE@11.0,13.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,02:30,21.7,20.0,99.4,0.0,NE@10.7,13.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,02:45,21.9,20.3,99.4,0.0,NE@11.2,14.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,03:00,22.1,20.5,99.4,0.0,E@9.8,12.8,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,03:15,22.3,20.8,99.4,0.0,E@8.6,10.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,03:30,22.3,20.7,99.4,0.0,NE@9.0,11.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,03:45,22.4,20.8,99.4,0.0,NE@8.3,10.3,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,04:00,22.5,21.0,99.4,0.0,NE@7.0,9.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,04:15,22.6,21.1,99.4,0.0,NE@7.0,8.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,04:30,22.5,21.0,99.4,0.0,NE@6.5,8.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,04:45,22.3,20.8,99.4,0.0,E@6.8,8.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,05:00,22.2,20.6,99.4,0.0,E@6.0,7.8,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,05:15,22.1,20.5,99.4,0.0,E@6.1,7.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,05:30,22.0,20.4,99.4,0.0,E@6.6,8.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,05:45,21.8,20.2,99.4,0.0,NE@6.4,8.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,06:00,21.7,20.1,99.4,0.0,NE@5.5,7.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,06:15,21.7,20.0,99.4,0.0,NE@4.8,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,06:30,21.5,19.8,99.4,0.0,NE@4.9,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,06:45,21.3,19.7,99.4,0.0,NE@5.0,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,07:00,21.2,19.5,99.4,0.0,NE@5.5,7.1,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,07:15,21.2,19.5,99.4,0.0,NE@5.4,8.2,0.0,2,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,07:30,21.1,19.4,99.3,0.0,NE@5.8,7.8,0.0,8,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,07:45,21.2,19.5,99.4,0.0,NE@5.6,7.4,0.0,19,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,08:00,21.2,19.5,99.3,0.0,E@5.2,6.7,0.0,38,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,08:15,21.1,19.5,99.3,0.0,E@5.7,7.1,0.0,61,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,08:30,21.1,19.5,99.3,0.0,E@5.1,7.1,0.0,92,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,08:45,21.5,19.9,99.3,0.0,E@4.2,5.7,0.0,115,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,09:00,21.6,20.0,99.4,0.0,N @3.3,4.2,0.0,90,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,09:15,21.8,20.2,99.4,0.0,N @3.0,4.2,0.0,97,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,09:30,21.9,20.3,99.4,0.0,NE@2.7,3.5,0.0,105,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,09:45,22.3,20.7,99.4,0.0,NE@3.2,4.9,0.0,132,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,10:00,22.4,20.9,99.4,0.0,NE@4.1,5.7,0.0,159,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,10:15,22.6,21.1,99.4,0.0,E@5.5,7.4,0.01,212,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,10:30,23.0,21.5,99.4,0.0,E@5.0,7.1,0.05,243,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,10:45,23.4,22.0,99.4,0.0,N @3.2,4.9,0.06,249,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,11:00,23.9,22.6,99.4,0.0,N @2.0,3.1,0.07,239,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,11:15,24.1,22.8,99.4,0.0,NE@2.2,3.1,0.08,266,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,11:30,24.1,22.8,99.4,0.0,E@2.7,3.9,0.08,255,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,11:45,24.5,23.2,99.4,0.0,NE@2.4,3.1,0.09,286,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,12:00,25.0,23.8,99.4,0.0,NE@3.1,4.6,0.11,340,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,12:15,25.2,24.0,99.4,0.0,NE@3.6,5.3,0.13,356,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,12:30,25.8,24.6,99.4,0.0,E@3.9,6.4,0.15,336,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,12:45,25.8,24.7,99.4,0.0,SE@4.2,6.4,0.21,348,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,13:00,26.1,25.0,99.4,0.0,SE@3.7,5.7,0.22,351,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,13:15,26.4,25.3,99.4,0.0,E@4.3,7.1,0.34,364,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,13:30,26.8,25.8,99.4,0.0,SE@3.8,6.7,0.53,400,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,13:45,26.9,25.9,99.4,0.0,SE@3.3,6.4,0.6,363,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,14:00,27.1,26.1,99.4,0.0,SE@4.1,5.7,0.38,351,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,14:15,27.0,26.1,99.4,0.0,SE@4.7,7.4,0.16,342,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,14:30,27.7,26.8,99.4,0.0,SE@1.2,4.9,0.35,321,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,14:45,27.6,26.7,99.3,0.0,E@3.1,4.9,0.48,311,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,15:00,27.3,26.3,99.3,0.0,E@4.0,6.0,0.18,312,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,15:15,27.3,26.4,99.3,0.0,E@5.6,7.4,0.05,334,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,15:30,27.1,26.2,99.4,0.0,SE@5.2,8.5,0.0,276,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,15:45,27.5,26.5,99.3,0.0,SE@3.5,6.7,0.0,268,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,16:00,27.3,26.3,99.3,0.0,SE@5.2,8.9,0.0,262,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,16:15,27.2,26.3,99.3,0.0,SE@4.8,6.7,0.0,240,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,16:30,27.1,26.1,99.3,0.0,SE@3.4,5.7,0.0,182,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,16:45,27.2,26.3,99.4,0.0,S@2.8,5.3,0.0,163,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,17:00,26.9,26.0,99.4,0.0,E@4.7,6.4,0.0,141,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,17:15,26.9,25.9,99.4,0.0,E@4.6,6.4,0.0,131,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,17:30,26.8,25.7,99.4,0.0,E@5.6,7.4,0.0,99,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,17:45,26.6,25.5,99.4,0.0,E@5.4,7.4,0.0,80,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,18:00,26.6,25.6,99.4,0.0,SE@4.6,6.4,0.0,61,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,18:15,26.4,25.4,99.4,0.0,E@4.8,6.7,0.0,36,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,18:30,26.3,25.2,99.4,0.0,E@5.5,7.1,0.0,18,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,18:45,26.2,25.1,99.4,0.0,E@4.5,6.4,0.0,9,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,19:00,26.1,25.0,99.4,0.0,E@3.3,4.2,0.0,2,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,19:15,26.1,25.0,99.4,0.0,SE@3.7,5.3,0.0,1,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,19:30,26.1,25.0,99.4,0.0,E@3.7,5.3,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,19:45,26.2,25.1,99.4,0.0,SE@4.6,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,20:00,26.1,25.0,99.4,0.0,E@5.2,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,20:15,26.2,25.1,99.4,0.0,E@4.9,6.4,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,20:30,26.1,25.1,99.4,0.0,SE@4.2,5.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,20:45,26.1,25.0,99.4,0.0,SE@3.2,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,21:00,26.1,25.1,99.4,0.0,SE@3.6,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,21:15,26.2,25.1,99.4,0.0,SE@3.1,4.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,21:30,26.2,25.1,99.4,0.0,SE@1.4,3.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,21:45,26.2,25.2,99.4,0.0,E@1.9,3.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,22:00,26.3,25.2,99.4,0.0,E@3.3,4.6,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,22:15,26.4,25.4,99.4,0.0,N @3.6,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,22:30,26.5,25.5,99.4,0.0,N @3.6,4.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,22:45,26.6,25.6,99.4,0.0,N @3.6,6.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,23:00,26.6,25.6,99.4,0.0,N @3.8,6.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,23:15,26.8,25.8,99.4,0.0,N @2.6,3.5,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,23:30,26.9,25.9,99.4,0.0,N @2.6,3.9,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,23:45,27.0,26.0,99.4,0.0,W@0.4,4.2,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-11,24:00,27.0,26.0,99.4,0.0,W@2.1,4.6,0.05,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,00:15,27.1,26.1,99.4,0.0,W@1.7,6.0,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,00:30,26.8,25.8,99.4,0.0,W@3.2,6.7,0.0,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,00:45,26.2,25.1,99.4,0.0,W@5.8,9.9,0.06,0,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,01:00,25.8,24.7,99.4,0.0,W@5.3,7.8,0.07,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,01:15,25.7,24.6,99.4,0.0,W@5.2,8.5,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,01:30,25.8,24.6,99.4,0.0,W@6.0,8.9,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,01:45,25.8,24.6,99.4,0.0,W@5.4,8.2,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,02:00,25.5,24.4,99.4,0.0,W@5.3,7.8,0.08,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,02:15,25.5,24.3,99.4,0.0,W@5.3,8.2,0.08,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,02:30,25.5,24.4,99.4,0.0,NW@5.2,8.2,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,02:45,25.6,24.5,99.4,0.0,W@4.6,7.4,0.11,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,03:00,25.6,24.5,99.4,0.0,W@5.4,8.2,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,03:15,25.6,24.5,99.4,0.0,SW@5.0,7.4,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,03:30,25.6,24.4,99.4,0.0,SW@5.7,7.8,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,03:45,25.5,24.4,99.4,0.0,W@4.6,6.4,0.1,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,04:00,25.5,24.4,99.4,0.0,W@5.3,7.1,0.11,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,04:15,25.6,24.4,99.4,0.0,SW@6.2,7.8,0.11,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,04:30,25.7,24.5,99.4,0.0,W@5.8,8.2,0.12,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,04:45,25.7,24.6,99.4,0.0,W@5.3,7.4,0.12,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,05:00,25.7,24.5,99.4,0.0,W@4.6,7.1,0.12,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,05:15,25.5,24.4,99.4,0.0,W@4.2,6.0,0.11,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,05:30,25.2,23.9,99.4,0.0,W@5.3,8.2,0.1,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,05:45,24.6,23.3,99.4,0.0,W@5.0,7.8,0.1,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,06:00,24.4,23.1,99.4,0.0,W@4.8,7.4,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,06:15,24.3,23.0,99.4,0.0,W@4.4,7.4,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,06:30,24.2,22.8,99.4,0.0,SW@5.5,7.8,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,06:45,24.1,22.7,99.4,0.0,SW@5.6,7.8,0.08,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,07:00,24.0,22.6,99.4,0.0,SW@5.1,7.1,0.08,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,07:15,23.9,22.5,99.4,0.0,SW@5.9,7.8,0.08,1,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,07:30,23.8,22.5,99.4,0.0,SW@6.4,8.5,0.08,2,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,07:45,23.9,22.5,99.4,0.0,SW@6.6,8.9,0.08,12,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,08:00,24.0,22.6,99.4,0.0,SW@6.0,8.2,0.08,25,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,08:15,23.9,22.6,99.4,0.0,SW@5.9,8.2,0.09,45,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,08:30,24.1,22.7,99.4,0.0,SW@5.9,8.9,0.09,83,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,08:45,24.2,22.9,99.4,0.0,SW@5.3,7.4,0.09,93,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,09:00,24.3,23.0,99.4,0.0,SW@5.1,6.7,0.1,141,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,09:15,24.5,23.2,99.4,0.0,SW@5.8,7.8,0.1,171,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,09:30,24.7,23.4,99.4,0.0,SW@5.9,7.4,0.1,190,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,09:45,25.4,24.2,99.4,0.0,SW@4.6,6.7,0.12,276,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,10:00,25.5,24.3,99.3,0.0,SW@5.5,6.7,0.11,335,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,10:15,25.8,24.6,99.3,0.0,SW@5.8,7.4,0.09,366,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,10:30,25.9,24.8,99.3,0.01,SW@6.9,8.2,0.04,366,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,10:45,26.2,25.2,99.3,0.02,SW@6.2,7.4,0.0,347,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,11:00,26.5,25.4,99.3,0.01,SW@6.2,7.8,0.0,331,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,11:15,26.7,25.7,99.3,0.01,SW@7.9,10.3,0.0,392,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,11:30,27.2,26.2,99.3,0.0,S@7.1,8.9,0.0,392,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,11:45,27.5,26.6,99.3,0.0,SW@6.4,7.8,0.0,408,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,12:00,28.2,27.3,99.3,0.0,SW@6.5,8.2,0.0,516,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,12:15,28.4,27.6,99.2,0.02,S@5.6,6.7,0.0,508,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,12:30,29.0,28.0,98.1,0.06,S@5.1,7.1,0.0,556,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,12:45,29.5,27.7,94.7,0.03,S@6.4,8.2,0.0,599,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,13:00,29.8,27.6,93.2,0.0,S@6.0,7.8,0.0,560,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,13:15,29.8,28.0,94.7,0.0,S@7.0,8.9,0.0,467,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,13:30,29.6,28.8,98.6,0.0,S@7.8,10.7,0.0,429,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,13:45,29.9,29.3,99.2,0.0,S@6.3,7.8,0.0,488,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,14:00,30.6,29.3,96.3,0.0,S@6.6,7.8,0.0,617,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,14:15,30.6,29.2,95.6,0.0,S@6.0,7.8,0.0,514,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,14:30,30.8,29.6,96.3,0.0,S@6.7,9.2,0.0,486,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,14:45,30.9,29.9,97.1,0.0,S@6.9,8.9,0.0,482,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,15:00,31.3,30.1,96.4,0.0,S@7.3,9.2,0.0,541,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,15:15,31.4,29.9,94.8,0.0,SE@6.5,8.5,0.0,595,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,15:30,32.2,30.4,93.1,0.0,SE@5.2,7.8,0.0,611,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,15:45,31.9,30.9,96.5,0.0,SE@5.3,7.4,0.0,541,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,16:00,31.7,30.7,96.6,0.0,SE@5.4,7.8,0.0,532,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,16:15,32.2,30.9,94.9,0.0,SE@6.0,7.8,0.0,568,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,16:30,32.4,31.0,94.6,0.0,SE@6.0,7.8,0.0,527,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,16:45,31.5,30.7,97.8,0.0,SE@6.2,7.8,0.0,332,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,17:00,31.4,31.0,99.1,0.0,SE@5.1,7.8,0.0,263,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,17:15,32.2,31.9,99.0,0.0,SE@5.5,7.8,0.0,363,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,17:30,32.0,31.8,99.2,0.0,SE@6.4,8.2,0.0,290,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,17:45,31.1,30.6,99.3,0.0,SE@5.8,8.2,0.0,178,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,18:00,31.2,30.8,99.3,0.0,SE@5.2,6.7,0.0,176,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,18:15,31.7,31.4,99.2,0.0,SE@4.3,6.4,0.0,194,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,18:30,31.5,31.2,99.3,0.0,SE@1.0,3.9,0.0,123,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,18:45,31.0,30.6,99.3,0.0,SE@3.6,4.9,0.0,44,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,19:00,30.3,29.7,99.3,0.0,E@3.0,4.2,0.0,19,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,19:15,30.3,29.8,99.3,0.0,SE@0.5,3.9,0.0,2,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,19:30,30.3,29.7,99.3,0.0,N @0.0,0.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,19:45,30.5,30.0,99.3,0.0,SE@1.6,3.5,0.01,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,20:00,30.2,29.6,99.3,0.0,SE@3.4,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,20:15,30.2,29.7,99.3,0.0,SE@4.3,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,20:30,31.1,30.7,99.3,0.0,SE@5.7,7.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,20:45,31.0,30.6,99.3,0.0,SE@4.2,5.3,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,21:00,30.7,30.3,99.3,0.0,SE@4.2,5.3,0.01,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,21:15,30.0,29.4,99.3,0.0,SE@3.4,4.2,0.08,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,21:30,29.5,28.9,99.3,0.0,SE@4.4,5.3,0.12,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,21:45,28.9,28.2,99.3,0.0,SE@5.2,6.0,0.14,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,22:00,30.0,29.4,99.3,0.0,SE@4.9,6.4,0.13,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,22:15,29.3,28.6,99.3,0.0,SE@5.2,6.0,0.1,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,22:30,29.3,28.6,99.3,0.0,SE@4.6,5.3,0.09,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,22:45,28.8,28.0,99.3,0.0,SE@4.0,5.3,0.1,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,23:00,28.5,27.8,99.3,0.0,SE@1.0,3.5,0.14,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,23:15,28.4,27.6,99.3,0.0,N @0.0,0.0,0.19,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,23:30,28.7,27.9,99.3,0.0,N @0.0,0.0,0.23,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,23:45,28.4,27.6,99.3,0.0,N @0.0,0.0,0.1,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-12,24:00,29.4,28.7,99.3,0.0,N @0.0,0.0,0.12,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,00:15,29.2,28.5,99.2,0.0,S@4.3,8.9,0.11,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,00:30,27.2,26.2,99.2,0.0,S@4.3,6.4,0.07,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,00:45,26.9,25.8,99.3,0.0,S@4.0,5.7,0.07,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,01:00,27.7,26.9,99.3,0.0,S@2.0,3.9,0.08,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,01:15,28.0,27.1,99.3,0.0,N @0.0,0.0,0.07,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,01:30,27.2,26.2,99.3,0.0,N @0.0,0.0,0.07,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,01:45,26.2,25.1,99.3,0.0,N @0.0,0.0,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,02:00,26.4,25.4,99.3,0.0,S@0.1,2.4,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,02:15,26.1,25.0,99.3,0.0,N @0.0,0.0,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,02:30,25.0,23.7,99.2,0.0,SW@2.8,7.4,0.03,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,02:45,22.7,21.2,99.3,0.0,SW@3.6,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,03:00,24.6,23.3,99.3,0.0,S@0.9,3.9,0.03,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,03:15,25.7,24.5,99.3,0.0,N @0.0,0.0,0.01,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,03:30,27.5,26.3,98.4,0.0,N @0.0,0.0,0.05,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,03:45,20.3,17.8,96.3,0.0,S@4.4,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,04:00,21.8,20.1,99.3,0.0,SW@2.0,4.9,0.01,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,04:15,26.2,24.9,98.6,0.0,N @5.4,6.4,0.05,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,04:30,23.8,22.3,98.9,0.0,S@1.9,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,04:45,24.6,23.3,99.2,0.0,N @0.0,0.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,05:00,23.9,22.6,99.3,0.0,N @0.0,0.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,05:15,23.4,22.0,99.3,0.0,N @0.0,0.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,05:30,25.2,24.0,99.3,0.0,N @0.0,0.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,05:45,26.4,25.4,99.3,0.0,SW@2.6,5.7,0.05,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,06:00,25.3,23.8,98.3,0.0,SW@4.2,5.7,0.04,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,06:15,22.7,21.1,99.3,0.0,W@1.8,3.5,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,06:30,24.4,23.1,99.3,0.0,W@3.5,4.6,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,06:45,26.6,25.1,97.6,0.0,SW@3.7,4.6,0.04,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,07:00,24.7,23.4,99.1,0.0,NE@1.3,3.5,0.0,1,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,07:15,24.2,22.9,99.3,0.0,N @0.0,0.0,0.0,3,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,07:30,27.3,25.6,96.3,0.0,N @0.0,0.0,0.06,22,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,07:45,27.1,23.9,90.2,0.0,SW@3.0,5.7,0.05,62,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,08:00,27.2,24.6,92.7,0.0,W@3.5,5.3,0.05,100,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,08:15,26.6,22.7,88.1,0.0,N @0.0,0.0,0.02,142,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,08:30,27.8,24.3,89.1,0.0,N @0.0,0.0,0.06,186,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,08:45,28.4,25.1,89.3,0.0,N @0.0,0.0,0.08,231,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,09:00,29.6,25.2,85.3,0.0,W@2.9,4.2,0.09,276,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,09:15,31.5,24.8,76.6,0.0,W@2.4,3.1,0.11,320,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,09:30,26.4,21.7,85.4,0.0,SW@4.3,6.7,0.07,363,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,09:45,27.0,23.4,89.1,0.0,W@3.7,4.6,0.07,405,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,10:00,31.6,24.9,76.6,0.0,SW@0.3,2.4,0.12,445,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,10:15,31.7,24.6,75.0,0.0,N @0.0,0.0,0.07,483,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,10:30,32.7,25.5,74.7,0.0,N @0.0,0.0,0.01,519,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,10:45,33.5,25.9,73.5,0.0,N @0.0,0.0,0.0,552,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,11:00,32.7,27.2,80.0,0.0,SW@3.4,5.7,0.0,583,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,11:15,34.2,27.2,75.1,0.0,SW@3.2,4.6,0.0,609,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,11:30,36.5,26.7,67.4,0.0,SW@1.9,3.9,0.0,634,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,11:45,37.6,25.3,60.9,0.0,N @0.0,0.0,0.0,655,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,12:00,37.2,26.1,63.7,0.0,N @0.0,0.0,0.0,673,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,12:15,37.0,27.6,68.5,0.0,SW@2.7,5.7,0.0,686,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,12:30,37.3,28.3,69.7,0.0,SW@5.0,6.0,0.0,697,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,12:45,38.3,29.1,69.1,0.0,SW@4.2,5.3,0.0,705,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,13:00,39.0,29.3,67.8,0.0,SW@3.8,4.9,0.0,710,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,13:15,39.3,29.2,66.7,0.0,SW@4.8,6.0,0.0,710,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,13:30,39.2,29.8,68.8,0.0,S@4.6,6.0,0.0,707,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,13:45,39.1,29.6,68.4,0.0,S@5.4,6.7,0.0,700,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,14:00,38.8,29.9,70.1,0.0,S@6.3,7.1,0.0,691,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,14:15,39.0,30.1,70.1,0.0,SW@5.7,6.7,0.0,678,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,14:30,39.5,30.0,68.4,0.0,SW@5.5,7.4,0.0,661,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,14:45,40.1,30.0,67.0,0.0,SW@4.9,6.0,0.0,640,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,15:00,42.1,30.5,63.1,0.0,SW@4.6,7.1,0.0,616,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,15:15,41.1,32.4,70.9,0.0,N @5.7,7.1,0.0,591,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,15:30,40.8,31.7,69.8,0.0,N @5.5,6.4,0.0,563,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,15:45,40.9,32.1,70.6,0.0,N @4.9,6.0,0.0,530,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,16:00,41.2,32.5,71.2,0.0,N @5.2,6.7,0.0,496,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,16:15,41.8,32.6,69.5,0.0,N @4.8,6.4,0.0,459,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,16:30,42.1,32.1,67.4,0.0,N @4.5,5.7,0.0,420,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,16:45,41.3,32.3,70.1,0.0,SE@4.7,6.4,0.0,377,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,17:00,40.5,32.1,71.7,0.0,N @5.4,6.4,0.0,335,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,17:15,40.2,31.8,71.5,0.0,SE@4.9,5.7,0.0,292,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,17:30,39.8,31.4,71.5,0.0,SE@4.0,5.7,0.0,248,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,17:45,37.7,32.4,80.7,0.0,E@0.9,4.6,0.0,204,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,18:00,37.9,31.5,77.6,0.0,E@6.0,8.2,0.0,160,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,18:15,37.5,30.8,76.6,0.0,E@4.4,5.7,0.0,119,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,18:30,37.6,30.2,74.5,0.0,E@4.5,6.4,0.0,76,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,18:45,36.5,29.6,75.8,0.0,E@4.0,5.3,0.0,39,32.6,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,19:00,35.2,29.4,79.2,0.0,E@3.1,4.2,0.0,16,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,19:15,33.8,29.2,83.0,0.0,SE@3.0,3.5,0.0,3,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,19:30,33.5,28.8,82.7,0.0,E@3.0,4.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,19:45,35.1,28.3,75.9,0.0,E@3.7,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,20:00,35.0,27.8,74.9,0.0,SE@5.0,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,20:15,32.6,27.3,80.5,0.0,SE@2.5,6.4,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,20:30,34.6,28.0,76.4,0.0,SE@5.5,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,20:45,32.9,27.5,80.2,0.0,E@5.2,6.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,21:00,30.8,27.8,89.8,0.0,SE@4.2,5.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,21:15,31.4,27.8,87.2,0.0,E@3.4,4.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,21:30,29.7,27.0,91.0,0.0,E@1.2,3.9,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,21:45,30.8,28.4,91.6,0.0,E@2.5,4.6,0.02,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,22:00,30.4,28.4,93.6,0.0,E@4.1,5.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,22:15,30.4,28.2,92.9,0.0,E@4.7,6.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,22:30,31.2,29.3,93.2,0.0,E@3.9,6.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,22:45,29.9,28.3,95.4,0.0,E@1.3,4.2,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,23:00,30.5,28.0,91.5,0.0,E@0.0,1.7,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,23:15,29.2,28.3,98.6,0.0,E@0.7,5.7,0.06,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,23:30,33.2,29.4,85.8,0.0,E@4.1,6.0,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,23:45,28.8,27.2,96.0,0.0,E@4.1,5.7,0.01,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762
+2019-03-13,24:00,29.8,27.8,94.2,0.0,E@4.4,5.3,0.0,0,32.7,"Othello (WSU Othello), Othello, Adams County",300122,Othello,2020-06-01 05:40:31.976762

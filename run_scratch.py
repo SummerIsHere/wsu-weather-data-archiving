@@ -45,7 +45,7 @@ ch.setFormatter(formatter)
 root.addHandler(ch)
 
 
-# Download WSU weather data
+# Download WSU weather data for daylight savings quality control
 logging.info('Getting WSU daylight savings calibrators')
 dtu.get_wsu_daylight_savings(output_folder=dst_folder,station_list_file=sl_file,
                        station_info_file = si_file, gecko_fullpath=gecko_fullpath

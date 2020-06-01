@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F, Atm. Press. inHg,Location,Station ID,Station Name,Download Timestamp
+2013-03-06,23:15,41.1,39.8,94.7,0.02,SE@2.8,4.6,0.52,0,43.8,29.92,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-06,23:30,41.4,40.1,95.0,0.02,SE@2.1,4.2,0.52,0,43.8,29.92,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-06,23:45,41.5,40.2,95.1,0.02,SE@1.0,3.1,0.53,0,43.8,29.92,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-06,24:00,41.6,40.4,95.4,0.01,SE@1.1,3.9,0.52,0,43.8,29.93,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,00:15,41.8,40.6,95.6,0.02,S@0.3,3.1,0.53,0,43.8,29.93,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,00:30,41.9,40.7,95.6,0.02,SE@0.7,2.4,0.53,0,43.8,29.94,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,00:45,41.8,40.7,95.8,0.02,E@1.1,2.4,0.53,0,43.7,29.94,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,01:00,41.8,40.8,96.1,0.02,SE@1.3,3.1,0.53,0,43.7,29.95,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,01:15,41.8,40.9,96.3,0.01,N @0.0,0.0,0.53,0,43.7,29.95,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,01:30,41.8,40.8,96.4,0.02,W@1.1,2.4,0.53,0,43.7,29.96,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,01:45,41.7,40.8,96.9,0.0,E@0.7,2.8,0.52,0,43.7,29.96,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,02:00,41.7,40.9,97.1,0.0,SE@0.0,1.4,0.52,0,43.6,29.96,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,02:15,41.5,40.8,97.2,0.01,W@0.7,2.1,0.53,0,43.6,29.97,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,02:30,41.5,40.7,97.3,0.01,N @0.0,0.0,0.54,0,43.6,29.97,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,02:45,41.5,40.8,97.4,0.01,NW@0.1,1.7,0.54,0,43.6,29.97,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,03:00,41.3,40.7,97.5,0.02,NW@0.6,2.1,0.53,0,43.6,29.97,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,03:15,41.3,40.7,97.6,0.01,N @0.0,0.0,0.52,0,43.5,29.98,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,03:30,41.4,40.8,97.7,0.02,N @0.0,0.0,0.52,0,43.5,29.98,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,03:45,41.4,40.8,97.8,0.01,N @0.0,0.0,0.53,0,43.5,29.98,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,04:00,41.5,40.9,97.9,0.01,N @0.0,0.0,0.53,0,43.5,29.98,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,04:15,41.5,41.0,98.1,0.01,SE@0.8,2.8,0.51,0,43.5,29.98,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,04:30,41.4,40.9,98.1,0.0,SE@0.2,2.1,0.52,0,43.4,29.98,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,04:45,41.4,40.9,98.1,0.01,N @0.0,0.0,0.54,0,43.4,29.99,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,05:00,41.3,40.9,98.1,0.0,N @0.0,0.0,0.53,0,43.4,29.99,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,05:15,41.3,40.8,98.2,0.0,N @0.0,0.0,0.54,0,43.4,29.99,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,05:30,41.1,40.6,98.2,0.01,N @0.0,0.0,0.51,0,43.4,30.0,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,05:45,41.1,40.7,98.3,0.0,SW@0.1,1.4,0.5,0,43.4,30.0,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,06:00,41.1,40.7,98.4,0.0,N @0.0,0.0,0.53,0,43.3,30.0,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,06:15,41.1,40.7,98.4,0.0,N @0.0,0.0,0.53,0,43.3,30.01,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,06:30,41.0,40.6,98.4,0.0,N @0.0,0.0,0.54,1,43.3,30.01,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,06:45,41.0,40.6,98.4,0.0,N @0.0,0.0,0.5,2,43.3,30.02,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,07:00,41.0,40.6,98.4,0.0,N @0.0,0.0,0.52,10,43.3,30.02,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,07:15,41.1,40.7,98.4,0.0,N @0.0,0.0,0.53,21,43.3,30.02,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,07:30,41.4,41.0,98.4,0.0,N @0.0,0.0,0.53,32,43.2,30.03,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,07:45,41.6,41.2,98.6,0.0,N @0.0,0.0,0.53,41,43.2,30.03,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,08:00,42.1,41.8,98.7,0.0,SE@0.0,1.7,0.53,56,43.2,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,08:15,42.5,42.2,98.6,0.0,E@0.7,2.8,0.52,96,43.2,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,08:30,43.2,42.8,98.5,0.0,N@0.2,2.1,0.53,115,43.2,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,08:45,43.5,43.1,98.2,0.0,NW@1.0,2.4,0.54,160,43.2,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,09:00,44.8,44.2,97.8,0.0,NW@1.7,3.5,0.49,275,43.1,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,09:15,45.5,44.7,96.8,0.0,N@0.4,4.2,0.42,174,43.1,30.06,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,09:30,46.0,44.7,94.9,0.0,E@0.1,1.4,0.38,149,43.1,30.06,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,09:45,46.2,44.2,92.7,0.0,NE@0.2,2.4,0.35,146,43.1,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,10:00,46.9,44.4,91.1,0.0,NW@2.1,3.9,0.26,232,43.1,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,10:15,47.7,44.5,88.5,0.0,N@2.8,4.6,0.06,284,43.1,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,10:30,49.0,44.4,84.0,0.0,NE@1.3,7.4,0.0,436,43.0,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,10:45,49.9,42.0,74.0,0.0,SW@3.6,8.9,0.0,374,43.0,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,11:00,49.9,41.3,72.3,0.0,SW@3.3,8.2,0.0,339,43.0,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,11:15,49.9,40.6,70.1,0.0,SW@3.6,9.2,0.0,279,43.0,30.08,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,11:30,50.4,41.3,71.0,0.0,SW@3.2,7.8,0.0,288,43.1,30.08,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,11:45,50.6,40.9,69.1,0.0,SW@4.0,7.8,0.0,385,43.1,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,12:00,51.2,40.8,67.4,0.0,SW@3.0,6.4,0.0,370,43.1,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,12:15,52.2,40.6,64.4,0.0,SW@4.4,9.6,0.0,559,43.1,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,12:30,52.5,39.7,61.7,0.0,SW@4.4,10.3,0.0,566,43.2,30.06,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,12:45,52.6,39.3,60.5,0.0,SW@3.7,7.1,0.0,363,43.2,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,13:00,52.4,39.7,61.7,0.0,W@3.7,7.4,0.0,303,43.3,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,13:15,52.3,39.4,61.3,0.0,SW@4.4,10.7,0.0,292,43.4,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,13:30,53.4,39.7,59.5,0.0,W@4.5,9.2,0.0,450,43.5,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,13:45,53.3,39.5,59.3,0.0,W@5.5,9.6,0.0,400,43.5,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,14:00,53.7,40.1,59.8,0.0,W@5.9,9.6,0.0,529,43.6,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,14:15,53.7,39.3,58.0,0.0,W@3.9,7.1,0.0,405,43.7,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,14:30,53.3,39.2,58.7,0.0,NW@3.0,6.7,0.0,362,43.8,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,14:45,53.0,39.6,60.2,0.0,NW@4.8,7.8,0.0,262,44.0,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,15:00,53.1,40.2,61.4,0.0,NW@6.2,9.2,0.0,289,44.1,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,15:15,53.0,39.9,61.0,0.0,NW@4.3,7.4,0.0,252,44.2,30.04,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,15:30,52.9,40.3,61.9,0.0,NW@4.1,6.7,0.0,200,44.3,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,15:45,53.0,39.7,60.4,0.0,N@4.0,7.4,0.0,208,44.5,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,16:00,53.5,39.9,59.9,0.0,NW@4.5,7.4,0.0,295,44.6,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,16:15,53.0,39.7,60.3,0.0,NW@4.2,6.7,0.0,185,44.7,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,16:30,52.9,39.5,60.1,0.0,NW@3.8,6.0,0.0,125,44.8,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,16:45,52.1,39.3,61.7,0.0,N@4.1,6.7,0.0,88,45.0,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,17:00,51.9,39.3,62.2,0.0,N@3.5,6.7,0.0,89,45.1,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,17:15,51.9,39.0,61.3,0.0,NW@4.1,7.4,0.0,58,45.2,30.05,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,17:30,51.6,39.1,62.2,0.0,NW@3.6,5.7,0.0,33,45.4,30.06,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,17:45,51.3,39.5,63.9,0.0,NW@2.7,4.9,0.0,12,45.5,30.06,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,18:00,50.6,40.3,67.6,0.0,SW@2.1,5.3,0.0,6,45.6,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,18:15,49.5,41.4,73.5,0.0,SE@1.8,4.9,0.0,2,45.7,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,18:30,48.8,41.2,74.8,0.0,S@2.0,5.3,0.0,0,45.8,30.07,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,18:45,48.4,40.6,74.3,0.0,W@1.8,3.5,0.0,0,46.0,30.08,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,19:00,47.5,40.9,77.8,0.0,S@0.9,2.8,0.0,0,46.0,30.08,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,19:15,47.0,40.8,79.1,0.0,SE@0.3,2.1,0.0,0,46.1,30.08,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,19:30,46.6,40.4,79.0,0.0,SE@0.5,2.1,0.0,0,46.2,30.08,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,19:45,46.0,40.2,80.1,0.0,E@0.1,1.7,0.0,0,46.3,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,20:00,44.9,40.1,83.2,0.0,E@0.6,2.8,0.0,0,46.4,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,20:15,44.0,39.6,84.3,0.0,S@0.4,2.1,0.0,0,46.4,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,20:30,42.5,39.0,87.3,0.0,E@1.0,3.5,0.0,0,46.5,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,20:45,41.9,38.9,89.0,0.0,S@0.1,1.7,0.0,0,46.5,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,21:00,40.8,38.1,89.8,0.0,SE@0.4,2.4,0.03,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,21:15,40.1,37.6,90.8,0.0,N @0.0,0.0,0.07,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,21:30,39.0,36.6,91.0,0.0,N @0.0,0.0,0.1,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,21:45,38.7,36.6,92.2,0.0,E@0.5,3.1,0.13,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,22:00,38.7,36.8,92.9,0.0,SE@0.1,1.7,0.18,0,46.7,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,22:15,37.7,35.8,92.8,0.0,N @0.0,0.0,0.23,0,46.7,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,22:30,36.6,34.9,93.3,0.0,N @0.0,0.0,0.32,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,22:45,36.9,35.3,93.9,0.0,N @0.0,0.0,0.42,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,23:00,36.8,35.3,94.1,0.0,N @0.0,0.0,0.49,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,23:15,36.3,34.9,94.3,0.0,E@0.3,2.1,0.54,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,23:30,36.3,34.9,94.7,0.0,E@0.2,2.1,0.57,0,46.6,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,23:45,35.8,34.4,94.7,0.0,N @0.0,0.0,0.6,0,46.5,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-07,24:00,35.3,34.0,94.8,0.0,SE@0.8,2.8,0.61,0,46.5,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,00:15,35.4,34.2,95.3,0.0,S@0.6,2.4,0.63,0,46.5,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,00:30,35.9,34.7,95.7,0.0,E@0.7,2.4,0.65,0,46.4,30.09,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,00:45,36.5,35.4,95.9,0.0,N @0.5,2.8,0.65,0,46.4,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,01:00,36.8,35.7,95.8,0.0,NE@0.3,1.7,0.66,0,46.3,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,01:15,36.3,35.2,95.8,0.0,SE@0.1,1.7,0.66,0,46.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,01:30,36.4,35.4,96.1,0.0,E@0.1,1.7,0.67,0,46.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,01:45,36.7,35.8,96.2,0.0,NE@0.0,1.4,0.68,0,46.1,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,02:00,37.0,36.0,96.4,0.0,E@1.0,2.4,0.69,0,46.0,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,02:15,36.8,35.9,96.6,0.0,NE@0.4,2.8,0.7,0,45.9,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,02:30,36.8,36.0,96.8,0.0,NE@0.0,1.4,0.71,0,45.8,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,02:45,36.9,36.1,96.9,0.0,NW@0.3,2.1,0.73,0,45.8,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,03:00,36.5,35.7,96.9,0.0,W@2.0,3.1,0.75,0,45.7,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,03:15,36.0,35.3,97.2,0.0,W@1.6,2.8,0.78,0,45.6,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,03:30,36.1,35.5,97.5,0.0,W@0.8,2.4,0.8,0,45.5,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,03:45,36.5,35.9,97.7,0.0,NW@0.2,2.1,0.83,0,45.5,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,04:00,36.9,36.3,97.7,0.0,NW@0.2,2.1,0.85,0,45.4,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,04:15,37.0,36.4,97.9,0.0,E@2.0,3.9,0.85,0,45.3,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,04:30,37.0,36.5,98.1,0.0,E@2.1,3.1,0.85,0,45.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,04:45,36.9,36.4,98.2,0.0,E@2.0,4.2,0.84,0,45.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,05:00,36.7,36.2,98.3,0.0,E@1.7,3.5,0.83,0,45.1,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,05:15,36.7,36.3,98.4,0.0,E@3.1,4.9,0.83,0,45.0,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,05:30,36.5,36.1,98.4,0.0,E@2.5,3.9,0.82,0,44.9,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,05:45,36.2,35.8,98.4,0.0,E@2.5,4.9,0.82,0,44.9,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,06:00,36.2,35.8,98.5,0.0,E@1.4,3.1,0.82,0,44.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,06:15,36.2,35.8,98.5,0.0,NE@1.0,2.8,0.82,0,44.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,06:30,36.0,35.7,98.6,0.0,NE@1.2,3.1,0.82,1,44.7,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,06:45,35.9,35.6,98.6,0.0,NE@0.9,2.8,0.82,2,44.6,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,07:00,35.9,35.5,98.6,0.0,E@1.4,3.1,0.82,8,44.6,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,07:15,35.9,35.6,98.7,0.0,SE@1.9,3.5,0.82,15,44.5,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,07:30,36.2,35.9,98.8,0.0,SE@1.3,2.8,0.82,29,44.5,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,07:45,36.4,36.1,98.8,0.0,E@2.3,4.2,0.81,40,44.4,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,08:00,36.6,36.3,98.7,0.0,E@2.0,3.9,0.79,70,44.4,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,08:15,36.8,36.4,98.7,0.0,E@1.9,4.2,0.78,118,44.3,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,08:30,37.2,36.9,98.7,0.0,E@1.0,3.1,0.75,138,44.3,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,08:45,37.7,37.4,98.8,0.0,N@2.2,4.6,0.71,122,44.2,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,09:00,38.3,37.9,98.3,0.0,E@2.9,5.7,0.64,291,44.2,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,09:15,39.2,38.8,98.2,0.0,E@3.1,6.4,0.49,293,44.1,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,09:30,39.5,39.0,98.2,0.0,SE@3.1,5.3,0.4,245,44.1,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,09:45,40.4,39.9,97.8,0.0,SE@3.5,5.3,0.32,296,44.0,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,10:00,41.2,40.5,97.2,0.0,SE@3.2,6.0,0.16,269,44.0,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,10:15,42.5,41.2,95.2,0.0,SE@2.2,4.2,0.01,327,43.9,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,10:30,43.8,41.6,91.6,0.0,SE@3.1,5.7,0.0,468,43.9,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,10:45,44.9,41.8,88.7,0.0,S@2.4,4.9,0.0,521,43.9,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,11:00,45.6,41.0,83.9,0.0,NW@4.2,7.1,0.0,476,43.9,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,11:15,46.3,40.8,80.9,0.0,N@3.0,5.3,0.0,446,43.8,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,11:30,47.7,41.2,77.9,0.0,W@4.3,7.4,0.0,548,43.8,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,11:45,47.3,40.9,78.1,0.0,W@4.4,9.2,0.0,337,43.8,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,12:00,48.3,40.5,74.3,0.0,NW@5.4,8.9,0.0,367,43.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,12:15,48.4,40.4,73.8,0.0,NW@4.3,8.2,0.0,433,43.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,12:30,49.8,40.9,71.4,0.0,NW@4.8,10.7,0.0,562,43.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,12:45,50.3,41.1,70.5,0.0,NW@6.4,12.1,0.0,602,43.9,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,13:00,50.4,40.9,69.8,0.0,W@5.6,9.6,0.0,609,44.0,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,13:15,50.8,41.2,69.4,0.0,W@5.4,9.9,0.0,611,44.0,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,13:30,51.2,41.1,68.2,0.0,W@5.4,9.2,0.0,598,44.1,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,13:45,51.5,41.1,67.4,0.0,W@5.2,9.2,0.0,582,44.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,14:00,52.0,41.2,66.4,0.0,NW@5.9,9.2,0.0,563,44.3,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,14:15,52.5,41.1,65.1,0.0,NW@6.7,10.7,0.0,541,44.3,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,14:30,52.7,41.4,65.1,0.0,NW@7.2,11.4,0.0,517,44.4,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,14:45,52.8,40.6,62.9,0.0,NW@7.0,10.3,0.0,491,44.6,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,15:00,53.2,40.2,61.2,0.0,NW@6.7,10.3,0.0,463,44.7,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,15:15,53.5,39.6,59.3,0.0,NW@5.7,11.7,0.0,431,44.8,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,15:30,53.6,39.5,58.7,0.0,N@4.9,9.2,0.0,396,44.9,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,15:45,53.7,39.6,58.7,0.0,N@5.0,9.9,0.0,360,45.0,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,16:00,53.7,39.9,59.4,0.0,N@4.8,9.9,0.0,321,45.2,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,16:15,53.7,39.0,57.3,0.0,NW@5.1,9.6,0.0,285,45.3,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,16:30,53.0,38.4,57.4,0.0,NW@6.2,11.0,0.0,247,45.5,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,16:45,53.1,38.3,57.0,0.0,N@4.2,7.8,0.0,207,45.6,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,17:00,52.4,38.6,59.2,0.0,N@5.2,8.5,0.0,166,45.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,17:15,52.0,38.3,59.5,0.0,N@4.5,7.8,0.0,128,45.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,17:30,51.3,38.2,60.7,0.0,NW@4.4,7.1,0.0,82,46.1,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,17:45,50.4,38.3,63.0,0.0,NW@4.7,7.4,0.0,44,46.2,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,18:00,48.7,38.2,66.8,0.0,NW@4.6,7.8,0.0,11,46.4,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,18:15,48.0,38.0,68.1,0.0,NW@4.5,8.2,0.0,4,46.5,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,18:30,46.8,38.1,71.4,0.0,NW@3.0,4.6,0.0,1,46.6,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,18:45,46.2,38.1,73.2,0.0,W@3.5,5.7,0.0,0,46.7,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,19:00,45.2,38.0,75.5,0.0,W@2.9,4.6,0.0,0,46.8,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,19:15,44.2,37.8,78.3,0.0,W@2.8,4.9,0.0,0,47.0,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,19:30,43.2,37.5,80.1,0.0,W@1.2,3.5,0.0,0,47.0,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,19:45,42.6,37.4,81.6,0.0,W@0.3,2.4,0.0,0,47.1,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,20:00,41.9,37.2,83.2,0.0,S@0.1,2.1,0.0,0,47.2,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,20:15,39.9,35.8,85.0,0.0,NW@0.4,2.8,0.0,0,47.2,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,20:30,39.1,35.8,87.8,0.0,SE@0.3,2.4,0.0,0,47.3,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,20:45,39.1,36.3,89.4,0.0,W@0.1,1.4,0.04,0,47.3,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,21:00,38.6,35.9,90.0,0.0,SE@0.2,1.7,0.07,0,47.4,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,21:15,37.9,35.3,90.2,0.0,W@0.2,2.8,0.11,0,47.4,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,21:30,37.2,34.9,91.1,0.0,E@0.3,2.1,0.16,0,47.4,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,21:45,37.3,35.3,92.2,0.0,N @0.0,0.0,0.22,0,47.4,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,22:00,36.7,34.7,92.2,0.0,N @0.0,0.0,0.28,0,47.4,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,22:15,35.6,33.6,92.3,0.0,NW@0.0,1.4,0.37,0,47.3,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,22:30,34.8,32.8,92.4,0.0,NW@0.0,1.4,0.47,0,47.3,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,22:45,35.3,33.6,93.3,0.0,N @0.0,0.0,0.56,0,47.3,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,23:00,35.4,33.7,93.5,0.0,N @0.0,1.4,0.62,0,47.2,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,23:15,34.9,33.3,93.6,0.0,S@0.0,1.4,0.65,0,47.2,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,23:30,34.4,32.8,93.6,0.0,N @0.0,0.0,0.67,0,47.1,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,23:45,34.1,32.7,94.2,0.0,N @0.0,0.0,0.69,0,47.1,30.24,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-08,24:00,34.2,32.7,94.3,0.0,N @0.0,0.0,0.7,0,47.0,30.25,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,00:15,33.8,32.4,94.5,0.0,SE@0.2,2.1,0.71,0,46.9,30.25,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,00:30,33.5,32.1,94.7,0.0,E@1.1,2.4,0.72,0,46.8,30.25,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,00:45,33.4,32.1,95.1,0.0,E@1.8,2.4,0.73,0,46.8,30.26,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,01:00,32.8,31.5,94.9,0.0,N @0.0,0.0,0.73,0,46.7,30.26,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,01:15,32.0,30.7,94.8,0.0,N @0.0,0.0,0.74,0,46.6,30.27,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,01:30,32.0,30.8,95.2,0.0,N @0.0,0.0,0.3,0,46.5,30.27,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,01:45,32.2,31.0,95.2,0.0,N @0.0,0.0,0.0,0,46.4,30.28,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,02:00,32.0,30.7,95.3,0.0,E@0.4,2.4,0.0,0,46.3,30.28,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,02:15,31.6,30.3,95.3,0.0,N @0.0,0.0,0.0,0,46.2,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,02:30,31.3,29.9,95.3,0.0,N @0.0,0.0,0.0,0,46.1,30.28,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,02:45,31.2,29.8,95.5,0.0,N @0.0,0.0,0.0,0,46.0,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,03:00,31.1,29.8,95.6,0.0,N @0.0,0.0,0.0,0,45.9,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,03:15,30.9,29.5,95.5,0.0,N @0.0,0.0,0.0,0,45.8,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,03:30,30.5,29.0,95.5,0.0,N @0.0,0.0,0.0,0,45.7,30.3,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,03:45,30.4,29.0,95.7,0.0,S@0.0,1.4,0.0,0,45.6,30.3,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,04:00,30.5,29.1,95.7,0.0,N @0.0,0.0,0.0,0,45.5,30.31,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,04:15,30.2,28.8,95.7,0.0,N @0.0,0.0,0.0,0,45.4,30.31,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,04:30,30.2,28.8,95.7,0.0,N @0.0,0.0,0.0,0,45.3,30.31,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,04:45,30.1,28.7,95.8,0.0,N @0.0,0.0,0.0,0,45.2,30.32,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,05:00,29.8,28.3,95.7,0.0,SE@0.2,2.1,0.0,0,45.1,30.32,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,05:15,29.5,27.9,95.7,0.0,SE@0.2,2.1,0.0,0,45.0,30.33,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,05:30,29.4,27.9,95.8,0.0,N @0.0,0.0,0.0,0,44.9,30.33,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,05:45,29.8,28.3,95.8,0.0,SE@0.0,1.4,0.0,0,44.8,30.33,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,06:00,29.3,27.6,95.6,0.0,N @0.0,0.0,0.0,0,44.7,30.34,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,06:15,29.2,27.5,95.6,0.0,N @0.0,0.0,0.0,0,44.6,30.35,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,06:30,29.2,27.6,95.9,0.0,N @0.0,0.0,0.0,2,44.5,30.35,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,06:45,29.5,28.0,95.9,0.0,SE@0.2,1.7,0.0,7,44.4,30.36,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,07:00,29.5,28.0,95.8,0.0,SE@1.5,2.1,0.0,24,44.3,30.36,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,07:15,30.3,28.9,95.8,0.0,SE@0.3,2.1,0.0,57,44.2,30.37,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,07:30,31.0,29.7,95.8,0.0,SE@0.2,1.7,0.09,69,44.1,30.39,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,07:45,31.7,30.6,96.0,0.0,E@1.1,3.5,0.22,88,44.0,30.4,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,08:00,32.8,31.7,95.9,0.0,SE@1.3,3.9,0.23,102,43.9,30.4,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,08:15,34.5,33.2,95.2,0.0,E@1.4,3.5,0.76,237,43.8,30.41,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,08:30,36.0,34.1,93.0,0.0,E@2.8,4.9,0.82,281,43.7,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,08:45,37.3,34.8,90.7,0.0,SE@3.1,5.3,0.78,320,43.6,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,09:00,39.2,36.0,88.4,0.0,SE@2.4,4.9,0.71,360,43.6,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,09:15,40.6,36.3,84.2,0.0,E@3.2,5.7,0.56,396,43.4,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,09:30,41.9,36.5,81.1,0.0,E@2.6,4.2,0.29,428,43.4,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,09:45,43.2,37.0,78.6,0.0,E@2.3,4.9,0.02,455,43.3,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,10:00,44.6,37.5,75.7,0.0,W@1.7,4.6,0.0,480,43.2,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,10:15,46.0,38.1,73.7,0.0,W@2.6,4.9,0.0,509,43.1,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,10:30,46.5,38.4,73.0,0.0,NW@2.9,5.3,0.0,538,43.0,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,10:45,47.6,38.9,71.5,0.0,NW@3.7,6.0,0.0,560,42.9,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,11:00,48.3,39.3,71.0,0.0,NW@2.8,5.7,0.0,580,42.9,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,11:15,49.2,40.0,70.4,0.0,NW@5.0,7.4,0.0,598,42.8,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,11:30,49.5,40.5,70.8,0.0,NW@6.0,9.2,0.0,609,42.7,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,11:45,49.9,41.0,71.3,0.0,NW@6.3,9.9,0.0,617,42.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,12:00,49.7,41.3,72.6,0.0,NW@6.5,9.2,0.0,623,42.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,12:15,50.4,42.1,73.0,0.0,NW@5.7,9.2,0.0,626,42.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,12:30,50.9,41.9,71.0,0.0,NW@4.6,7.1,0.0,631,42.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,12:45,51.6,42.3,70.2,0.0,NW@4.6,7.4,0.0,632,42.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,13:00,52.1,42.2,68.8,0.0,NW@3.9,7.4,0.0,628,42.7,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,13:15,53.7,42.2,64.8,0.0,NW@2.7,6.7,0.0,620,42.8,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,13:30,54.6,40.9,59.6,0.0,SW@3.3,6.0,0.0,539,42.8,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,13:45,55.4,40.9,58.0,0.0,SW@2.5,4.6,0.0,563,42.9,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,14:00,56.2,41.4,57.3,0.0,W@3.8,7.4,0.0,568,43.0,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,14:15,56.2,40.2,54.9,0.0,NW@3.1,6.0,0.0,544,43.1,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,14:30,56.3,39.7,53.7,0.0,NW@4.4,8.5,0.0,524,43.3,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,14:45,56.5,39.6,52.9,0.0,NW@5.1,10.7,0.0,494,43.4,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,15:00,56.5,39.7,53.1,0.0,NW@5.1,7.8,0.0,463,43.5,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,15:15,56.9,38.9,50.9,0.0,NW@5.1,9.2,0.0,430,43.7,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,15:30,56.6,37.9,49.5,0.0,NW@5.8,8.5,0.0,396,43.8,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,15:45,57.0,37.7,48.3,0.0,N@4.3,8.5,0.0,359,44.0,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,16:00,57.0,36.8,46.7,0.0,NW@5.5,8.9,0.0,326,44.2,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,16:15,57.0,35.4,44.1,0.0,NW@5.1,8.9,0.0,285,44.4,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,16:30,56.9,34.9,43.5,0.0,NW@4.5,7.4,0.0,240,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,16:45,56.8,34.9,43.7,0.0,N@4.0,7.1,0.0,193,44.8,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,17:00,56.5,35.4,44.9,0.0,N@3.8,7.1,0.0,126,45.0,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,17:15,55.6,36.3,48.2,0.0,N@3.3,6.4,0.0,95,45.1,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,17:30,55.2,37.3,50.9,0.0,NW@2.3,4.6,0.0,61,45.3,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,17:45,53.8,38.4,55.7,0.0,W@1.0,2.8,0.0,43,45.5,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,18:00,51.0,38.7,62.7,0.0,S@0.2,1.7,0.0,15,45.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,18:15,48.6,39.1,69.4,0.0,NW@0.1,1.7,0.0,3,45.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,18:30,46.2,38.2,73.5,0.0,W@0.2,2.8,0.0,1,46.0,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,18:45,44.7,37.8,76.4,0.0,NW@0.1,2.1,0.0,0,46.2,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,19:00,44.4,37.5,76.5,0.0,N @0.0,0.0,0.0,0,46.3,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,19:15,43.8,37.4,77.8,0.0,N @0.0,0.0,0.0,0,46.4,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,19:30,43.3,37.0,78.3,0.0,N @0.0,0.0,0.0,0,46.5,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,19:45,42.2,36.7,80.6,0.0,W@0.1,3.1,0.0,0,46.6,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,20:00,41.1,36.4,83.3,0.0,E@0.3,2.1,0.0,0,46.7,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,20:15,40.3,36.1,84.5,0.0,E@0.1,1.7,0.0,0,46.8,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,20:30,40.2,36.6,86.7,0.0,SE@1.6,2.8,0.0,0,46.9,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,20:45,40.1,36.2,86.0,0.0,SE@0.4,1.7,0.04,0,46.9,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,21:00,39.8,35.9,85.8,0.0,NW@0.0,1.4,0.07,0,47.0,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,21:15,38.9,35.0,85.7,0.0,W@0.0,1.4,0.08,0,47.0,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,21:30,39.1,35.4,86.5,0.0,SE@0.5,2.8,0.1,0,47.0,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,21:45,39.2,34.9,84.4,0.0,SE@0.4,1.7,0.12,0,47.1,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,22:00,38.6,34.9,86.6,0.0,E@0.1,1.4,0.16,0,47.1,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,22:15,37.7,34.3,87.5,0.0,N @0.0,0.0,0.21,0,47.1,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,22:30,36.9,33.9,88.7,0.0,N @0.0,0.0,0.27,0,47.0,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,22:45,36.1,33.5,90.1,0.0,E@0.3,2.1,0.35,0,47.0,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,23:00,36.2,34.0,91.5,0.0,E@2.3,2.8,0.45,0,47.0,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,23:15,35.9,33.6,91.3,0.0,SE@0.3,2.1,0.52,0,47.0,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,23:30,35.3,33.2,91.6,0.0,SE@0.6,2.1,0.59,0,46.9,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,23:45,34.9,32.8,91.9,0.0,SW@0.0,1.4,0.64,0,46.9,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-09,24:00,34.4,32.4,92.2,0.0,W@0.5,3.1,0.68,0,46.8,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,00:15,34.4,32.5,92.7,0.0,E@0.9,2.8,0.71,0,46.7,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,00:30,34.6,32.9,93.2,0.0,SE@1.2,2.8,0.73,0,46.7,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,00:45,34.1,32.3,93.1,0.0,SE@0.5,2.4,0.74,0,46.6,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,01:00,33.6,31.9,93.3,0.0,SE@0.5,2.4,0.75,0,46.5,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,01:15,33.6,31.9,93.4,0.0,SE@0.4,2.1,0.76,0,46.5,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,01:30,33.5,32.0,94.0,0.0,E@2.2,3.5,0.77,0,46.4,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,01:45,33.9,32.4,94.1,0.0,SE@1.8,2.8,0.78,0,46.3,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,03:00,33.5,32.0,94.0,0.0,SE@0.7,2.1,0.78,0,46.2,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,03:15,33.3,31.7,93.9,0.0,SE@0.2,2.4,0.78,0,46.1,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,03:30,32.8,31.3,94.1,0.0,SE@0.6,2.1,0.78,0,46.0,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,03:45,32.6,31.2,94.3,0.0,NW@1.1,2.8,0.79,0,45.9,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,04:00,33.1,31.7,94.6,0.0,SE@0.0,1.4,0.79,0,45.9,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,04:15,33.2,31.8,94.6,0.0,N @0.0,0.0,0.8,0,45.8,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,04:30,33.5,32.2,94.8,0.0,N @0.0,0.0,0.8,0,45.7,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,04:45,34.0,32.7,94.9,0.0,E@0.4,1.7,0.81,0,45.6,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,05:00,34.7,33.4,95.1,0.0,E@2.0,3.1,0.81,0,45.5,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,05:15,34.9,33.6,94.9,0.0,SE@0.4,2.1,0.81,0,45.4,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,05:30,35.2,33.9,94.8,0.0,SE@0.4,1.7,0.81,0,45.3,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,05:45,35.7,34.3,94.4,0.0,E@0.7,2.8,0.81,0,45.2,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,06:00,36.1,34.5,93.8,0.0,SE@0.9,2.1,0.81,0,45.1,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,06:15,36.2,34.4,93.1,0.0,SE@1.8,2.4,0.81,0,45.0,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,06:30,36.5,34.6,92.6,0.0,SE@0.9,2.4,0.8,0,44.9,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,06:45,36.7,34.6,92.2,0.0,W@0.4,2.4,0.81,0,44.8,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,07:00,36.7,34.7,92.2,0.0,S@0.2,2.1,0.88,0,44.7,30.51,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,07:15,36.7,34.8,92.6,0.0,S@0.1,1.7,0.88,0,44.6,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,07:30,36.8,34.9,92.7,0.0,N @0.0,0.0,0.85,1,44.6,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,07:45,36.9,35.0,92.9,0.01,SE@0.1,1.7,0.84,3,44.5,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,08:00,37.0,35.2,93.1,0.0,SE@0.0,1.7,0.82,13,44.4,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,08:15,37.2,35.5,93.6,0.0,SE@1.3,2.4,0.8,21,44.3,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,08:30,37.6,36.0,93.8,0.0,SE@1.4,3.1,0.78,49,44.3,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,08:45,38.2,36.5,93.7,0.0,SE@1.2,2.4,0.75,71,44.2,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,09:00,38.8,37.1,93.3,0.0,E@1.4,3.5,0.74,90,44.1,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,09:15,39.9,37.9,92.6,0.0,E@1.8,3.1,0.72,103,44.0,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,09:30,40.5,38.2,91.2,0.0,SE@1.9,3.1,0.7,64,44.0,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,09:45,41.0,38.3,89.8,0.0,E@2.1,3.5,0.7,98,43.9,30.5,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,10:00,41.4,38.4,88.7,0.0,E@2.3,4.2,0.72,93,43.9,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,10:15,41.6,38.3,88.0,0.0,E@2.3,3.5,0.83,105,43.8,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,10:30,42.1,38.8,88.3,0.0,E@1.0,3.1,0.84,112,43.8,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,10:45,42.1,38.7,87.5,0.0,NW@1.6,3.1,0.83,113,43.7,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,11:00,42.4,39.1,87.9,0.01,NW@1.0,2.4,0.81,134,43.7,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,11:15,42.9,39.7,88.3,0.0,N@1.0,3.1,0.77,134,43.6,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,11:30,43.4,40.0,87.6,0.01,N @0.5,2.4,0.73,155,43.6,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,11:45,43.4,39.5,85.9,0.0,E@1.5,3.9,0.74,173,43.6,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,12:00,43.5,39.4,85.4,0.0,N@0.9,2.4,0.73,167,43.5,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,12:15,43.7,39.5,84.9,0.01,N@0.9,2.4,0.72,153,43.5,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,12:30,43.9,39.9,85.8,0.0,E@1.3,2.8,0.73,163,43.5,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,12:45,43.7,39.8,86.0,0.0,SE@2.0,3.5,0.71,126,43.5,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,13:00,44.0,40.2,86.5,0.01,SE@1.3,3.1,0.71,137,43.5,30.49,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,13:15,44.3,40.6,86.5,0.0,SE@1.6,2.8,0.71,186,43.5,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,13:30,44.5,40.7,86.2,0.0,SE@1.9,3.5,0.7,178,43.5,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,13:45,45.0,41.5,87.4,0.01,SE@1.7,3.5,0.7,201,43.5,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,14:00,45.0,41.6,87.7,0.0,SE@1.5,3.9,0.68,163,43.5,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,14:15,45.0,41.5,87.6,0.0,SE@1.4,3.9,0.55,134,43.6,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,14:30,45.3,41.4,86.1,0.0,E@1.0,3.1,0.54,104,43.6,30.48,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,14:45,44.9,41.2,86.7,0.0,E@1.2,3.1,0.61,96,43.6,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,15:00,44.8,41.8,89.1,0.0,E@2.1,3.1,0.72,118,43.7,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,15:15,44.7,42.1,90.5,0.0,E@1.4,3.9,0.75,69,43.7,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,15:30,44.7,42.4,91.6,0.0,E@2.5,4.2,0.74,58,43.7,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,15:45,44.7,42.6,92.2,0.0,SE@2.8,4.6,0.75,66,43.8,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,16:00,44.8,42.8,92.6,0.0,SE@2.9,4.9,0.74,76,43.8,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,16:15,44.9,42.9,92.7,0.0,E@2.9,4.6,0.74,68,43.9,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,16:30,45.1,43.0,92.5,0.0,E@2.8,4.6,0.7,66,43.9,30.47,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,16:45,45.4,43.3,92.2,0.0,E@2.8,4.2,0.66,77,44.0,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,17:00,45.5,43.4,92.3,0.0,E@2.3,3.9,0.7,76,44.0,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,17:15,45.5,43.4,92.2,0.0,E@2.6,3.9,0.69,64,44.1,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,17:30,45.5,43.3,92.0,0.0,E@2.9,4.6,0.63,62,44.1,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,17:45,45.5,43.1,91.3,0.0,E@2.5,4.9,0.56,59,44.2,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,18:00,45.5,43.0,91.0,0.0,SE@1.5,3.9,0.44,31,44.2,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,18:15,45.5,43.1,91.3,0.0,SE@0.3,2.1,0.36,20,44.3,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,18:30,45.6,43.2,91.5,0.0,E@0.1,1.4,0.3,14,44.3,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,18:45,45.5,43.2,91.5,0.0,N @0.0,0.0,0.27,11,44.4,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,19:00,45.5,43.2,91.8,0.0,N @0.0,0.0,0.31,5,44.4,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,19:15,45.3,43.3,92.4,0.0,E@0.1,2.1,0.38,2,44.5,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,19:30,45.1,43.2,92.9,0.0,SE@0.1,1.7,0.45,0,44.5,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,19:45,45.0,43.2,93.4,0.0,N @0.0,0.0,0.48,0,44.6,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,20:00,44.9,43.2,93.8,0.0,N @0.0,0.0,0.48,0,44.6,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,20:15,44.7,43.3,94.7,0.0,E@0.7,2.1,0.48,0,44.6,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,20:30,44.7,43.4,95.2,0.0,N @0.0,0.0,0.48,0,44.7,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,20:45,44.7,43.5,95.4,0.0,N @0.0,0.0,0.5,0,44.7,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,21:00,44.7,43.5,95.5,0.0,E@0.0,1.4,0.6,0,44.7,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,21:15,44.7,43.6,95.7,0.0,N @0.0,0.0,0.69,0,44.8,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,21:30,44.7,43.6,95.8,0.0,N @0.0,0.0,0.72,0,44.8,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,21:45,44.6,43.6,96.0,0.0,N @0.0,0.0,0.74,0,44.8,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,22:00,44.5,43.4,96.2,0.0,N @0.0,0.0,0.75,0,44.8,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,22:15,44.4,43.4,96.5,0.0,N @0.0,0.0,0.75,0,44.8,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,22:30,44.6,43.7,96.7,0.0,N @0.0,0.0,0.75,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,22:45,44.4,43.6,96.7,0.0,N @0.0,0.0,0.75,0,44.9,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,23:00,44.3,43.5,96.9,0.0,W@0.4,2.4,0.75,0,44.9,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,23:15,44.2,43.5,97.2,0.0,N @0.0,0.0,0.75,0,44.9,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,23:30,44.2,43.5,97.3,0.0,N @0.0,0.0,0.75,0,44.9,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,23:45,44.1,43.4,97.4,0.0,N @0.0,0.0,0.74,0,44.9,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-10,24:00,43.9,43.2,97.5,0.0,W@0.6,2.1,0.74,0,44.9,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,00:15,43.9,43.3,97.6,0.0,W@0.6,2.8,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,00:30,43.8,43.2,97.8,0.0,NW@0.6,2.4,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,00:45,43.8,43.2,97.8,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,01:00,43.9,43.3,97.8,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,01:15,43.9,43.3,97.9,0.0,E@0.0,1.4,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,01:30,43.9,43.4,98.0,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,01:45,43.9,43.4,98.0,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,02:00,43.9,43.4,98.0,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,02:15,43.9,43.4,98.0,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,02:30,43.6,43.1,98.1,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,02:45,43.4,43.0,98.2,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,03:00,43.5,43.1,98.3,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,03:15,43.5,43.1,98.3,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,03:30,43.5,43.1,98.3,0.0,N @0.0,0.0,0.74,0,44.9,30.46,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,03:45,43.5,43.1,98.3,0.0,N @0.0,0.0,0.74,0,44.8,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,04:00,43.5,43.0,98.3,0.0,N @0.0,0.0,0.74,0,44.8,30.45,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,04:15,43.2,42.8,98.3,0.0,N @0.0,0.0,0.74,0,44.8,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,04:30,42.5,42.0,98.2,0.0,NW@0.3,2.1,0.74,0,44.8,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,04:45,42.1,41.7,98.4,0.0,SW@0.2,1.7,0.74,0,44.8,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,05:00,42.1,41.8,98.5,0.0,N @0.2,2.1,0.74,0,44.8,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,05:15,41.9,41.5,98.5,0.0,W@0.4,2.1,0.75,0,44.8,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,05:30,41.9,41.5,98.6,0.0,N @0.0,0.0,0.75,0,44.8,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,05:45,42.1,41.7,98.6,0.0,N@0.0,1.4,0.75,0,44.8,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,06:00,42.1,41.8,98.6,0.0,N @0.0,0.0,0.75,0,44.8,30.44,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,06:15,42.2,41.9,98.7,0.0,N @0.0,0.0,0.75,0,44.7,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,06:30,42.4,42.1,98.7,0.0,N @0.0,0.0,0.75,0,44.7,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,06:45,42.3,42.0,98.7,0.0,NE@0.0,1.4,0.75,0,44.7,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,07:00,42.6,42.4,98.9,0.0,NE@0.0,1.4,0.76,0,44.7,30.43,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,07:15,42.6,42.3,98.9,0.0,N @0.0,0.0,0.76,0,44.7,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,07:30,42.8,42.5,98.9,0.0,N @0.0,0.0,0.76,2,44.7,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,07:45,42.7,42.5,98.9,0.0,N @0.0,0.0,0.76,7,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,08:00,42.9,42.6,98.9,0.0,N @0.0,0.0,0.76,15,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,08:15,43.2,43.0,99.1,0.0,N @0.0,0.0,0.76,22,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,08:30,43.2,42.9,99.1,0.0,W@0.8,2.8,0.76,25,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,08:45,43.5,43.3,99.2,0.0,W@0.2,1.7,0.77,49,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,09:00,43.7,43.5,99.1,0.0,NW@1.0,2.4,0.76,52,44.6,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,09:15,44.0,43.8,99.1,0.0,NW@1.6,2.8,0.75,65,44.5,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,09:30,44.3,44.0,98.9,0.0,W@1.2,3.1,0.72,80,44.5,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,09:45,44.6,44.3,98.7,0.0,W@2.0,3.1,0.63,98,44.5,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,10:00,45.2,44.7,98.0,0.0,NW@1.9,3.1,0.46,167,44.5,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,10:15,45.9,45.0,96.6,0.0,NW@1.8,4.6,0.22,165,44.4,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,10:30,46.5,44.8,93.6,0.0,NE@1.6,3.9,0.02,202,44.4,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,10:45,46.9,44.3,90.6,0.0,NW@1.7,3.1,0.0,212,44.4,30.42,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,11:00,47.5,44.1,87.9,0.0,NW@1.7,3.5,0.0,229,44.4,30.41,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,11:15,47.9,43.9,85.9,0.0,W@1.7,4.2,0.0,260,44.4,30.41,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,11:30,48.0,44.0,85.9,0.0,SW@1.9,3.5,0.0,290,44.4,30.4,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,11:45,49.0,44.4,84.1,0.0,W@2.4,4.9,0.0,330,44.4,30.4,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,12:00,48.9,43.7,82.1,0.0,SW@2.1,3.9,0.0,295,44.4,30.4,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,12:15,49.7,44.1,80.7,0.0,N@0.8,3.5,0.0,278,44.4,30.39,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,12:30,49.9,43.7,79.2,0.0,NW@2.3,3.5,0.0,329,44.4,30.38,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,12:45,50.2,44.1,79.3,0.0,W@1.8,4.2,0.0,331,44.4,30.38,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,13:00,51.0,44.8,79.2,0.0,NW@2.6,6.0,0.0,317,44.4,30.38,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,13:15,50.4,44.2,79.3,0.0,W@3.1,5.3,0.0,247,44.5,30.37,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,13:30,50.7,44.2,78.3,0.0,NW@2.8,4.9,0.0,260,44.5,30.37,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,13:45,51.1,44.4,77.8,0.0,NW@4.5,8.2,0.0,252,44.6,30.36,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,14:00,51.2,44.2,76.7,0.0,NW@4.1,5.7,0.0,330,44.6,30.36,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,14:15,52.0,44.5,75.5,0.0,NW@4.1,7.1,0.0,476,44.7,30.35,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,14:30,51.3,43.9,75.8,0.0,W@3.3,5.7,0.0,243,44.7,30.34,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,14:45,51.4,44.1,76.0,0.0,NW@3.2,5.7,0.0,175,44.8,30.34,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,15:00,51.3,44.0,75.9,0.0,NW@4.1,6.7,0.0,153,44.9,30.33,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,15:15,51.3,44.1,76.1,0.0,NW@4.1,6.4,0.0,142,45.0,30.32,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,15:30,51.1,44.1,76.6,0.0,NW@3.9,5.7,0.0,100,45.1,30.32,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,15:45,51.0,43.7,75.9,0.0,N@3.6,6.0,0.0,96,45.2,30.32,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,16:00,51.3,43.9,75.6,0.0,NW@3.1,4.6,0.0,123,45.3,30.32,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,16:15,51.5,44.0,75.4,0.0,NW@2.3,3.9,0.0,156,45.4,30.31,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,16:30,51.7,44.1,75.0,0.0,W@2.4,4.2,0.0,152,45.5,30.31,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,16:45,51.8,44.3,75.5,0.0,NW@2.5,4.2,0.0,151,45.5,30.3,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,17:00,51.7,44.5,76.3,0.0,NW@2.4,3.5,0.04,133,45.7,30.3,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,17:15,51.4,44.5,77.3,0.0,NW@2.2,3.9,0.27,92,45.8,30.3,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,17:30,51.0,44.9,79.6,0.0,NW@2.4,3.9,0.62,60,45.9,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,17:45,50.6,45.3,81.9,0.0,NW@2.5,4.6,0.79,40,46.0,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,18:00,50.1,45.6,84.2,0.01,N@0.8,2.4,0.8,23,46.0,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,18:15,49.7,45.9,86.4,0.0,NW@2.2,3.1,0.75,15,46.1,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,18:30,49.2,46.0,88.4,0.01,NW@2.0,2.8,0.72,15,46.2,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,18:45,49.0,46.4,90.7,0.01,NW@0.1,1.7,0.68,15,46.3,30.29,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,19:00,48.8,46.6,92.1,0.0,NW@1.1,2.8,0.65,9,46.4,30.28,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,19:15,48.5,46.6,93.3,0.01,SW@0.0,1.4,0.66,3,46.5,30.28,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,19:30,48.4,46.8,94.2,0.0,N @0.0,0.0,0.67,1,46.5,30.27,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,19:45,48.1,46.7,94.8,0.01,N @0.0,0.0,0.66,0,46.6,30.27,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,20:00,47.8,46.6,95.5,0.0,SE@0.2,2.4,0.65,0,46.7,30.26,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,20:15,47.5,46.5,96.2,0.0,SE@0.4,2.1,0.66,0,46.7,30.25,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,20:30,47.6,46.6,96.4,0.0,SW@0.0,1.4,0.63,0,46.8,30.25,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,20:45,47.4,46.5,96.7,0.0,E@0.7,2.4,0.65,0,46.8,30.24,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,21:00,47.4,46.6,97.0,0.0,SE@0.3,1.7,0.65,0,46.9,30.24,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,21:15,47.5,46.8,97.1,0.0,N @0.0,0.0,0.65,0,46.9,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,21:30,47.5,46.8,97.3,0.0,N@0.0,1.4,0.61,0,47.0,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,21:45,47.6,46.9,97.5,0.0,N @0.0,0.0,0.61,0,47.0,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,22:00,47.3,46.7,97.6,0.0,W@2.1,3.1,0.62,0,47.0,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,22:15,47.3,46.7,97.8,0.0,N @0.0,0.0,0.61,0,47.0,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,22:30,47.3,46.7,97.9,0.0,N @0.0,0.0,0.6,0,47.1,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,22:45,47.3,46.8,98.0,0.0,N @0.0,0.0,0.65,0,47.1,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,23:00,47.3,46.7,98.0,0.0,SE@0.3,2.1,0.64,0,47.1,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,23:15,47.0,46.6,98.1,0.01,SE@0.0,1.4,0.63,0,47.1,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,23:30,46.9,46.5,98.3,0.0,SE@0.1,1.7,0.64,0,47.1,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,23:45,46.7,46.3,98.4,0.0,SE@0.5,3.5,0.63,0,47.1,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-11,24:00,46.8,46.5,98.6,0.0,SE@0.5,2.4,0.65,0,47.1,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,00:15,46.9,46.6,98.7,0.0,SE@1.0,2.8,0.67,0,47.1,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,00:30,46.9,46.6,98.8,0.0,N @0.0,0.0,0.65,0,47.1,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,00:45,47.0,46.7,98.9,0.0,SE@0.4,2.1,0.63,0,47.1,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,01:00,46.9,46.7,98.9,0.0,NW@0.0,1.4,0.63,0,47.1,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,01:15,47.1,46.8,99.0,0.0,W@0.5,2.4,0.63,0,47.1,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,01:30,47.2,47.0,99.1,0.0,NW@0.9,3.1,0.62,0,47.1,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,01:45,48.2,48.1,99.5,0.0,SW@1.6,4.2,0.6,0,47.1,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,02:00,50.3,50.0,98.7,0.0,S@2.5,4.6,0.58,0,47.1,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,02:15,50.9,50.0,96.6,0.0,S@2.6,5.7,0.57,0,47.1,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,02:30,51.1,49.5,94.4,0.0,S@2.1,5.7,0.62,0,47.1,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,02:45,51.3,49.3,92.9,0.0,SW@2.2,5.3,0.67,0,47.0,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,03:00,51.2,49.2,92.5,0.0,SW@1.4,4.9,0.73,0,47.0,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,03:15,51.1,49.2,93.1,0.0,SE@1.6,4.6,0.67,0,47.0,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,03:30,51.1,49.4,93.6,0.01,S@2.2,5.3,0.72,0,47.0,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,03:45,51.3,49.5,93.3,0.0,S@2.0,4.9,0.67,0,47.0,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,04:00,51.2,49.3,93.1,0.0,SE@1.6,4.2,0.63,0,47.0,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,04:15,51.2,49.4,93.3,0.0,SE@1.1,3.9,0.58,0,47.0,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,04:30,51.4,49.5,93.0,0.0,SE@1.6,5.3,0.56,0,46.9,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,04:45,51.5,49.6,93.0,0.0,SE@2.5,6.0,0.58,0,46.9,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,05:00,51.8,49.7,92.7,0.0,S@2.9,6.7,0.56,0,46.9,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,05:15,51.7,49.8,92.9,0.0,SE@2.7,6.7,0.58,0,46.9,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,05:30,51.6,49.7,93.3,0.0,SE@2.7,6.0,0.59,0,46.9,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,05:45,51.4,49.6,93.4,0.0,SE@3.3,7.1,0.57,0,46.9,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,06:00,51.4,49.5,93.1,0.0,SE@2.5,6.0,0.55,0,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,06:15,51.4,49.4,92.8,0.0,SE@1.6,4.2,0.55,0,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,06:30,51.4,49.2,92.2,0.0,SE@1.7,4.6,0.55,0,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,06:45,51.5,49.2,91.7,0.0,S@1.5,3.9,0.54,0,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,07:00,51.8,49.1,90.4,0.0,S@2.2,5.7,0.48,0,46.9,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,07:15,52.0,49.0,89.3,0.0,S@2.6,7.8,0.37,0,46.9,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,07:30,52.2,48.8,88.2,0.0,S@3.7,7.8,0.2,1,46.9,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,07:45,52.3,48.8,87.8,0.0,S@3.7,8.5,0.07,3,46.9,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,08:00,52.6,48.9,87.1,0.0,S@3.5,8.5,0.0,8,46.8,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,08:15,52.9,48.9,86.1,0.0,SW@3.5,7.4,0.0,13,46.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,08:30,53.1,48.9,85.4,0.0,SW@3.5,8.2,0.0,15,46.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,08:45,53.2,48.8,84.9,0.0,S@3.3,8.2,0.0,16,46.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,09:00,53.2,48.7,84.6,0.0,S@3.4,7.1,0.0,24,46.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,09:15,53.6,48.7,83.5,0.0,S@4.1,8.2,0.0,33,46.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,09:30,53.8,48.8,83.1,0.0,S@2.8,7.1,0.0,42,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,09:45,53.7,48.8,83.4,0.0,S@3.1,7.1,0.0,46,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,10:00,53.9,48.9,82.9,0.0,S@3.3,7.8,0.02,53,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,10:15,54.0,49.0,83.2,0.0,S@3.5,7.1,0.14,64,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,10:30,54.2,49.0,82.6,0.0,S@3.9,8.9,0.05,83,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,10:45,54.7,48.9,80.5,0.0,S@4.6,11.7,0.0,94,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,11:00,54.9,48.7,79.7,0.0,S@4.5,9.2,0.0,78,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,11:15,55.2,48.7,78.4,0.0,S@5.0,11.0,0.0,116,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,11:30,55.7,48.5,76.7,0.0,S@5.7,11.7,0.0,154,46.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,11:45,55.8,48.3,75.9,0.0,S@5.1,11.7,0.0,169,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,12:00,55.5,48.1,76.1,0.0,S@5.6,11.7,0.0,151,46.9,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,12:15,55.2,48.2,77.2,0.0,SE@5.8,12.1,0.0,136,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,12:30,54.6,48.1,78.5,0.0,S@5.5,10.7,0.0,133,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,12:45,54.0,48.0,80.2,0.0,S@5.2,12.1,0.06,123,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,13:00,53.3,48.6,84.0,0.0,SE@5.0,11.7,0.3,153,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,13:15,53.4,49.0,85.0,0.0,SE@5.1,11.0,0.35,205,46.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,13:30,53.6,49.1,84.6,0.01,S@5.2,10.7,0.25,178,47.0,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,13:45,53.9,49.5,85.2,0.0,S@4.7,9.9,0.4,222,47.0,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,14:00,54.1,49.8,85.4,0.0,S@4.5,8.5,0.44,250,47.0,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,14:15,54.6,50.2,84.8,0.0,S@4.5,10.7,0.37,308,47.0,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,14:30,55.1,50.3,83.6,0.0,S@4.8,8.9,0.07,276,47.1,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,14:45,55.8,50.6,82.4,0.0,S@4.6,11.7,0.0,370,47.1,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,15:00,56.5,50.7,80.7,0.0,SE@5.3,11.7,0.0,418,47.1,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,15:15,56.9,50.7,79.8,0.0,SE@5.6,11.7,0.0,383,47.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,15:30,57.3,50.8,78.8,0.0,S@4.8,10.3,0.0,317,47.2,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,15:45,57.0,50.2,77.8,0.0,S@4.7,12.1,0.0,215,47.3,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,16:00,56.6,50.1,78.6,0.0,S@4.0,7.8,0.0,114,47.3,30.1,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,16:15,56.2,50.1,79.6,0.0,S@3.6,8.5,0.0,93,47.4,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,16:30,55.9,50.0,80.5,0.0,S@3.3,6.7,0.0,55,47.4,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,16:45,55.5,50.1,81.9,0.0,S@3.5,8.5,0.0,65,47.5,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,17:00,55.2,49.9,82.1,0.0,S@3.7,9.2,0.0,45,47.6,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,17:15,55.0,49.8,82.4,0.0,SE@3.1,6.0,0.0,44,47.6,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,17:30,54.6,49.8,83.6,0.0,SE@4.0,7.1,0.0,43,47.7,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,17:45,54.4,49.8,84.3,0.0,SE@3.7,7.1,0.0,41,47.8,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,18:00,54.5,50.0,84.6,0.0,SE@3.6,7.1,0.0,42,47.9,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,18:15,54.0,50.1,86.6,0.0,SE@3.3,5.7,0.12,28,48.0,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,18:30,53.1,50.3,90.3,0.01,SE@3.8,7.1,0.6,19,48.0,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,18:45,52.6,50.5,92.2,0.0,SE@4.3,9.6,0.72,12,48.1,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,19:00,52.3,50.5,93.7,0.01,SE@3.3,5.3,0.76,8,48.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,19:15,52.1,50.7,94.9,0.01,SE@3.0,5.3,0.76,2,48.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,19:30,52.0,50.8,95.4,0.0,SE@3.1,6.7,0.73,1,48.3,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,19:45,52.1,50.7,95.0,0.0,SE@3.7,6.7,0.67,0,48.4,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,20:00,52.2,50.6,94.2,0.0,SE@2.4,4.9,0.69,0,48.4,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,20:15,52.2,50.5,94.1,0.01,SE@0.8,2.8,0.75,0,48.5,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,20:30,52.1,50.5,94.2,0.0,SE@0.8,2.4,0.74,0,48.5,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,20:45,51.8,50.5,94.9,0.01,E@1.5,3.1,0.74,0,48.6,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,21:00,51.6,50.4,95.7,0.0,E@2.3,4.2,0.72,0,48.6,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,21:15,51.4,50.4,96.2,0.01,E@1.9,3.9,0.72,0,48.6,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,21:30,51.5,50.5,96.2,0.0,SE@2.6,4.6,0.66,0,48.7,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,21:45,51.7,50.5,95.5,0.0,SE@2.1,4.2,0.68,0,48.7,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,22:00,51.8,50.3,94.5,0.0,SE@3.1,6.0,0.68,0,48.7,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,22:15,51.8,50.1,93.8,0.01,SE@2.9,4.2,0.67,0,48.7,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,22:30,51.8,49.9,93.3,0.0,SE@3.4,8.2,0.66,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,22:45,51.7,49.7,92.6,0.01,SE@3.5,6.4,0.64,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,23:00,51.8,49.5,91.9,0.0,SE@3.8,7.8,0.62,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,23:15,51.8,49.4,91.4,0.0,SE@3.6,7.8,0.59,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,23:30,51.8,49.4,91.5,0.01,SE@3.3,8.9,0.65,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,23:45,51.8,49.4,91.6,0.0,S@2.9,8.5,0.62,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-12,24:00,51.7,49.4,91.8,0.0,S@2.2,4.2,0.64,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,00:15,51.6,49.5,92.3,0.01,S@2.4,5.7,0.67,0,48.8,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,00:30,51.5,49.5,92.9,0.01,S@2.5,6.0,0.67,0,48.8,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,00:45,51.6,49.6,92.7,0.01,S@3.1,6.0,0.68,0,48.8,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,01:00,51.5,49.5,92.8,0.01,S@3.3,7.4,0.67,0,48.8,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,01:15,51.4,49.5,93.2,0.01,S@2.7,7.1,0.66,0,48.8,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,01:30,51.3,49.5,93.6,0.01,S@2.6,4.9,0.66,0,48.8,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,01:45,51.2,49.5,93.8,0.01,S@2.7,5.7,0.62,0,48.8,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,02:00,51.0,49.4,94.1,0.0,S@1.9,4.9,0.58,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,02:15,51.0,49.5,94.3,0.0,S@1.8,4.9,0.6,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,02:30,50.9,49.4,94.5,0.01,S@2.5,6.0,0.64,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,02:45,50.7,49.3,94.8,0.0,S@2.8,5.7,0.65,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,03:00,50.7,49.3,94.8,0.01,S@3.2,7.8,0.66,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,03:15,50.9,49.4,94.4,0.0,S@3.3,7.1,0.57,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,03:30,51.1,49.4,93.8,0.0,S@3.3,7.4,0.51,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,03:45,51.3,49.3,92.9,0.0,S@3.2,7.1,0.49,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,04:00,51.4,49.2,92.3,0.0,S@2.5,5.7,0.49,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,04:15,51.3,49.2,92.3,0.0,S@1.7,3.9,0.54,0,48.8,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,04:30,51.3,49.3,92.7,0.0,S@1.3,3.9,0.67,0,48.8,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,04:45,51.2,49.3,93.1,0.01,S@0.9,3.9,0.7,0,48.8,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,05:00,50.9,49.3,93.9,0.01,SE@0.3,2.4,0.68,0,48.8,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,05:15,50.5,49.2,95.2,0.0,SE@1.9,3.9,0.63,0,48.8,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,05:30,50.4,49.2,95.8,0.0,SE@1.8,4.2,0.63,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,05:45,50.3,49.2,96.1,0.01,SE@2.6,5.3,0.63,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,06:00,50.2,49.3,96.4,0.0,SE@2.5,4.9,0.59,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,06:15,50.2,49.2,96.4,0.0,SE@2.3,4.6,0.6,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,06:30,50.3,49.3,96.3,0.0,SE@2.0,4.6,0.58,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,06:45,50.3,49.3,96.3,0.0,SE@2.2,4.9,0.6,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,07:00,50.3,49.3,96.1,0.0,SE@2.0,5.3,0.61,0,48.7,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,07:15,50.2,49.1,96.0,0.0,SE@2.7,5.3,0.55,0,48.7,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,07:30,50.3,49.1,95.9,0.0,S@2.6,6.4,0.52,2,48.7,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,07:45,50.5,49.2,95.4,0.0,S@2.3,6.0,0.51,5,48.7,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,08:00,50.8,49.3,94.5,0.0,SW@3.0,7.4,0.51,17,48.6,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,08:15,51.0,49.2,93.3,0.0,SW@2.5,6.4,0.51,23,48.6,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,08:30,51.3,49.2,92.4,0.0,SW@2.2,6.4,0.51,32,48.6,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,08:45,51.6,49.1,90.9,0.0,SW@2.3,5.7,0.5,38,48.6,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,09:00,52.1,48.9,88.5,0.0,SW@2.2,5.3,0.45,46,48.6,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,09:15,52.6,48.8,86.9,0.0,SW@1.0,3.9,0.4,72,48.6,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,09:30,52.9,49.0,86.6,0.0,SE@1.3,3.5,0.33,70,48.6,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,09:45,52.7,49.6,89.0,0.0,SE@1.7,3.5,0.25,102,48.6,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,10:00,52.9,49.7,88.8,0.0,E@0.5,2.4,0.14,83,48.5,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,10:15,53.3,49.6,87.3,0.0,S@0.8,3.5,0.15,100,48.5,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,10:30,53.3,50.0,88.5,0.01,NW@0.4,2.4,0.52,79,48.5,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,10:45,53.1,50.0,89.1,0.0,W@1.3,3.9,0.62,73,48.5,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,11:00,53.2,50.6,90.7,0.01,SE@0.2,1.7,0.65,74,48.5,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,11:15,53.0,50.7,91.9,0.0,NW@0.4,3.1,0.65,68,48.5,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,11:30,52.9,50.8,92.6,0.01,W@2.8,5.3,0.65,101,48.5,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,11:45,52.9,50.7,92.2,0.01,SW@2.3,6.0,0.63,112,48.5,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,12:00,52.9,50.6,92.0,0.0,S@1.8,5.7,0.62,101,48.5,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,12:15,52.9,50.8,92.3,0.01,S@0.9,3.5,0.64,98,48.5,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,12:30,52.9,50.7,92.1,0.01,S@2.0,6.4,0.63,104,48.5,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,12:45,52.9,50.7,92.3,0.01,SE@2.6,5.3,0.64,122,48.5,30.23,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,13:00,53.1,50.9,91.9,0.0,SE@2.8,7.8,0.59,156,48.5,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,13:15,53.4,51.2,92.2,0.01,SE@2.9,5.7,0.57,198,48.5,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,13:30,54.1,52.0,92.6,0.0,SE@2.7,5.7,0.6,224,48.6,30.22,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,13:45,54.3,52.2,92.3,0.0,SE@2.3,5.3,0.61,220,48.6,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,14:00,54.6,52.4,92.5,0.01,SE@2.4,4.9,0.63,210,48.6,30.21,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,14:15,54.7,52.4,92.1,0.01,SE@1.1,3.1,0.64,190,48.6,30.2,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,14:30,54.6,52.3,91.7,0.0,SE@2.1,3.9,0.62,166,48.7,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,14:45,54.6,52.1,91.2,0.0,SE@1.3,3.5,0.58,158,48.7,30.19,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,15:00,54.5,52.1,91.4,0.0,SE@2.5,3.9,0.56,169,48.7,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,15:15,54.8,52.2,91.0,0.0,SE@0.9,3.1,0.5,179,48.8,30.18,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,15:30,55.3,52.4,89.9,0.01,S@1.1,3.9,0.51,168,48.8,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,15:45,55.4,52.1,88.8,0.0,SW@1.1,3.1,0.59,138,48.9,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,16:00,55.3,51.9,88.2,0.0,W@0.6,2.4,0.67,125,48.9,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,16:15,55.2,51.9,88.8,0.0,SW@0.9,4.2,0.67,92,49.0,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,16:30,54.8,51.9,89.9,0.0,SE@1.4,3.5,0.65,75,49.0,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,16:45,54.6,52.1,91.3,0.0,SE@1.0,2.8,0.65,71,49.1,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,17:00,54.2,51.9,92.1,0.01,SE@1.1,3.5,0.68,66,49.1,30.17,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,17:15,53.7,51.9,93.5,0.0,SE@2.5,4.2,0.62,62,49.2,30.16,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,17:30,53.6,52.1,94.6,0.0,E@3.1,5.7,0.62,45,49.3,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,17:45,53.6,52.1,94.7,0.0,SE@2.3,3.9,0.65,55,49.3,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,18:00,53.5,52.0,94.5,0.0,SW@0.6,2.8,0.61,34,49.4,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,18:15,53.6,52.0,94.0,0.0,W@0.1,2.1,0.58,25,49.5,30.15,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,18:30,53.5,51.9,94.3,0.0,N @0.0,0.0,0.56,11,49.5,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,18:45,53.3,52.0,95.2,0.01,E@0.4,2.4,0.55,7,49.6,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,19:00,53.1,51.9,95.9,0.0,W@1.0,2.8,0.61,5,49.7,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,19:15,52.8,51.9,96.7,0.0,W@1.1,2.8,0.59,2,49.7,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,19:30,52.5,51.8,97.4,0.0,NW@1.2,2.4,0.6,0,49.8,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,19:45,52.5,51.9,97.7,0.0,N @0.0,0.0,0.62,0,49.8,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,20:00,52.4,51.8,97.9,0.0,N @0.0,0.0,0.62,0,49.9,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,20:15,52.1,51.7,98.3,0.0,SE@0.4,2.4,0.65,0,49.9,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,20:30,52.1,51.7,98.3,0.0,W@0.0,1.4,0.65,0,50.0,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,20:45,52.0,51.6,98.6,0.0,N @0.0,0.0,0.65,0,50.0,30.14,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,21:00,52.0,51.7,98.8,0.0,N @0.0,0.0,0.66,0,50.1,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,21:15,52.0,51.8,99.0,0.0,SW@0.8,2.4,0.65,0,50.1,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,21:30,52.0,51.8,99.0,0.0,N@0.5,2.4,0.65,0,50.1,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,21:45,52.1,51.9,99.1,0.0,N @0.0,0.0,0.64,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,22:00,52.2,51.9,99.1,0.0,N @0.0,0.0,0.64,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,22:15,52.1,51.8,99.1,0.0,N @0.0,0.0,0.63,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,22:30,51.8,51.6,99.1,0.0,N @0.0,0.0,0.62,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,22:45,51.8,51.6,99.1,0.0,N @0.0,0.0,0.62,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,23:00,51.7,51.5,99.0,0.0,W@0.7,2.4,0.6,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,23:15,51.7,51.4,98.9,0.0,N @0.0,0.0,0.59,0,50.2,30.13,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,23:30,51.7,51.4,98.7,0.0,NW@0.3,1.7,0.59,0,50.2,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,23:45,51.5,51.2,98.7,0.0,W@0.2,2.1,0.59,0,50.3,30.12,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559
+2013-03-13,24:00,51.3,51.0,98.7,0.0,W@1.6,3.1,0.59,0,50.3,30.11,"Puyallup (WSU Puyallup), Puyallup, Pierce County",310102,Puyallup,2020-06-01 04:18:55.934559

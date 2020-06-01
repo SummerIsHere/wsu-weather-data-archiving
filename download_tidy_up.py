@@ -5,7 +5,7 @@
 
 
 import os, ftplib, pandas as pd, requests, logging, bs4, re, shutil, time, sqlite3, zipfile as zf
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from pandas_datareader import wb
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -201,7 +201,7 @@ def get_grain_data(output_folder
 
 ### Download nClimDiv climate data from NOAA National Climatic Data Center with temperature,
 ### precipitation, heating degree days, and cooling degree days for the Puget Sound Lowlands
-def get_nClimDiv(output_folder):
+def get_nClimDiv(output_folder, raw_output_folder):
     logging.info('Downloading nClimDiv temperature and precipitation data from NOAA')
     base = 'ftp.ncdc.noaa.gov'
     folder = 'pub/data/cirs/climdiv/'
@@ -213,7 +213,7 @@ def get_nClimDiv(output_folder):
     for thisMet in mList:
         matching = [s for s in fList if thisMet in s]
         sink = matching[0]+'.txt'
-        sink = os.path.join(output_folder, sink)
+        sink = os.path.join(raw_output_folder, sink)
         logging.info('Saving ' + sink)
         ftp.retrbinary('RETR ' + matching[0], open(sink, 'wb').write)
         temp = pd.read_csv(sink, delimiter='\s+', header=None,
@@ -428,6 +428,7 @@ def get_usgs_streamflow(sf_folder):
     tidy_master_file = os.path.join(sf_folder, 'tidy_data_master_usgs_streamflow.csv')
     logging.info('Writing out ' + tidy_master_file)
     masterT.to_csv(tidy_master_file, index=False, encoding='utf-8')
+
 ### Section of WSU weather data related functions
 ###
 ###
@@ -458,12 +459,12 @@ def get_wsu_station_list(output_folder):
     # Keep station_ids from the old list if they are not in the new list
     # Identify what values are in old_sl and not in sl
     key_diff = set(old_sl.station_id).difference(sl.station_id)
-    print('old_sl:')
-    print(old_sl.dtypes)
-    print('sl:')
-    print(sl.dtypes)
+    logging.debug('old_sl:')
+    logging.debug(old_sl.dtypes)
+    logging.debug('sl:')
+    logging.debug(sl.dtypes)
     where_diff = old_sl.station_id.isin(key_diff)
-    print(where_diff)
+    logging.debug(where_diff)
     # Slice old_sl accordingly and append to sl
     sl_w = sl.copy().append(old_sl[where_diff], ignore_index=True)
 
@@ -559,8 +560,9 @@ def get_wsu_station_list(output_folder):
 ###     ud:           The count of the number of unique days in the dataset
 def download_tidy_weather_data(start, station_id, station_name, output_folder, gecko_fullpath
                         , browser=None
-                        , tempfolder=os.path.join(os.getcwd(), 'temp')):
-    logging.info('Start downloading WSU weather data for station_id ' + station_id + ' and beginning with date ' + start)
+                        , tempfolder=os.path.join(os.getcwd(), 'temp')
+                        ,output_suffix=None):
+    logging.info('Start downloading WSU weather data for station_id ' + station_id + ' (' + station_name + ') and beginning with date ' + start)
 
     ## Step 1: Delete the temporary directory if exists, then create it again
     logging.debug('tempfolder: ' + tempfolder)
@@ -659,7 +661,7 @@ def download_tidy_weather_data(start, station_id, station_name, output_folder, g
         regex_part = re.compile(r'(.*)[.]part$')
         part = [m.group(0) for l in f for m in [regex_part.match(l)] if m]
         elapsed_time = time.time() - start_time
-    logging.info('elapsed_time: ' + str(elapsed_time))
+    logging.debug('elapsed_time: ' + str(elapsed_time))
 
 
     # If we went over time, throw out an error
@@ -743,7 +745,7 @@ def download_tidy_weather_data(start, station_id, station_name, output_folder, g
     ## Step 6: Tidy up the downloaded and then loaded data
     # If data is expected length, add more informational columns, remove the spurious end column,
     # write out the data frame and return values to be used in next run
-    logging.info('Start constructing table to write out')
+    logging.debug('Start constructing table to write out')
     tab.loc[:, 'Location'] = loc
     tab.loc[:, 'Station ID'] = station_id
     tab.loc[:, 'Station Name'] = station_name
@@ -777,10 +779,13 @@ def download_tidy_weather_data(start, station_id, station_name, output_folder, g
     mx_txt = datetime.strftime(mx_dt, '%b %d, %Y')
     logging.debug('Earliest date in data: ' + str(mn_dt))
     logging.debug('Latest date in data: ' + str(mx_dt))
-    fname = station_id + '_' + mn_txt + '.csv'
+    if output_suffix is None:
+        fname = station_id + '_' + mn_txt + '.csv'
+    else:
+        fname = station_id + '_' + mn_txt + '_' + output_suffix + '.csv'
     outname = os.path.join(output_folder, fname)
     tab.to_csv(outname, index=False, encoding='utf-8')
-    logging.info('Wrote out tidied table to ' + outname)
+    logging.debug('Wrote out tidied table to ' + outname)
     return [browser, mx_txt, uniq_dts]
 
 ## Utility function to find files related to a station_id. Returns a list of file names
@@ -813,7 +818,7 @@ def get_wsu_weather_data(station_list_file, station_info_file, output_folder, ge
     stat_info = pd.read_csv(station_info_file)
     stat_info['Station ID'] = stat_info['Station ID'].astype(str)
 
-    ## Step 2: Cycle through station list and start downloading data
+    ## Step 3: Cycle through station list and start downloading data
     for i in range(0,len(stat_list.loc[:, 'station_id']),1):
         station_id      =   str(stat_list.loc[i, 'station_id'])
         station_name    =   stat_list.loc[i, 'station_name']
@@ -905,6 +910,127 @@ def get_wsu_weather_data(station_list_file, station_info_file, output_folder, ge
         br.quit()
         logging.info('get_wsu_weather_data: finished downloading data for ' + station_name + ' (' + station_id +')')
 
+### Download WSU weather data for daylight savings transition points to serve as data quality checks and calibrators
+### Data downloaded can vary depending on whether data was downloaded during or outside of daylight savings time
+### Getting this data quality calibration data will serve as a double check of values
+def get_wsu_daylight_savings(station_list_file, station_info_file, output_folder, gecko_fullpath, dst_file
+                             ,max_ts=None):
+    logging.info('Downloading WSU AgWeatherNet data for daylight savings')
+
+    ## Prep: If max_ts is None, set to default of the first day of the previous month
+    if max_ts is None:
+        max_ts = (datetime.now())
+        DD = timedelta(days=31)
+        max_ts = max_ts - DD
+        max_ts = max_ts.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+
+    ## Step 1: Load station list
+    stat_list = pd.read_csv(station_list_file)
+
+    ## Step 2: Load station info
+    stat_info = pd.read_csv(station_info_file)
+    stat_info['Station ID'] = stat_info['Station ID'].astype(str)
+
+    ## Step 3: Cycle through station list and start downloading data
+    for i in range(0,len(stat_list.loc[:, 'station_id']),1):
+        station_id      =   str(stat_list.loc[i, 'station_id'])
+        station_name    =   stat_list.loc[i, 'station_name']
+        logging.debug('type(station_id): ' + str(type(station_id)))
+        logging.debug('type of station id Station ID column]: ' + str(type(stat_info.loc[:, 'Station ID'][1])))
+
+        # First set start_ts to installation date of station
+        logging.debug('stat_info: ' + str(stat_info.head()))
+        idx = stat_info.loc[:, 'Station ID'] == station_id
+        logging.debug('station id filter idx: ' + str(idx))
+        temp_si = (stat_info.copy()).loc[idx, :]
+        logging.debug('temp_si after filter on station_id: ' + str(temp_si.head()))
+        idx = temp_si.loc[:, 'Variable'] == 'Installation Date'
+        logging.debug('variable filter idx: ' + str(idx))
+        temp_si = temp_si.loc[idx, :]
+        logging.debug('temp_si after filter on variable: ' + str(temp_si.head()))
+        val = temp_si.loc[:, 'Value']
+        logging.debug('val: ' + str(val))
+        start_ts = None
+        if len(val) == 1:
+            start_ts = pd.to_datetime(val).reset_index(drop=True)[0]
+            logging.info('Set start_ts for ' + station_id + '(' + station_name + ') to installation date: ' + str(start_ts))
+        else:
+            logging.info('More or less than 1 installation date found, skipping station ' + station_name)
+            continue
+
+        # Set station output folder
+        station_output_folder = os.path.join(output_folder,station_id)
+        # If the station doesn't exist as a folder, create it
+        if not os.path.isdir(station_output_folder):
+            logging.debug('Station folder not found! creating...')
+            os.mkdir(station_output_folder)
+
+        ## Load list of daylight savings dates
+        dst_dt_tbl = pd.read_csv(dst_file,parse_dates=[1,2])['Start']
+
+        ## Filter list to get only those dates after installation and before today
+
+        dst_dt_tbl = dst_dt_tbl[(dst_dt_tbl>=start_ts) & (dst_dt_tbl<date.today())]
+
+        #Cycle through dates
+        br = None
+        dt = None
+        for this_dt in dst_dt_tbl:
+            logging.info('this_dt: ' + str(this_dt))
+            start = datetime.strftime(this_dt, '%b %d, %Y')
+
+            # If dt has been set and is after this_dt, then skip to next. For example,
+            # data may not exist even after installation date due to not passing QA checks
+            # and so the function returns the first date with quality controlled data
+            if dt is not None:
+                dtt = datetime.strptime(dt, '%b %d, %Y')
+                if dtt > this_dt:
+                    logging.info('next date with data (' + str(dtt)+ ') is after ' + str(this_dt) + ', skipping to next')
+                    continue
+            #If the file already exists, go to next. Look for dates one day before as well, sometimes this happens.
+            osf = datetime.strftime(date.today(), '%Y-%m-%d')
+            mn_txt = datetime.strftime(this_dt, '%Y-%m-%d')
+            mn_txt2 = datetime.strftime((this_dt-timedelta(days=1)), '%Y-%m-%d')
+            tname = station_id + '_' + mn_txt + '_' + osf + '.csv'
+            tname2 = station_id + '_' + mn_txt2 + '_' + osf + '.csv'
+            tfname = os.path.join(output_folder, str(station_id),tname)
+            tfname2 = os.path.join(output_folder, str(station_id), tname2)
+            #logging.debug('tfname: ' + tfname)
+            #logging.debug('is file: '+ str(os.path.isfile(tfname)))
+            #logging.debug('tfname2: ' + tfname2)
+            #logging.debug('is file2: '+ str(os.path.isfile(tfname2)))
+            if os.path.isfile(tfname):
+                logging.info(tfname + ' already found, skipping')
+                continue
+            if os.path.isfile(tfname2):
+                logging.info(tfname2 + ' already found, skipping')
+                continue
+            try:
+                br, dt, ud = download_tidy_weather_data(start=start, station_id=station_id
+                                                ,station_name=station_name
+                                                ,browser=br
+                                                ,output_folder=station_output_folder, gecko_fullpath=gecko_fullpath
+                                                        ,output_suffix=osf)
+
+            except Exception as e:
+                logging.warning('get_wsu_weather_data: Error thrown for download for station ' + station_name
+                                + ' (' + station_id + ') with start of ' + start)
+                logging.warning('The exception caught:')
+                logging.warning(str(e))
+                logging.info(str(e.args))
+                logging.warning('Closing browser and moving on to next date')
+                if br is not None:
+                    br.quit()
+                ## If eror thrown was about station picking, go to next station
+                if "Unable to locate element: //select[@id='stationList']" in str(e):
+                    logging.warning('Error was related to a missing station, skipping station...')
+                    break
+                else:
+                    continue
+        if br is not None:
+            br.quit()
+        logging.info('get_wsu_daylight_savings: finished downloading data for ' + station_name + ' (' + station_id +')')
+
 ### Write out the date ranges of WSU weather data already downloaded
 def wsu_progress(station_list_file,output_folder, scan_folder, dl_folder, dr_folder):
     outfile = os.path.join(output_folder,'wsu_weather_download_progress.csv')
@@ -953,7 +1079,7 @@ def wsu_progress(station_list_file,output_folder, scan_folder, dl_folder, dr_fol
         dl_dt = pd.read_sql_query(sql=thissql, con=dl_conn)
         #logging.debug('type of pull: ' + str(type(dl_dt.at[0,'dl_min_date'])))
         sl.ix[i, 'DL Min Date'] = dl_dt.at[0,'dl_min_date']
-        sl.ix[i, 'DL Max Date'] = dl_dt.at[0,'dl_min_date']
+        sl.ix[i, 'DL Max Date'] = dl_dt.at[0,'dl_max_date']
         #logging.debug(str(sl))
         dl_cur.close()
         dl_conn.close()

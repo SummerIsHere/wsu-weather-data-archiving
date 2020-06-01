@@ -17,15 +17,17 @@ gecko_fullpath = os.path.join(os.getcwd(), 'geckodriver_bins', 'win', 'geckodriv
 dl_folder = os.path.join(os.getcwd(), 'sqlite', 'dl')
 wrk_folder = os.path.join(os.getcwd(), 'sqlite')
 dr_folder = os.path.join(os.getcwd(), 'sqlite', 'dr')
+dst_folder = os.path.join(wsu_folder,'daylight_savings')
+dst_file = os.path.join(dst_folder,'Daylight Savings Transition Dates.csv')
 
 ## Set up logging file
 logging.basicConfig(level=logging.INFO
-                    , filename='main_logging.txt'
+                    , filename='seattle_logging.txt'
                     , format=' %(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logging.info('Start main.py')
 
 ## Set up standard out file
-sdpath = os.path.join('main_stdout.txt')
+sdpath = os.path.join('seattle_stdout.txt')
 sys.stdout = open(sdpath, 'w')
 sys.stderr = open(sdpath, 'a')
 
@@ -44,6 +46,12 @@ root.addHandler(ch)
 
 
 #dtu.get_wsu_station_list(output_folder=wsu_folder)
+
+# Download WSU weather data for daylight savings quality control
+logging.info('Getting WSU daylight savings calibrators')
+dtu.get_wsu_daylight_savings(output_folder=dst_folder,station_list_file=sl_file,
+                       station_info_file = si_file, gecko_fullpath=gecko_fullpath
+                             ,dst_file=dst_file)
 
 # logging.info('Calling get_wsu_weather_data')
 dtu.get_wsu_weather_data(output_folder=wsu_subfolder,station_list_file=sl_file,
@@ -88,4 +96,4 @@ dtu.wsu_progress(station_list_file=sl_file,output_folder=wsu_folder, scan_folder
                  , dr_folder=dr_folder)
 
 
-logging.info('End main.py')
+logging.info('End seattle.py')

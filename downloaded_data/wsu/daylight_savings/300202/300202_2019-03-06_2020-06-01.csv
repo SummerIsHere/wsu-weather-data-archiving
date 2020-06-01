@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, Soil VWC %, Atm. Press. inHg,Location,Station ID,Station Name,Download Timestamp
+2019-03-06,23:15,22.2,20.6,99.2,0.0,SE@11.4,15.3,0.38,0,31.1,31.9,20.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-06,23:30,22.2,20.7,99.2,0.0,S@8.6,12.8,0.38,0,31.1,31.9,20.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-06,23:45,22.3,20.7,99.2,0.0,S@8.7,13.5,0.39,0,31.1,31.9,20.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-06,24:00,22.2,20.6,99.2,0.0,S@10.0,14.2,0.38,0,31.1,31.9,20.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,00:15,22.2,20.6,99.2,0.0,S@8.8,14.2,0.39,0,31.1,31.9,20.1,29.82,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,00:30,22.5,20.9,99.2,0.0,S@8.4,12.8,0.39,0,31.1,31.9,20.1,29.82,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,00:45,22.6,21.1,99.2,0.0,S@8.7,12.8,0.39,0,31.2,31.9,20.1,29.83,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,01:00,22.8,21.3,99.2,0.0,S@10.4,13.9,0.4,0,31.2,31.9,20.1,29.83,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,01:15,22.9,21.4,99.2,0.0,S@11.4,14.6,0.4,0,31.2,31.9,20.1,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,01:30,23.0,21.5,99.2,0.0,S@11.6,15.0,0.4,0,31.2,31.9,20.1,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,01:45,23.2,21.7,99.2,0.0,S@10.7,14.6,0.41,0,31.2,31.9,20.1,29.85,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,02:00,23.3,21.8,99.2,0.0,S@10.9,13.2,0.41,0,31.2,31.9,20.1,29.85,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,02:15,23.5,22.0,99.2,0.0,S@10.1,12.1,0.42,0,31.2,32.0,20.1,29.85,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,02:30,23.5,22.1,99.2,0.0,S@9.3,14.2,0.42,0,31.2,32.0,20.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,02:45,23.7,22.2,99.2,0.0,S@9.9,13.9,0.42,0,31.2,32.0,20.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,03:00,23.8,22.4,99.2,0.0,S@9.0,13.2,0.42,0,31.2,32.0,20.2,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,03:15,23.8,22.4,99.2,0.0,S@7.4,11.4,0.42,0,31.2,32.0,20.2,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,03:30,23.8,22.4,99.2,0.0,S@7.3,12.1,0.42,0,31.3,32.0,20.2,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,03:45,23.8,22.4,99.2,0.0,S@7.6,11.7,0.42,0,31.3,32.0,20.2,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,04:00,23.8,22.3,99.2,0.0,S@6.8,9.9,0.42,0,31.3,32.0,20.2,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,04:15,23.8,22.4,99.2,0.0,S@6.3,10.7,0.42,0,31.3,32.0,20.2,29.88,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,04:30,23.9,22.5,99.2,0.0,S@7.7,10.7,0.43,0,31.3,32.0,20.2,29.89,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,04:45,23.9,22.5,99.2,0.0,S@7.7,9.9,0.43,0,31.3,32.0,20.2,29.89,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,05:00,23.9,22.5,99.2,0.0,S@7.8,11.0,0.43,0,31.3,32.0,20.2,29.9,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,05:15,23.8,22.4,99.2,0.0,S@7.5,12.1,0.42,0,31.3,32.0,20.2,29.9,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,05:30,23.7,22.2,99.2,0.0,S@6.0,10.3,0.41,0,31.3,32.0,20.2,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,05:45,23.2,21.7,99.2,0.0,S@7.3,11.4,0.39,0,31.3,32.0,20.2,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,06:00,23.1,21.6,99.2,0.0,S@11.5,17.5,0.39,0,31.3,32.0,20.2,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,06:15,22.5,20.9,99.2,0.0,S@5.5,8.2,0.37,1,31.3,32.0,20.2,29.93,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,06:30,21.2,19.5,99.2,0.0,S@5.4,7.8,0.34,5,31.3,32.0,20.2,29.93,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,06:45,20.7,19.0,99.2,0.0,S@4.3,8.2,0.34,24,31.3,32.0,20.2,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,07:00,20.7,19.0,99.2,0.0,S@7.5,9.6,0.35,82,31.3,32.0,20.2,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,07:15,21.1,19.4,99.2,0.0,S@5.6,7.8,0.35,130,31.3,32.0,20.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,07:30,21.2,19.5,99.2,0.0,SE@4.7,7.8,0.35,171,31.3,32.0,20.2,29.96,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,07:45,21.2,19.5,99.2,0.0,SE@8.7,11.0,0.36,215,31.3,32.0,20.2,29.97,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,08:00,21.8,20.2,99.2,0.0,S@9.1,12.8,0.37,252,31.3,32.0,20.2,29.97,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,08:15,22.0,20.4,99.2,0.0,SE@10.2,12.4,0.38,288,31.3,32.0,20.2,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,08:30,22.4,20.8,99.2,0.0,SE@10.1,12.4,0.39,317,31.3,32.0,20.2,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,08:45,23.1,21.6,99.2,0.0,S@9.2,13.9,0.41,356,31.3,32.0,20.2,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,09:00,23.5,22.0,99.2,0.0,S@7.5,10.7,0.43,391,31.4,32.0,20.2,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,09:15,24.0,22.6,99.2,0.0,S@10.1,13.2,0.44,426,31.4,32.0,20.2,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,09:30,24.6,23.3,99.2,0.0,SE@9.7,12.8,0.45,458,31.4,32.0,20.2,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,09:45,25.4,24.2,99.2,0.0,S@8.4,13.9,0.49,489,31.4,32.0,20.2,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,10:00,25.8,24.6,99.2,0.0,SE@11.2,15.3,0.51,453,31.4,32.0,20.3,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,10:15,26.5,25.4,99.2,0.0,S@10.4,15.0,0.58,576,31.4,32.0,20.3,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,10:30,26.9,25.8,99.2,0.0,S@10.0,15.0,0.57,518,31.4,32.0,20.3,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,10:45,27.4,26.5,99.2,0.0,S@10.7,16.7,0.57,563,31.4,32.0,20.3,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,11:00,28.2,27.3,99.2,0.0,S@13.1,17.8,0.53,718,31.4,32.0,20.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,11:15,28.6,27.4,97.6,0.0,S@13.2,18.5,0.38,613,31.4,32.0,20.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,11:30,29.0,27.3,95.6,0.0,S@12.0,16.0,0.25,645,31.4,32.0,20.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,11:45,29.5,27.4,93.6,0.0,S@13.1,17.8,0.22,669,31.4,32.0,20.3,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,12:00,30.4,28.0,92.0,0.0,S@12.6,18.2,0.22,666,31.4,32.0,20.3,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,12:15,30.7,27.8,89.8,0.0,S@14.5,20.0,0.24,495,31.4,32.0,20.3,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,12:30,31.2,27.4,86.2,0.0,S@14.5,19.2,0.26,544,31.4,32.0,20.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,12:45,31.9,27.1,82.8,0.0,S@14.8,19.2,0.21,651,31.4,32.0,20.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,13:00,32.2,26.9,80.8,0.0,S@14.5,19.2,0.22,655,31.4,32.0,20.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,13:15,32.5,26.7,79.0,0.0,S@14.0,19.2,0.29,662,31.4,32.0,20.4,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,13:30,32.8,26.4,77.2,0.0,S@15.9,19.2,0.27,646,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,13:45,33.0,26.5,76.8,0.0,S@15.5,18.2,0.08,606,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,14:00,33.0,26.4,76.3,0.0,S@16.1,19.6,0.08,541,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,14:15,32.9,26.4,76.7,0.0,S@16.7,19.6,0.08,470,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,14:30,32.7,26.9,78.9,0.0,S@14.6,18.9,0.09,366,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,14:45,33.1,26.9,77.7,0.0,S@15.0,18.9,0.08,467,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,15:00,33.2,27.0,77.9,0.0,S@16.0,20.0,0.08,467,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,15:15,33.2,27.6,79.3,0.0,S@14.2,16.7,0.09,418,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,15:30,33.3,27.4,78.8,0.0,S@13.2,16.0,0.09,385,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,15:45,33.3,27.6,79.4,0.0,S@10.4,13.5,0.09,343,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,16:00,33.2,27.9,80.5,0.0,S@9.9,12.4,0.1,301,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,16:15,33.0,27.4,79.7,0.0,S@10.1,12.4,0.1,259,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,16:30,32.6,27.3,80.5,0.0,S@10.6,14.2,0.1,218,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,16:45,32.2,27.0,81.1,0.0,S@10.3,12.1,0.11,176,31.4,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,17:00,31.7,26.7,82.2,0.0,S@8.9,11.4,0.12,136,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,17:15,31.1,26.4,83.4,0.0,S@7.0,9.2,0.13,97,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,17:30,30.3,26.0,85.2,0.0,S@6.4,8.9,0.16,50,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,17:45,29.6,26.1,88.2,0.0,S@6.0,7.4,0.27,18,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,18:00,28.8,25.8,90.3,0.0,S@5.8,7.4,0.37,4,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,18:15,28.1,25.3,91.6,0.0,S@6.0,6.7,0.45,1,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,18:30,27.8,24.9,91.3,0.0,S@6.1,7.4,0.44,0,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,18:45,27.0,24.6,93.5,0.0,SE@6.1,7.4,0.44,0,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,19:00,26.5,24.1,93.6,0.0,SE@5.1,6.4,0.41,0,31.5,32.0,20.4,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,19:15,25.7,23.4,94.3,0.0,SE@5.4,6.4,0.4,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,19:30,26.1,23.9,94.8,0.0,SE@4.5,5.7,0.39,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,19:45,26.3,23.9,93.9,0.0,SE@5.3,6.7,0.4,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,20:00,25.9,23.3,93.7,0.0,SE@5.0,6.4,0.39,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,20:15,25.4,22.8,94.0,0.0,SE@6.0,7.4,0.39,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,20:30,24.6,22.3,95.3,0.0,SE@4.7,6.0,0.36,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,20:45,24.9,22.4,94.4,0.0,SE@4.6,5.3,0.36,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,21:00,24.0,21.7,95.5,0.0,SE@4.5,5.3,0.35,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,21:15,24.2,22.3,97.2,0.0,SE@3.9,4.9,0.35,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,21:30,25.1,22.8,94.9,0.0,SE@4.2,6.4,0.36,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,21:45,24.3,21.8,94.4,0.0,SE@5.3,6.7,0.35,0,31.6,32.0,20.5,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,22:00,23.0,20.6,95.6,0.0,SE@5.2,7.8,0.33,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,22:15,22.7,20.5,96.4,0.0,SE@5.7,6.7,0.33,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,22:30,22.8,20.7,96.6,0.0,SE@4.3,6.0,0.32,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,22:45,22.8,20.3,95.4,0.0,E@6.5,9.9,0.33,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,23:00,22.5,20.1,96.1,0.0,E@7.3,9.9,0.33,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,23:15,23.1,20.4,94.3,0.0,E@6.1,7.4,0.33,0,31.6,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,23:30,22.9,20.2,94.3,0.0,SE@4.3,6.0,0.32,0,31.7,32.0,20.5,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,23:45,23.0,20.4,94.5,0.0,SE@4.5,5.3,0.32,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-07,24:00,21.4,19.0,96.2,0.0,SE@4.9,5.3,0.29,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,00:15,22.5,20.3,96.6,0.0,SE@5.3,6.4,0.31,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,00:30,21.8,19.2,95.5,0.0,SE@4.8,6.0,0.3,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,00:45,21.5,19.1,96.1,0.0,E@6.8,7.4,0.31,0,31.7,32.0,20.5,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,01:00,20.5,17.9,96.0,0.0,SE@5.7,8.2,0.29,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,01:15,21.3,19.2,97.5,0.0,SE@5.1,7.1,0.3,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,01:30,21.4,18.9,96.0,0.0,SE@5.6,6.7,0.3,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,01:45,21.0,18.7,96.4,0.0,E@5.4,6.7,0.29,0,31.7,32.0,20.5,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,02:00,20.0,17.5,96.6,0.0,NE@1.9,6.7,0.28,0,31.7,32.0,20.6,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,02:15,19.1,16.6,97.0,0.0,NE@6.0,7.1,0.27,0,31.7,32.0,20.6,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,02:30,18.6,16.2,97.3,0.0,NE@6.9,8.2,0.26,0,31.7,32.0,20.6,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,02:45,18.6,16.2,97.3,0.0,E@7.9,9.6,0.26,0,31.7,32.0,20.6,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,03:00,18.7,16.1,96.9,0.0,E@8.7,9.9,0.27,0,31.7,32.0,20.6,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,03:15,18.9,16.3,96.7,0.0,E@7.7,8.5,0.27,0,31.7,32.0,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,03:30,19.2,16.7,97.0,0.0,E@7.0,7.8,0.27,0,31.7,32.0,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,03:45,18.8,16.3,96.8,0.0,NE@6.6,8.2,0.26,0,31.7,32.1,20.6,29.98,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,04:00,19.1,16.7,97.3,0.0,E@7.5,8.5,0.27,0,31.7,32.0,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,04:15,19.2,16.6,96.3,0.0,E@6.9,8.2,0.27,0,31.7,32.0,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,04:30,18.8,16.2,96.3,0.0,E@7.3,8.2,0.26,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,04:45,18.6,16.0,96.5,0.0,E@3.1,7.4,0.26,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,05:00,19.1,16.6,96.4,0.0,E@3.5,6.0,0.26,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,05:15,18.4,15.7,96.1,0.0,NE@5.2,6.4,0.25,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,05:30,18.0,15.3,96.5,0.0,NE@5.9,7.1,0.25,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,05:45,18.1,15.5,96.6,0.0,NE@6.0,6.7,0.26,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,06:00,19.0,16.5,96.7,0.0,NE@5.7,7.1,0.28,0,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,06:15,19.6,17.2,97.0,0.0,N @4.7,5.7,0.28,2,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,06:30,19.8,17.6,97.5,0.0,NE@5.5,7.1,0.29,4,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,06:45,22.1,20.4,98.8,0.0,NE@4.9,6.4,0.33,16,31.7,32.1,20.6,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,07:00,22.1,20.3,98.6,0.0,NE@4.2,6.0,0.34,26,31.7,32.1,20.6,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,07:15,22.0,20.0,97.7,0.0,NE@4.3,5.7,0.34,37,31.7,32.1,20.7,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,07:30,22.5,20.7,98.2,0.0,NE@4.8,6.4,0.36,26,31.7,32.0,20.7,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,07:45,23.3,21.7,98.8,0.0,NE@5.1,6.4,0.37,22,31.7,32.0,20.7,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,08:00,23.7,22.0,98.2,0.0,NE@4.4,7.1,0.39,26,31.7,32.1,20.7,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,08:15,24.0,22.3,98.0,0.0,E@5.2,6.4,0.4,61,31.7,32.0,20.7,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,08:30,24.5,22.8,97.9,0.0,E@6.3,8.2,0.42,93,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,08:45,24.8,22.8,96.4,0.0,E@6.7,7.8,0.45,218,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,09:00,25.6,23.3,94.6,0.0,E@5.9,7.1,0.49,277,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,09:15,26.3,23.4,92.3,0.0,E@5.2,7.1,0.51,305,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,09:30,26.9,23.8,91.1,0.0,E@5.9,7.4,0.52,365,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,09:45,26.9,24.3,92.9,0.0,SE@7.3,9.6,0.54,352,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,10:00,27.5,25.6,95.4,0.0,SE@6.0,7.4,0.6,355,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,10:15,28.2,26.2,94.4,0.0,SE@5.6,7.1,0.74,443,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,10:30,28.6,26.2,92.8,0.0,SE@4.0,6.4,0.45,479,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,10:45,28.2,26.1,93.9,0.0,SE@3.2,6.4,0.07,380,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,11:00,28.0,26.0,94.5,0.0,SE@3.7,5.3,0.07,379,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,11:15,28.1,26.1,94.7,0.0,SE@3.3,6.7,0.08,379,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,11:30,28.8,26.1,91.8,0.0,NE@2.2,3.9,0.07,344,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,11:45,29.4,26.4,90.2,0.0,SW@0.7,3.9,0.05,352,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,12:00,29.7,25.9,87.0,0.0,N @0.0,0.0,0.04,332,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,12:15,29.5,26.4,89.7,0.0,NE@0.0,3.1,0.05,303,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,12:30,29.6,25.6,86.4,0.0,NE@1.7,4.9,0.04,330,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,12:45,30.3,26.1,85.5,0.0,SW@0.1,2.4,0.01,385,31.7,32.0,20.7,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,13:00,29.9,25.5,84.8,0.0,N@1.9,5.7,0.01,360,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,13:15,30.1,25.4,83.7,0.0,NE@1.0,5.3,0.01,355,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,13:30,29.9,25.6,85.4,0.0,N @0.0,0.0,0.06,310,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,13:45,29.8,25.6,85.6,0.0,N @0.0,0.0,0.07,272,31.7,32.0,20.7,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,14:00,30.5,25.5,82.6,0.0,N @0.0,0.0,0.02,302,31.7,32.0,20.8,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,14:15,30.5,25.3,82.0,0.0,N @0.0,0.0,0.04,314,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,14:30,31.0,25.7,81.2,0.0,N @0.0,0.0,0.05,363,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,14:45,30.2,25.7,84.2,0.0,N @0.0,0.0,0.05,342,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,15:00,29.9,25.6,85.3,0.0,SW@3.9,7.4,0.07,316,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,15:15,29.5,25.0,84.6,0.0,SW@4.7,7.8,0.08,220,31.8,32.0,20.8,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,15:30,30.1,24.8,81.7,0.0,S@1.9,5.7,0.06,234,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,15:45,29.6,24.7,83.4,0.0,S@4.2,7.8,0.07,205,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,16:00,29.0,25.3,87.7,0.0,S@5.3,7.8,0.09,144,31.7,32.1,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,16:15,28.8,25.1,87.9,0.0,S@6.3,8.5,0.1,127,31.7,32.1,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,16:30,28.8,24.3,85.3,0.0,S@4.9,7.8,0.1,85,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,16:45,28.7,24.9,87.6,0.0,S@3.3,5.3,0.12,59,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,17:00,28.7,25.3,89.1,0.0,S@3.9,5.3,0.13,53,31.7,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,17:15,28.6,25.4,89.9,0.0,S@4.0,6.4,0.15,32,31.8,32.0,20.8,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,17:30,28.5,25.9,92.4,0.0,S@5.4,7.4,0.2,16,31.8,32.0,20.8,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,17:45,28.4,26.3,94.1,0.0,SE@5.8,7.1,0.23,6,31.8,32.1,20.8,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,18:00,28.4,26.1,93.2,0.0,SE@4.9,7.4,0.22,2,31.8,32.1,20.8,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,18:15,28.5,25.0,89.0,0.0,S@5.2,7.4,0.17,1,31.8,32.1,20.8,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,18:30,28.4,24.3,86.4,0.0,S@3.2,6.0,0.15,0,31.8,32.1,20.8,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,18:45,28.2,23.7,85.1,0.0,SW@4.2,7.8,0.14,0,31.8,32.1,20.8,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,19:00,27.9,23.3,85.0,0.0,SE@4.0,6.0,0.19,0,31.8,32.1,20.8,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,19:15,27.7,24.2,89.3,0.0,S@6.1,9.2,0.23,0,31.8,32.1,20.8,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,19:30,27.3,25.1,94.4,0.0,S@7.0,9.2,0.36,0,31.8,32.1,20.8,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,19:45,26.3,24.7,97.1,0.0,S@5.4,7.8,0.44,0,31.8,32.1,20.8,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,20:00,25.3,24.1,99.0,0.0,S@5.2,6.4,0.39,0,31.8,32.1,20.8,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,20:15,24.6,23.3,99.2,0.0,S@5.4,6.0,0.37,0,31.8,32.1,20.8,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,20:30,24.1,22.7,99.2,0.0,S@5.2,6.4,0.36,0,31.8,32.1,20.8,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,20:45,23.7,22.2,99.2,0.0,S@4.3,4.9,0.36,0,31.8,32.1,20.9,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,21:00,23.8,22.4,99.2,0.0,S@3.9,5.3,0.38,0,31.8,32.1,20.9,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,21:15,24.5,23.2,99.2,0.0,SW@3.8,5.3,0.41,0,31.8,32.1,20.9,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,21:30,24.8,23.5,99.2,0.0,S@4.3,6.0,0.42,0,31.8,32.1,20.9,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,21:45,25.0,23.7,99.2,0.0,S@4.1,5.3,0.42,0,31.8,32.1,20.9,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,22:00,25.1,23.9,99.2,0.0,SW@4.6,7.4,0.43,0,31.8,32.1,20.9,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,22:15,25.1,23.9,99.2,0.0,S@4.0,5.3,0.43,0,31.8,32.1,20.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,22:30,25.2,24.0,99.2,0.0,S@2.7,4.9,0.43,0,31.8,32.1,20.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,22:45,25.2,23.9,99.2,0.0,SW@3.4,4.9,0.43,0,31.8,32.1,20.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,23:00,25.2,23.9,99.2,0.0,S@3.3,4.2,0.43,0,31.8,32.1,20.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,23:15,25.2,24.0,99.2,0.0,S@3.3,5.7,0.43,0,31.8,32.1,20.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,23:30,25.3,24.0,99.2,0.0,SE@4.3,5.3,0.43,0,31.8,32.1,20.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,23:45,25.3,24.1,99.2,0.0,SE@5.4,7.4,0.43,0,31.8,32.1,20.9,30.07,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-08,24:00,25.2,24.0,99.2,0.0,SE@7.0,8.2,0.42,0,31.8,32.1,20.9,30.07,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,00:15,25.1,23.9,99.2,0.0,SE@7.2,8.9,0.42,0,31.8,32.1,20.9,30.07,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,00:30,25.1,23.8,99.2,0.0,SE@7.1,9.6,0.42,0,31.8,32.1,20.9,30.07,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,00:45,24.9,23.5,98.9,0.0,E@9.8,12.1,0.42,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,01:00,24.7,23.2,98.3,0.0,E@9.3,11.4,0.41,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,01:15,24.6,22.8,97.2,0.0,E@8.9,10.3,0.4,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,01:30,24.6,22.5,95.7,0.0,E@8.3,10.3,0.38,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,01:45,24.6,22.3,95.1,0.0,E@7.0,8.9,0.3,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,02:00,24.6,22.4,95.3,0.0,E@7.0,8.5,0.28,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,02:15,24.6,22.3,95.3,0.0,E@5.7,7.1,0.28,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,02:30,24.7,22.0,93.7,0.0,E@5.5,8.2,0.23,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,02:45,24.7,21.5,91.4,0.0,NE@6.3,9.6,0.2,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,03:00,24.4,20.7,89.4,0.0,NE@7.0,9.2,0.17,0,31.8,32.1,20.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,03:15,24.3,20.4,89.2,0.0,E@6.8,10.3,0.17,0,31.8,32.1,21.0,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,03:30,24.4,20.3,88.4,0.0,E@5.7,8.2,0.16,0,31.8,32.1,21.0,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,03:45,24.5,20.3,88.1,0.0,NE@5.9,7.8,0.18,0,31.8,32.1,21.0,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,04:00,24.6,20.8,89.6,0.0,NE@5.4,8.5,0.19,0,31.8,32.1,21.0,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,04:15,24.4,21.2,91.7,0.0,E@7.9,9.6,0.21,0,31.8,32.1,21.0,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,04:30,23.8,21.1,93.8,0.0,E@6.9,8.2,0.24,0,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,04:45,23.9,21.6,95.4,0.0,E@7.4,9.2,0.25,0,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,05:00,23.9,21.1,93.5,0.0,E@7.6,10.3,0.22,0,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,05:15,23.8,20.2,90.1,0.0,E@7.8,10.3,0.19,0,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,05:30,23.1,19.2,89.5,0.0,E@6.8,9.6,0.22,0,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,05:45,21.8,18.4,92.2,0.0,E@5.9,7.1,0.29,0,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,06:00,20.8,17.9,94.2,0.0,NE@5.7,6.4,0.28,1,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,06:15,20.5,17.8,95.2,0.0,NE@6.6,7.4,0.28,2,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,06:30,20.3,17.6,95.4,0.0,NE@6.8,9.6,0.28,7,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,06:45,21.7,18.8,94.0,0.0,E@8.2,10.3,0.31,15,31.8,32.1,21.0,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,07:00,22.9,19.7,92.5,0.0,E@7.3,9.9,0.32,28,31.8,32.1,21.0,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,07:15,23.4,20.0,91.4,0.0,E@8.0,12.1,0.22,53,31.8,32.1,21.0,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,07:30,24.0,20.4,90.3,0.0,E@7.5,9.2,0.16,76,31.8,32.1,21.0,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,07:45,24.5,20.6,89.1,0.0,NE@7.3,9.6,0.15,106,31.8,32.1,21.0,30.11,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,08:00,25.1,21.0,87.9,0.0,NE@6.9,8.9,0.13,134,31.8,32.1,21.0,30.12,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,08:15,25.7,21.1,85.9,0.0,NE@7.0,9.2,0.11,181,31.8,32.1,21.0,30.12,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,08:30,26.2,21.3,84.5,0.0,NE@7.2,9.2,0.1,225,31.8,32.1,21.0,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,08:45,27.0,21.9,83.7,0.0,NE@7.8,9.9,0.1,306,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,09:00,26.9,21.8,83.6,0.0,NE@8.1,10.3,0.1,249,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,09:15,27.4,21.9,82.3,0.0,NE@8.1,10.3,0.08,301,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,09:30,27.8,21.6,79.8,0.0,NE@8.7,11.0,0.07,347,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,09:45,28.2,21.8,78.5,0.0,NE@9.0,13.5,0.07,410,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,10:00,28.7,22.0,77.3,0.0,NE@8.4,11.7,0.06,505,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,10:15,29.2,22.0,75.6,0.0,NE@7.7,10.7,0.07,595,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,10:30,29.8,21.8,73.0,0.0,NE@7.1,10.3,0.07,594,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,10:45,29.8,21.6,72.4,0.0,NE@7.4,10.7,0.07,606,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,11:00,30.0,21.8,72.5,0.0,NE@7.6,9.6,0.07,638,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,11:15,30.1,21.9,72.4,0.0,NE@7.5,10.3,0.07,653,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,11:30,30.1,21.9,72.3,0.0,NE@7.5,9.9,0.07,662,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,11:45,30.7,22.1,70.8,0.0,NE@7.5,10.7,0.07,669,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,12:00,30.7,21.9,70.1,0.0,NE@6.6,9.2,0.07,674,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,12:15,30.7,22.2,71.3,0.0,NE@7.5,10.3,0.07,682,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,12:30,31.3,22.5,70.2,0.0,NE@7.1,10.3,0.07,674,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,12:45,31.5,22.4,69.0,0.0,NE@6.5,9.9,0.07,649,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,13:00,31.8,22.5,68.5,0.0,NE@6.3,8.9,0.07,656,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,13:15,31.8,22.4,68.2,0.0,NE@6.1,9.9,0.07,642,31.8,32.1,21.1,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,13:30,32.2,22.2,66.3,0.0,NE@5.9,8.5,0.06,625,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,13:45,32.2,22.5,66.8,0.0,NE@6.0,8.5,0.07,606,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,14:00,32.2,22.7,67.6,0.0,NE@5.7,10.3,0.07,584,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,14:15,32.4,22.9,67.7,0.0,N @5.9,9.2,0.07,559,31.8,32.1,21.1,30.12,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,14:30,32.6,22.6,66.2,0.0,N @5.4,8.2,0.06,530,31.8,32.1,21.1,30.12,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,14:45,32.6,22.8,67.0,0.0,N @5.4,7.8,0.06,499,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,15:00,33.0,22.7,65.7,0.0,N @4.4,7.4,0.06,465,31.8,32.1,21.1,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,15:15,32.3,22.5,66.8,0.0,N@5.5,7.1,0.06,430,31.8,32.1,21.2,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,15:30,32.4,22.3,66.1,0.0,N@5.1,8.9,0.05,393,31.8,32.1,21.2,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,15:45,32.2,21.9,65.2,0.0,N@4.6,6.7,0.03,353,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,16:00,32.8,21.9,63.8,0.0,N@4.2,6.4,0.03,312,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,16:15,33.1,21.7,62.4,0.0,N @2.7,4.6,0.02,270,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,16:30,33.1,21.0,60.6,0.0,N @0.0,0.0,0.01,228,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,16:45,32.0,21.3,64.3,0.0,N@0.0,1.4,0.03,186,31.8,32.1,21.2,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,17:00,31.0,21.4,67.9,0.0,N @0.0,0.0,0.06,144,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,17:15,30.3,21.9,71.5,0.0,N @0.0,0.0,0.08,105,31.8,32.1,21.2,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,17:30,29.4,21.9,74.9,0.0,N @0.0,0.0,0.1,68,31.8,32.1,21.2,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,17:45,28.6,21.6,76.6,0.0,N @0.0,0.0,0.13,34,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,18:00,27.7,21.2,78.4,0.0,N @0.0,0.0,0.21,7,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,18:15,27.6,21.2,78.9,0.0,N @0.0,0.0,0.32,2,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,18:30,27.4,21.2,79.7,0.0,NW@1.2,4.6,0.29,0,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,18:45,26.3,21.3,84.2,0.0,NW@3.7,4.6,0.38,0,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,19:00,26.0,21.1,84.5,0.0,N@5.0,5.7,0.37,0,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,19:15,25.6,21.0,85.9,0.0,N@4.8,5.7,0.36,0,31.8,32.1,21.2,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,19:30,25.2,21.0,87.4,0.0,N@4.7,5.7,0.38,0,31.8,32.1,21.2,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,19:45,24.5,20.6,89.0,0.0,N@5.1,6.0,0.37,0,31.8,32.1,21.2,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,20:00,24.5,20.5,88.8,0.0,N@5.8,7.1,0.37,0,31.8,32.1,21.2,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,20:15,24.7,20.5,87.8,0.0,N@4.0,5.3,0.36,0,31.8,32.1,21.2,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,20:30,24.9,20.1,85.4,0.0,N@4.7,6.0,0.35,0,31.8,32.1,21.2,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,20:45,24.2,19.9,87.7,0.0,N@5.7,6.7,0.36,0,31.8,32.1,21.2,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,21:00,23.5,19.4,88.7,0.0,N @5.1,6.4,0.35,0,31.8,32.1,21.2,30.16,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,21:15,23.3,19.1,88.4,0.0,N @4.9,6.0,0.35,0,31.8,32.1,21.2,30.16,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,21:30,23.2,19.1,88.8,0.0,N @4.3,6.0,0.34,0,31.8,32.1,21.2,30.16,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,21:45,23.0,18.9,88.7,0.0,N@4.3,5.3,0.34,0,31.8,32.1,21.2,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,22:00,23.0,18.8,88.4,0.0,N@4.5,5.3,0.34,0,31.8,32.1,21.2,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,22:15,22.4,18.5,89.8,0.0,N @4.3,5.3,0.33,0,31.8,32.1,21.2,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,22:30,22.4,18.5,89.8,0.0,N @4.9,5.7,0.33,0,31.8,32.1,21.2,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,22:45,22.1,18.2,89.9,0.0,N @4.9,5.7,0.33,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,23:00,22.1,18.3,90.2,0.0,N @5.0,5.7,0.33,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,23:15,22.5,18.5,89.5,0.0,N @4.4,4.9,0.33,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,23:30,22.5,18.5,89.4,0.0,N @4.0,4.9,0.33,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,23:45,22.4,18.4,89.2,0.0,N @3.8,4.9,0.33,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-09,24:00,22.2,18.2,89.6,0.0,N @4.5,4.9,0.32,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,00:15,21.8,17.8,89.9,0.0,N @4.7,5.3,0.32,0,31.8,32.1,21.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,00:30,21.7,17.9,90.4,0.0,N @5.0,6.4,0.32,0,31.8,32.1,21.3,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,00:45,21.2,17.4,90.5,0.0,N @4.6,6.4,0.31,0,31.8,32.1,21.3,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,01:00,21.5,17.6,90.5,0.0,N@5.0,5.7,0.31,0,31.8,32.1,21.3,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,01:15,21.6,17.7,90.2,0.0,N @4.6,5.3,0.31,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,01:30,21.3,17.5,90.3,0.0,N @4.3,5.3,0.31,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,01:45,21.8,17.8,89.9,0.0,N @3.8,4.6,0.31,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,03:00,22.3,17.9,87.9,0.0,N@4.0,4.6,0.32,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,03:15,21.6,17.4,89.2,0.0,N @2.9,3.9,0.3,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,03:30,21.0,17.3,91.1,0.0,N @3.4,4.2,0.3,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,03:45,21.7,18.1,91.2,0.0,N @3.8,4.6,0.31,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,04:00,21.9,17.7,89.2,0.0,N @4.2,4.9,0.31,0,31.8,32.1,21.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,04:15,21.4,17.5,90.6,0.0,N @4.0,4.9,0.31,0,31.8,32.1,21.3,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,04:30,21.2,17.6,91.1,0.0,N @3.6,4.2,0.3,0,31.8,32.1,21.3,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,04:45,21.2,17.4,90.4,0.0,NE@2.6,3.5,0.3,0,31.8,32.1,21.3,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,05:00,21.6,17.4,89.0,0.0,E@2.3,3.1,0.29,0,31.8,32.1,21.3,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,05:15,22.1,17.6,87.6,0.0,NE@0.5,3.1,0.3,0,31.8,32.1,21.3,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,05:30,19.4,15.5,90.7,0.0,N @0.0,0.0,0.27,0,31.8,32.1,21.3,30.22,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,05:45,18.3,15.5,95.8,0.0,N @0.0,0.0,0.26,0,31.8,32.1,21.3,30.22,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,06:00,18.1,15.3,96.1,0.0,N @0.0,0.0,0.26,0,31.8,32.1,21.3,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,06:15,18.0,15.2,95.9,0.0,E@0.1,3.5,0.26,0,31.8,32.1,21.3,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,06:30,18.5,15.4,94.3,0.0,E@3.4,3.9,0.26,0,31.8,32.1,21.3,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,06:45,18.2,14.7,93.2,0.0,E@3.4,4.2,0.26,0,31.8,32.1,21.3,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,07:00,17.4,14.1,94.2,0.0,SE@3.9,4.9,0.25,1,31.8,32.1,21.4,30.24,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,07:15,17.9,14.8,94.7,0.0,SE@4.4,5.3,0.26,3,31.8,32.1,21.4,30.24,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,07:30,18.1,14.7,93.5,0.0,SE@4.8,5.3,0.26,17,31.8,32.1,21.4,30.24,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,07:45,16.8,13.5,94.3,0.0,SE@5.6,6.4,0.25,45,31.8,32.1,21.4,30.25,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,08:00,15.0,11.7,94.8,0.0,SE@5.8,6.7,0.24,80,31.8,32.1,21.4,30.26,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,08:15,14.0,10.4,94.3,0.0,S@5.2,6.7,0.23,117,31.8,32.1,21.4,30.27,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,08:30,12.9,9.0,93.4,0.0,S@6.0,8.5,0.22,157,31.8,32.1,21.4,30.28,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,08:45,11.9,8.2,94.1,0.0,SE@7.9,9.2,0.21,200,31.8,32.1,21.4,30.28,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,09:00,13.0,9.6,94.9,0.0,SE@7.8,9.2,0.23,242,31.8,32.1,21.4,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,09:15,13.3,10.4,97.1,0.0,SE@10.2,12.1,0.24,194,31.8,32.1,21.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,09:30,12.8,10.0,97.9,0.0,SE@10.0,11.7,0.24,223,31.8,32.1,21.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,09:45,13.2,10.4,97.4,0.0,SE@9.9,11.4,0.25,256,31.8,32.1,21.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,10:00,13.6,10.6,96.7,0.0,SE@9.9,11.4,0.25,289,31.8,32.1,21.4,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,10:15,14.0,10.9,96.3,0.0,SE@8.2,10.3,0.26,304,31.8,32.1,21.4,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,10:30,15.0,12.0,96.3,0.0,SE@7.4,9.9,0.28,348,31.8,32.1,21.4,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,10:45,15.5,12.6,96.2,0.0,SE@7.2,9.2,0.3,364,31.8,32.1,21.4,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,11:00,16.3,13.5,96.3,0.0,SE@5.9,7.4,0.33,412,31.8,32.2,21.4,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,11:15,17.4,14.6,96.4,0.0,SE@2.8,6.0,0.38,474,31.8,32.1,21.4,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,11:30,18.6,16.1,96.6,0.0,N @0.0,0.0,0.42,500,31.8,32.1,21.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,11:45,19.4,17.0,96.9,0.0,SE@1.2,6.0,0.42,499,31.8,32.1,21.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,12:00,19.8,17.6,97.5,0.0,N @0.0,0.0,0.41,477,31.8,32.1,21.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,12:15,20.4,18.2,97.8,0.0,SE@3.9,7.8,0.39,479,31.8,32.1,21.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,12:30,20.7,18.7,97.8,0.0,SE@6.2,8.5,0.37,557,31.8,32.1,21.4,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,12:45,21.1,19.1,98.0,0.0,SE@7.3,9.6,0.31,530,31.8,32.1,21.4,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,13:00,21.4,19.5,98.4,0.0,SE@7.2,9.6,0.24,464,31.8,32.1,21.4,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,13:15,22.0,20.2,98.6,0.0,SE@5.1,7.4,0.14,484,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,13:30,22.2,20.5,98.6,0.0,SE@5.7,9.2,0.12,459,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,13:45,22.8,21.1,98.7,0.0,SE@5.7,8.5,0.12,477,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,14:00,23.0,21.3,98.5,0.0,SE@5.8,8.5,0.1,522,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,14:15,23.4,21.7,98.5,0.0,S@5.0,7.8,0.09,506,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,14:30,23.5,21.8,98.4,0.0,S@5.1,7.1,0.09,518,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,14:45,23.3,21.8,98.9,0.0,S@4.4,7.4,0.09,418,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,15:00,24.3,22.9,98.7,0.0,S@4.2,7.1,0.09,436,31.8,32.1,21.5,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,15:15,24.2,22.6,97.9,0.0,SW@4.4,7.4,0.12,439,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,15:30,24.6,22.9,97.6,0.0,S@2.6,7.4,0.1,470,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,15:45,24.4,22.9,98.5,0.0,S@0.9,6.0,0.09,339,31.8,32.1,21.5,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,16:00,25.2,23.8,98.7,0.0,S@1.6,7.4,0.1,330,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,16:15,25.6,24.3,98.7,0.0,SW@1.7,8.5,0.11,274,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,16:30,26.4,25.0,98.0,0.0,SW@5.6,9.6,0.15,315,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,16:45,25.8,24.2,97.4,0.0,SW@4.9,8.5,0.19,206,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,17:00,26.6,25.0,97.2,0.0,SW@3.9,8.2,0.17,262,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,17:15,27.1,25.3,96.0,0.0,SW@5.1,7.1,0.16,260,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,17:30,26.9,25.2,96.7,0.0,SW@5.0,8.2,0.2,221,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,17:45,27.2,25.1,94.8,0.0,W@3.2,6.7,0.21,187,31.8,32.1,21.5,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,18:00,27.7,25.3,93.3,0.0,NW@2.3,5.7,0.23,146,31.8,32.1,21.5,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,18:15,27.3,25.2,94.6,0.0,W@2.2,5.3,0.29,105,31.8,32.1,21.5,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,18:30,27.7,25.5,94.0,0.0,N @0.0,0.0,0.38,54,31.8,32.1,21.5,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,18:45,26.5,24.7,96.2,0.0,N @0.0,0.0,0.38,13,31.8,32.1,21.5,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,19:00,25.8,24.5,98.9,0.0,N @0.0,0.0,0.38,3,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,19:15,25.0,23.8,99.2,0.0,E@0.1,2.8,0.39,1,31.8,32.1,21.5,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,19:30,23.6,22.1,99.2,0.0,SE@0.8,4.2,0.37,0,31.8,32.1,21.5,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,19:45,23.9,22.5,99.2,0.0,SE@4.2,7.1,0.39,0,31.8,32.1,21.5,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,20:00,22.5,20.9,99.2,0.0,SE@6.4,8.5,0.36,0,31.8,32.1,21.5,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,20:15,23.1,21.6,99.2,0.0,SE@9.2,12.1,0.38,0,31.8,32.2,21.5,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,20:30,23.2,21.7,99.2,0.0,SE@11.0,13.5,0.39,0,31.8,32.1,21.5,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,20:45,22.9,21.4,99.2,0.0,SE@11.3,13.9,0.4,0,31.8,32.1,21.5,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,21:00,22.8,21.2,99.2,0.0,SE@11.6,14.2,0.4,0,31.8,32.1,21.6,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,21:15,23.0,21.5,99.2,0.0,SE@10.5,13.2,0.4,0,31.8,32.2,21.6,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,21:30,23.0,21.5,99.2,0.0,SE@10.8,14.2,0.4,0,31.8,32.2,21.6,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,21:45,22.5,20.9,99.2,0.0,SE@10.3,12.4,0.39,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,22:00,22.7,21.1,99.2,0.0,S@7.1,13.5,0.4,0,31.8,32.2,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,22:15,22.0,20.4,99.2,0.0,SW@5.1,8.2,0.38,0,31.8,32.2,21.6,30.38,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,22:30,22.0,20.4,99.2,0.0,SW@4.3,7.4,0.38,0,31.8,32.2,21.6,30.39,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,22:45,22.0,20.3,99.2,0.0,SW@4.2,7.1,0.38,0,31.8,32.2,21.6,30.4,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,23:00,21.6,19.9,99.2,0.0,SW@4.1,7.4,0.37,0,31.8,32.2,21.6,30.39,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,23:15,21.5,19.9,99.2,0.0,SW@3.4,5.3,0.37,0,31.8,32.2,21.6,30.4,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,23:30,21.5,19.8,99.2,0.0,SW@3.0,6.4,0.37,0,31.8,32.2,21.6,30.39,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,23:45,21.4,19.7,99.2,0.0,SE@6.0,8.9,0.37,0,31.8,32.2,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-10,24:00,21.1,19.4,99.2,0.0,SE@3.7,6.7,0.36,0,31.8,32.1,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,00:15,21.0,19.3,99.2,0.0,S@0.3,3.5,0.36,0,31.8,32.2,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,00:30,21.1,19.3,99.2,0.0,S@2.4,5.7,0.36,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,00:45,20.6,18.8,99.2,0.0,SE@0.2,3.1,0.35,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,01:00,20.3,18.4,99.2,0.0,N @0.0,0.0,0.35,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,01:15,20.6,18.8,99.2,0.0,N @0.0,0.0,0.35,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,01:30,20.7,19.0,99.2,0.0,N@1.8,5.7,0.36,0,31.8,32.2,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,01:45,20.6,18.9,99.2,0.0,N @1.0,5.3,0.36,0,31.8,32.2,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,02:00,20.4,18.6,99.2,0.0,E@2.0,4.6,0.35,0,31.8,32.2,21.6,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,02:15,19.6,17.8,99.2,0.0,E@4.5,6.4,0.34,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,02:30,18.9,17.0,99.2,0.0,E@4.0,5.3,0.33,0,31.8,32.2,21.6,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,02:45,19.1,17.2,99.2,0.0,E@0.3,4.2,0.33,0,31.8,32.2,21.6,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,03:00,19.3,17.4,99.2,0.0,E@0.5,5.3,0.33,0,31.8,32.2,21.6,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,03:15,18.8,16.8,99.2,0.0,E@4.5,6.4,0.32,0,31.8,32.2,21.6,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,03:30,18.3,16.3,99.1,0.0,E@1.8,5.3,0.31,0,31.8,32.2,21.6,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,03:45,18.3,16.3,99.1,0.0,E@0.9,6.0,0.31,0,31.8,32.2,21.6,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,04:00,17.9,15.8,98.8,0.0,E@1.7,5.7,0.31,0,31.8,32.2,21.6,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,04:15,17.0,14.7,98.3,0.0,N @0.0,0.0,0.29,0,31.8,32.2,21.7,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,04:30,17.1,14.7,98.2,0.0,N @0.0,0.0,0.29,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,04:45,17.2,14.8,98.2,0.0,E@1.9,5.3,0.29,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,05:00,16.4,13.9,97.8,0.0,E@3.9,5.7,0.28,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,05:15,15.9,13.2,97.4,0.0,E@0.4,4.9,0.27,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,05:30,15.9,13.3,97.4,0.0,N @0.0,0.0,0.27,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,05:45,15.7,13.0,97.2,0.0,N @0.0,0.0,0.27,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,06:00,15.4,12.6,97.0,0.0,N @0.0,0.0,0.26,0,31.8,32.2,21.7,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,06:15,15.2,12.4,96.9,0.0,N @0.0,0.0,0.26,0,31.8,32.2,21.7,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,06:30,14.8,11.9,96.7,0.0,N @0.0,0.0,0.25,0,31.8,32.2,21.7,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,06:45,14.2,11.2,96.3,0.0,N @0.0,0.0,0.24,0,31.8,32.2,21.7,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,07:00,13.6,10.5,95.9,0.0,N @0.0,0.0,0.23,1,31.8,32.2,21.7,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,07:15,13.9,10.7,96.0,0.0,N @0.0,0.0,0.23,3,31.8,32.2,21.7,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,07:30,14.5,11.4,96.2,0.0,N @0.0,0.0,0.24,12,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,07:45,14.9,11.9,96.3,0.0,E@0.5,4.9,0.25,42,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,08:00,15.1,12.2,96.4,0.0,E@5.3,7.1,0.25,82,31.8,32.2,21.7,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,08:15,15.5,12.6,96.5,0.0,E@5.9,7.4,0.26,127,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,08:30,16.1,13.3,96.7,0.0,E@5.8,7.4,0.27,167,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,08:45,16.1,13.4,96.7,0.0,E@5.1,6.7,0.27,190,31.8,32.2,21.7,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,09:00,16.4,13.6,96.7,0.0,E@4.3,6.0,0.28,202,31.8,32.2,21.7,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,09:15,16.5,13.7,96.9,0.0,SE@4.0,5.3,0.28,161,31.8,32.2,21.7,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,09:30,17.6,15.1,97.3,0.0,SE@1.6,4.6,0.3,271,31.8,32.2,21.7,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,09:45,17.8,15.4,97.4,0.0,SE@2.9,4.9,0.31,330,31.8,32.2,21.7,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,10:00,18.0,15.6,97.4,0.0,SE@4.6,6.4,0.32,364,31.8,32.2,21.7,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,10:15,18.2,15.8,97.5,0.0,SE@4.9,6.0,0.32,409,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,10:30,18.6,16.2,97.6,0.0,SE@5.4,6.7,0.33,448,31.8,32.2,21.7,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,10:45,19.1,16.9,97.8,0.0,SE@4.5,6.4,0.35,502,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,11:00,19.9,17.8,98.2,0.0,SE@2.4,5.3,0.39,539,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,11:15,21.2,19.4,99.0,0.0,N @0.0,0.0,0.45,510,31.8,32.2,21.7,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,11:30,22.0,20.4,99.2,0.0,SE@0.1,2.4,0.44,496,31.8,32.2,21.7,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,11:45,21.7,20.0,99.2,0.0,N @0.0,0.0,0.41,502,31.8,32.2,21.7,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,12:00,22.3,20.7,99.2,0.0,N @0.0,0.0,0.42,608,31.8,32.2,21.7,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,12:15,22.7,21.2,99.2,0.0,SE@4.5,7.8,0.42,637,31.8,32.2,21.8,30.28,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,12:30,23.5,22.0,99.2,0.0,SE@6.9,9.2,0.43,654,31.8,32.2,21.8,30.28,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,12:45,24.3,23.0,99.2,0.0,SE@7.5,9.6,0.45,647,31.8,32.2,21.8,30.27,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,13:00,24.9,23.6,99.2,0.0,SE@10.5,13.2,0.46,672,31.8,32.2,21.8,30.26,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,13:15,25.2,24.0,99.2,0.0,SE@10.8,13.9,0.47,680,31.8,32.2,21.8,30.26,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,13:30,25.4,24.0,98.7,0.0,SE@11.9,15.0,0.47,596,31.8,32.2,21.8,30.25,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,13:45,26.0,24.4,97.3,0.0,SE@12.0,14.2,0.48,642,31.8,32.2,21.8,30.24,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,14:00,26.8,24.9,96.0,0.0,SE@12.1,15.7,0.48,657,31.8,32.2,21.8,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,14:15,26.6,24.3,94.5,0.0,SE@11.3,13.9,0.46,594,31.8,32.2,21.8,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,14:30,26.8,23.7,91.3,0.0,SE@11.5,14.6,0.44,630,31.8,32.2,21.8,30.22,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,14:45,27.2,23.8,89.4,0.0,SE@10.9,13.5,0.43,609,31.8,32.2,21.8,30.22,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,15:00,28.0,24.5,89.0,0.0,SE@10.9,12.8,0.43,600,31.8,32.2,21.8,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,15:15,28.3,24.6,88.3,0.0,SE@11.4,14.2,0.39,569,31.8,32.2,21.8,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,15:30,28.2,23.2,83.5,0.0,SE@12.1,15.0,0.28,502,31.8,32.2,21.8,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,15:45,28.6,23.3,82.4,0.0,SE@12.1,13.9,0.2,496,31.8,32.2,21.8,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,16:00,29.1,23.7,82.0,0.0,SE@10.6,12.8,0.16,463,31.8,32.2,21.8,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,16:15,29.3,23.9,81.8,0.0,SE@9.9,12.4,0.14,416,31.8,32.2,21.8,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,16:30,29.4,23.6,80.2,0.0,SE@8.8,11.0,0.13,356,31.8,32.2,21.8,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,16:45,29.6,24.2,81.3,0.0,SE@8.9,11.4,0.13,344,31.8,32.2,21.8,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,17:00,29.5,24.1,81.5,0.0,SE@9.2,11.7,0.14,270,31.8,32.2,21.8,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,17:15,29.4,24.7,84.0,0.0,SE@8.0,10.3,0.16,229,31.8,32.2,21.8,30.16,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,17:30,29.2,24.5,84.1,0.0,SE@7.7,9.6,0.17,179,31.8,32.2,21.8,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,17:45,28.7,24.8,87.2,0.0,SE@8.6,10.7,0.22,88,31.8,32.2,21.8,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,18:00,28.0,24.7,89.7,0.0,SE@7.8,9.6,0.27,69,31.8,32.2,21.8,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,18:15,28.1,25.1,91.1,0.0,SE@9.3,11.7,0.28,53,31.8,32.2,21.8,30.12,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,18:30,27.9,25.0,91.3,0.0,SE@9.4,11.4,0.29,29,31.8,32.2,21.8,30.11,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,18:45,27.3,24.5,91.7,0.0,SE@7.5,9.2,0.32,10,31.8,32.2,21.8,30.11,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,19:00,27.2,24.6,92.7,0.0,SE@6.9,8.9,0.34,3,31.8,32.2,21.9,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,19:15,27.4,24.8,92.9,0.0,SE@7.0,8.9,0.34,1,31.8,32.2,21.9,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,19:30,27.3,24.7,92.9,0.0,SE@6.3,7.4,0.32,0,31.8,32.2,21.9,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,19:45,27.2,24.6,92.8,0.0,SE@6.1,7.8,0.3,0,31.8,32.2,21.9,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,20:00,27.2,24.7,93.1,0.0,SE@6.7,9.2,0.3,0,31.8,32.2,21.9,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,20:15,27.2,24.3,91.7,0.0,SE@6.5,8.5,0.28,0,31.8,32.2,21.9,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,20:30,27.0,23.6,89.8,0.0,SE@5.7,7.4,0.26,0,31.8,32.2,21.9,30.07,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,20:45,27.0,23.4,89.3,0.0,SE@7.1,9.2,0.26,0,31.8,32.2,21.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,21:00,26.9,23.0,88.1,0.0,S@5.2,9.2,0.23,0,31.8,32.2,21.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,21:15,27.0,23.1,88.2,0.0,SE@0.4,5.3,0.24,0,31.8,32.2,21.9,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,21:30,26.9,23.3,89.1,0.0,SE@5.0,7.1,0.24,0,31.8,32.2,21.9,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,21:45,26.8,22.9,88.4,0.0,S@0.8,5.3,0.23,0,31.8,32.2,21.9,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,22:00,26.7,23.1,88.9,0.0,N @0.0,0.0,0.24,0,31.8,32.2,21.9,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,22:15,26.6,22.9,88.8,0.0,SE@1.9,7.8,0.23,0,31.8,32.2,21.9,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,22:30,26.6,22.8,88.8,0.0,SE@4.8,7.1,0.23,0,31.8,32.2,21.9,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,22:45,26.5,23.0,89.7,0.0,SE@5.1,6.7,0.24,0,31.8,32.2,21.9,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,23:00,26.4,23.1,90.2,0.0,SE@5.5,6.4,0.24,0,31.8,32.2,21.9,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,23:15,26.5,23.1,90.0,0.0,SE@4.6,6.4,0.24,0,31.8,32.2,21.9,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,23:30,26.9,23.2,88.8,0.0,SE@4.5,6.0,0.22,0,31.8,32.2,21.9,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,23:45,27.0,23.4,88.9,0.0,E@3.7,5.7,0.23,0,31.8,32.2,21.9,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-11,24:00,26.9,23.4,89.2,0.0,E@1.4,5.7,0.23,0,31.8,32.2,21.9,29.98,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,00:15,27.1,23.0,87.3,0.0,E@2.4,8.2,0.21,0,31.8,32.2,21.9,29.97,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,00:30,27.3,23.4,87.9,0.0,E@9.4,13.5,0.21,0,31.8,32.2,21.9,29.96,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,00:45,27.6,24.5,90.9,0.0,SE@12.8,16.0,0.25,0,31.8,32.2,21.9,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,01:00,28.5,24.5,87.1,0.0,SE@10.9,14.2,0.2,0,31.8,32.2,21.9,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,01:15,29.0,24.7,85.6,0.0,SE@8.7,11.4,0.2,0,31.8,32.2,21.9,29.93,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,01:30,29.5,25.8,87.6,0.0,SE@9.4,11.4,0.22,0,31.8,32.2,21.9,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,01:45,29.4,25.8,87.9,0.0,SE@7.2,9.9,0.22,0,31.8,32.2,21.9,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,02:00,29.3,25.8,88.6,0.0,SE@5.4,8.9,0.23,0,31.8,32.2,21.9,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,02:15,29.3,25.9,88.7,0.0,SW@1.1,6.7,0.24,0,31.8,32.2,21.9,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,02:30,28.4,25.7,91.7,0.0,W@2.5,6.7,0.27,0,31.8,32.2,21.9,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,02:45,28.1,25.6,92.9,0.0,W@1.1,5.3,0.29,0,31.8,32.2,21.9,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,03:00,28.1,25.9,94.1,0.0,W@2.8,6.4,0.31,0,31.8,32.2,21.9,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,03:15,28.2,25.9,93.7,0.0,N @0.0,0.0,0.3,0,31.8,32.2,21.9,29.9,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,03:30,28.2,25.6,92.2,0.0,E@1.3,6.4,0.27,0,31.8,32.2,21.9,29.89,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,03:45,29.0,26.3,91.5,0.0,E@6.1,7.4,0.26,0,31.8,32.2,21.9,29.88,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,04:00,29.5,26.4,90.0,0.0,SE@6.4,7.8,0.26,0,31.8,32.2,22.0,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,04:15,29.2,26.5,91.6,0.0,SE@6.4,8.5,0.36,0,31.8,32.2,22.0,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,04:30,28.4,27.0,96.6,0.0,SE@8.3,10.3,0.49,0,31.8,32.2,22.0,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,04:45,28.2,27.3,99.2,0.0,SE@9.0,10.7,0.56,0,31.8,32.2,22.0,29.85,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,05:00,28.2,27.4,99.2,0.0,SE@9.5,11.4,0.59,0,31.8,32.2,22.0,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,05:15,28.5,27.7,99.2,0.0,SE@11.2,12.8,0.61,0,31.8,32.2,22.0,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,05:30,29.0,28.3,99.3,0.0,SE@10.5,12.4,0.63,0,31.8,32.2,22.0,29.83,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,05:45,29.1,28.3,99.3,0.0,SE@10.5,12.8,0.64,0,31.8,32.2,22.0,29.83,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,06:00,29.1,28.4,99.3,0.0,SE@10.0,12.1,0.65,0,31.8,32.2,22.0,29.82,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,06:15,29.4,28.8,99.3,0.0,SE@11.6,14.6,0.66,0,31.8,32.2,22.0,29.82,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,06:30,29.8,29.1,99.3,0.0,SE@11.9,14.6,0.69,0,31.8,32.2,22.0,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,06:45,30.1,29.5,99.3,0.0,SE@10.8,14.2,0.71,0,31.8,32.2,22.0,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,07:00,30.4,29.9,99.3,0.0,SE@12.0,14.2,0.74,0,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,07:15,30.6,30.1,99.3,0.0,SE@11.7,14.6,0.77,2,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,07:30,30.7,30.3,99.3,0.0,SE@10.1,13.9,0.79,4,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,07:45,30.7,30.2,99.3,0.0,SE@8.8,11.4,0.8,6,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,08:00,30.9,30.4,99.3,0.0,S@8.8,12.4,0.81,15,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,08:15,30.8,30.4,99.3,0.0,S@7.0,9.2,0.84,27,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,08:30,30.8,30.3,99.3,0.0,S@8.0,10.3,0.86,52,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,08:45,30.6,30.1,99.3,0.0,S@8.1,9.6,0.88,81,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,09:00,30.6,30.1,99.3,0.0,S@9.7,13.2,0.92,125,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,09:15,30.2,29.7,99.3,0.0,S@11.2,13.2,0.92,196,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,09:30,29.6,29.0,99.3,0.0,SW@9.7,11.7,0.89,255,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,09:45,28.3,27.5,99.3,0.01,SW@9.5,11.0,0.58,258,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,10:00,28.0,27.2,99.3,0.0,SW@9.2,10.7,0.47,267,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,10:15,28.0,27.1,99.2,0.02,SW@9.0,11.0,0.38,361,31.8,32.2,22.0,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,10:30,28.0,27.1,99.2,0.0,W@7.9,8.9,0.32,431,31.8,32.2,22.0,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,10:45,28.0,27.1,99.2,0.0,W@7.3,8.5,0.43,447,31.8,32.2,22.0,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,11:00,28.0,27.1,99.1,0.0,W@7.3,8.9,0.19,412,31.8,32.2,22.1,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,11:15,28.0,26.8,98.0,0.02,SW@8.2,9.9,0.14,434,31.8,32.2,22.1,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,11:30,27.9,26.4,96.8,0.04,SW@9.2,10.7,0.13,480,31.8,32.2,22.1,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,11:45,28.3,26.4,94.9,0.04,SW@8.4,10.3,0.11,591,31.8,32.2,22.1,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,12:00,28.1,25.9,93.9,0.02,SW@10.2,13.2,0.11,581,31.8,32.2,22.1,29.79,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,12:15,27.5,25.3,94.2,0.0,SW@13.5,17.1,0.13,507,31.8,32.2,22.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,12:30,27.1,25.0,94.6,0.0,SW@13.1,15.3,0.14,465,31.8,32.2,22.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,12:45,27.3,25.1,94.0,0.0,SW@13.4,16.0,0.13,516,31.8,32.2,22.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,13:00,27.0,25.2,96.1,0.0,W@13.0,15.0,0.16,419,31.8,32.2,22.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,13:15,26.9,25.5,97.8,0.0,W@12.5,14.2,0.15,487,31.8,32.2,22.1,28.53,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,13:30,27.3,25.5,96.2,0.0,W@11.3,13.5,0.13,497,31.8,32.2,22.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,13:45,27.5,25.6,95.3,0.0,W@11.6,13.9,0.13,506,31.8,32.2,22.1,29.8,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,14:00,27.6,25.6,95.0,0.0,W@12.2,15.3,0.13,470,31.8,32.2,22.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,14:15,27.7,26.1,96.1,0.0,W@12.5,15.0,0.15,416,31.8,32.2,22.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,14:30,28.2,26.6,96.1,0.0,SW@13.4,16.0,0.15,498,31.8,32.2,22.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,14:45,28.1,26.6,96.6,0.0,SW@14.4,17.1,0.16,519,31.8,32.2,22.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,15:00,28.1,26.5,96.6,0.0,SW@14.7,17.5,0.16,533,31.8,32.2,22.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,15:15,28.1,26.6,96.7,0.0,SW@13.7,16.7,0.17,449,31.8,32.2,22.1,29.81,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,15:30,27.6,26.2,97.4,0.0,SW@15.3,17.5,0.2,350,31.8,32.2,22.1,29.82,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,15:45,27.7,26.4,97.8,0.0,SW@14.5,17.1,0.19,406,31.8,32.2,22.1,29.83,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,16:00,27.6,26.4,98.1,0.0,SW@14.9,17.8,0.2,374,31.8,32.2,22.1,29.83,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,16:15,27.3,26.2,98.8,0.0,SW@14.4,17.5,0.23,301,31.8,32.2,22.1,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,16:30,27.0,26.0,99.2,0.0,SW@15.2,17.8,0.27,214,31.8,32.2,22.1,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,16:45,27.0,26.0,99.2,0.0,SW@13.9,17.5,0.3,162,31.8,32.2,22.1,29.84,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,17:00,26.9,25.9,99.2,0.0,SW@13.8,16.7,0.32,140,31.8,32.2,22.1,29.85,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,17:15,26.8,25.7,99.2,0.0,SW@14.6,17.1,0.35,99,31.8,32.2,22.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,17:30,26.6,25.5,99.2,0.0,SW@13.3,17.1,0.37,88,31.8,32.2,22.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,17:45,26.5,25.4,99.2,0.0,SW@12.8,15.7,0.39,74,31.8,32.2,22.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,18:00,26.3,25.2,99.2,0.0,SW@11.9,14.2,0.42,55,31.8,32.2,22.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,18:15,26.4,25.3,99.2,0.0,SW@11.3,14.2,0.44,41,31.8,32.2,22.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,18:30,26.7,25.6,99.2,0.0,SW@11.0,13.2,0.47,35,31.8,32.2,22.1,29.86,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,18:45,27.1,26.1,99.2,0.0,W@11.1,13.9,0.5,27,31.8,32.2,22.1,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,19:00,27.7,26.8,99.3,0.0,W@12.9,15.7,0.59,9,31.8,32.2,22.1,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,19:15,28.1,27.2,99.3,0.0,W@11.6,13.9,0.63,2,31.8,32.2,22.2,29.87,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,19:30,28.5,27.7,99.3,0.0,W@10.3,13.2,0.64,0,31.8,32.2,22.2,29.88,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,19:45,28.8,28.0,99.3,0.0,W@10.5,12.4,0.66,0,31.8,32.2,22.2,29.88,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,20:00,29.4,28.7,99.3,0.0,W@12.2,14.6,0.69,0,31.8,32.2,22.2,29.89,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,20:15,29.2,28.5,99.3,0.0,W@14.7,17.8,0.69,0,31.8,32.2,22.2,29.89,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,20:30,29.1,28.4,99.3,0.0,W@13.8,17.5,0.68,0,31.8,32.2,22.2,29.9,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,20:45,28.9,28.2,99.3,0.0,W@14.7,17.5,0.67,0,31.8,32.2,22.2,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,21:00,28.6,27.9,99.3,0.0,W@14.4,17.8,0.66,0,31.8,32.2,22.2,29.91,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,21:15,28.4,27.6,99.3,0.0,W@12.9,15.7,0.65,0,31.8,32.2,22.2,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,21:30,28.2,27.3,99.3,0.0,W@12.1,14.6,0.64,0,31.8,32.2,22.2,29.92,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,21:45,28.0,27.2,99.3,0.0,W@11.2,13.9,0.64,0,31.8,32.2,22.2,29.93,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,22:00,27.8,26.9,99.3,0.0,W@10.7,13.2,0.63,0,31.8,32.2,22.2,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,22:15,27.5,26.5,99.3,0.0,W@9.8,11.7,0.61,0,31.8,32.2,22.2,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,22:30,27.0,25.9,99.3,0.0,W@10.9,12.8,0.59,0,31.8,32.2,22.2,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,22:45,26.2,25.1,99.3,0.0,W@11.6,13.9,0.57,0,31.8,32.2,22.2,29.94,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,23:00,25.4,24.2,99.3,0.0,W@9.6,12.1,0.54,0,31.8,32.2,22.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,23:15,24.7,23.4,99.3,0.0,SW@9.0,9.9,0.52,0,31.8,32.2,22.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,23:30,24.3,23.0,99.3,0.0,W@9.9,12.8,0.5,0,31.8,32.2,22.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,23:45,23.9,22.5,99.2,0.0,W@12.0,14.2,0.49,0,31.8,32.2,22.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-12,24:00,23.7,22.2,99.2,0.0,W@13.7,15.3,0.48,0,31.8,32.2,22.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,00:15,23.1,21.7,99.2,0.0,W@12.5,15.3,0.47,0,31.8,32.2,22.2,29.95,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,00:30,21.8,20.2,99.2,0.0,W@8.2,12.4,0.43,0,31.8,32.2,22.2,29.96,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,00:45,21.7,20.1,99.2,0.0,W@8.1,11.7,0.42,0,31.8,32.2,22.2,29.97,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,01:00,20.8,19.1,99.2,0.0,W@6.6,8.5,0.4,0,31.8,32.2,22.2,29.97,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,01:15,20.7,18.9,99.2,0.0,W@7.8,10.7,0.4,0,31.8,32.2,22.2,29.98,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,01:30,19.9,18.1,99.2,0.0,W@6.8,7.8,0.38,0,31.8,32.2,22.2,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,01:45,19.2,17.3,99.2,0.0,W@7.2,8.5,0.37,0,31.8,32.2,22.2,29.99,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,02:00,19.5,17.7,99.2,0.0,W@8.1,12.1,0.37,0,31.8,32.2,22.2,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,02:15,19.1,17.1,99.2,0.0,W@4.5,8.2,0.35,0,31.8,32.2,22.2,30.0,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,02:30,18.9,17.0,99.2,0.0,N @0.0,0.0,0.32,0,31.8,32.2,22.2,30.01,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,02:45,19.7,17.8,99.2,0.0,N @0.0,0.0,0.33,0,31.8,32.2,22.2,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,03:00,20.2,18.3,99.2,0.0,N @0.0,0.0,0.34,0,31.9,32.2,22.2,30.02,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,03:15,20.8,19.0,99.2,0.0,W@3.1,9.6,0.36,0,31.9,32.2,22.2,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,03:30,22.3,20.3,97.1,0.0,W@6.6,12.1,0.4,0,31.9,32.2,22.3,30.03,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,03:45,20.2,17.2,94.0,0.0,W@5.6,11.4,0.36,0,31.9,32.2,22.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,04:00,17.5,14.5,95.4,0.0,W@3.9,7.4,0.32,0,31.9,32.2,22.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,04:15,17.2,14.5,96.6,0.0,SW@4.7,6.4,0.31,0,31.9,32.2,22.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,04:30,16.7,13.7,95.7,0.0,W@6.6,9.6,0.31,0,31.9,32.2,22.3,30.04,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,04:45,17.8,14.6,94.6,0.0,W@8.0,10.7,0.32,0,31.9,32.2,22.3,30.05,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,05:00,17.3,13.9,93.6,0.0,W@6.4,8.9,0.31,0,31.9,32.2,22.3,30.06,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,05:15,17.4,14.0,93.6,0.0,W@7.0,8.9,0.31,0,31.9,32.2,22.3,30.07,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,05:30,17.3,13.8,93.3,0.0,W@6.8,8.5,0.31,0,31.9,32.2,22.3,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,05:45,18.2,14.7,93.1,0.0,W@4.5,6.7,0.32,0,31.9,32.2,22.3,30.08,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,06:00,19.0,15.5,92.4,0.0,W@4.1,7.8,0.33,0,31.9,32.2,22.3,30.09,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,06:15,19.2,15.1,90.1,0.0,W@3.2,5.7,0.32,0,31.9,32.2,22.3,30.1,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,06:30,17.0,13.0,91.1,0.0,W@3.7,6.0,0.3,0,31.9,32.2,22.3,30.11,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,06:45,16.9,13.0,91.7,0.0,W@6.9,9.2,0.3,0,31.9,32.2,22.3,30.11,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,07:00,18.9,14.4,88.8,0.0,W@7.2,11.0,0.32,1,31.9,32.2,22.3,30.12,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,07:15,17.0,12.1,87.8,0.0,W@7.2,9.9,0.3,4,31.9,32.2,22.3,30.13,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,07:30,16.1,11.8,90.7,0.0,W@8.2,9.6,0.29,16,31.9,32.2,22.3,30.14,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,07:45,16.8,12.7,90.9,0.0,W@7.2,8.9,0.3,77,31.9,32.2,22.3,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,08:00,17.8,13.1,88.2,0.0,W@7.4,8.9,0.32,113,31.9,32.2,22.3,30.15,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,08:15,18.0,12.9,86.6,0.0,W@7.1,9.2,0.32,149,31.9,32.2,22.3,30.16,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,08:30,18.4,13.2,86.3,0.0,W@8.5,10.7,0.34,186,31.9,32.3,22.3,30.17,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,08:45,19.4,14.1,85.6,0.0,W@9.4,11.0,0.35,225,31.9,32.3,22.3,30.18,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,09:00,21.9,15.8,81.9,0.0,W@10.6,13.2,0.39,265,31.9,32.2,22.3,30.19,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,09:15,20.7,14.6,82.1,0.0,W@7.9,9.6,0.38,308,31.9,32.2,22.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,09:30,21.1,15.1,82.4,0.0,W@7.8,9.2,0.39,350,31.8,32.2,22.3,30.2,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,09:45,22.7,16.3,80.6,0.0,W@7.6,8.5,0.42,394,31.8,32.2,22.3,30.21,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,10:00,23.4,17.1,80.4,0.0,W@8.5,9.9,0.43,441,31.8,32.2,22.3,30.22,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,10:15,24.9,18.3,79.2,0.0,W@9.5,10.3,0.43,483,31.8,32.2,22.3,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,10:30,25.5,19.1,79.7,0.0,W@9.8,11.0,0.38,519,31.8,32.2,22.3,30.23,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,10:45,27.3,20.1,76.6,0.0,W@9.6,11.7,0.31,554,31.8,32.2,22.3,30.24,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,11:00,28.7,20.6,73.0,0.0,W@10.4,13.9,0.15,585,31.9,32.2,22.3,30.25,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,11:15,30.1,20.9,69.2,0.03,W@8.0,11.7,0.08,613,31.8,32.2,22.3,30.25,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,11:30,32.1,22.2,66.5,0.02,W@3.2,5.3,0.07,637,31.8,32.2,22.3,30.26,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,11:45,34.1,22.7,62.7,0.0,W@2.2,4.6,0.06,660,31.8,32.2,22.3,30.27,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,12:00,34.2,23.4,64.2,0.0,SW@2.8,4.2,0.06,679,31.8,32.2,22.3,30.27,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,12:15,33.0,24.2,69.7,0.0,W@4.0,4.9,0.07,693,31.8,32.2,22.3,30.27,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,12:30,33.4,25.0,70.8,0.0,W@8.5,11.7,0.08,704,31.8,32.2,22.3,30.27,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,12:45,33.4,24.8,70.2,0.0,W@9.8,12.4,0.08,711,31.8,32.2,22.3,30.28,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,13:00,33.3,24.9,71.0,0.0,W@9.5,12.1,0.08,715,31.8,32.2,22.3,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,13:15,33.7,23.9,67.1,0.0,W@10.8,12.4,0.07,715,31.8,32.2,22.3,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,13:30,34.0,24.2,66.9,0.0,W@10.6,14.2,0.07,712,31.8,32.2,22.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,13:45,34.3,25.2,69.1,0.0,W@11.3,14.6,0.08,705,31.8,32.2,22.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,14:00,34.7,25.2,67.9,0.0,W@12.2,15.0,0.08,695,31.8,32.2,22.4,30.29,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,14:15,34.9,24.9,66.8,0.0,W@12.3,14.6,0.07,681,31.8,32.2,22.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,14:30,35.1,25.3,67.1,0.0,W@10.0,13.5,0.07,663,31.8,32.2,22.4,30.3,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,14:45,35.3,25.0,65.8,0.0,W@9.8,12.1,0.07,643,31.8,32.2,22.4,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,15:00,35.8,24.9,64.2,0.0,W@9.7,12.4,0.07,621,31.8,32.2,22.4,30.31,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,15:15,35.6,25.6,66.6,0.0,W@9.5,11.4,0.07,593,31.8,32.2,22.4,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,15:30,35.9,25.2,64.9,0.0,W@8.7,11.0,0.07,564,31.8,32.2,22.4,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,15:45,35.6,26.0,67.8,0.0,W@7.7,10.7,0.07,532,31.8,32.2,22.4,30.32,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,16:00,36.3,25.4,64.2,0.0,W@6.5,9.2,0.07,497,31.8,32.2,22.4,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,16:15,37.4,25.0,60.4,0.0,W@4.1,5.7,0.06,460,31.8,32.2,22.4,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,16:30,37.1,24.8,60.7,0.0,W@3.8,4.9,0.06,422,31.8,32.2,22.4,30.33,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,16:45,36.7,24.9,62.0,0.0,W@3.0,4.9,0.06,382,31.8,32.2,22.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,17:00,36.5,24.7,61.9,0.0,SW@0.0,1.4,0.06,339,31.8,32.2,22.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,17:15,38.1,23.3,54.8,0.0,N @0.0,0.0,0.01,295,31.8,32.2,22.4,30.34,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,17:30,36.4,23.1,58.2,0.0,S@0.0,1.4,0.0,250,31.8,32.2,22.4,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,17:45,33.2,24.9,71.2,0.0,SE@3.9,5.7,0.09,205,31.8,32.2,22.4,30.35,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,18:00,31.6,25.4,77.9,0.0,SE@5.8,7.1,0.14,163,31.8,32.2,22.4,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,18:15,30.9,25.8,81.9,0.0,S@5.2,6.7,0.16,121,31.8,32.2,22.4,30.36,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,18:30,30.9,25.5,81.1,0.0,S@6.1,6.7,0.16,83,31.8,32.2,22.4,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,18:45,30.0,24.4,80.9,0.0,S@4.6,7.1,0.21,47,31.8,32.2,22.4,30.37,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,19:00,29.1,24.8,85.8,0.0,SE@1.8,5.3,0.33,15,31.8,32.2,22.4,30.38,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,19:15,28.8,24.8,86.7,0.0,SE@2.7,5.3,0.46,2,31.8,32.2,22.4,30.38,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,19:30,27.6,23.1,85.7,0.0,S@6.6,8.2,0.42,0,31.8,32.2,22.4,30.38,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,19:45,28.5,23.4,83.0,0.0,S@7.2,8.2,0.29,0,31.8,32.2,22.4,30.39,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,20:00,26.6,21.9,85.1,0.0,SE@5.0,7.1,0.36,0,31.8,32.2,22.4,30.4,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,20:15,26.8,22.9,87.8,0.0,SE@4.5,6.7,0.44,0,31.9,32.3,22.4,30.4,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,20:30,26.8,23.0,88.5,0.0,SE@2.6,4.9,0.46,0,31.9,32.2,22.4,30.41,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,20:45,27.6,24.2,89.5,0.0,N @0.0,0.0,0.48,0,31.8,32.2,22.5,30.41,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,21:00,26.6,23.3,90.2,0.0,N @0.0,0.0,0.46,0,31.9,32.2,22.5,30.42,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,21:15,25.5,22.8,93.1,0.0,N @0.0,0.0,0.46,0,31.9,32.2,22.5,30.42,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,21:30,25.9,23.4,93.8,0.0,N @0.0,0.0,0.45,0,31.9,32.2,22.5,30.42,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,21:45,25.0,22.7,95.0,0.0,N @0.0,0.0,0.45,0,31.9,32.2,22.5,30.42,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,22:00,23.9,21.9,96.7,0.0,E@1.3,4.9,0.43,0,31.9,32.3,22.5,30.42,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,22:15,24.1,22.5,98.3,0.0,SE@3.7,4.9,0.44,0,31.9,32.2,22.5,30.43,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,22:30,24.7,23.0,97.7,0.0,SE@3.1,5.3,0.44,0,31.9,32.2,22.5,30.43,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,22:45,23.7,21.6,96.4,0.0,SE@4.4,5.7,0.43,0,31.9,32.2,22.5,30.44,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,23:00,23.6,22.0,98.4,0.0,SE@4.1,4.9,0.43,0,31.9,32.3,22.5,30.44,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,23:15,23.4,21.7,98.2,0.0,SE@4.4,4.9,0.42,0,31.9,32.3,22.5,30.44,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,23:30,22.9,21.1,98.1,0.0,SE@5.6,6.7,0.42,0,31.9,32.3,22.5,30.44,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,23:45,21.9,20.0,97.8,0.0,SE@5.5,6.7,0.41,0,31.9,32.3,22.5,30.44,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282
+2019-03-13,24:00,22.5,20.8,98.6,0.0,SE@6.0,6.7,0.42,0,31.9,32.3,22.5,30.44,"Harrington (Harrington South), Harrington, Lincoln County",300202,Harrington,2020-06-01 13:45:19.995282

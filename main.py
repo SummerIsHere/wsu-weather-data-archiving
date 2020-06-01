@@ -10,7 +10,7 @@ data_folder = os.path.join(os.getcwd(), 'downloaded_data')
 snotel_folder = os.path.join(data_folder, 'snotel')
 sf_folder = os.path.join(data_folder, 'streamflow')
 tidal_folder = os.path.join(data_folder, 'tide_gauge')
-wsu_folder = os.path.join(os.getcwd(), 'downloaded_data', 'wsu')
+wsu_folder = os.path.join(data_folder, 'wsu')
 wsu_subfolder = os.path.join(wsu_folder, 'tidied_data_weather')
 sl_file = os.path.join(wsu_folder, 'tidied_data_wsu_weather_station_list.csv')
 sl_ps_file = os.path.join(wsu_folder, 'puget_sound_stations.csv')
@@ -21,6 +21,8 @@ gecko_fullpath = os.path.join(os.getcwd(), 'geckodriver_bins', 'win', 'geckodriv
 dl_folder = os.path.join(os.getcwd(), 'sqlite', 'dl')
 wrk_folder = os.path.join(os.getcwd(), 'sqlite')
 dr_folder = os.path.join(os.getcwd(), 'sqlite', 'dr')
+nClim_output_folder = os.path.join(data_folder,'nclimdiv')
+nClim_raw_output_folder = os.path.join(nClim_output_folder,'raw_data')
 
 ## Set up logging file
 logging.basicConfig(level=logging.INFO
@@ -49,7 +51,7 @@ root.addHandler(ch)
 logging.info('Getting CO2 Data')
 dtu.get_CO2_conc(output_folder=data_folder)
 logging.info('Getting NOAA US climate data')
-dtu.get_nClimDiv(output_folder=data_folder)
+dtu.get_nClimDiv(output_folder=nClim_output_folder,raw_output_folder=nClim_raw_output_folder)
 logging.info('Getting Snotel Data')
 dtu.get_snotel_data(snotel_folder)
 logging.info('Getting tidal gauge data')
@@ -58,13 +60,18 @@ logging.info('Getting streamflow data')
 dtu.get_usgs_streamflow(sf_folder)
 logging.info('Getting global temperature data')
 dtu.get_global_temp_data(output_folder=data_folder)
-logging.info('Getting population data from World Bank')
-dtu.get_wb_data(output_folder=data_folder, indicator_id='SP.POP.TOTL', indicator='Population, total', country='WLD')
+## World Bank Data is two years out of date, disable update and update file manually using worldometer.info
+#logging.info('Getting population data from World Bank')
+#dtu.get_wb_data(output_folder=data_folder, indicator_id='SP.POP.TOTL', indicator='Population, total', country='WLD')
 logging.info('Getting grain data from USDA')
 dtu.get_grain_data(output_folder=data_folder
                   ,baseurl='https://apps.fas.usda.gov/psdonline/downloads/'
                   ,filename = 'psd_grains_pulses_csv.zip')
 
+# Update station list
+dtu.get_wsu_station_list(output_folder=wsu_folder)
+
+# Update station info
 
 # Download WSU weather data
 logging.info('Getting WSU weather data')
