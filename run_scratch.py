@@ -44,6 +44,9 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 ch.setFormatter(formatter)
 root.addHandler(ch)
 
+#Update WSU Stations
+#dtu.get_wsu_station_list(output_folder=wsu_folder)
+
 
 # Download WSU weather data for daylight savings quality control
 logging.info('Getting WSU daylight savings calibrators')

@@ -494,15 +494,20 @@ def get_wsu_station_list(output_folder):
         station_name = parsey.select('div[class="stationDetailsDataDiv"] > div[style="text-align:center"]')[0].find('b').get_text()
         vars = parsey.select('div[class="stationDetailsDataDiv"] div[style="float:left"]')
         vals = parsey.select('div[class="stationDetailsDataDiv"] div[style="float:right"]')
+        logging.debug('len(vars): ' + str(len(vars)))
         for j in range(0, len(vars)):
-            vr = re.sub(u'[:]', '', vars[j].getText())
-            logging.debug(str(vals[j]))
-            tempTab = pd.DataFrame([{'Variable': vr
+            try:
+                logging.debug('j: ' + str(j))
+                vr = re.sub(u'[:]', '', vars[j].getText())
+                logging.debug(str(vals[j]))
+                tempTab = pd.DataFrame([{'Variable': vr
                                         , 'Value': vals[j].getText()
                                         , 'Station ID': st
                                         , 'Station Name': station_name
                                      }])
-            masterTab = tempTab.append(masterTab, ignore_index=True)
+                masterTab = tempTab.append(masterTab, ignore_index=True)
+            except Exception as e:
+                break
 
         aInfo = parsey.find("h1", string=re.compile("Additional Information")).next_sibling.get_text()
         tempTab = pd.DataFrame([{'Variable': 'Additional Info'
@@ -785,7 +790,7 @@ def download_tidy_weather_data(start, station_id, station_name, output_folder, g
         fname = station_id + '_' + mn_txt + '_' + output_suffix + '.csv'
     outname = os.path.join(output_folder, fname)
     tab.to_csv(outname, index=False, encoding='utf-8')
-    logging.debug('Wrote out tidied table to ' + outname)
+    logging.info('Wrote out tidied table to ' + outname)
     return [browser, mx_txt, uniq_dts]
 
 ## Utility function to find files related to a station_id. Returns a list of file names
