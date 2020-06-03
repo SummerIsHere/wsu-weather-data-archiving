@@ -484,21 +484,36 @@ def get_wsu_station_list(output_folder):
         logging.debug('url: ' + url)
 
         # Get page
+        # TODO: when loading the page manually, i see a flash of invalid values before real values are loaded
+        # Does this mean we need to actually open a browser and wait for elements to appear before we extract
+        # data? that would explain all the weird 99999 values we get for some of the station details
         logging.debug('getting page')
         pagey = requests.get(url)
         pagey.raise_for_status()
+
         parsey = bs4.BeautifulSoup(pagey.text, 'html5lib')
 
         # Extract station info table
         logging.debug('extracting table info')
+        time.sleep(2)
         station_name = parsey.select('div[class="stationDetailsDataDiv"] > div[style="text-align:center"]')[0].find('b').get_text()
+
         vars = parsey.select('div[class="stationDetailsDataDiv"] div[style="float:left"]')
         vals = parsey.select('div[class="stationDetailsDataDiv"] div[style="float:right"]')
+        logging.debug('vars: ')
+        logging.debug(vars)
+        logging.debug('vals: ')
+        logging.debug(vals)
         logging.debug('len(vars): ' + str(len(vars)))
         for j in range(0, len(vars)):
             try:
                 logging.debug('j: ' + str(j))
                 vr = re.sub(u'[:]', '', vars[j].getText())
+                logging.debug('vars j')
+                logging.debug(str(vars[j]))
+                logging.debug('vr:')
+                logging.debug(vr)
+                logging.debug('vals j:')
                 logging.debug(str(vals[j]))
                 tempTab = pd.DataFrame([{'Variable': vr
                                         , 'Value': vals[j].getText()
@@ -507,6 +522,11 @@ def get_wsu_station_list(output_folder):
                                      }])
                 masterTab = tempTab.append(masterTab, ignore_index=True)
             except Exception as e:
+                logging.warning('Error while getting station info')
+                logging.warning('The exception caught:')
+                logging.warning(str(e))
+                logging.info(str(e.args))
+                logging.warning('breaking...')
                 break
 
         aInfo = parsey.find("h1", string=re.compile("Additional Information")).next_sibling.get_text()
@@ -644,12 +664,13 @@ def download_tidy_weather_data(start, station_id, station_name, output_folder, g
 
     time.sleep(1)
     dl = browser.find_element(By.XPATH, "//input[@id='downloadbutton']")
+    time.sleep(1)
     dl.click()
     logging.debug('After click download button')
     time.sleep(1)
     browser.switch_to.alert.accept()
     logging.debug('Alert Accepted')
-    time.sleep(3)
+    time.sleep(2)
 
     # Wait for a single .csv file to appear in the temporary folder before proceeding
     # Stop if exceeds 30 sec
@@ -845,11 +866,12 @@ def get_wsu_weather_data(station_list_file, station_info_file, output_folder, ge
         start_ts = None
         if len(val) == 1:
             start_ts = pd.to_datetime(val).reset_index(drop=True)[0]
-            logging.info('Set start_ts for ' + station_id + ' to installation Date: ' + str(start_ts))
+            logging.info('Set start_ts for ' + station_id + ' (' + station_name +') to installation Date: ' + str(start_ts))
 
         else:
-            logging.info('More or less than 1 installation date found, skipping station ' + station_name)
-            continue
+            logging.info('More or less than 1 installation date found for ' + station_name)
+            start_ts = datetime.strptime('2001-01-01', '%Y-%m-%d')
+            logging.info('Set start_ts for ' + station_id + ' (' + station_name +') to a default: ' + str(start_ts))
 
         # Look for existing station data. If there is data, set start_ts to the latest start date from those files
         station_output_folder = os.path.join(output_folder,station_id)
@@ -1073,33 +1095,41 @@ def wsu_progress(station_list_file,output_folder, scan_folder, dl_folder, dr_fol
             sl.ix[i, 'CSV Max Date'] = max_dt
 
         ## Get progress in data lake
-        dl_db = os.path.join(dl_folder,('dl_'+station_id+'.db'))
-        dl_conn = sqlite3.connect(dl_db, detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
-        dl_cur = dl_conn.cursor()
-        thissql = 'SELECT DISTINCT date, time_pdt, time_pst FROM dl_wsu_weather WHERE station_id = \'' + station_id + '\''
-        dl_ts_cnt = pd.read_sql_query(sql=thissql, con=dl_conn)
-        sl.ix[i, 'DL Timestamp Count'] = len(dl_ts_cnt.index)
+        try:
+            dl_db = os.path.join(dl_folder,('dl_'+station_id+'.db'))
+            dl_conn = sqlite3.connect(dl_db, detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
+            dl_cur = dl_conn.cursor()
+            thissql = 'SELECT DISTINCT date, time_pdt, time_pst FROM dl_wsu_weather WHERE station_id = \'' + station_id + '\''
+            dl_ts_cnt = pd.read_sql_query(sql=thissql, con=dl_conn)
+            sl.ix[i, 'DL Timestamp Count'] = len(dl_ts_cnt.index)
 
-        thissql = 'SELECT min(date) AS dl_min_date, max(date) as dl_max_date FROM dl_wsu_weather WHERE station_id = \'' + station_id + '\''
-        dl_dt = pd.read_sql_query(sql=thissql, con=dl_conn)
-        #logging.debug('type of pull: ' + str(type(dl_dt.at[0,'dl_min_date'])))
-        sl.ix[i, 'DL Min Date'] = dl_dt.at[0,'dl_min_date']
-        sl.ix[i, 'DL Max Date'] = dl_dt.at[0,'dl_max_date']
-        #logging.debug(str(sl))
-        dl_cur.close()
-        dl_conn.close()
+            thissql = 'SELECT min(date) AS dl_min_date, max(date) as dl_max_date FROM dl_wsu_weather WHERE station_id = \'' + station_id + '\''
+            dl_dt = pd.read_sql_query(sql=thissql, con=dl_conn)
+            #logging.debug('type of pull: ' + str(type(dl_dt.at[0,'dl_min_date'])))
+            sl.ix[i, 'DL Min Date'] = dl_dt.at[0,'dl_min_date']
+            sl.ix[i, 'DL Max Date'] = dl_dt.at[0,'dl_max_date']
+            #logging.debug(str(sl))
+            dl_cur.close()
+            dl_conn.close()
 
-        ## Get progress in data refinery
-        dr_db = os.path.join(dr_folder,('dr_'+station_id+'.db'))
-        dr_conn = sqlite3.connect(dr_db, detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
-        dr_cur = dr_conn.cursor()
-        thissql = 'SELECT DISTINCT timestamp FROM dr_wsu_weather WHERE station_id = \'' + station_id + '\''
-        dr_ts_cnt = pd.read_sql_query(sql=thissql, con=dr_conn)
-        sl.ix[i, 'DR Timestamp Count'] = len(dr_ts_cnt.index)
-        #logging.debug(str(sl))
-        dr_cur.close()
-        dr_conn.close()
-
+            ## Get progress in data refinery
+            dr_db = os.path.join(dr_folder,('dr_'+station_id+'.db'))
+            dr_conn = sqlite3.connect(dr_db, detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES)
+            dr_cur = dr_conn.cursor()
+            thissql = 'SELECT DISTINCT timestamp FROM dr_wsu_weather WHERE station_id = \'' + station_id + '\''
+            dr_ts_cnt = pd.read_sql_query(sql=thissql, con=dr_conn)
+            sl.ix[i, 'DR Timestamp Count'] = len(dr_ts_cnt.index)
+            #logging.debug(str(sl))
+            dr_cur.close()
+            dr_conn.close()
+        except Exception as e:
+            logging.warning('wsu_progress: Error thrown')
+            logging.warning('Database related error for station_id ' + str(station_id) )
+            logging.warning('The exception caught:')
+            logging.warning(str(e))
+            logging.info(str(e.args))
+            logging.warning('Moving on to next station')
+            continue
     bool_list = sl.loc[:, 'DL Timestamp Count'] > 0
     sl.loc[bool_list,'Percent of DL in DR'] = sl.loc[bool_list,'DR Timestamp Count'] / sl.loc[bool_list,'DL Timestamp Count']
     logging.debug(str(sl))

@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 2 in. Soil Tmp °F, 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2019-08-23,00:15,60.0,56.8,88.9,0.0,SW@3.3,4.2,0.15,0,76.4,80.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,00:30,59.3,56.5,90.3,0.0,W@1.4,3.5,0.17,0,76.0,80.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,00:45,58.2,57.1,96.1,0.0,E@2.3,3.5,0.24,0,75.6,80.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,01:00,57.3,57.1,99.3,0.0,E@2.1,3.9,0.33,0,75.2,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,01:15,57.3,57.2,99.3,0.0,SE@0.7,2.8,0.42,0,74.8,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,01:30,57.3,57.2,99.3,0.0,SW@2.1,4.6,0.5,0,74.5,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,01:45,57.4,57.2,99.3,0.0,N @0.0,0.0,0.56,0,74.1,79.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,02:00,56.9,56.7,99.3,0.0,E@1.5,3.5,0.6,0,73.8,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,02:15,56.0,55.8,99.3,0.0,E@0.3,3.1,0.63,0,73.5,78.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,02:30,55.7,55.5,99.4,0.0,E@0.9,3.1,0.67,0,73.1,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,02:45,55.3,55.1,99.4,0.0,SE@0.9,3.5,0.69,0,72.8,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,03:00,55.1,55.0,99.5,0.0,SE@0.6,2.8,0.71,0,72.5,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,03:15,54.9,54.7,99.5,0.0,SE@0.7,3.1,0.73,0,72.2,77.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,03:30,54.8,54.6,99.5,0.0,NE@0.4,3.1,0.75,0,71.9,77.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,03:45,53.9,53.8,99.5,0.0,NE@0.5,3.5,0.76,0,71.6,77.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,04:00,53.6,53.5,99.5,0.0,E@0.5,2.8,0.78,0,71.3,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,04:15,53.6,53.4,99.5,0.0,N @0.0,0.0,0.8,0,71.0,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,04:30,53.5,53.3,99.6,0.0,N @1.2,3.5,0.81,0,70.7,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,04:45,53.5,53.4,99.5,0.0,N@1.0,3.5,0.82,0,70.4,76.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,05:00,53.6,53.5,99.5,0.0,E@0.0,1.4,0.84,0,70.1,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,05:15,54.1,54.0,99.5,0.0,N @0.0,0.0,0.86,0,69.8,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,05:30,54.3,54.2,99.4,0.0,SE@0.1,2.8,0.87,0,69.6,75.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,05:45,52.6,52.4,99.4,0.0,SE@1.2,4.2,0.88,0,69.3,75.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,06:00,52.9,52.8,99.5,0.0,S@0.7,3.1,0.88,0,69.1,75.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,06:15,52.7,52.5,99.5,0.0,SW@0.9,4.2,0.89,4,68.8,75.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,06:30,53.4,53.3,99.4,0.0,SW@0.1,1.7,0.89,19,68.6,75.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,06:45,53.5,53.4,99.4,0.0,NW@0.1,1.7,0.9,45,68.3,74.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,07:00,54.0,53.9,99.4,0.0,NW@0.9,3.1,0.91,76,68.2,74.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,07:15,55.6,55.5,99.4,0.0,NW@0.0,1.7,0.92,101,68.0,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,07:30,56.9,56.7,99.4,0.0,NW@0.0,1.4,0.92,125,68.0,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,07:45,58.3,58.1,99.2,0.0,N @0.0,0.0,0.92,170,68.0,73.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,08:00,60.0,59.6,98.3,0.0,SE@1.2,3.9,0.92,217,68.2,73.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,08:15,61.5,58.9,91.0,0.0,S@0.8,4.6,0.92,234,68.5,73.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,08:30,61.4,55.1,79.9,0.0,SW@1.1,3.9,0.91,255,68.9,73.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,08:45,62.1,56.1,80.8,0.0,SW@0.8,3.9,0.91,300,69.4,73.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,09:00,63.5,56.1,76.6,0.0,S@0.6,3.5,0.91,311,69.9,73.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,09:15,64.2,56.6,76.3,0.0,E@2.5,4.2,0.9,339,70.5,73.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,09:30,64.9,55.8,72.3,0.0,SE@2.0,4.2,0.89,448,71.2,73.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,09:45,66.3,55.2,67.5,0.0,E@1.5,3.1,0.88,393,71.9,73.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,10:00,67.9,55.1,63.6,0.0,NE@2.0,4.2,0.87,421,72.7,73.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,10:15,69.0,54.3,59.4,0.0,NE@1.8,3.1,0.86,487,73.5,73.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,10:30,70.6,55.5,58.6,0.0,NW@1.4,3.9,0.84,546,74.2,73.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,10:45,69.7,56.1,61.8,0.0,E@2.3,3.9,0.81,366,74.8,73.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,11:00,70.7,56.3,60.2,0.0,E@2.4,4.6,0.8,551,75.3,73.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,11:15,71.0,56.8,60.8,0.0,E@3.2,5.7,0.77,509,75.8,73.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,11:30,72.3,56.4,57.2,0.0,E@2.7,5.7,0.74,641,76.4,73.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,11:45,73.8,55.2,52.2,0.0,E@2.3,4.2,0.71,626,77.2,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,12:00,74.3,54.5,50.0,0.0,NE@2.5,4.6,0.67,634,78.2,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,12:15,75.3,56.1,51.3,0.0,E@3.3,6.0,0.62,660,79.3,74.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,12:30,76.4,54.8,47.2,0.0,E@3.3,6.4,0.58,681,80.4,74.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,12:45,77.3,55.6,47.1,0.0,SE@3.3,5.7,0.53,651,81.5,75.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,13:00,77.7,55.9,47.0,0.0,E@3.9,6.7,0.48,599,82.6,75.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,13:15,78.9,56.3,45.8,0.0,E@3.6,5.3,0.43,640,83.5,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,13:30,79.6,56.6,45.4,0.0,E@4.3,7.4,0.38,702,84.3,76.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,13:45,80.6,54.9,41.2,0.0,E@4.7,8.5,0.32,689,85.1,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,14:00,81.3,50.4,34.1,0.0,E@3.5,7.4,0.26,627,86.0,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,14:15,81.6,51.5,35.2,0.0,SE@3.4,6.4,0.19,590,86.7,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,14:30,83.1,50.5,32.4,0.0,E@3.2,6.4,0.14,646,87.4,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,14:45,82.5,52.4,35.3,0.0,E@3.9,6.0,0.09,646,88.1,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,15:00,82.7,54.1,37.3,0.0,E@4.1,5.7,0.06,597,88.7,79.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,15:15,82.7,54.5,37.9,0.0,NE@3.9,6.0,0.04,477,89.2,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,15:30,82.7,54.2,37.5,0.0,E@4.3,6.4,0.03,495,89.7,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,15:45,82.5,55.4,39.5,0.0,E@4.6,7.4,0.02,401,90.0,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,16:00,81.1,60.1,48.9,0.0,E@4.6,7.1,0.01,318,90.3,80.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,16:15,81.9,57.9,44.1,0.0,E@4.8,7.8,0.0,385,90.3,81.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,16:30,82.0,58.8,45.4,0.0,E@4.4,7.1,0.0,316,90.3,81.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,16:45,82.1,58.2,44.1,0.0,SE@4.9,6.7,0.0,356,90.3,82.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,17:00,82.0,56.5,41.8,0.0,SE@5.3,7.4,0.0,339,90.2,82.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,17:15,81.6,57.6,44.0,0.0,SE@5.3,8.5,0.0,310,90.0,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,17:30,82.4,56.9,41.8,0.0,SE@5.7,9.6,0.0,345,89.9,82.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,17:45,82.2,58.0,43.8,0.0,SE@4.2,6.0,0.0,239,89.8,83.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,18:00,80.2,57.3,45.5,0.0,SE@4.5,5.3,0.0,93,89.6,83.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,18:15,78.9,60.2,52.7,0.0,SE@3.6,4.6,0.0,115,89.4,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,18:30,79.9,58.8,48.5,0.0,SE@3.4,4.6,0.0,88,89.1,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,18:45,79.0,58.5,49.5,0.0,SE@4.5,5.7,0.0,56,88.7,83.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,19:00,78.7,56.5,46.4,0.0,SE@4.2,5.7,0.0,45,88.2,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,19:15,77.2,56.9,49.4,0.0,SE@4.6,6.0,0.0,29,87.8,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,19:30,75.7,56.7,51.7,0.0,SE@4.0,4.9,0.0,24,87.3,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,19:45,74.8,56.8,53.4,0.0,E@4.3,5.7,0.0,6,86.7,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,20:00,74.6,57.3,54.7,0.0,SE@4.2,4.9,0.0,1,86.2,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,20:15,72.8,59.8,63.6,0.0,E@3.9,5.7,0.0,0,85.7,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,20:30,71.4,60.4,68.2,0.0,E@3.7,5.3,0.0,0,85.2,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,20:45,71.3,59.3,65.7,0.0,SE@4.5,6.4,0.0,0,84.7,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,21:00,71.9,58.1,61.8,0.0,SE@3.6,4.9,0.0,0,84.2,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,21:15,71.7,57.6,61.0,0.0,E@4.1,4.9,0.0,0,83.8,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,21:30,70.4,58.7,66.5,0.0,NE@3.7,4.6,0.0,0,83.4,83.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,21:45,69.2,58.6,69.1,0.0,E@3.8,5.3,0.0,0,83.0,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,22:00,69.4,57.4,65.5,0.0,NE@3.3,4.6,0.0,0,82.6,83.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,22:15,70.8,55.2,57.9,0.0,E@2.9,3.9,0.0,0,82.2,83.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,22:30,69.9,57.5,64.7,0.0,SE@3.5,4.9,0.0,0,81.8,83.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,22:45,69.8,56.7,63.1,0.0,S@2.5,3.5,0.0,0,81.5,83.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,23:00,70.1,56.5,62.1,0.0,SW@2.5,3.5,0.0,0,81.1,82.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,23:15,68.5,57.9,68.8,0.0,S@1.3,3.9,0.0,0,80.8,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,23:30,68.8,58.3,69.2,0.0,N @0.0,0.0,0.0,0,80.5,82.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,23:45,68.1,59.5,74.1,0.0,NW@2.5,4.2,0.01,0,80.3,82.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-23,24:00,68.1,58.7,71.7,0.0,W@1.4,5.3,0.01,0,80.0,82.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,00:15,68.4,58.5,70.6,0.0,SW@3.8,5.3,0.01,0,79.7,82.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,00:30,67.7,59.1,73.8,0.0,S@1.9,4.2,0.01,0,79.5,81.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,00:45,67.2,59.2,75.4,0.0,S@0.5,2.4,0.01,0,79.2,81.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,01:00,67.4,59.3,75.1,0.0,SW@1.0,4.6,0.02,0,79.0,81.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,01:15,67.3,59.2,75.3,0.0,S@2.7,5.3,0.02,0,78.7,81.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,01:30,67.3,59.3,75.4,0.0,S@4.2,5.7,0.02,0,78.5,81.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,01:45,67.8,57.8,70.1,0.0,W@4.3,5.7,0.02,0,78.3,81.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,02:00,68.7,56.7,65.3,0.0,W@3.4,6.0,0.02,0,78.0,80.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,02:15,67.4,57.9,71.4,0.0,S@3.1,4.6,0.02,0,77.8,80.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,02:30,67.9,56.8,67.5,0.0,W@2.4,3.5,0.02,0,77.6,80.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,02:45,67.1,57.5,71.0,0.0,NW@2.0,3.9,0.02,0,77.4,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,03:00,65.5,59.5,81.0,0.0,E@0.9,2.8,0.02,0,77.2,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,03:15,65.3,59.8,82.5,0.0,E@1.5,3.9,0.04,0,77.0,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,03:30,64.6,60.4,86.2,0.0,NE@0.1,1.7,0.04,0,76.8,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,03:45,63.8,62.3,94.6,0.0,E@0.4,2.8,0.08,0,76.6,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,04:00,62.8,62.6,99.3,0.0,E@3.1,5.3,0.12,0,76.4,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,04:15,63.1,62.7,98.8,0.0,S@0.6,3.5,0.12,0,76.2,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,04:30,63.0,62.8,99.2,0.0,NE@0.1,2.1,0.17,0,75.9,79.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,04:45,62.9,62.7,99.2,0.0,E@0.0,1.4,0.21,0,75.7,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,05:00,62.3,62.2,99.3,0.0,NW@0.2,2.1,0.28,0,75.6,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,05:15,62.3,62.1,99.3,0.0,N @0.5,2.1,0.32,0,75.4,78.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,05:30,62.3,62.1,99.3,0.0,S@0.7,2.8,0.36,0,75.2,78.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,05:45,62.4,62.2,99.2,0.0,N @0.0,0.0,0.38,0,75.0,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,06:00,62.0,61.9,99.3,0.0,N @0.1,2.4,0.42,0,74.7,78.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,06:15,61.9,61.7,99.3,0.0,E@2.0,4.6,0.44,2,74.5,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,06:30,61.3,61.1,99.3,0.0,NW@1.5,3.1,0.47,11,74.3,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,06:45,61.2,61.1,99.3,0.0,E@2.3,4.2,0.5,25,74.1,78.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,07:00,61.4,61.3,99.4,0.0,E@2.5,4.6,0.52,80,73.9,77.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,07:15,62.9,62.7,99.3,0.0,SE@0.8,4.2,0.52,94,73.8,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,07:30,63.9,63.6,99.0,0.0,N @0.0,0.0,0.5,76,73.7,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,07:45,64.2,63.8,98.4,0.0,N @0.0,0.0,0.49,102,73.7,77.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,08:00,65.8,60.6,83.2,0.0,NW@0.7,3.1,0.48,190,73.8,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,08:15,67.7,56.5,67.4,0.0,N@3.4,5.7,0.43,246,73.9,77.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,08:30,69.1,54.8,60.3,0.0,N@2.5,4.6,0.37,263,74.0,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,08:45,70.3,53.9,56.0,0.0,NW@3.6,8.5,0.3,277,74.3,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,09:00,71.1,53.3,53.3,0.0,NW@4.6,8.2,0.24,348,74.7,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,09:15,73.0,50.9,45.8,0.0,W@2.5,6.7,0.18,356,75.2,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,09:30,74.0,49.3,41.6,0.0,W@4.7,6.4,0.12,417,75.7,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,09:45,74.4,49.1,40.8,0.0,NW@6.1,9.9,0.08,472,76.3,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,10:00,74.3,48.5,40.0,0.0,W@5.1,8.2,0.05,314,76.9,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,10:15,75.3,48.5,38.8,0.0,W@5.5,8.9,0.04,502,77.6,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,10:30,76.2,47.3,36.0,0.0,W@6.8,10.3,0.03,543,78.1,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,10:45,76.5,48.3,36.9,0.0,W@6.4,10.7,0.02,569,78.4,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,11:00,77.1,47.8,35.5,0.0,W@5.5,7.8,0.01,595,78.6,77.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,11:15,78.2,44.2,29.9,0.0,W@4.3,7.8,0.0,621,79.0,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,11:30,78.9,44.2,29.3,0.0,NW@3.9,6.7,0.0,607,79.5,77.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,11:45,79.2,46.8,32.0,0.0,NW@4.3,7.1,0.0,658,80.3,77.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,12:00,79.9,44.8,28.8,0.0,NW@4.0,7.1,0.0,599,81.2,77.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,12:15,79.4,48.9,34.3,0.0,NW@5.7,8.2,0.0,635,82.2,77.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,12:30,80.0,48.5,33.2,0.0,NW@6.0,8.5,0.0,629,83.1,78.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,12:45,80.6,48.6,32.6,0.0,NW@4.6,7.8,0.0,669,84.0,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,13:00,81.5,47.8,30.7,0.0,N@4.6,7.8,0.0,654,84.8,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,13:15,82.4,46.1,28.1,0.0,NW@3.2,5.7,0.0,689,85.6,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,13:30,82.3,46.9,29.1,0.0,NW@4.1,6.4,0.0,539,86.4,79.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,13:45,83.2,47.1,28.4,0.0,N @2.8,4.9,0.0,607,87.2,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,14:00,82.9,49.3,31.1,0.0,NW@4.5,8.5,0.0,625,87.9,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,14:15,82.9,50.1,32.1,0.0,N@5.0,8.2,0.0,544,88.5,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,14:30,83.3,49.9,31.5,0.0,NW@4.5,7.1,0.0,605,89.0,80.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,14:45,83.5,49.3,30.6,0.0,NW@3.7,6.4,0.0,593,89.5,81.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,15:00,83.9,50.8,31.9,0.0,NW@5.4,8.9,0.0,549,89.9,81.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,15:15,82.9,52.7,35.3,0.0,NW@4.8,7.8,0.0,455,90.3,81.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,15:30,83.6,51.2,32.7,0.0,NW@3.9,6.0,0.0,429,90.6,82.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,15:45,83.9,50.5,31.4,0.0,NW@4.9,7.8,0.0,503,90.8,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,16:00,85.5,49.2,28.5,0.0,NW@3.9,6.4,0.0,564,91.0,83.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,16:15,86.3,46.9,25.4,0.0,NW@2.8,4.9,0.0,504,91.1,83.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,16:30,86.3,48.0,26.6,0.0,W@3.2,6.7,0.0,441,91.4,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,16:45,85.5,53.5,33.3,0.0,N@4.4,6.0,0.0,416,91.7,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,17:00,84.9,52.3,32.6,0.0,NW@4.8,7.1,0.0,387,91.9,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,17:15,86.4,49.5,28.0,0.0,N@3.1,6.4,0.0,360,92.0,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,17:30,85.5,51.6,31.1,0.0,NW@4.3,7.4,0.0,343,92.1,84.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,17:45,85.3,50.0,29.5,0.0,NW@4.1,7.1,0.0,328,92.1,85.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,18:00,84.4,52.1,32.9,0.0,NW@4.8,6.7,0.0,249,92.0,85.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,18:15,82.5,51.1,33.7,0.0,NW@4.6,7.4,0.0,153,92.0,85.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,18:30,83.9,54.1,36.0,0.0,NW@3.7,5.7,0.0,221,91.7,85.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,18:45,82.9,53.1,35.9,0.0,NW@4.3,6.4,0.0,125,91.4,85.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,19:00,80.7,51.8,36.7,0.0,NW@6.0,9.2,0.0,62,91.1,86.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,19:15,79.1,50.3,36.6,0.0,NW@9.6,15.7,0.0,98,90.7,86.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,19:30,78.0,49.7,37.1,0.0,N@8.0,12.4,0.0,62,90.1,86.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,19:45,77.0,49.0,37.3,0.0,NW@8.2,12.1,0.0,32,89.6,86.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,20:00,75.6,49.1,39.2,0.0,NW@7.9,13.5,0.0,8,89.0,86.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,20:15,73.8,50.0,43.2,0.0,NW@5.9,8.5,0.0,2,88.3,86.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,20:30,72.0,51.0,47.6,0.0,NW@4.8,6.7,0.0,0,87.7,86.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,20:45,70.8,51.4,50.2,0.0,NW@4.4,7.8,0.0,0,87.1,86.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,21:00,71.2,50.1,47.2,0.0,NW@6.3,9.9,0.0,0,86.4,86.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,21:15,70.6,50.4,48.6,0.0,NW@5.3,7.4,0.0,0,85.8,86.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,21:30,69.5,51.1,51.9,0.0,NW@5.0,7.4,0.0,0,85.2,85.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,21:45,69.4,50.8,51.6,0.0,NW@6.1,8.9,0.0,0,84.6,85.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,22:00,70.1,50.3,49.5,0.0,NW@6.8,9.9,0.0,0,84.1,85.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,22:15,70.3,50.2,48.8,0.0,NW@7.5,10.7,0.0,0,83.6,85.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,22:30,69.9,50.8,50.6,0.0,W@6.8,9.2,0.0,0,83.1,85.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,22:45,69.7,51.0,51.4,0.0,W@5.8,8.2,0.0,0,82.7,84.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,23:00,68.7,51.5,54.1,0.0,W@5.1,7.1,0.0,0,82.3,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,23:15,68.2,51.7,55.6,0.0,W@3.7,5.7,0.0,0,81.9,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,23:30,67.9,51.5,55.8,0.0,W@4.5,5.7,0.0,0,81.6,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,23:45,67.3,51.3,56.3,0.0,W@5.0,6.4,0.0,0,81.3,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-24,24:00,66.5,50.8,57.0,0.0,W@4.9,6.7,0.0,0,80.9,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,00:15,66.3,50.4,56.5,0.0,W@5.1,6.7,0.0,0,80.6,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,00:30,65.3,50.6,59.0,0.0,W@4.3,5.7,0.0,0,80.2,83.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,00:45,63.3,52.0,66.7,0.0,S@3.3,4.9,0.01,0,79.8,83.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,01:00,61.1,53.9,77.0,0.0,E@1.4,3.1,0.01,0,79.5,83.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,01:15,60.0,54.5,81.7,0.0,E@2.1,5.3,0.02,0,79.1,82.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,01:30,58.7,56.5,92.3,0.0,SE@2.0,3.9,0.05,0,78.8,82.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,01:45,59.0,56.5,91.3,0.0,E@1.0,3.1,0.06,0,78.4,82.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,02:00,58.7,55.8,89.9,0.0,S@0.3,2.8,0.07,0,78.0,82.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,02:15,58.3,55.6,90.7,0.0,N @0.0,0.0,0.1,0,77.6,81.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,02:30,58.6,55.1,88.3,0.0,SW@0.0,1.7,0.1,0,77.3,81.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,02:45,57.5,55.4,92.9,0.0,N @0.0,0.0,0.13,0,76.9,81.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,03:00,56.7,56.4,98.9,0.0,N @0.0,0.0,0.2,0,76.6,81.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,03:15,56.5,56.3,99.2,0.0,N @0.0,0.0,0.27,0,76.2,81.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,03:30,56.3,56.1,99.2,0.0,N @0.0,0.0,0.33,0,75.9,80.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,03:45,56.5,56.3,99.2,0.0,N @0.0,0.0,0.36,0,75.5,80.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,04:00,55.4,55.2,99.2,0.0,N @0.0,0.0,0.39,0,75.2,80.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,04:15,55.6,55.4,99.3,0.0,N @0.0,0.0,0.44,0,74.9,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,04:30,55.9,55.7,99.3,0.0,S@0.0,1.4,0.45,0,74.6,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,04:45,55.5,55.3,99.3,0.0,E@0.0,1.4,0.47,0,74.3,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,05:00,55.2,55.0,99.4,0.0,N @0.0,0.0,0.51,0,74.0,79.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,05:15,55.3,55.2,99.4,0.0,N @0.0,0.0,0.55,0,73.8,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,05:30,55.2,55.0,99.4,0.0,N @0.0,0.0,0.58,0,73.6,78.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,05:45,55.1,55.0,99.4,0.0,N @0.0,0.0,0.6,0,73.4,78.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,06:00,54.9,54.8,99.4,0.0,N @0.0,0.0,0.61,0,73.1,78.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,06:15,54.7,54.5,99.4,0.0,N @0.0,0.0,0.64,4,72.9,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,06:30,55.2,55.1,99.4,0.0,N @0.0,0.0,0.66,16,72.7,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,06:45,55.7,55.5,99.3,0.0,N @0.0,0.0,0.66,37,72.5,77.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,07:00,55.3,55.1,99.3,0.0,N @0.0,0.0,0.66,64,72.3,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,07:15,56.5,56.4,99.3,0.0,N @0.0,0.0,0.67,94,72.1,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,07:30,58.3,57.9,98.6,0.0,N @0.0,0.0,0.66,127,72.0,77.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,07:45,59.5,57.8,93.9,0.0,N @0.0,0.0,0.65,162,71.9,77.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,08:00,61.5,56.4,83.3,0.0,W@2.1,7.4,0.62,200,72.0,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,08:15,63.5,52.7,67.7,0.0,W@6.4,9.2,0.57,238,72.2,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,08:30,64.3,52.0,64.1,0.0,SW@5.1,7.1,0.52,276,72.5,76.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,08:45,64.9,52.6,64.3,0.0,SW@3.3,5.7,0.47,313,72.7,76.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,09:00,66.4,53.2,62.6,0.0,W@3.7,6.4,0.4,350,73.1,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,09:15,68.0,53.1,58.8,0.0,NW@3.3,5.7,0.34,385,73.6,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,09:30,69.5,52.7,55.0,0.0,NW@4.9,8.2,0.28,421,74.1,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,09:45,70.8,50.7,48.9,0.0,NW@6.3,9.9,0.22,457,74.8,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,10:00,71.6,49.8,46.1,0.0,NW@6.0,9.2,0.16,492,75.4,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,10:15,72.0,48.4,43.1,0.0,NW@8.5,14.6,0.11,525,76.1,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,10:30,72.7,47.9,41.3,0.0,NW@8.4,12.1,0.08,557,76.7,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,10:45,73.2,47.0,39.3,0.0,NW@8.8,12.8,0.05,584,77.1,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,11:00,73.9,47.5,39.1,0.0,NW@8.9,13.2,0.04,613,77.3,76.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,11:15,74.1,46.9,38.0,0.0,NW@8.6,13.2,0.02,639,77.6,76.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,11:30,74.6,46.8,37.3,0.0,NW@9.4,14.2,0.02,659,78.1,76.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,11:45,75.4,46.7,36.1,0.0,NW@8.2,12.8,0.01,677,78.7,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,12:00,75.9,45.5,33.8,0.0,NW@8.7,15.3,0.0,690,79.3,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,12:15,76.3,45.8,33.8,0.0,NW@8.6,12.8,0.0,700,80.1,77.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,12:30,76.6,45.0,32.6,0.0,NW@8.4,13.2,0.0,709,80.8,77.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,12:45,76.8,44.3,31.5,0.0,NW@8.1,13.2,0.0,717,81.5,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,13:00,77.3,43.6,30.1,0.0,W@8.5,13.5,0.0,721,82.3,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,13:15,78.4,44.5,30.1,0.0,W@9.2,14.6,0.0,721,82.9,78.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,13:30,78.5,43.8,29.2,0.0,W@9.1,14.2,0.0,720,83.6,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,13:45,78.4,43.0,28.4,0.0,W@9.5,15.0,0.0,717,84.2,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,14:00,79.3,41.5,26.0,0.0,W@9.1,16.0,0.0,708,84.7,78.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,14:15,80.5,40.8,24.3,0.0,W@8.0,11.4,0.0,694,85.2,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,14:30,81.3,39.5,22.5,0.0,W@7.8,12.4,0.0,679,85.7,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,14:45,81.2,40.7,23.7,0.0,W@7.1,13.2,0.0,664,86.2,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,15:00,81.1,43.0,26.0,0.0,NW@5.5,9.9,0.0,644,86.7,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,15:15,81.5,41.1,23.8,0.0,W@6.9,13.2,0.0,624,87.2,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,15:30,82.6,40.0,22.0,0.0,W@6.8,12.8,0.0,597,87.6,80.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,15:45,82.4,41.4,23.5,0.0,W@6.1,10.7,0.0,572,88.0,81.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,16:00,81.9,43.1,25.4,0.0,NW@6.5,10.3,0.0,544,88.4,81.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,16:15,81.9,43.7,26.0,0.0,NW@6.1,9.9,0.0,514,88.7,81.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,16:30,81.9,44.0,26.3,0.0,NW@5.9,9.6,0.0,481,88.9,82.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,16:45,82.6,42.2,24.0,0.0,NW@5.4,9.2,0.0,445,89.1,82.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,17:00,83.2,45.5,26.7,0.0,NW@4.5,6.7,0.0,407,89.3,82.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,17:15,82.4,46.6,28.6,0.0,N@5.2,8.5,0.0,372,89.4,82.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,17:30,82.1,48.0,30.5,0.0,N@4.9,6.4,0.0,335,89.4,83.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,17:45,82.0,49.0,31.7,0.0,NW@4.7,6.4,0.0,296,89.4,83.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,18:00,81.4,49.2,32.5,0.0,NW@5.0,7.4,0.0,259,89.4,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,18:15,81.4,48.2,31.4,0.0,NW@4.8,6.7,0.0,220,89.2,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,18:30,80.3,49.4,33.9,0.0,NW@4.5,6.7,0.0,182,89.1,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,18:45,80.2,48.4,32.8,0.0,NW@4.4,6.0,0.0,145,88.8,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,19:00,79.0,49.8,36.0,0.0,NW@4.9,10.3,0.0,111,88.5,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,19:15,77.7,44.1,30.3,0.0,N@8.4,13.2,0.0,78,88.1,84.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,19:30,76.7,42.8,29.8,0.0,N@8.1,13.9,0.0,48,87.7,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,19:45,74.9,42.6,31.4,0.0,N@6.8,9.9,0.0,22,87.2,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,20:00,72.8,42.8,33.9,0.0,NW@6.2,10.3,0.0,5,86.7,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,20:15,71.3,43.0,36.1,0.0,N@6.2,8.5,0.0,1,86.1,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,20:30,70.0,43.2,37.9,0.0,NW@5.6,8.9,0.0,0,85.5,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,20:45,70.0,42.3,36.6,0.0,N @5.2,8.2,0.0,0,84.8,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,21:00,69.5,42.9,38.2,0.0,W@3.8,6.7,0.0,0,84.2,84.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,21:15,67.2,44.5,43.9,0.0,S@4.4,7.4,0.0,0,83.6,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,21:30,70.8,40.5,33.3,0.0,W@5.3,8.9,0.0,0,83.1,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,21:45,69.9,40.6,34.4,0.0,W@6.4,12.4,0.0,0,82.5,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,22:00,69.6,40.4,34.5,0.0,W@5.6,10.3,0.0,0,82.0,83.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,22:15,68.7,40.6,35.9,0.0,SW@6.1,9.6,0.0,0,81.5,83.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,22:30,68.5,40.5,36.0,0.0,W@4.6,7.8,0.0,0,81.1,83.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,22:45,67.9,39.7,35.5,0.0,W@6.5,8.9,0.0,0,80.6,83.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,23:00,67.4,39.3,35.7,0.0,W@6.8,8.5,0.0,0,80.2,83.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,23:15,66.2,39.7,37.8,0.0,W@6.3,8.5,0.0,0,79.8,82.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,23:30,64.9,40.6,40.9,0.0,W@6.9,9.2,0.0,0,79.4,82.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,23:45,63.9,41.0,43.0,0.0,W@6.2,9.2,0.0,0,79.0,82.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-25,24:00,62.2,41.9,47.3,0.0,W@6.0,9.9,0.0,0,78.7,82.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,00:15,62.1,42.0,47.7,0.0,W@6.5,8.2,0.0,0,78.3,82.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,00:30,63.2,41.1,44.2,0.0,W@6.9,9.6,0.0,0,77.9,81.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,00:45,62.2,42.4,48.2,0.0,W@5.1,10.7,0.0,0,77.5,81.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,01:00,60.6,43.1,52.4,0.0,SW@2.9,5.3,0.0,0,77.1,81.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,01:15,58.5,44.1,58.7,0.0,S@3.6,5.7,0.0,0,76.8,81.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,01:30,59.8,43.3,54.4,0.0,SW@4.2,6.0,0.0,0,76.4,80.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,01:45,57.9,44.3,60.4,0.0,SW@4.5,6.7,0.0,0,76.1,80.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,02:00,57.2,44.0,61.3,0.0,SW@4.8,6.7,0.0,0,75.7,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,02:15,57.7,43.6,59.4,0.0,W@3.3,5.3,0.0,0,75.4,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,02:30,55.8,44.9,66.8,0.0,N@2.9,5.7,0.0,0,75.0,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,02:45,53.7,46.4,76.2,0.0,E@0.7,3.1,0.01,0,74.7,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,03:00,53.6,47.0,78.4,0.0,N @0.0,0.0,0.01,0,74.3,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,03:15,53.0,46.3,77.7,0.0,E@0.5,3.5,0.02,0,74.0,79.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,03:30,50.7,48.5,92.2,0.0,E@0.0,1.7,0.04,0,73.6,79.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,03:45,50.4,49.5,96.7,0.0,N @0.0,1.4,0.08,0,73.3,78.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,04:00,50.1,49.4,97.3,0.0,NE@2.2,3.5,0.1,0,72.9,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,04:15,49.7,49.3,98.6,0.0,NE@0.2,2.8,0.12,0,72.6,78.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,04:30,49.0,48.8,99.2,0.0,E@1.1,3.5,0.16,0,72.2,78.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,04:45,49.1,48.9,99.2,0.0,SE@1.5,3.5,0.19,0,71.9,77.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,05:00,48.9,48.7,99.2,0.0,SE@2.8,3.5,0.2,0,71.6,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,05:15,49.3,49.0,98.9,0.0,SE@0.7,2.8,0.21,0,71.3,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,05:30,49.4,48.9,98.3,0.0,SE@1.8,3.5,0.23,0,70.9,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,05:45,49.6,48.7,96.7,0.0,E@2.3,3.5,0.24,0,70.6,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,06:00,48.1,47.7,98.6,0.0,E@2.4,3.5,0.27,0,70.3,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,06:15,47.3,47.1,99.3,0.0,E@2.4,3.1,0.31,4,70.0,76.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,06:30,47.6,47.5,99.3,0.0,E@2.6,3.5,0.35,16,69.7,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,06:45,47.9,47.7,99.3,0.0,E@0.2,2.8,0.38,37,69.4,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,07:00,48.8,48.6,99.3,0.0,NE@0.5,3.1,0.36,62,69.2,75.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,07:15,50.0,49.8,99.2,0.0,NE@0.2,2.1,0.33,93,68.9,75.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,07:30,52.0,51.4,98.0,0.0,NE@0.2,2.1,0.33,127,68.8,75.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,07:45,54.1,51.3,90.1,0.0,E@0.6,3.5,0.31,164,68.8,75.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,08:00,55.7,51.9,86.8,0.0,E@1.3,3.1,0.29,202,68.8,74.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,08:15,57.9,48.7,71.4,0.0,N@1.4,4.2,0.25,240,69.0,74.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,08:30,59.3,48.5,67.4,0.0,E@2.6,4.9,0.22,279,69.3,74.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,08:45,60.8,49.2,65.4,0.0,NE@2.6,4.6,0.18,318,69.6,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,09:00,62.4,48.9,61.3,0.0,E@1.7,3.5,0.14,356,70.1,74.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,09:15,64.0,47.7,55.3,0.0,NW@2.1,7.4,0.11,391,70.6,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,09:30,64.9,45.9,50.0,0.0,W@4.7,7.8,0.07,430,71.2,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,09:45,66.6,46.0,47.4,0.0,NW@3.3,6.0,0.05,463,71.9,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,10:00,67.7,45.8,45.3,0.0,NW@2.9,6.4,0.03,492,72.6,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,10:15,68.2,47.2,46.9,0.0,NW@3.9,6.4,0.02,526,73.3,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,10:30,69.6,47.7,45.6,0.0,N@3.7,6.0,0.01,554,74.0,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,10:45,71.0,46.9,42.1,0.0,W@4.2,6.4,0.01,581,74.6,74.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,11:00,72.0,45.7,39.0,0.0,W@5.1,8.2,0.0,608,74.9,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,11:15,73.3,44.5,35.5,0.0,W@4.1,7.1,0.0,626,75.4,74.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,11:30,74.2,43.7,33.6,0.0,W@3.5,5.7,0.0,644,76.0,74.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,11:45,75.5,43.0,31.2,0.0,SW@2.9,6.4,0.0,658,76.9,74.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,12:00,75.4,43.2,31.5,0.0,W@3.6,6.7,0.0,673,77.8,74.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,12:15,76.4,44.9,32.6,0.0,NW@3.7,6.4,0.0,685,78.8,75.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,12:30,77.3,44.6,31.4,0.0,N @4.3,6.4,0.0,697,79.8,75.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,12:45,77.5,44.0,30.3,0.0,N@3.0,4.6,0.0,700,80.8,75.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,13:00,78.1,43.8,29.6,0.0,NE@3.2,7.1,0.0,699,81.8,75.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,13:15,78.7,43.2,28.4,0.0,SW@3.7,11.0,0.0,704,82.7,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,13:30,78.3,43.8,29.4,0.0,NW@4.3,6.7,0.0,709,83.6,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,13:45,78.6,44.1,29.3,0.0,W@5.0,7.8,0.0,708,84.5,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,14:00,79.7,42.2,26.4,0.0,SW@4.6,8.9,0.0,699,85.2,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,14:15,80.2,43.7,27.6,0.0,W@4.0,7.1,0.0,684,85.9,77.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,14:30,80.3,43.6,27.2,0.0,W@5.2,9.9,0.0,674,86.5,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,14:45,81.2,44.9,27.8,0.0,N @3.1,4.9,0.0,651,87.1,78.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,15:00,81.6,43.6,26.1,0.0,S@3.3,6.7,0.0,631,87.7,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,15:15,81.0,45.5,28.7,0.0,SE@4.1,8.9,0.0,613,88.2,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,15:30,81.3,45.2,28.1,0.0,E@3.1,5.7,0.0,587,88.7,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,15:45,81.6,46.4,29.0,0.0,NE@3.3,6.7,0.0,557,89.1,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,16:00,80.8,45.4,28.8,0.0,SE@3.9,6.7,0.0,534,89.5,80.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,16:15,80.9,47.5,31.0,0.0,E@3.5,5.7,0.0,504,89.8,81.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,16:30,81.7,47.4,30.1,0.0,SE@3.4,5.7,0.0,471,90.0,81.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,16:45,81.8,46.0,28.5,0.0,SE@3.2,6.7,0.0,438,90.2,82.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,17:00,81.5,46.6,29.5,0.0,SE@2.6,6.0,0.0,404,90.3,82.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,17:15,81.1,48.0,31.4,0.0,SE@3.6,6.0,0.0,368,90.4,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,17:30,80.9,51.5,36.0,0.0,E@2.6,4.6,0.0,332,90.4,83.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,17:45,81.3,51.0,34.9,0.0,E@2.5,5.3,0.0,293,90.3,83.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,18:00,81.0,49.1,32.9,0.0,S@2.8,4.2,0.0,254,90.2,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,18:15,80.8,50.3,34.7,0.0,SE@2.5,4.2,0.0,217,90.1,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,18:30,79.7,55.1,42.6,0.0,SE@2.1,3.5,0.0,180,89.8,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,18:45,80.2,50.2,35.1,0.0,SE@2.4,3.9,0.0,142,89.6,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,19:00,80.6,50.2,34.6,0.0,E@0.4,2.1,0.0,106,89.3,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,19:15,79.4,51.1,37.4,0.0,N @0.0,0.0,0.0,73,88.9,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,19:30,79.1,48.6,34.3,0.0,N @0.0,0.0,0.0,44,88.5,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,19:45,75.2,54.0,47.7,0.0,NE@2.1,3.5,0.0,20,88.0,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,20:00,70.9,56.9,61.2,0.0,NE@1.5,4.2,0.0,4,87.4,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,20:15,67.2,58.6,73.9,0.0,E@2.3,3.5,0.01,1,86.9,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,20:30,67.3,57.3,70.1,0.0,E@1.6,2.8,0.0,0,86.2,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,20:45,66.0,57.3,73.4,0.0,E@2.1,3.9,0.01,0,85.6,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,21:00,64.4,58.0,79.6,0.0,E@1.0,3.9,0.03,0,85.0,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,21:15,64.1,57.2,78.2,0.0,E@1.3,3.1,0.02,0,84.3,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,21:30,63.9,56.4,76.7,0.0,NE@1.7,3.1,0.02,0,83.7,84.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,21:45,62.9,55.6,77.1,0.0,E@1.3,4.6,0.03,0,83.1,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,22:00,62.9,54.4,73.7,0.0,NE@0.1,2.1,0.03,0,82.5,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,22:15,62.5,53.2,71.5,0.0,N @0.0,0.0,0.03,0,82.0,83.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,22:30,61.6,53.3,74.3,0.0,SE@0.2,2.1,0.03,0,81.4,83.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,22:45,60.1,52.1,74.9,0.0,E@2.2,3.9,0.03,0,80.9,83.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,23:00,59.8,50.8,72.1,0.0,E@3.3,4.6,0.03,0,80.4,83.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,23:15,59.5,50.8,72.8,0.0,E@1.6,3.5,0.03,0,79.9,83.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,23:30,58.8,51.4,76.4,0.0,N @0.0,0.0,0.04,0,79.4,82.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,23:45,58.7,53.7,83.2,0.0,NW@0.8,2.8,0.08,0,79.0,82.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-26,24:00,57.7,53.0,84.1,0.0,N @0.0,0.0,0.09,0,78.5,82.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,00:15,58.1,52.7,82.2,0.0,S@0.5,2.4,0.1,0,78.1,82.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,00:30,56.7,52.3,85.1,0.0,E@2.1,3.5,0.11,0,77.7,81.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,00:45,54.0,53.4,97.9,0.0,E@1.4,3.9,0.16,0,77.3,81.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,01:00,55.2,53.6,94.0,0.0,S@2.6,4.6,0.16,0,76.9,81.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,01:15,55.4,53.6,93.8,0.0,S@2.1,3.5,0.2,0,76.5,81.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,01:30,54.2,53.0,95.7,0.0,NE@2.0,3.1,0.23,0,76.1,80.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,01:45,53.8,53.5,98.8,0.0,SE@0.4,2.1,0.29,0,75.7,80.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,02:00,53.9,53.7,99.2,0.0,NE@0.5,3.1,0.35,0,75.4,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,02:15,53.0,52.8,99.2,0.0,NE@1.9,4.2,0.4,0,75.0,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,02:30,52.1,52.0,99.3,0.0,E@3.2,4.6,0.45,0,74.7,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,02:45,51.5,51.3,99.3,0.0,E@2.3,4.6,0.51,0,74.3,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,03:00,51.9,51.7,99.4,0.0,N @0.0,0.0,0.56,0,74.0,79.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,03:15,52.4,52.2,99.4,0.0,E@0.0,1.4,0.6,0,73.6,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,03:30,52.1,51.9,99.4,0.0,E@1.8,3.1,0.63,0,73.3,78.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,03:45,51.0,50.8,99.4,0.0,E@1.9,3.5,0.65,0,73.0,78.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,04:00,50.5,50.4,99.4,0.0,E@0.8,3.1,0.67,0,72.7,78.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,04:15,51.1,51.0,99.4,0.0,E@0.2,2.8,0.69,0,72.4,78.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,04:30,51.0,50.9,99.4,0.0,SE@2.0,3.1,0.72,0,72.1,78.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,04:45,51.4,51.3,99.4,0.0,N @0.0,0.0,0.75,0,71.8,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,05:00,50.9,50.8,99.4,0.0,SE@0.9,2.8,0.76,0,71.5,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,05:15,50.7,50.5,99.4,0.0,S@0.9,3.1,0.78,0,71.2,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,05:30,50.6,50.5,99.4,0.0,N @0.0,0.0,0.79,0,70.9,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,05:45,50.5,50.3,99.4,0.0,S@0.0,1.4,0.81,0,70.6,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,06:00,50.2,50.1,99.4,0.0,N @0.0,0.0,0.83,0,70.4,76.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,06:15,49.5,49.3,99.4,0.0,E@0.3,2.1,0.84,3,70.1,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,06:30,49.0,48.9,99.4,0.0,E@0.1,1.7,0.85,13,69.8,76.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,06:45,49.4,49.3,99.4,0.0,E@1.4,2.4,0.87,38,69.6,75.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,07:00,49.3,49.2,99.4,0.0,SE@0.6,2.8,0.88,67,69.3,75.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,07:15,50.9,50.8,99.4,0.0,E@0.0,1.4,0.89,97,69.1,75.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,07:30,53.1,53.0,99.3,0.0,NE@0.0,1.4,0.91,129,69.0,75.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,07:45,55.7,55.0,97.5,0.0,N @0.0,0.0,0.91,162,69.0,75.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,08:00,58.2,55.0,89.0,0.0,NE@0.0,1.4,0.91,195,69.0,74.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,08:15,59.7,55.4,85.4,0.0,N @0.0,0.0,0.91,232,69.2,74.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,08:30,61.5,53.2,74.3,0.0,NW@0.1,3.1,0.91,269,69.5,74.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,08:45,61.7,50.7,67.2,0.0,W@1.9,4.2,0.9,308,69.9,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,09:00,63.8,50.8,62.4,0.0,N@0.8,2.8,0.89,344,70.4,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,09:15,64.8,50.8,60.6,0.0,N@1.3,3.1,0.89,380,70.9,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,09:30,66.3,51.0,57.6,0.0,NW@0.6,3.1,0.88,411,71.5,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,09:45,68.6,52.2,55.9,0.0,N@0.8,2.8,0.87,441,72.2,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,10:00,69.8,52.2,53.5,0.0,N @1.8,3.5,0.85,473,73.0,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,10:15,71.3,52.6,51.7,0.0,NW@1.5,4.6,0.83,503,73.8,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,10:30,72.4,53.2,50.8,0.0,NW@2.3,4.9,0.81,531,74.5,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,10:45,74.5,52.8,46.7,0.0,N @2.8,5.7,0.79,558,75.1,74.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,11:00,76.1,51.9,42.8,0.0,N @3.1,4.9,0.75,580,75.5,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,11:15,77.2,50.4,39.1,0.0,N @3.3,5.3,0.71,604,76.0,74.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,11:30,78.1,50.4,37.9,0.0,NW@2.8,5.3,0.66,621,76.7,74.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,11:45,79.1,48.0,33.5,0.0,NW@2.3,5.3,0.61,636,77.6,74.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,12:00,79.2,48.3,33.9,0.0,NW@3.0,6.4,0.55,654,78.5,75.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,12:15,80.9,48.0,31.6,0.0,W@3.0,6.0,0.49,664,79.6,75.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,12:30,81.2,47.6,30.8,0.0,SW@2.3,5.7,0.42,674,80.6,75.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,12:45,82.0,48.5,31.1,0.0,SE@2.7,6.0,0.35,681,81.6,75.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,13:00,81.7,49.9,33.1,0.0,E@3.5,6.0,0.28,687,82.6,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,13:15,82.6,48.2,30.2,0.0,NE@2.5,6.4,0.22,685,83.6,76.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,13:30,83.5,48.2,29.3,0.0,E@2.2,5.3,0.17,686,84.5,76.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,13:45,84.1,46.6,27.0,0.0,NE@2.1,3.5,0.12,684,85.3,77.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,14:00,85.0,46.9,26.6,0.0,N@2.3,4.2,0.08,675,86.2,77.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,14:15,84.7,47.2,27.1,0.0,E@2.6,4.9,0.05,667,87.0,78.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,14:30,85.2,48.2,27.8,0.0,E@2.8,7.4,0.03,654,87.7,78.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,14:45,85.3,48.2,27.7,0.0,E@2.7,7.1,0.02,639,88.4,79.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,15:00,86.6,47.1,25.5,0.0,NE@2.8,4.6,0.01,623,89.1,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,15:15,87.0,45.3,23.5,0.0,NE@2.7,6.0,0.0,603,89.6,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,15:30,87.1,46.3,24.3,0.0,NE@2.4,4.6,0.0,580,90.1,80.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,15:45,87.7,46.0,23.6,0.0,NW@1.8,4.6,0.0,551,90.6,81.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,16:00,87.8,45.4,23.0,0.0,NW@1.7,3.5,0.0,525,91.0,81.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,16:15,87.8,46.9,24.3,0.0,NW@2.3,3.5,0.0,497,91.3,81.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,16:30,88.2,47.4,24.4,0.0,NW@2.1,3.1,0.0,466,91.6,82.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,16:45,87.9,50.0,27.2,0.0,NW@2.2,3.5,0.0,433,91.8,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,17:00,88.9,49.3,25.7,0.0,NE@2.0,3.5,0.0,385,92.1,83.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,17:15,87.8,49.7,27.0,0.0,N @4.1,7.4,0.0,363,92.2,83.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,17:30,86.6,49.0,27.3,0.0,NE@5.6,8.5,0.0,330,92.2,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,17:45,86.1,52.3,31.4,0.0,NE@4.5,6.7,0.0,294,92.2,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,18:00,86.7,51.9,30.3,0.0,N @3.8,6.0,0.0,255,92.0,84.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,18:15,86.9,50.8,29.0,0.0,N@3.5,5.7,0.0,214,91.8,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,18:30,86.2,52.3,31.3,0.0,N@3.3,4.6,0.0,178,91.5,85.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,18:45,84.9,52.4,32.7,0.0,N@3.4,4.6,0.0,142,91.3,85.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,19:00,84.0,51.2,32.3,0.0,N@4.0,5.7,0.0,108,90.9,85.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,19:15,80.7,54.4,40.3,0.0,NW@4.0,5.7,0.0,75,90.5,85.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,19:30,78.7,55.3,44.4,0.0,N @2.3,4.9,0.0,45,90.1,85.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,19:45,77.0,56.3,48.8,0.0,NW@3.6,5.3,0.0,17,89.6,85.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,20:00,75.7,55.8,50.0,0.0,NW@0.9,3.1,0.0,4,89.0,85.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,20:15,74.6,55.5,51.4,0.0,NW@0.3,2.1,0.0,0,88.4,85.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,20:30,72.0,56.2,57.4,0.0,E@0.2,1.7,0.0,0,87.7,85.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,20:45,70.8,57.3,62.5,0.0,E@0.0,2.1,0.0,0,87.1,85.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,21:00,69.8,57.8,65.7,0.0,E@2.7,4.9,0.0,0,86.5,85.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,21:15,68.0,58.6,71.9,0.0,SE@1.9,4.6,0.01,0,85.8,85.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,21:30,66.3,58.7,76.4,0.0,SE@3.2,4.2,0.02,0,85.2,85.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,21:45,65.1,57.8,77.2,0.0,SE@0.1,2.4,0.03,0,84.6,85.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,22:00,64.7,59.7,83.8,0.0,E@0.6,2.8,0.06,0,84.0,85.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,22:15,65.5,57.6,75.7,0.0,S@0.1,2.1,0.04,0,83.5,85.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,22:30,63.9,59.6,85.9,0.0,N @0.0,0.0,0.09,0,82.9,84.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,22:45,62.4,61.0,95.0,0.0,E@0.0,1.4,0.2,0,82.4,84.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,23:00,61.5,60.0,94.9,0.0,N @0.0,0.0,0.23,0,81.9,84.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,23:15,60.8,60.5,98.8,0.1,SE@0.9,3.5,0.34,0,81.4,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,23:30,59.9,59.8,99.4,0.11,E@0.6,4.6,0.45,0,81.0,83.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,23:45,57.4,57.3,99.5,0.0,NE@1.1,3.5,0.52,0,80.5,83.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-27,24:00,57.4,57.3,99.5,0.0,E@0.5,2.4,0.58,0,80.0,83.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,00:15,57.0,56.8,99.4,0.0,E@1.7,3.9,0.63,0,79.4,83.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,00:30,55.7,55.6,99.4,0.0,E@1.3,3.5,0.66,0,78.9,83.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,00:45,55.8,55.7,99.3,0.0,E@1.0,2.8,0.68,0,78.3,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,01:00,55.6,55.5,99.4,0.0,N @0.0,0.0,0.71,0,77.8,82.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,01:15,55.6,55.4,99.4,0.0,E@0.4,4.2,0.73,0,77.2,82.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,01:30,54.5,54.4,99.4,0.0,NE@0.8,2.8,0.75,0,76.7,81.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,01:45,54.1,54.0,99.4,0.0,N @0.0,0.0,0.77,0,76.2,81.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,02:00,54.6,54.4,99.3,0.01,N @0.0,0.0,0.78,0,75.7,81.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,02:15,54.9,54.7,99.3,0.0,N @0.0,0.0,0.79,0,75.3,81.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,02:30,53.8,53.6,99.3,0.0,E@0.5,3.1,0.8,0,74.8,80.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,02:45,53.0,52.8,99.3,0.0,SE@0.8,2.8,0.81,0,74.4,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,03:00,52.9,52.7,99.3,0.0,SE@1.2,3.5,0.82,0,74.0,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,03:15,52.9,52.7,99.3,0.0,N @0.0,0.0,0.82,0,73.6,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,03:30,53.0,52.8,99.3,0.0,N @0.0,0.0,0.83,0,73.2,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,03:45,52.7,52.6,99.3,0.0,N @0.0,0.0,0.84,0,72.8,79.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,04:00,52.2,52.0,99.4,0.0,NE@0.4,2.8,0.84,0,72.4,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,04:15,51.4,51.2,99.4,0.0,E@0.5,2.8,0.85,0,72.0,78.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,04:30,50.7,50.6,99.4,0.0,E@1.4,3.1,0.85,0,71.7,78.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,04:45,50.2,50.1,99.4,0.0,E@1.6,3.5,0.85,0,71.3,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,05:00,50.3,50.1,99.4,0.0,E@0.1,1.7,0.86,0,71.0,77.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,05:15,50.5,50.3,99.4,0.0,N @0.0,0.0,0.86,0,70.6,77.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,05:30,50.8,50.7,99.4,0.0,N @0.0,0.0,0.86,0,70.3,77.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,05:45,50.8,50.6,99.4,0.0,E@0.0,1.4,0.87,0,70.0,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,06:00,50.5,50.4,99.4,0.0,N @0.0,0.0,0.87,0,69.6,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,06:15,50.5,50.4,99.4,0.0,N @0.0,0.0,0.87,2,69.3,76.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,06:30,50.4,50.3,99.4,0.0,SE@0.0,1.4,0.87,12,69.1,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,06:45,50.7,50.5,99.4,0.0,N @0.0,0.0,0.88,32,68.8,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,07:00,51.6,51.4,99.4,0.0,N @0.0,0.0,0.88,60,68.5,75.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,07:15,53.8,53.6,99.3,0.0,N @0.0,0.0,0.9,90,68.3,75.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,07:30,55.1,54.8,98.7,0.0,N @0.0,0.0,0.91,122,68.2,75.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,07:45,57.1,54.9,92.3,0.0,N @0.0,0.0,0.91,155,68.2,75.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,08:00,57.8,54.7,89.2,0.0,N @0.1,1.7,0.92,191,68.3,74.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,08:15,59.0,53.9,83.0,0.0,NE@0.3,3.1,0.92,230,68.6,74.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,08:30,60.8,53.9,78.1,0.0,E@0.0,1.4,0.92,270,68.9,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,08:45,63.1,52.9,69.2,0.0,N@0.0,1.4,0.92,310,69.3,74.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,09:00,64.0,53.8,69.4,0.0,NE@0.1,2.4,0.92,349,69.8,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,09:15,64.8,54.1,68.1,0.0,E@0.4,2.8,0.91,388,70.3,73.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,09:30,66.3,54.5,65.7,0.0,E@0.4,3.9,0.91,424,71.0,73.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,09:45,67.1,54.5,63.9,0.0,E@1.6,3.5,0.9,459,71.6,73.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,10:00,69.1,54.3,59.2,0.0,E@2.2,3.9,0.89,491,72.2,73.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,10:15,70.4,54.9,57.8,0.0,NE@3.2,4.6,0.88,523,72.8,73.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,10:30,71.6,54.4,54.6,0.0,E@2.8,4.6,0.87,553,73.4,73.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,10:45,73.3,53.9,50.7,0.0,E@2.4,3.5,0.85,577,73.8,73.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,11:00,74.5,55.3,51.2,0.0,NE@2.3,3.9,0.84,588,74.1,74.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,11:15,75.5,54.7,48.4,0.0,E@2.4,4.2,0.81,602,74.5,74.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,11:30,76.8,54.9,46.7,0.0,E@2.3,3.9,0.78,616,75.2,74.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,11:45,77.7,54.6,44.9,0.0,E@2.7,3.9,0.75,635,76.1,74.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,12:00,78.5,54.2,43.0,0.0,E@2.5,3.9,0.7,649,77.1,74.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,12:15,79.4,55.3,43.5,0.0,E@3.1,4.2,0.65,663,78.2,74.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,12:30,80.6,54.1,40.0,0.0,E@2.9,4.6,0.6,673,79.3,75.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,12:45,82.1,54.0,38.1,0.0,E@2.4,3.9,0.53,679,80.4,75.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,13:00,82.8,53.6,36.6,0.0,E@3.6,5.7,0.45,685,81.5,75.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,13:15,83.9,55.4,37.7,0.0,E@3.2,4.6,0.38,684,82.5,75.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,13:30,84.9,57.7,39.7,0.0,E@3.3,4.6,0.31,678,83.5,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,13:45,86.2,55.6,35.2,0.0,E@3.0,5.3,0.25,675,84.4,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,14:00,86.5,56.0,35.4,0.0,E@3.6,5.3,0.2,670,85.3,77.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,14:15,87.2,56.3,35.0,0.0,E@3.6,5.7,0.15,664,86.2,77.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,14:30,88.1,55.3,32.9,0.0,E@3.5,6.7,0.1,652,87.0,78.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,14:45,87.8,58.9,37.8,0.0,E@3.8,7.1,0.07,638,87.7,78.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,15:00,88.2,56.5,34.2,0.0,E@4.3,6.4,0.05,622,88.3,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,15:15,88.5,58.9,36.9,0.0,E@3.7,5.3,0.03,599,88.9,79.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,15:30,89.2,57.7,34.6,0.0,E@3.5,4.9,0.02,574,89.4,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,15:45,89.3,58.8,35.8,0.0,NE@3.6,5.3,0.01,549,89.9,80.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,16:00,89.1,60.1,37.8,0.0,E@3.6,4.9,0.0,522,90.3,80.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,16:15,88.9,61.5,40.0,0.0,E@3.8,5.3,0.0,493,90.7,81.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,16:30,88.7,63.0,42.5,0.0,NE@3.8,5.3,0.0,461,91.0,81.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,16:45,88.9,62.7,41.7,0.0,NE@3.7,4.6,0.0,427,91.2,82.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,17:00,88.9,62.6,41.6,0.0,NE@3.4,4.2,0.0,392,91.3,82.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,17:15,88.2,64.1,44.7,0.0,E@3.6,4.6,0.0,356,91.4,82.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,17:30,87.1,66.3,49.9,0.0,NE@3.9,4.6,0.0,319,91.5,83.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,17:45,86.2,66.6,52.2,0.0,NE@3.9,4.9,0.0,281,91.4,83.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,18:00,85.7,66.6,52.8,0.0,E@3.9,4.9,0.0,243,91.3,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,18:15,86.6,67.6,53.2,0.0,E@2.8,3.5,0.0,203,91.1,84.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,18:30,87.0,65.2,48.3,0.0,E@3.1,3.9,0.0,165,90.9,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,18:45,85.6,68.0,55.6,0.0,E@3.1,3.5,0.0,129,90.6,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,19:00,84.8,67.8,56.7,0.0,E@3.3,4.2,0.0,95,90.2,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,19:15,83.1,65.7,55.8,0.0,SE@3.1,3.9,0.0,64,89.9,84.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,19:30,84.5,60.4,44.2,0.0,SE@3.1,4.2,0.0,34,89.4,85.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,19:45,78.9,64.3,61.0,0.0,E@4.1,4.9,0.0,13,88.9,85.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,20:00,75.2,65.7,72.3,0.0,NE@3.7,5.3,0.0,3,88.3,85.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,20:15,73.8,64.3,72.2,0.0,E@0.7,4.2,0.01,0,87.7,85.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,20:30,74.8,63.6,68.0,0.0,NE@1.4,3.9,0.01,0,87.0,85.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,20:45,71.1,63.7,77.5,0.0,NE@1.9,3.5,0.02,0,86.4,85.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,21:00,69.5,62.9,79.5,0.0,E@1.4,4.2,0.02,0,85.8,85.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,21:15,70.1,61.7,74.7,0.0,E@2.6,4.2,0.02,0,85.2,84.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,21:30,68.8,60.8,75.8,0.0,E@2.2,4.2,0.02,0,84.6,84.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,21:45,67.7,60.1,76.6,0.0,E@2.2,3.9,0.03,0,84.0,84.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,22:00,66.9,59.1,75.8,0.0,E@1.7,5.3,0.03,0,83.5,84.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,22:15,65.3,58.3,78.1,0.0,E@1.5,3.1,0.04,0,83.0,84.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,22:30,64.8,57.7,77.8,0.0,E@1.5,3.5,0.04,0,82.5,84.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,22:45,65.8,57.6,75.0,0.0,E@2.6,4.6,0.04,0,82.0,84.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,23:00,65.2,58.3,78.4,0.0,SE@0.2,2.8,0.05,0,81.5,83.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,23:15,64.8,59.7,83.5,0.0,NE@0.8,3.1,0.07,0,81.1,83.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,23:30,65.7,58.4,77.0,0.0,S@0.6,2.4,0.07,0,80.7,83.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,23:45,66.3,56.1,69.5,0.0,SW@1.6,3.9,0.06,0,80.3,83.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-28,24:00,65.5,55.5,69.9,0.0,SW@2.6,4.2,0.05,0,79.9,82.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,00:15,64.3,56.1,74.7,0.0,SE@3.0,4.6,0.05,0,79.5,82.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,00:30,63.6,57.8,81.2,0.0,E@1.8,3.9,0.07,0,79.2,82.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,00:45,62.2,58.6,87.9,0.0,E@1.1,4.2,0.09,0,78.8,82.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,01:00,62.1,59.0,89.5,0.0,E@1.8,3.9,0.11,0,78.5,82.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,01:15,61.4,58.7,90.7,0.0,SE@2.3,3.9,0.12,0,78.2,81.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,01:30,62.2,58.7,88.2,0.0,NE@0.5,2.4,0.14,0,77.8,81.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,01:45,61.0,59.4,94.5,0.0,E@2.2,4.2,0.19,0,77.5,81.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,02:00,60.3,59.8,98.2,0.0,NE@2.9,3.9,0.22,0,77.2,81.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,02:15,60.5,60.3,99.2,0.0,NE@2.3,3.5,0.26,0,76.9,81.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,02:30,60.4,60.1,98.8,0.0,SE@3.0,5.7,0.25,0,76.6,80.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,02:45,61.1,60.9,99.0,0.0,E@0.7,2.4,0.27,0,76.3,80.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,03:00,62.0,61.8,99.2,0.0,NE@0.2,2.8,0.29,0,76.1,80.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,03:15,61.9,61.7,99.3,0.0,SE@0.3,2.4,0.31,0,75.9,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,03:30,62.6,62.4,99.3,0.0,N @0.0,0.0,0.33,0,75.8,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,03:45,63.1,62.4,97.6,0.0,W@0.5,4.2,0.34,0,75.6,79.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,04:00,64.6,60.9,87.6,0.0,W@1.9,4.2,0.4,0,75.5,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,04:15,63.7,63.3,98.5,0.06,N @0.4,1.7,0.48,0,75.4,79.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,04:30,63.1,63.0,99.3,0.0,N @3.2,5.7,0.59,0,75.3,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,04:45,63.5,63.3,99.3,0.0,NE@4.6,7.4,0.67,0,75.2,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,05:00,63.2,63.0,99.2,0.0,E@3.3,6.4,0.71,0,75.0,78.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,05:15,63.2,63.0,99.2,0.0,N@1.3,4.9,0.71,0,74.8,78.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,05:30,64.4,62.1,92.2,0.0,SW@4.1,8.9,0.69,0,74.7,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,05:45,64.6,61.8,90.4,0.0,W@1.5,5.3,0.67,0,74.5,78.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,06:00,64.3,63.8,98.4,0.0,W@2.1,8.5,0.67,0,74.3,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,06:15,64.1,63.9,99.3,0.01,NW@0.4,2.4,0.72,0,74.1,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,06:30,63.8,63.6,99.3,0.0,NW@2.3,4.6,0.75,0,74.0,78.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,06:45,64.0,63.8,99.3,0.0,SE@3.0,6.4,0.78,3,73.9,77.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,07:00,64.4,64.1,99.1,0.0,S@1.8,6.0,0.78,4,73.7,77.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,07:15,64.4,64.2,99.0,0.0,SW@3.7,8.9,0.77,8,73.6,77.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,07:30,65.0,62.5,91.5,0.0,SW@5.5,8.2,0.76,11,73.5,77.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,07:45,65.2,61.3,86.9,0.0,W@2.5,6.0,0.74,16,73.4,77.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,08:00,65.1,62.7,91.8,0.0,NE@1.0,4.2,0.72,28,73.3,77.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,08:15,66.1,63.7,91.9,0.0,NE@0.6,4.2,0.72,75,73.2,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,08:30,66.5,65.4,96.1,0.0,E@2.8,6.4,0.7,106,73.1,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,08:45,66.7,64.5,92.8,0.0,E@0.6,2.8,0.68,68,73.1,76.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,09:00,66.3,65.4,96.7,0.0,E@2.3,4.6,0.66,31,73.3,76.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,09:15,66.0,65.7,98.9,0.01,E@1.7,4.2,0.69,29,73.3,76.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,09:30,66.1,65.9,99.2,0.0,N @1.7,3.9,0.75,50,73.4,76.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,09:45,66.9,66.7,99.2,0.0,N @0.2,2.4,0.76,97,73.4,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,10:00,67.9,66.0,93.5,0.0,S@1.3,3.1,0.76,136,73.4,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,10:15,70.3,64.2,81.1,0.0,W@0.5,3.1,0.74,196,73.5,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,10:30,72.5,64.3,75.4,0.0,NW@2.6,8.9,0.7,203,73.7,76.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,10:45,73.2,61.5,66.9,0.0,W@7.2,9.9,0.64,220,74.0,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,11:00,74.0,61.9,65.8,0.0,NW@7.1,9.9,0.59,335,74.3,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,11:15,74.5,62.4,65.9,0.0,NW@6.0,8.9,0.54,244,74.5,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,11:30,75.9,62.0,62.1,0.0,NW@5.3,8.2,0.51,270,74.7,75.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,11:45,77.1,61.6,58.8,0.0,NW@5.8,8.5,0.46,294,75.0,75.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,12:00,76.5,63.6,64.3,0.0,NW@4.4,7.8,0.4,224,75.2,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,12:15,76.3,64.0,65.8,0.0,NW@5.2,8.9,0.48,280,75.6,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,12:30,76.6,64.3,65.9,0.0,NW@4.1,6.0,0.45,213,75.8,76.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,12:45,77.2,64.4,64.8,0.0,NW@4.7,6.4,0.39,309,76.1,76.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,13:00,77.7,63.7,61.9,0.0,NW@5.9,9.2,0.32,529,76.3,76.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,13:15,79.9,62.5,55.4,0.0,NW@4.9,8.5,0.27,714,76.6,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,13:30,81.7,61.3,50.0,0.0,W@3.2,6.0,0.21,557,77.2,76.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,13:45,81.3,62.6,53.0,0.0,NE@0.8,2.8,0.15,272,78.2,76.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,14:00,80.8,64.2,57.1,0.0,SE@3.5,6.4,0.11,320,79.1,76.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,14:15,80.0,62.0,54.1,0.0,S@4.7,7.4,0.08,223,79.8,76.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,14:30,79.4,62.4,56.1,0.0,S@5.3,8.2,0.06,205,80.3,76.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,14:45,78.3,62.6,58.6,0.0,S@5.0,7.4,0.05,119,80.5,77.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,15:00,78.0,63.7,61.3,0.0,S@4.4,5.7,0.04,186,80.6,77.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,15:15,78.3,63.8,61.1,0.0,S@4.6,6.7,0.04,296,80.5,77.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,15:30,78.7,64.5,61.7,0.0,S@4.0,5.7,0.04,259,80.5,77.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,15:45,79.2,64.3,60.3,0.0,S@3.6,5.3,0.03,252,80.5,77.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,16:00,79.9,64.7,59.8,0.0,S@3.4,4.9,0.03,336,80.6,77.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,16:15,81.0,64.7,57.7,0.0,SE@3.5,5.7,0.02,455,80.8,78.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,16:30,81.6,62.9,53.2,0.0,S@3.2,5.3,0.02,268,81.1,78.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,16:45,82.4,64.6,54.8,0.0,SE@2.7,4.2,0.02,446,81.6,78.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,17:00,82.3,63.6,53.3,0.0,E@3.0,5.3,0.01,347,82.0,78.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,17:15,82.6,63.2,52.1,0.0,NE@2.7,4.2,0.01,265,82.4,78.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,17:30,82.9,64.5,53.9,0.0,E@2.1,3.5,0.0,310,82.9,78.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,17:45,82.1,65.3,56.8,0.0,SE@2.7,3.9,0.0,156,83.2,79.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,18:00,80.6,65.6,60.3,0.0,SE@2.9,3.9,0.0,98,83.4,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,18:15,79.6,66.8,64.9,0.0,SE@2.5,3.5,0.0,89,83.4,79.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,18:30,80.2,65.1,59.9,0.0,SE@2.4,3.1,0.0,60,83.3,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,18:45,80.1,65.9,62.0,0.0,E@0.6,2.4,0.0,110,83.1,79.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,19:00,80.7,68.0,65.4,0.0,SE@0.4,2.1,0.0,58,82.8,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,19:15,79.3,68.0,68.4,0.0,E@1.1,2.8,0.01,24,82.6,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,19:30,77.9,68.1,71.9,0.0,E@0.0,1.4,0.01,13,82.4,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,19:45,78.1,67.5,69.9,0.0,N @0.0,0.0,0.02,6,82.2,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,20:00,77.6,66.4,68.4,0.0,SW@0.8,2.8,0.02,1,81.9,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,20:15,77.3,65.1,66.0,0.0,S@1.9,2.8,0.02,0,81.6,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,20:30,74.5,66.6,76.4,0.0,NE@2.9,5.3,0.02,0,81.2,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,20:45,72.8,68.3,85.7,0.0,E@0.5,3.5,0.04,0,80.8,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,21:00,72.8,68.2,85.6,0.0,NE@0.2,3.1,0.05,0,80.4,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,21:15,71.8,69.0,90.7,0.0,N @0.6,4.2,0.09,0,80.1,80.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,21:30,71.8,68.5,89.3,0.0,N @1.3,4.2,0.09,0,79.7,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,21:45,71.2,67.7,88.7,0.0,E@1.1,3.1,0.1,0,79.4,80.1,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,22:00,70.4,67.5,90.3,0.0,N @0.0,0.0,0.12,0,79.1,80.0,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,22:15,70.7,66.6,86.9,0.0,N @0.0,0.0,0.13,0,78.9,79.9,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,22:30,70.4,66.0,86.1,0.0,E@0.1,2.1,0.15,0,78.6,79.8,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,22:45,69.9,66.0,87.2,0.0,S@0.9,3.5,0.16,0,78.3,79.7,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,23:00,70.0,66.1,87.5,0.0,N @0.0,0.0,0.18,0,78.1,79.6,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,23:15,69.7,66.3,88.8,0.0,N@1.2,3.5,0.19,0,77.8,79.5,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,23:30,70.0,65.7,86.1,0.0,S@0.8,4.2,0.2,0,77.6,79.4,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,23:45,70.8,65.3,82.7,0.0,SE@0.2,2.4,0.2,0,77.3,79.3,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017
+2019-08-29,24:00,70.3,66.8,88.7,0.0,N @0.0,0.0,0.21,0,77.1,79.2,"Sunside.S (Port Of Sunnyside), Yakima County",310120,Sunside.S,2020-06-03 11:32:33.822017

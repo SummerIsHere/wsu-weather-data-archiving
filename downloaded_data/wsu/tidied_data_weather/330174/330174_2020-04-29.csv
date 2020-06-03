@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2020-04-29,00:15,56.6,30.5,36.8,0.0,W@3.5,6.0,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,00:30,55.9,30.5,37.7,0.0,W@2.5,4.9,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,00:45,53.7,31.7,43.0,0.0,NW@2.4,3.5,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,01:00,50.7,33.4,51.2,0.0,N@2.6,3.9,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,01:15,49.7,34.2,55.1,0.0,N@3.3,4.6,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,01:30,52.5,32.1,45.7,0.0,W@2.3,3.9,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,01:45,52.8,32.4,45.6,0.0,NW@1.1,3.1,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,02:00,51.6,33.4,49.6,0.0,NW@0.1,2.1,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,02:15,51.5,32.7,48.4,0.0,N @2.4,4.2,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,02:30,50.6,32.6,49.9,0.0,N @3.1,4.6,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,02:45,48.0,33.9,58.0,0.0,N@3.2,3.9,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,03:00,48.1,33.4,56.5,0.0,N @3.6,4.9,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,03:15,47.5,33.6,58.3,0.0,N@2.8,4.2,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,03:30,46.3,34.2,62.6,0.0,N @2.4,3.5,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,03:45,45.2,34.4,65.6,0.0,N@3.1,4.6,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,04:00,45.2,33.9,64.3,0.0,N @3.3,4.2,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,04:15,45.5,33.7,63.1,0.0,N @2.5,3.5,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,04:30,46.4,34.1,62.1,0.0,NW@1.0,2.1,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,04:45,46.1,35.2,65.6,0.0,N@1.1,3.1,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,05:00,47.1,35.4,63.4,0.0,N @3.6,5.3,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,05:15,48.6,34.6,58.2,0.0,N@2.6,4.6,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,05:30,48.4,34.8,59.2,0.0,NW@2.0,3.1,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,05:45,49.0,34.6,57.4,0.0,NW@2.3,3.9,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,06:00,48.0,35.5,61.5,0.0,N @1.9,3.1,0.0,4,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,06:15,48.8,35.2,59.3,0.0,S@0.6,2.1,0.0,10,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,06:30,48.7,36.3,62.2,0.0,N@2.4,3.5,0.0,16,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,06:45,48.8,36.5,62.3,0.0,N @3.5,5.3,0.0,26,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,07:00,49.7,36.4,60.1,0.0,N@2.5,4.6,0.0,49,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,07:15,50.2,36.7,59.7,0.0,SW@2.4,3.1,0.0,70,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,07:30,50.7,36.8,58.8,0.0,W@1.8,3.1,0.0,81,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,07:45,51.3,37.7,59.5,0.0,W@0.5,2.8,0.0,90,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,08:00,51.8,38.1,59.4,0.0,W@1.5,4.2,0.0,106,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,08:15,52.2,38.0,58.2,0.0,NW@3.2,5.3,0.0,130,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,08:30,52.9,37.8,56.2,0.0,W@3.0,4.9,0.0,158,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,08:45,53.1,38.2,56.9,0.0,S@3.2,4.9,0.0,180,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,09:00,53.0,38.1,56.8,0.0,W@2.9,4.6,0.0,198,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,09:15,54.1,37.7,53.7,0.0,W@4.0,6.0,0.0,314,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,09:30,55.5,37.8,51.2,0.0,SW@3.7,6.0,0.0,294,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,09:45,56.7,38.9,51.2,0.0,S@4.1,6.0,0.0,388,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,10:00,57.6,39.1,50.1,0.0,S@4.0,6.4,0.0,377,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,10:15,58.0,36.7,44.8,0.0,SW@3.4,6.4,0.0,399,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,10:30,59.1,35.9,41.7,0.0,S@3.6,6.4,0.0,426,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,10:45,59.9,36.1,40.8,0.0,S@3.8,6.0,0.0,491,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,11:00,60.4,36.0,40.0,0.0,S@3.0,5.7,0.0,410,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,11:15,60.9,36.3,39.7,0.0,SW@3.9,6.4,0.0,476,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,11:30,62.1,36.6,38.6,0.0,SW@3.8,6.7,0.0,525,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,11:45,63.7,36.6,36.6,0.0,S@4.0,7.4,0.0,649,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,12:00,63.8,36.2,35.7,0.0,S@3.8,6.7,0.0,493,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,12:15,64.7,36.0,34.3,0.0,S@2.9,5.7,0.0,585,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,12:30,65.5,35.8,33.1,0.0,S@2.9,6.0,0.0,561,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,12:45,66.1,33.6,29.8,0.0,W@2.9,5.3,0.0,500,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,13:00,66.8,35.1,30.9,0.0,S@3.9,6.7,0.0,526,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,13:15,67.8,33.6,28.1,0.0,SW@2.4,4.9,0.0,561,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,13:30,68.1,34.1,28.3,0.0,S@4.1,9.6,0.0,541,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,13:45,68.9,34.4,27.9,0.0,S@3.0,5.7,0.0,555,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,14:00,70.0,32.5,24.9,0.0,N@2.6,5.7,0.0,600,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,14:15,70.3,31.3,23.4,0.0,NW@3.0,5.3,0.0,625,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,14:30,71.2,32.4,23.8,0.0,S@2.7,7.4,0.0,616,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,14:45,71.7,33.8,24.8,0.0,SW@3.9,7.1,0.0,586,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,15:00,71.4,33.7,24.9,0.0,S@2.9,6.7,0.0,513,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,15:15,71.8,34.0,24.9,0.0,W@3.2,5.7,0.0,461,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,15:30,71.4,33.9,25.1,0.0,NW@2.3,4.6,0.0,419,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,15:45,72.7,35.2,25.3,0.0,SE@3.2,6.7,0.0,555,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,16:00,72.5,35.2,25.5,0.0,E@3.4,6.7,0.0,401,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,16:15,72.6,36.1,26.3,0.0,E@3.7,8.2,0.0,352,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,16:30,72.3,37.1,27.6,0.0,E@3.9,7.4,0.0,287,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,16:45,72.3,37.9,28.5,0.0,NE@4.5,9.6,0.0,241,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,17:00,72.0,37.4,28.3,0.0,NE@5.3,8.5,0.0,231,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,17:15,71.9,36.6,27.5,0.0,NE@5.6,9.9,0.0,231,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,17:30,73.2,37.3,27.1,0.0,NE@7.0,11.0,0.0,411,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,17:45,74.3,37.4,26.2,0.0,NE@7.3,11.4,0.0,412,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,18:00,73.0,37.6,27.6,0.0,NE@7.6,11.7,0.0,175,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,18:15,71.6,37.4,28.7,0.0,NE@8.1,12.4,0.0,125,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,18:30,71.4,38.1,29.7,0.0,NE@8.1,13.2,0.0,98,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,18:45,71.2,41.4,34.0,0.0,E@7.1,11.7,0.0,70,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,19:00,70.9,43.0,36.5,0.0,E@6.8,11.7,0.0,54,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,19:15,70.6,43.3,37.2,0.0,NE@5.3,9.6,0.0,48,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,19:30,70.4,43.7,38.0,0.0,NE@5.2,9.2,0.0,78,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,19:45,70.5,43.7,38.0,0.0,NE@5.4,10.7,0.0,53,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,20:00,69.5,43.6,39.1,0.0,NE@4.8,10.7,0.0,23,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,20:15,68.6,43.9,40.8,0.0,NE@4.4,7.1,0.0,8,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,20:30,68.2,43.5,40.8,0.0,NE@5.4,9.9,0.0,1,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,20:45,67.0,44.0,43.3,0.0,N @5.8,7.8,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,21:00,66.3,43.9,44.3,0.0,N @5.9,8.9,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,21:15,65.7,44.0,45.5,0.0,N @6.8,9.6,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,21:30,65.1,44.0,46.3,0.0,N @7.4,10.3,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,21:45,64.0,44.1,48.4,0.0,N @7.5,10.7,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,22:00,63.1,43.9,49.3,0.0,N @9.1,13.5,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,22:15,63.5,43.5,47.9,0.0,N @9.0,14.2,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,22:30,64.3,42.9,45.7,0.0,N @9.6,14.2,0.0,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,22:45,64.5,42.5,44.6,0.0,NE@8.7,14.2,0.0,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,23:00,63.9,42.6,45.7,0.0,NE@7.1,12.1,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,23:15,63.4,42.4,46.2,0.0,NE@5.6,9.9,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,23:30,63.3,42.2,46.0,0.0,E@5.5,12.8,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,23:45,63.4,42.1,45.7,0.0,NE@6.7,15.7,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-29,24:00,63.8,41.7,44.5,0.0,NE@6.1,11.0,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,00:15,62.6,42.1,47.1,0.0,NE@6.8,15.3,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,00:30,62.7,41.8,46.3,0.0,NE@6.5,10.3,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,00:45,62.1,41.8,47.3,0.0,E@5.7,12.1,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,01:00,61.2,42.0,49.0,0.0,NE@5.5,11.7,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,01:15,61.2,41.7,48.7,0.0,NE@7.0,19.6,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,01:30,60.5,41.8,50.1,0.0,N @10.7,20.3,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,01:45,60.3,41.2,49.2,0.0,N @10.2,15.3,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,02:00,60.3,40.6,48.0,0.0,N @10.7,18.2,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,02:15,60.1,40.1,47.4,0.0,NE@7.1,13.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,02:30,60.0,39.5,46.6,0.0,NE@7.2,13.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,02:45,60.1,38.3,44.2,0.0,E@8.0,20.0,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,03:00,60.0,37.4,42.9,0.0,SE@14.6,25.0,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,03:15,59.8,36.9,42.3,0.0,SE@14.0,27.1,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,03:30,59.4,36.8,42.8,0.0,SE@10.6,18.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,03:45,59.2,36.9,43.3,0.0,E@8.8,17.8,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,04:00,58.9,36.7,43.4,0.0,SE@10.0,20.0,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,04:15,58.7,36.4,43.3,0.0,E@8.4,16.7,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,04:30,58.2,36.0,43.4,0.0,E@8.0,17.5,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,04:45,57.8,35.7,43.3,0.0,E@8.2,22.5,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,05:00,57.6,35.1,42.6,0.0,E@7.1,14.2,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,05:15,57.3,34.6,42.4,0.0,SE@9.5,16.4,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,05:30,57.3,33.7,40.7,0.0,E@8.4,13.5,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,05:45,57.2,33.5,40.7,0.0,E@7.3,17.1,0.0,1,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,06:00,56.7,33.4,41.2,0.0,E@7.1,13.2,0.0,4,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,06:15,56.5,33.1,41.1,0.0,E@7.9,16.0,0.0,9,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,06:30,56.0,32.9,41.5,0.0,E@8.6,17.5,0.0,16,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,06:45,55.8,32.6,41.2,0.0,E@7.5,22.8,0.0,29,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,07:00,55.5,32.7,41.9,0.0,NE@8.2,17.1,0.0,42,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,07:15,55.6,32.0,40.5,0.0,E@10.3,20.7,0.0,70,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,07:30,55.6,31.8,40.2,0.0,E@8.0,18.2,0.0,95,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,07:45,55.7,31.6,39.7,0.0,E@6.7,13.5,0.0,108,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,08:00,55.6,31.8,40.1,0.0,E@6.3,14.2,0.0,111,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,08:15,55.8,31.6,39.6,0.0,E@7.1,13.2,0.0,141,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,08:30,56.1,32.0,39.8,0.0,E@8.6,16.4,0.0,193,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,08:45,56.5,31.6,38.6,0.0,E@9.2,17.1,0.0,264,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,09:00,56.6,31.5,38.2,0.0,E@9.5,19.2,0.0,300,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,09:15,56.5,32.0,39.2,0.0,E@8.6,17.5,0.0,286,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,09:30,55.9,32.1,40.1,0.0,E@10.4,21.0,0.0,293,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,09:45,57.0,30.1,35.7,0.0,E@12.7,24.6,0.0,409,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,10:00,56.8,28.5,33.6,0.0,SE@12.5,23.2,0.0,470,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,10:15,57.4,27.4,31.5,0.0,E@9.4,19.6,0.0,559,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,10:30,58.1,25.6,28.5,0.0,SE@12.6,22.1,0.0,567,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,10:45,58.6,26.0,28.4,0.0,SE@11.4,24.6,0.0,591,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,11:00,58.0,26.2,29.3,0.0,SE@13.5,23.9,0.0,623,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,11:15,58.5,26.8,29.5,0.0,E@11.2,21.4,0.0,597,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,11:30,58.7,27.6,30.3,0.0,SE@12.6,20.3,0.0,590,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,11:45,58.1,28.7,32.4,0.0,E@9.7,18.5,0.0,434,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,12:00,58.6,29.5,32.9,0.0,E@10.4,18.9,0.0,495,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,12:15,58.4,28.6,31.9,0.0,E@11.2,19.2,0.0,409,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,12:30,58.1,27.5,30.9,0.0,E@11.8,19.6,0.0,443,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,12:45,58.6,27.3,30.0,0.0,E@13.0,23.2,0.0,621,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,13:00,59.2,27.3,29.4,0.0,SE@13.6,21.8,0.0,638,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,13:15,58.3,27.5,30.5,0.0,E@11.9,26.0,0.0,464,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,13:30,58.8,28.1,30.8,0.0,E@9.4,16.4,0.0,472,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,13:45,59.5,28.0,30.0,0.0,E@12.2,23.2,0.0,526,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,14:00,59.8,28.7,30.5,0.0,E@14.3,25.7,0.0,533,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,14:15,60.1,28.9,30.5,0.0,SE@13.3,21.4,0.0,551,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,14:30,60.2,29.4,30.9,0.0,SE@13.2,23.9,0.0,544,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,14:45,60.1,29.0,30.6,0.0,SE@13.3,23.2,0.0,530,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,15:00,60.6,29.1,30.1,0.0,SE@14.2,23.9,0.0,560,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,15:15,60.3,29.6,31.0,0.0,SE@15.2,25.3,0.0,509,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,15:30,60.7,29.6,30.6,0.0,SE@16.0,28.2,0.0,537,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,15:45,61.1,29.0,29.5,0.0,SE@16.7,32.1,0.0,575,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,16:00,62.0,29.9,29.6,0.0,SE@16.0,24.3,0.0,663,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,16:15,61.8,30.1,30.0,0.0,SE@15.9,26.0,0.0,652,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,16:30,61.3,29.6,30.0,0.0,SE@17.0,27.1,0.0,598,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,16:45,61.9,28.4,27.9,0.0,SE@14.7,25.7,0.0,556,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,17:00,61.9,30.0,29.8,0.0,SE@12.6,25.0,0.0,502,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,17:15,61.9,29.3,29.0,0.0,SE@15.4,27.8,0.0,575,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,17:30,61.8,28.5,28.2,0.0,SE@17.7,28.2,0.0,552,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,17:45,61.0,28.7,29.1,0.0,SE@18.1,28.9,0.0,485,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,18:00,60.4,29.8,31.1,0.0,SE@15.2,22.8,0.0,357,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,18:15,59.6,29.5,31.7,0.0,SE@15.1,25.7,0.0,290,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,18:30,60.0,29.3,31.1,0.0,SE@13.8,26.0,0.0,264,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,18:45,59.3,30.1,32.9,0.0,SE@12.3,21.4,0.0,191,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,19:00,58.0,30.5,35.0,0.0,SE@13.0,20.3,0.0,132,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,19:15,57.3,30.7,36.1,0.0,SE@13.0,24.3,0.0,115,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,19:30,57.2,30.7,36.4,0.0,SE@10.5,20.0,0.0,106,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,19:45,55.9,31.1,38.6,0.0,SE@10.2,22.5,0.0,47,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,20:00,55.2,31.1,39.8,0.0,SE@8.5,20.3,0.0,19,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,20:15,54.5,31.2,40.8,0.0,E@6.2,12.1,0.0,6,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,20:30,54.2,30.9,40.8,0.0,NE@5.1,10.3,0.0,2,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,20:45,53.3,31.2,42.6,0.0,NE@6.7,11.7,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,21:00,52.7,31.4,44.0,0.0,N @7.3,13.5,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,21:15,52.8,31.3,43.7,0.0,N @8.5,15.3,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,21:30,52.3,31.5,44.7,0.0,NE@9.1,16.0,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,21:45,52.7,31.3,43.8,0.0,NE@8.6,16.0,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,22:00,52.9,31.0,42.9,0.0,NE@7.0,11.7,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,22:15,52.2,31.4,44.8,0.0,NE@5.7,9.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,22:30,51.9,31.5,45.5,0.0,NE@5.0,9.6,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,22:45,51.3,31.7,46.8,0.0,NE@5.0,8.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,23:00,50.7,31.8,48.1,0.0,NE@6.0,10.3,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,23:15,50.2,32.0,49.5,0.0,N @5.8,9.2,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,23:30,49.9,32.1,50.0,0.0,N @6.3,8.9,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,23:45,49.3,32.1,51.4,0.0,N @4.6,9.2,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-04-30,24:00,48.7,32.2,52.8,0.0,N @4.9,9.2,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,00:15,49.2,32.2,51.7,0.0,N @6.6,11.4,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,00:30,48.6,32.4,53.2,0.0,N @5.7,7.4,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,00:45,48.2,32.6,54.5,0.0,N @5.5,7.4,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,01:00,48.3,32.7,54.6,0.0,N @5.1,8.2,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,01:15,47.6,32.7,56.1,0.0,N@5.8,7.4,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,01:30,47.4,32.7,56.3,0.0,N @6.7,7.8,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,01:45,46.8,32.6,57.5,0.0,N@5.7,6.7,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,02:00,46.9,32.6,57.1,0.0,N @6.2,8.2,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,02:15,47.7,32.4,55.1,0.0,N @5.8,8.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,02:30,47.1,32.3,56.2,0.0,N @6.0,8.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,02:45,46.5,32.3,57.6,0.0,N @5.0,6.7,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,03:00,46.3,32.2,57.5,0.0,N @4.7,7.4,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,03:15,45.5,32.2,59.5,0.0,N @4.0,6.7,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,03:30,45.5,32.1,59.1,0.0,N @4.4,6.7,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,03:45,45.2,32.0,59.8,0.0,N @4.0,5.3,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,04:00,43.8,32.0,63.0,0.0,N @3.8,5.3,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,04:15,43.2,32.0,64.2,0.0,NE@3.5,5.3,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,04:30,43.1,31.7,63.9,0.0,NE@3.5,4.9,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,04:45,41.8,31.8,67.4,0.0,N @3.5,4.9,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,05:00,41.4,31.7,68.1,0.0,NE@3.7,5.3,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,05:15,41.9,31.7,66.9,0.0,N @2.4,3.9,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,05:30,40.0,31.3,70.7,0.0,N @2.3,2.8,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,05:45,39.1,31.3,73.2,0.0,N @3.0,3.9,0.0,3,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,06:00,39.7,31.6,72.2,0.0,NE@3.0,4.9,0.0,9,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,06:15,41.9,32.0,67.6,0.0,NE@2.0,3.5,0.0,42,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,06:30,42.2,32.3,67.6,0.0,NE@1.4,3.9,0.0,73,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,06:45,42.6,32.6,67.4,0.0,E@1.3,3.1,0.0,105,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,07:00,43.6,32.7,65.2,0.0,E@1.1,3.5,0.0,138,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,07:15,44.9,33.0,62.9,0.0,E@0.6,2.4,0.0,180,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,07:30,45.8,32.8,60.2,0.0,SE@1.0,2.8,0.0,220,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,07:45,45.8,33.3,61.3,0.0,E@2.0,3.1,0.0,157,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,08:00,47.5,33.7,58.7,0.0,E@0.6,2.4,0.0,301,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,08:15,48.0,33.9,57.8,0.0,SE@1.9,4.2,0.0,346,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,08:30,49.3,34.3,56.0,0.0,SE@2.2,4.2,0.0,388,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,08:45,50.0,33.7,53.3,0.0,E@3.4,5.7,0.0,430,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,09:00,50.4,34.1,53.4,0.0,SE@3.6,6.0,0.0,474,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,09:15,51.5,35.0,53.1,0.0,S@3.2,5.7,0.0,472,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,09:30,52.5,34.3,49.9,0.0,SE@3.1,5.7,0.0,547,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,09:45,54.3,35.1,48.2,0.0,S@2.6,5.3,0.0,590,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,10:00,54.3,34.7,47.5,0.0,SE@3.0,5.3,0.0,598,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,10:15,55.8,33.9,43.3,0.0,E@2.8,7.1,0.0,656,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,10:30,57.6,33.8,40.4,0.0,E@2.8,5.3,0.0,650,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,10:45,57.1,33.4,40.5,0.0,SE@3.0,6.0,0.0,598,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,11:00,57.9,33.4,39.5,0.0,SE@3.4,6.0,0.0,660,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,11:15,59.3,33.4,37.5,0.0,S@3.2,5.3,0.0,708,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,11:30,60.8,32.8,34.7,0.0,S@3.2,8.5,0.0,776,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,11:45,60.7,32.9,35.0,0.0,SW@4.4,8.2,0.0,805,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,12:00,61.8,32.6,33.2,0.0,SW@3.7,7.1,0.0,842,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,12:15,63.1,32.3,31.4,0.0,SW@4.5,9.6,0.0,859,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,12:30,62.6,31.3,30.7,0.0,SW@3.5,6.0,0.0,881,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,12:45,63.6,32.3,30.9,0.0,SE@5.1,9.9,0.0,873,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,13:00,63.1,32.8,31.9,0.0,SE@5.9,9.2,0.0,615,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,13:15,62.2,32.2,32.3,0.0,SE@6.7,11.0,0.0,501,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,13:30,63.3,31.8,30.5,0.0,S@4.5,9.2,0.0,680,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,13:45,64.5,32.1,29.6,0.0,S@4.1,7.8,0.0,726,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,14:00,65.0,32.2,29.3,0.0,S@5.7,8.9,0.0,757,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,14:15,64.5,31.3,28.7,0.0,S@4.5,9.2,0.0,593,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,14:30,65.1,30.8,27.6,0.0,S@5.0,9.2,0.0,686,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,14:45,66.8,30.9,26.0,0.0,S@4.9,9.6,0.0,873,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,15:00,67.4,30.4,25.0,0.0,S@5.0,8.5,0.0,801,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,15:15,67.5,30.3,24.8,0.0,S@5.5,10.3,0.0,756,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,15:30,67.9,30.1,24.3,0.0,S@4.9,9.6,0.0,729,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,15:45,67.2,28.7,23.5,0.0,S@4.3,9.2,0.0,694,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,16:00,68.6,29.1,22.7,0.0,S@4.2,7.4,0.0,690,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,16:15,68.7,27.7,21.5,0.0,N @4.2,10.7,0.0,604,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,16:30,68.1,26.8,21.0,0.0,W@4.4,8.2,0.0,593,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,16:45,67.6,25.8,20.5,0.0,N @7.1,13.2,0.0,559,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,17:00,67.9,25.5,20.1,0.0,NW@5.2,10.3,0.0,497,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,17:15,69.0,26.0,19.7,0.0,N @4.4,9.6,0.0,476,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,17:30,69.5,27.1,20.3,0.0,SE@4.1,8.2,0.0,443,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,17:45,68.4,25.0,19.3,0.0,NE@4.1,7.4,0.0,398,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,18:00,67.1,22.3,18.1,0.0,N @6.7,11.0,0.0,222,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,18:15,65.8,22.7,19.3,0.0,N @8.0,13.5,0.0,139,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,18:30,65.9,22.5,18.9,0.0,N @7.3,12.1,0.0,176,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,18:45,66.3,20.9,17.5,0.0,N @8.7,14.6,0.0,240,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,19:00,65.9,18.4,15.9,0.0,N @10.4,17.8,0.0,177,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,19:15,65.4,17.6,15.7,0.0,N @8.1,15.7,0.0,119,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,19:30,64.5,17.1,15.8,0.0,N @8.6,12.4,0.0,77,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,19:45,63.6,17.0,16.3,0.0,N @9.9,14.2,0.0,25,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,20:00,62.8,17.4,17.0,0.0,N @10.8,15.0,0.0,16,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,20:15,62.2,18.1,17.9,0.0,N @11.0,14.2,0.0,7,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,20:30,61.4,19.0,19.2,0.0,N @8.8,13.5,0.0,2,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,20:45,61.1,18.9,19.3,0.0,N @7.9,12.4,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,21:00,60.9,19.0,19.6,0.0,N @8.1,12.8,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,21:15,60.0,19.6,20.6,0.0,N @5.8,11.0,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,21:30,60.2,19.0,20.0,0.0,N@7.0,11.0,0.0,0,60.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,21:45,59.9,19.5,20.7,0.0,N@7.5,13.2,0.0,0,60.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,22:00,59.1,20.5,22.1,0.0,NW@6.0,12.4,0.0,0,60.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,22:15,58.3,20.5,22.8,0.0,SW@3.3,6.4,0.0,0,60.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,22:30,58.2,20.9,23.4,0.0,E@3.5,6.0,0.0,0,60.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,22:45,57.2,22.4,25.8,0.0,E@3.5,8.5,0.0,0,60.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,23:00,56.0,23.5,28.2,0.0,NE@3.8,6.4,0.0,0,60.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,23:15,55.6,24.3,29.4,0.0,NE@6.4,9.6,0.0,0,61.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,23:30,55.9,24.6,29.6,0.0,N @5.9,9.6,0.0,0,61.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,23:45,55.3,25.3,31.1,0.0,N@6.6,9.9,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-01,24:00,55.0,26.2,32.6,0.0,N @4.9,7.8,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,00:15,54.3,24.5,31.2,0.0,E@3.1,4.6,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,00:30,54.3,24.4,31.1,0.0,NE@2.8,4.6,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,00:45,52.0,25.5,35.5,0.0,N@2.4,4.2,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,01:00,50.1,27.1,40.6,0.0,N@1.7,3.1,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,01:15,48.7,27.0,42.5,0.0,NE@2.0,4.6,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,01:30,47.8,27.8,45.5,0.0,N @3.7,6.0,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,01:45,47.3,27.9,46.7,0.0,N@1.9,3.9,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,02:00,46.0,28.9,51.1,0.0,N @2.8,3.9,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,02:15,46.1,29.3,51.6,0.0,N@2.1,3.1,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,02:30,45.8,28.4,50.3,0.0,N@3.0,3.9,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,02:45,45.1,29.8,54.7,0.0,N @2.9,3.9,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,03:00,45.3,29.7,54.0,0.0,N@3.1,3.9,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,03:15,46.5,29.4,51.0,0.0,N@2.6,3.5,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,03:30,48.4,27.9,44.7,0.0,NE@3.0,4.6,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,03:45,47.5,29.7,49.8,0.0,N @3.1,4.6,0.0,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,04:00,47.9,32.0,53.9,0.0,N @2.5,4.6,0.29,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,04:15,46.6,34.8,63.4,0.0,NW@3.2,6.4,0.01,0,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,04:30,47.0,33.1,58.3,0.0,N @3.2,6.0,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,04:45,47.5,31.6,53.8,0.0,N @2.7,4.9,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,05:00,47.8,31.0,51.9,0.0,NW@0.6,2.8,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,05:15,46.5,31.8,56.2,0.0,NE@2.9,4.9,0.0,0,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,05:30,46.0,32.0,57.9,0.0,N @2.7,3.9,0.0,0,61.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,05:45,45.0,33.8,64.6,0.0,N@2.5,3.9,0.0,3,61.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,06:00,45.2,34.1,64.8,0.0,N@2.6,3.5,0.0,10,61.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,06:15,45.8,33.2,61.3,0.0,NW@2.3,3.9,0.0,21,60.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,06:30,46.5,33.3,59.9,0.0,N@1.6,2.8,0.0,38,60.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,06:45,47.1,33.1,58.0,0.0,NW@1.6,3.9,0.0,53,60.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,07:00,47.7,31.4,52.9,0.0,SW@0.3,2.4,0.0,73,60.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,07:15,48.1,31.8,52.9,0.0,E@0.3,2.4,0.0,72,60.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,07:30,47.3,32.1,55.5,0.0,NE@0.6,2.4,0.0,55,60.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,07:45,47.9,32.2,54.2,0.0,W@3.2,5.3,0.02,97,60.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,08:00,48.4,33.3,55.7,0.0,SW@2.2,4.6,0.0,117,60.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,08:15,48.9,32.8,53.5,0.0,SW@2.5,4.9,0.0,148,60.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,08:30,49.4,32.7,52.4,0.0,S@1.4,3.5,0.0,118,60.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,08:45,49.0,33.2,54.2,0.0,E@1.8,3.1,0.0,53,60.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,09:00,48.8,34.7,58.0,0.0,SW@1.7,3.1,0.08,68,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,09:15,48.6,35.8,61.0,0.0,SW@1.3,2.8,0.12,73,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,09:30,49.2,36.5,61.3,0.0,SW@1.4,3.9,0.1,143,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,09:45,50.0,33.9,53.7,0.0,W@3.3,5.3,0.0,148,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,10:00,51.2,32.0,47.6,0.0,NW@2.6,4.6,0.0,249,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,10:15,52.4,31.4,44.4,0.0,SE@2.1,4.2,0.0,317,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,10:30,55.3,32.6,41.9,0.0,SW@3.3,6.7,0.0,656,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,10:45,56.3,34.3,43.3,0.0,S@2.9,6.4,0.0,440,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,11:00,56.4,33.2,41.2,0.0,S@2.9,4.9,0.0,317,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,11:15,57.3,32.3,38.6,0.0,SW@3.4,6.0,0.01,440,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,11:30,58.1,32.9,38.4,0.0,SW@3.0,5.7,0.05,353,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,11:45,57.2,32.3,38.7,0.0,NE@2.6,4.6,0.05,269,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,12:00,58.7,32.3,36.7,0.0,S@1.8,4.6,0.06,314,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,12:15,57.7,33.3,39.6,0.0,SE@2.6,5.3,0.04,145,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,12:30,57.8,33.6,39.9,0.0,N@2.6,4.2,0.02,159,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,12:45,57.9,35.2,42.3,0.0,S@2.7,4.6,0.01,197,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,13:00,57.8,34.9,41.9,0.0,N@2.3,4.2,0.0,141,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,13:15,57.9,37.8,47.0,0.0,SW@2.6,3.9,0.09,226,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,13:30,59.3,36.6,42.6,0.0,NW@3.6,5.7,0.0,410,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,13:45,59.5,36.1,41.5,0.0,W@2.5,5.3,0.0,219,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,14:00,60.0,38.5,44.7,0.0,SE@3.1,6.4,0.04,220,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,14:15,59.8,38.6,45.2,0.0,E@3.6,7.4,0.0,332,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,14:30,60.9,36.6,40.2,0.0,NE@2.9,6.7,0.0,398,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,14:45,61.9,35.4,37.0,0.0,N@2.3,5.3,0.0,368,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,15:00,65.2,36.0,33.9,0.0,W@2.7,6.4,0.0,802,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,15:15,65.3,36.8,34.6,0.0,SE@3.6,6.7,0.0,677,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,15:30,66.1,36.8,33.7,0.0,SE@3.2,5.3,0.0,625,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,15:45,65.9,36.9,34.1,0.0,S@2.8,6.4,0.0,420,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,16:00,65.1,37.1,35.4,0.0,SE@2.9,4.6,0.0,313,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,16:15,66.0,36.6,33.7,0.0,SE@2.7,4.6,0.0,469,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,16:30,65.0,36.6,34.8,0.0,SW@2.6,4.2,0.0,208,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,16:45,65.5,36.9,34.7,0.0,S@1.3,4.2,0.0,276,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,17:00,65.8,37.6,35.1,0.0,SE@2.7,4.9,0.0,282,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,17:15,65.0,37.4,35.9,0.0,E@1.6,3.5,0.0,165,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,17:30,64.5,37.4,36.6,0.0,NE@0.7,3.1,0.0,89,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,17:45,63.8,39.4,40.6,0.0,NE@3.4,6.4,0.0,61,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,18:00,63.2,39.1,41.1,0.0,NE@7.0,13.9,0.0,58,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,18:15,59.2,43.0,54.8,0.0,NE@14.2,21.8,0.0,71,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,18:30,57.7,44.8,62.0,0.0,NE@10.2,17.1,0.0,50,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,18:45,57.1,44.3,62.1,0.0,E@10.1,18.2,0.0,38,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,19:00,54.1,43.3,66.8,0.01,E@9.0,15.3,0.15,19,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,19:15,52.5,43.4,70.9,0.0,NE@7.2,13.9,0.11,13,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,19:30,53.1,41.2,63.8,0.0,NE@8.1,17.8,0.0,5,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,19:45,52.1,41.9,68.1,0.01,NE@11.9,19.6,0.0,1,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,20:00,50.9,42.8,73.4,0.0,NE@9.9,15.3,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,20:15,51.0,42.3,72.1,0.0,NE@6.4,12.1,0.06,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,20:30,50.9,42.2,72.1,0.01,E@5.7,10.3,0.14,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,20:45,50.8,41.3,69.8,0.0,NE@7.0,11.0,0.11,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,21:00,50.3,41.5,71.7,0.0,NE@7.6,13.2,0.08,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,21:15,50.4,41.0,70.0,0.0,NE@9.3,15.0,0.06,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,21:30,50.9,40.3,66.8,0.0,NE@9.8,15.0,0.06,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,21:45,51.4,39.8,64.3,0.0,NE@10.7,15.0,0.07,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,22:00,51.4,39.3,63.1,0.0,NE@9.9,15.3,0.07,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,22:15,51.7,38.7,60.9,0.0,NE@8.4,16.4,0.07,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,22:30,51.8,37.0,56.9,0.0,NE@7.0,15.3,0.07,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,22:45,51.3,35.7,55.0,0.0,NE@10.6,19.2,0.07,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,23:00,50.4,34.3,53.8,0.0,NE@10.8,18.5,0.07,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,23:15,49.8,33.0,52.2,0.0,E@9.2,17.8,0.07,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,23:30,49.6,30.6,47.6,0.0,E@8.6,18.5,0.07,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,23:45,49.4,28.5,44.3,0.0,NE@8.7,17.5,0.07,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-02,24:00,49.2,26.5,40.9,0.0,NE@10.3,19.6,0.07,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,00:15,49.0,25.8,40.1,0.0,NE@12.1,26.0,0.07,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,00:30,48.9,25.4,39.6,0.0,NE@11.2,18.9,0.06,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,00:45,48.7,25.4,40.0,0.0,NE@10.6,19.2,0.06,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,01:00,48.6,25.1,39.5,0.0,NE@10.7,18.5,0.06,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,01:15,48.5,25.1,39.7,0.0,NE@10.0,16.0,0.06,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,01:30,48.5,24.8,39.1,0.0,NE@9.4,18.9,0.06,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,01:45,48.4,24.9,39.4,0.0,NE@7.4,13.5,0.06,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,02:00,47.8,25.5,41.5,0.0,NE@7.0,14.6,0.06,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,02:15,47.3,25.7,42.6,0.0,NE@9.4,17.1,0.06,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,02:30,47.0,25.7,43.0,0.0,N @6.6,13.5,0.05,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,02:45,46.6,25.8,43.9,0.0,N @7.9,15.3,0.05,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,03:00,46.4,26.1,44.7,0.0,NE@7.0,10.7,0.05,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,03:15,46.5,26.6,45.6,0.0,N @8.4,13.9,0.04,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,03:30,46.9,26.8,45.3,0.0,N @9.8,15.0,0.02,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,03:45,46.9,26.9,45.5,0.0,NE@9.5,14.6,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,04:00,46.8,27.2,46.0,0.0,NE@7.6,12.8,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,04:15,47.1,27.1,45.4,0.0,NE@8.5,14.6,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,04:30,47.0,27.4,46.1,0.0,N @10.1,16.0,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,04:45,46.7,27.6,47.2,0.0,N @8.8,15.3,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,05:00,47.1,27.0,45.3,0.0,NE@9.6,17.1,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,05:15,47.4,26.8,44.3,0.0,NE@7.7,12.1,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,05:30,47.8,26.3,42.8,0.0,NE@7.2,11.0,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,05:45,47.6,26.4,43.3,0.0,NE@8.4,13.2,0.0,4,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,06:00,47.6,26.5,43.6,0.0,NE@7.4,11.4,0.0,18,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,06:15,47.8,26.9,43.9,0.0,NE@7.8,14.2,0.0,34,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,06:30,47.7,27.5,45.1,0.0,NE@7.3,15.7,0.0,77,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,06:45,47.3,28.0,46.8,0.0,NE@8.3,14.2,0.0,54,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,07:00,46.8,28.2,48.1,0.0,NE@8.4,13.2,0.0,39,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,07:15,47.2,27.9,46.8,0.0,NE@7.3,13.2,0.0,45,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,07:30,47.6,27.4,45.2,0.0,NE@7.9,13.9,0.0,51,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,07:45,48.8,28.2,44.6,0.0,NE@8.3,14.6,0.0,268,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,08:00,49.5,28.3,43.6,0.0,E@7.4,16.0,0.0,314,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,08:15,50.3,27.6,41.1,0.0,E@6.7,12.1,0.0,358,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,08:30,50.5,27.0,39.9,0.0,NE@7.6,15.7,0.0,398,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,08:45,50.9,27.8,40.6,0.0,E@6.8,13.5,0.0,440,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,09:00,51.2,27.9,40.3,0.0,NE@7.1,15.0,0.0,479,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,09:15,51.5,28.0,40.0,0.0,NE@7.2,17.5,0.0,519,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,09:30,52.6,28.1,38.7,0.0,NE@6.1,11.7,0.0,557,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,09:45,52.7,27.5,37.5,0.0,E@8.0,15.7,0.0,595,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,10:00,53.2,27.3,36.5,0.0,E@9.2,18.9,0.0,634,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,10:15,53.3,27.2,36.2,0.0,E@8.3,14.6,0.0,673,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,10:30,54.3,28.2,36.4,0.0,E@6.9,18.5,0.0,623,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,10:45,55.2,28.9,36.2,0.0,E@7.4,13.5,0.0,709,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,11:00,54.4,27.3,34.9,0.0,E@7.8,16.4,0.0,520,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,11:15,54.4,26.9,34.4,0.0,E@8.3,17.5,0.0,492,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,11:30,54.4,26.5,33.7,0.0,SE@10.3,20.0,0.0,584,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,11:45,55.8,26.2,31.7,0.0,SE@11.1,17.8,0.0,763,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,12:00,57.0,25.9,30.0,0.0,SE@10.9,21.8,0.0,921,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,12:15,57.7,26.8,30.4,0.0,SE@10.2,16.4,0.0,874,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,12:30,58.6,27.3,29.9,0.0,SE@7.6,13.2,0.0,941,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,12:45,59.0,27.3,29.6,0.0,SE@9.1,18.5,0.0,896,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,13:00,58.0,26.5,29.7,0.0,SE@8.6,15.7,0.0,747,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,13:15,57.9,26.6,29.9,0.0,SE@12.9,19.2,0.0,841,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,13:30,58.1,27.1,30.3,0.0,SE@13.6,21.0,0.0,864,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,13:45,58.5,26.9,29.7,0.0,SE@12.6,18.2,0.0,890,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,14:00,58.5,26.5,29.2,0.0,SE@10.7,21.4,0.0,701,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,14:15,58.5,25.8,28.4,0.0,SE@12.8,20.0,0.0,693,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,14:30,59.1,25.1,26.9,0.0,E@10.4,19.6,0.0,815,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,14:45,59.2,23.9,25.5,0.0,SE@10.6,21.8,0.0,818,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,15:00,59.6,21.5,22.8,0.0,E@10.5,18.9,0.0,793,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,15:15,59.9,22.6,23.5,0.0,SE@11.0,19.2,0.0,767,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,15:30,59.7,23.3,24.5,0.0,SE@11.4,21.0,0.0,741,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,15:45,59.4,23.8,25.2,0.0,SE@13.4,23.9,0.0,714,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,16:00,59.3,21.4,22.9,0.0,SE@13.0,23.9,0.0,687,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,16:15,58.8,24.1,26.2,0.0,SE@11.3,18.2,0.0,649,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,16:30,59.0,25.7,27.7,0.0,E@10.2,19.6,0.0,625,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,16:45,58.7,25.9,28.2,0.0,E@7.8,16.7,0.0,571,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,17:00,58.9,25.6,27.6,0.0,SE@8.4,16.0,0.0,532,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,17:15,58.9,25.9,28.0,0.0,SE@9.2,19.6,0.0,491,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,17:30,58.7,25.0,27.2,0.0,SE@9.0,16.0,0.0,448,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,17:45,58.2,26.3,29.2,0.0,E@9.1,16.4,0.0,405,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,18:00,57.2,25.5,29.4,0.0,E@10.8,20.7,0.0,361,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,18:15,57.0,24.7,28.5,0.0,E@9.6,16.7,0.0,317,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,18:30,56.8,25.3,29.4,0.0,E@8.6,16.0,0.0,271,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,18:45,56.5,25.5,30.0,0.0,E@9.2,15.0,0.0,226,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,19:00,56.1,25.6,30.7,0.0,E@8.2,12.8,0.0,187,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,19:15,55.3,25.8,31.8,0.0,E@7.8,14.2,0.0,146,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,19:30,54.5,25.5,32.3,0.0,E@7.3,14.2,0.0,107,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,19:45,53.6,25.5,33.5,0.0,E@7.3,14.2,0.0,66,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,20:00,52.0,25.2,34.9,0.0,E@7.8,15.3,0.0,14,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,20:15,51.6,24.7,34.7,0.0,E@7.9,14.6,0.0,8,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,20:30,51.1,25.2,36.1,0.0,E@6.3,11.7,0.0,3,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,20:45,50.7,25.5,37.3,0.0,NE@6.3,11.0,0.0,0,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,21:00,50.4,25.8,38.2,0.0,NE@8.3,13.5,0.0,0,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,21:15,50.0,26.4,39.5,0.0,NE@7.6,15.7,0.0,0,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,21:30,49.8,26.6,40.3,0.0,NE@8.5,15.0,0.0,0,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,21:45,49.2,27.1,42.1,0.0,NE@7.5,11.0,0.0,0,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,22:00,48.6,27.5,43.6,0.0,N @7.2,10.7,0.0,0,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,22:15,48.5,27.9,44.6,0.0,NE@5.9,9.9,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,22:30,47.5,28.0,46.5,0.0,NE@4.1,8.2,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,22:45,47.3,28.2,47.0,0.0,NE@4.3,7.4,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,23:00,46.7,28.2,48.3,0.0,NE@5.2,10.3,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,23:15,47.6,27.8,45.8,0.0,NE@5.1,11.7,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,23:30,46.2,28.3,49.4,0.0,N @3.5,4.9,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,23:45,45.4,28.4,51.2,0.0,NE@3.7,7.1,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-03,24:00,46.1,28.3,49.5,0.0,NE@2.0,5.7,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,00:15,42.9,28.5,56.4,0.0,N@3.2,4.9,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,00:30,41.3,28.8,60.8,0.0,N@4.4,6.0,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,00:45,41.8,28.8,59.7,0.0,N @5.4,7.4,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,01:00,41.7,28.5,59.0,0.0,N @4.0,6.7,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,01:15,41.4,28.3,59.3,0.0,N @3.4,5.7,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,01:30,41.9,28.1,57.7,0.0,N @4.8,6.0,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,01:45,41.2,28.3,59.7,0.0,N @4.1,5.3,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,02:00,41.4,28.3,59.3,0.0,N @5.1,6.4,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,02:15,41.3,28.1,59.2,0.0,N @4.9,7.1,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,02:30,40.9,27.8,59.2,0.0,N @4.6,7.1,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,02:45,41.2,27.6,58.3,0.0,N @4.7,7.4,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,03:00,39.9,27.3,60.5,0.0,N @4.9,6.7,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,03:15,40.2,27.3,59.7,0.0,N @4.4,7.1,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,03:30,38.9,27.0,62.0,0.0,NE@4.7,6.4,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,03:45,38.1,26.8,63.5,0.0,NE@5.1,6.7,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,04:00,38.4,26.7,62.3,0.0,NE@3.4,4.6,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,04:15,37.7,26.7,64.0,0.0,N @4.9,6.7,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,04:30,37.1,26.7,65.8,0.0,N @3.5,5.3,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,04:45,37.6,26.7,64.5,0.0,N @4.2,5.7,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,05:00,38.7,26.4,61.1,0.0,NE@2.7,3.9,0.0,0,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,05:15,38.8,26.8,61.7,0.0,NE@1.9,3.5,0.0,0,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,05:30,35.9,26.6,68.6,0.0,N@2.5,3.9,0.0,1,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,05:45,33.7,26.8,75.4,0.0,N@3.5,4.6,0.0,5,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,06:00,33.7,27.2,76.8,0.0,N @3.3,4.2,0.0,17,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,06:15,36.1,27.8,71.4,0.0,N @2.8,3.9,0.0,52,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,06:30,36.0,28.0,72.6,0.0,NE@3.2,4.6,0.0,83,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,06:45,38.4,28.2,66.4,0.0,N @2.5,4.6,0.0,111,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,07:00,41.2,27.6,58.1,0.0,N @0.0,0.0,0.0,152,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,07:15,41.6,27.9,57.8,0.0,S@0.3,2.4,0.0,191,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,07:30,42.3,28.2,57.2,0.0,S@1.3,2.8,0.0,230,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,07:45,43.1,28.4,55.8,0.0,S@0.9,2.8,0.0,271,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,08:00,44.6,28.5,53.0,0.0,SE@1.0,2.8,0.0,313,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,08:15,45.0,28.6,52.2,0.0,SE@1.5,3.5,0.0,357,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,08:30,45.7,28.9,51.7,0.0,E@2.2,4.6,0.0,399,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,08:45,46.8,29.9,51.4,0.0,S@3.0,4.9,0.0,440,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,09:00,47.9,29.5,48.6,0.0,S@2.8,5.3,0.0,480,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,09:15,49.2,29.2,45.6,0.0,S@3.0,6.0,0.0,520,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,09:30,50.5,30.1,45.2,0.0,S@3.0,5.3,0.0,558,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,09:45,51.5,28.9,41.5,0.0,W@3.1,6.0,0.0,596,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,10:00,52.3,29.8,41.8,0.0,S@3.3,6.0,0.0,629,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,10:15,52.9,28.4,38.6,0.0,SW@3.0,5.7,0.0,663,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,10:30,54.3,27.8,35.9,0.0,SW@2.4,5.3,0.0,697,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,10:45,55.5,28.4,35.1,0.0,S@3.9,6.7,0.0,715,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,11:00,55.7,27.6,33.7,0.0,SW@3.4,6.7,0.0,644,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,11:15,57.0,27.0,31.4,0.0,S@3.5,8.5,0.0,768,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,11:30,57.8,27.1,30.6,0.0,S@4.1,7.8,0.0,830,58.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,11:45,57.9,26.9,30.2,0.0,S@4.1,8.9,0.0,792,58.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,12:00,58.8,26.9,29.3,0.0,S@4.6,9.2,0.0,856,58.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,12:15,59.3,26.7,28.5,0.0,S@4.8,9.6,0.0,867,58.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,12:30,59.6,26.8,28.5,0.0,S@3.9,7.1,0.0,848,58.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,12:45,60.3,27.3,28.3,0.0,S@6.1,9.2,0.0,878,58.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,13:00,61.6,27.7,27.5,0.0,S@4.6,8.2,0.0,876,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,13:15,62.4,27.8,26.8,0.0,S@4.6,8.5,0.0,858,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,13:30,60.9,27.5,27.9,0.0,S@5.3,9.9,0.0,582,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,13:45,61.0,28.1,28.4,0.0,S@6.0,11.0,0.0,585,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,14:00,61.9,28.2,27.7,0.0,S@4.7,11.4,0.0,658,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,14:15,63.7,28.3,26.1,0.0,SE@4.0,7.8,0.0,738,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,14:30,62.4,27.5,26.4,0.0,E@4.3,7.8,0.0,505,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,14:45,62.8,26.8,25.3,0.0,SE@4.6,8.5,0.0,633,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,15:00,64.8,27.2,24.0,0.0,S@6.9,12.1,0.0,807,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,15:15,64.3,25.2,22.6,0.0,S@6.5,10.7,0.0,547,58.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,15:30,63.0,23.3,21.8,0.0,SW@3.9,7.4,0.0,407,58.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,15:45,64.2,23.0,20.6,0.0,W@4.0,7.1,0.0,613,58.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,16:00,64.8,23.7,20.8,0.0,W@3.4,6.7,0.0,539,58.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,16:15,64.9,23.3,20.3,0.0,W@4.1,7.4,0.0,371,58.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,16:30,66.1,21.8,18.3,0.0,S@2.7,4.2,0.0,506,58.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,16:45,66.4,24.0,19.9,0.0,W@4.5,8.9,0.0,584,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,17:00,66.2,22.8,19.0,0.0,SW@3.2,7.1,0.0,459,58.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,17:15,67.8,23.3,18.5,0.0,SW@4.6,7.8,0.0,510,58.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,17:30,67.6,22.9,18.2,0.0,SE@3.7,7.1,0.0,488,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,17:45,67.6,23.3,18.5,0.0,S@3.8,6.4,0.0,433,58.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,18:00,67.0,23.3,18.9,0.0,SW@4.0,6.7,0.0,375,58.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,18:15,67.2,23.9,19.2,0.0,SW@4.0,8.2,0.0,320,58.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,18:30,66.8,24.6,20.1,0.0,SW@4.4,7.8,0.0,270,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,18:45,65.8,24.7,20.9,0.0,SW@4.5,7.8,0.0,219,58.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,19:00,65.7,25.5,21.8,0.0,SE@4.8,8.5,0.0,165,59.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,19:15,64.7,26.2,23.2,0.0,E@3.5,6.4,0.0,96,59.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,19:30,62.2,27.6,26.7,0.0,NE@3.5,6.0,0.0,31,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,19:45,61.3,26.9,26.8,0.0,NE@4.5,7.8,0.0,21,59.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,20:00,60.3,27.3,28.2,0.0,N@5.9,9.6,0.0,15,59.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,20:15,60.2,26.7,27.7,0.0,N @8.4,12.1,0.0,7,59.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,20:30,59.5,27.1,28.9,0.0,N @8.0,10.3,0.0,2,59.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,20:45,59.6,26.6,28.1,0.0,N @7.6,10.3,0.0,0,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,21:00,59.4,26.3,27.9,0.0,N @5.6,9.6,0.0,0,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,21:15,58.7,26.6,29.0,0.0,SW@1.7,4.6,0.0,0,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,21:30,58.0,27.1,30.4,0.0,E@1.8,6.7,0.0,0,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,21:45,57.3,27.4,31.5,0.0,N@3.0,5.7,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,22:00,55.4,30.3,38.1,0.0,N@3.8,6.0,0.0,0,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,22:15,55.6,28.5,35.1,0.0,N @3.4,5.3,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,22:30,56.3,27.6,33.0,0.0,E@2.3,3.9,0.0,0,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,22:45,55.4,29.0,36.1,0.0,N@2.6,4.9,0.0,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,23:00,56.6,27.5,32.5,0.0,NE@3.8,7.1,0.0,0,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,23:15,57.7,26.1,29.4,0.0,NE@3.1,6.4,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,23:30,55.8,27.8,33.9,0.0,NE@3.7,6.0,0.0,0,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,23:45,55.6,27.5,33.7,0.0,N @3.8,4.9,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-04,24:00,55.6,27.4,33.6,0.0,E@3.0,4.6,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,00:15,54.8,29.1,37.1,0.0,NE@2.4,3.1,0.0,0,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,00:30,53.8,30.7,41.0,0.0,N @2.9,3.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,00:45,54.6,30.3,39.2,0.0,NE@2.5,3.1,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,01:00,53.6,31.3,42.4,0.0,NE@2.2,3.5,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,01:15,52.4,32.9,47.4,0.0,N@2.1,3.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,01:30,51.8,33.7,49.9,0.0,NW@2.0,3.1,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,01:45,51.8,33.3,49.0,0.0,N@2.2,2.8,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,02:00,51.3,35.9,55.5,0.0,N@1.1,2.4,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,02:15,50.0,36.2,59.0,0.0,N@2.5,3.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,02:30,51.3,33.5,50.5,0.0,N @2.7,3.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,02:45,51.3,32.9,49.3,0.0,N @2.9,3.9,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,03:00,50.9,33.1,50.3,0.0,N @3.3,4.2,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,03:15,51.4,32.7,48.7,0.0,N @3.9,4.9,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,03:30,51.9,32.2,46.9,0.0,N@3.1,4.9,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,03:45,52.5,31.3,44.2,0.0,SW@2.0,3.5,0.0,0,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,04:00,51.0,32.7,49.3,0.0,NW@3.6,5.3,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,04:15,51.3,31.2,45.8,0.0,NW@2.5,3.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,04:30,50.6,32.3,49.1,0.0,N @1.5,3.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,04:45,49.7,32.6,51.6,0.0,N @3.6,4.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,05:00,49.8,33.0,52.1,0.0,N@2.6,3.5,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,05:15,50.4,33.0,51.1,0.0,N@0.7,2.8,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,05:30,50.2,33.5,52.5,0.0,N@3.7,4.9,0.0,0,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,05:45,50.1,34.5,54.9,0.0,N @3.4,4.9,0.0,1,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,06:00,50.4,33.8,52.7,0.0,W@2.0,4.2,0.0,5,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,06:15,50.0,36.0,58.5,0.0,N@1.8,3.9,0.05,10,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,06:30,48.9,39.4,69.6,0.0,N@2.8,4.2,0.04,18,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,06:45,49.6,38.1,64.3,0.0,N @3.6,6.0,0.0,31,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,07:00,50.4,39.1,64.9,0.0,NW@2.3,3.5,0.0,58,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,07:15,49.6,38.0,64.0,0.0,S@0.5,3.5,0.0,64,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,07:30,49.9,38.1,63.6,0.0,N@2.1,3.9,0.0,79,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,07:45,51.1,37.8,60.3,0.0,N @2.2,3.1,0.0,160,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,08:00,53.0,35.3,50.8,0.0,N@1.0,2.8,0.0,202,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,08:15,54.9,36.4,49.7,0.0,SW@2.0,4.6,0.0,270,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,08:30,54.6,39.1,55.6,0.0,S@3.4,4.9,0.0,240,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,08:45,54.6,38.6,54.6,0.0,S@3.2,5.7,0.0,276,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,09:00,56.7,36.2,46.1,0.0,S@3.4,5.3,0.0,479,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,09:15,57.3,37.0,46.5,0.0,S@3.5,5.3,0.0,483,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,09:30,57.6,37.0,46.0,0.0,S@4.2,6.0,0.02,529,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,09:45,58.6,36.7,43.9,0.0,S@4.7,7.1,0.04,564,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,10:00,60.2,37.0,41.9,0.0,S@4.5,7.4,0.03,624,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,10:15,61.8,36.8,39.3,0.0,S@4.2,7.1,0.0,645,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,10:30,62.1,37.2,39.6,0.0,S@5.1,8.2,0.0,608,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,10:45,62.5,37.4,39.4,0.0,SW@3.4,6.0,0.0,410,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,11:00,63.0,37.2,38.3,0.0,W@4.7,7.1,0.0,652,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,11:15,66.3,37.3,34.2,0.0,SW@4.8,9.6,0.0,934,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,11:30,65.9,35.9,32.8,0.0,SW@4.8,9.6,0.0,820,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,11:45,66.1,34.9,31.4,0.0,SW@4.9,8.2,0.0,727,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,12:00,67.0,33.2,28.4,0.0,SW@5.2,9.6,0.0,829,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,12:15,67.8,32.8,27.2,0.0,SW@5.7,10.3,0.0,803,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,12:30,68.5,31.5,25.1,0.0,SW@4.6,8.9,0.0,808,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,12:45,68.7,31.2,24.7,0.0,W@4.6,8.2,0.0,760,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,13:00,69.9,31.3,23.8,0.0,SW@5.1,9.6,0.0,793,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,13:15,70.1,32.9,25.2,0.0,SE@6.3,12.1,0.0,794,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,13:30,71.3,33.0,24.3,0.0,S@5.8,9.9,0.0,950,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,13:45,73.4,32.6,22.3,0.0,SW@5.4,10.3,0.0,960,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,14:00,72.5,31.9,22.3,0.0,W@4.8,8.2,0.0,829,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,14:15,72.2,31.6,22.3,0.0,W@5.1,9.6,0.0,662,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,14:30,72.5,31.8,22.3,0.0,SW@4.4,7.1,0.0,621,59.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,14:45,71.9,31.9,22.8,0.0,W@4.3,8.5,0.0,367,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,15:00,71.2,32.2,23.5,0.0,W@4.3,7.4,0.0,297,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,15:15,71.1,31.9,23.4,0.0,SW@4.4,6.7,0.0,318,59.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,15:30,71.7,32.6,23.6,0.0,SW@3.1,6.7,0.0,286,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,15:45,72.4,31.2,21.7,0.0,SW@2.2,4.2,0.0,477,59.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,16:00,73.2,31.2,21.2,0.0,SW@3.9,6.4,0.0,466,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,16:15,74.1,32.4,21.6,0.0,SW@5.0,7.8,0.0,631,59.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,16:30,74.3,31.7,20.8,0.0,W@5.9,10.3,0.0,656,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,16:45,74.4,31.5,20.6,0.0,SW@5.3,9.6,0.0,582,60.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,17:00,74.8,31.3,20.2,0.0,W@6.1,13.2,0.0,543,60.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,17:15,75.1,31.7,20.3,0.0,SW@5.4,9.9,0.0,510,60.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,17:30,74.8,31.3,20.2,0.0,NW@5.5,9.9,0.0,479,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,17:45,74.4,32.2,21.1,0.0,W@6.8,13.2,0.0,417,60.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,18:00,73.8,32.0,21.5,0.0,W@7.8,11.7,0.0,308,60.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,18:15,73.0,31.9,22.0,0.0,NW@3.9,7.4,0.0,170,60.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,18:30,73.4,31.9,21.7,0.0,N@4.2,7.8,0.0,183,60.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,18:45,72.1,32.0,22.8,0.0,N @4.3,9.6,0.0,68,60.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,19:00,70.1,33.8,26.2,0.0,N @4.6,7.4,0.0,40,60.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,19:15,68.2,36.1,30.5,0.0,N @5.7,7.1,0.0,42,60.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,19:30,68.2,35.7,30.1,0.0,N @4.8,6.7,0.0,32,60.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,19:45,67.8,35.5,30.2,0.0,N @3.9,6.0,0.0,17,61.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,20:00,67.7,34.6,29.3,0.0,NE@3.6,6.4,0.0,14,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,20:15,67.5,34.0,28.7,0.0,NE@2.6,4.9,0.0,8,61.1,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,20:30,66.1,34.6,31.1,0.0,NE@3.2,6.4,0.0,3,61.2,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,20:45,64.5,35.1,33.4,0.0,N @4.5,7.4,0.0,0,61.3,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,21:00,62.9,36.0,36.6,0.0,N @4.6,6.7,0.0,0,61.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,21:15,61.2,36.8,40.1,0.0,N @4.6,9.2,0.0,0,61.4,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,21:30,61.6,36.5,39.0,0.0,N @6.2,7.8,0.0,0,61.5,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,21:45,61.4,36.2,38.9,0.0,N @5.5,7.8,0.0,0,61.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,22:00,60.4,36.6,41.1,0.0,N @4.0,5.7,0.0,0,61.6,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,22:15,59.7,36.1,41.3,0.0,NE@4.3,7.1,0.0,0,61.7,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,22:30,59.0,36.2,42.4,0.0,NE@3.7,6.7,0.0,0,61.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,22:45,57.9,37.5,46.5,0.0,N@2.8,3.9,0.0,0,61.8,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,23:00,55.1,39.1,54.7,0.0,N @3.7,5.3,0.0,0,61.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,23:15,56.7,37.4,48.3,0.0,N @4.2,5.7,0.0,0,61.9,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,23:30,56.3,37.9,50.0,0.0,N @3.4,4.9,0.0,0,62.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,23:45,56.8,38.6,50.4,0.0,N @2.5,4.2,0.0,0,62.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126
+2020-05-05,24:00,57.8,38.8,49.1,0.0,N@2.3,3.5,0.0,0,62.0,"Brays.Land (Brays Landing), Douglas County",330174,Brays.Land,2020-06-02 10:01:56.746126

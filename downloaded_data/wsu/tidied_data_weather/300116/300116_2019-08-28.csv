@@ -1,0 +1,673 @@
+Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2019-08-28,00:15,65.7,52.2,61.7,0.0,NW@3.5,4.6,0.0,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,00:30,65.0,52.0,62.6,0.0,NW@3.0,4.2,0.0,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,00:45,64.9,51.8,62.5,0.0,NW@3.4,4.2,0.0,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,01:00,65.2,51.8,61.6,0.0,NW@3.2,4.2,0.0,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,01:15,63.1,52.4,67.8,0.0,NW@2.5,3.1,0.0,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,01:30,63.1,52.2,67.5,0.0,NW@2.2,2.8,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,01:45,63.8,50.9,62.8,0.0,NW@1.9,3.1,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,02:00,64.0,49.2,58.4,0.0,NW@2.7,3.9,0.0,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,02:15,63.5,48.9,59.0,0.0,NW@2.4,3.5,0.0,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,02:30,59.9,51.2,72.8,0.0,NW@2.3,3.9,0.0,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,02:45,58.9,50.7,74.0,0.0,NW@2.4,4.2,0.0,0,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,03:00,58.8,50.5,73.7,0.0,NW@2.1,4.2,0.0,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,03:15,60.8,48.6,64.0,0.0,NW@3.8,4.9,0.0,0,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,03:30,61.3,47.8,61.1,0.0,NW@4.6,5.7,0.0,0,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,03:45,62.6,47.2,57.0,0.0,NW@4.6,5.7,0.0,0,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,04:00,63.4,47.1,55.2,0.0,NW@5.1,7.1,0.0,0,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,04:15,63.6,47.1,54.8,0.0,NW@4.0,6.0,0.0,0,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,04:30,60.8,47.8,62.1,0.0,S@2.7,4.6,0.0,0,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,04:45,57.2,48.2,71.7,0.0,S@2.4,3.9,0.0,0,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,05:00,56.5,48.1,73.4,0.0,S@2.4,3.1,0.0,0,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,05:15,56.3,47.9,73.4,0.0,SE@2.6,3.9,0.0,0,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,05:30,56.2,47.6,72.8,0.0,SE@2.5,3.9,0.0,0,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,05:45,57.0,47.5,70.4,0.0,NE@1.9,4.9,0.0,0,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,06:00,56.9,48.4,73.1,0.0,N@3.4,5.3,0.0,0,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,06:15,57.4,48.0,70.9,0.0,N @4.3,6.7,0.0,4,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,06:30,57.4,49.3,74.4,0.0,NW@3.7,5.7,0.0,17,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,06:45,58.7,48.7,69.3,0.0,NW@3.7,5.7,0.0,45,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,07:00,59.1,49.0,69.1,0.0,NW@3.6,4.9,0.0,76,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,07:15,60.8,48.6,63.9,0.0,NW@3.1,5.3,0.0,108,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,07:30,63.1,48.2,58.3,0.0,N@2.2,4.2,0.0,141,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,07:45,65.7,46.6,50.0,0.0,N @4.5,6.4,0.0,178,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,08:00,68.9,47.7,46.7,0.0,NE@2.7,4.9,0.0,220,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,08:15,74.3,55.1,51.1,0.0,NE@1.7,4.2,0.0,258,70.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,08:30,75.0,56.6,52.6,0.0,N @3.4,7.4,0.0,298,70.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,08:45,73.7,52.0,46.6,0.0,NE@4.2,6.4,0.0,335,69.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,09:00,76.2,55.4,48.5,0.0,NE@4.6,7.4,0.0,375,69.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,09:15,78.6,59.1,51.3,0.0,N @4.2,6.4,0.0,412,69.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,09:30,81.3,64.4,56.4,0.0,N@3.6,5.3,0.0,448,69.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,09:45,85.2,68.7,57.7,0.0,N @4.6,7.1,0.0,482,69.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,10:00,92.0,76.7,61.0,0.0,N @5.3,8.5,0.0,515,69.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,10:15,77.1,57.6,50.9,0.0,N@4.3,7.1,0.0,546,69.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,10:30,81.6,60.8,49.3,0.0,N@4.6,6.7,0.0,575,69.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,10:45,88.2,67.7,50.8,0.0,N @4.6,7.1,0.0,602,69.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,11:00,84.3,61.5,46.3,0.0,N@4.5,7.1,0.0,628,69.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,11:15,83.0,60.1,46.0,0.0,N@3.7,7.1,0.0,650,69.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,11:30,82.1,57.9,43.6,0.0,N@3.5,6.0,0.0,671,69.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,11:45,84.1,58.2,41.5,0.0,N@3.2,5.7,0.0,689,69.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,12:00,86.3,60.3,41.6,0.0,N@3.0,4.6,0.0,704,69.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,12:15,85.4,56.2,37.0,0.0,NW@2.8,5.3,0.0,716,69.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,12:30,85.2,55.4,36.2,0.0,N@2.8,4.6,0.0,725,69.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,12:45,85.1,55.9,36.9,0.0,NW@2.8,4.2,0.0,736,69.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,13:00,86.0,55.9,35.9,0.0,NW@2.8,4.9,0.0,740,69.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,13:15,85.0,60.6,43.8,0.0,NW@2.7,3.9,0.0,723,69.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,13:30,84.8,61.4,45.4,0.0,NW@3.0,4.6,0.0,737,70.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,13:45,84.7,60.2,43.7,0.0,NW@3.0,4.6,0.0,734,70.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,14:00,84.7,62.4,47.2,0.0,NW@2.9,4.2,0.0,725,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,14:15,85.5,60.4,43.0,0.0,NW@2.4,3.9,0.0,715,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,14:30,85.9,58.1,39.1,0.0,NW@1.9,3.1,0.0,703,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,14:45,87.0,52.9,31.1,0.0,N@2.2,3.5,0.0,683,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,15:00,90.0,56.6,32.4,0.0,W@2.2,4.2,0.0,660,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,15:15,86.3,58.3,38.7,0.0,NW@2.3,3.5,0.0,639,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,15:30,86.0,59.0,40.0,0.0,NW@2.1,4.9,0.0,612,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,15:45,86.1,63.4,46.7,0.0,NW@2.3,3.5,0.0,584,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,16:00,85.8,62.4,45.5,0.0,W@2.2,4.2,0.0,554,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,16:15,87.0,58.5,38.2,0.0,W@1.8,2.8,0.0,522,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,16:30,88.5,58.8,36.8,0.0,SE@1.2,3.1,0.0,477,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,16:45,88.7,60.9,39.4,0.0,SE@0.7,3.1,0.0,163,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,17:00,86.4,60.4,41.7,0.0,SE@1.6,3.1,0.0,76,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,17:15,85.5,58.9,40.7,0.0,S@1.6,3.1,0.0,83,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,17:30,84.5,60.0,43.6,0.0,S@1.8,2.8,0.0,96,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,17:45,85.1,60.1,43.0,0.0,S@1.4,2.4,0.0,44,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,18:00,85.2,62.8,47.1,0.0,SW@1.5,2.4,0.0,40,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,18:15,83.9,62.5,48.6,0.0,W@0.3,2.1,0.0,37,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,18:30,83.7,63.4,50.4,0.0,SW@1.0,2.1,0.0,31,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,18:45,85.9,71.8,62.8,0.0,SW@1.6,2.1,0.0,28,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,19:00,81.8,64.4,55.6,0.0,SW@1.7,3.1,0.0,24,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,19:15,82.3,67.8,61.5,0.0,SW@1.8,3.1,0.0,20,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,19:30,82.8,68.1,61.2,0.0,SW@1.9,2.8,0.0,14,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,19:45,86.5,71.0,60.0,0.0,SW@1.9,2.8,0.0,6,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,20:00,86.9,65.4,49.0,0.0,SW@1.7,2.8,0.0,2,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,20:15,83.9,60.9,45.9,0.0,SW@1.6,2.4,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,20:30,78.1,63.6,61.0,0.0,W@1.2,2.4,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,20:45,72.8,57.5,58.5,0.0,NW@0.6,2.1,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,21:00,73.0,57.8,58.8,0.0,NW@2.7,3.5,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,21:15,70.6,58.6,65.8,0.0,W@2.1,2.8,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,21:30,67.4,61.1,80.1,0.0,W@1.6,2.1,0.02,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,21:45,65.9,60.7,83.2,0.0,W@0.8,1.7,0.1,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,22:00,66.8,59.1,76.1,0.0,W@1.1,1.7,0.05,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,22:15,68.7,56.1,63.9,0.0,W@1.3,2.4,0.0,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,22:30,66.6,56.4,69.8,0.0,W@0.6,2.1,0.01,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,22:45,65.8,57.7,75.0,0.0,W@1.3,2.8,0.03,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,23:00,65.2,57.2,75.3,0.0,W@0.5,2.1,0.03,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,23:15,64.8,56.7,75.2,0.0,N @0.0,0.0,0.04,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,23:30,66.4,54.9,66.6,0.0,N @0.0,0.0,0.0,0,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,23:45,65.0,54.7,69.3,0.0,N @0.0,0.0,0.01,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-28,24:00,66.1,53.6,64.0,0.0,NW@0.1,1.7,0.0,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,00:15,65.7,54.6,67.2,0.0,NW@2.3,3.9,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,00:30,66.1,53.1,62.7,0.0,NW@2.0,3.1,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,00:45,67.4,51.1,55.8,0.0,N@2.4,3.5,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,01:00,66.9,51.3,57.2,0.0,NW@2.1,3.1,0.0,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,01:15,65.4,50.8,59.2,0.0,NW@1.4,2.4,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,01:30,66.9,49.6,53.7,0.0,NW@1.7,2.8,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,01:45,63.3,51.2,64.7,0.0,W@0.5,2.1,0.0,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,02:00,63.8,49.1,58.8,0.0,S@0.7,3.1,0.0,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,02:15,63.1,49.2,60.5,0.0,SW@0.6,2.4,0.0,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,02:30,62.5,49.2,61.8,0.0,N @0.0,0.0,0.0,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,02:45,61.7,52.5,71.9,0.0,N @0.0,0.0,0.0,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,03:00,60.7,50.0,67.8,0.0,N @0.0,0.0,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,03:15,61.4,51.4,69.7,0.0,N @0.3,2.1,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,03:30,62.0,50.6,66.1,0.0,N@0.7,2.4,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,03:45,60.8,51.1,70.4,0.0,W@0.5,2.8,0.0,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,04:00,61.4,50.5,67.3,0.0,N @0.0,0.0,0.0,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,04:15,62.7,49.4,61.7,0.0,N @0.0,0.0,0.0,0,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,04:30,63.3,48.9,59.3,0.0,N @0.0,0.0,0.0,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,04:45,63.4,49.1,59.7,0.0,N @0.0,0.0,0.0,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,05:00,62.7,55.5,77.2,0.0,NW@1.6,3.5,0.0,0,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,05:15,62.2,54.4,75.6,0.0,NW@1.9,3.1,0.0,0,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,05:30,62.3,54.4,75.4,0.0,NW@2.3,3.5,0.0,0,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,05:45,64.4,50.0,59.6,0.0,NW@2.4,3.9,0.0,0,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,06:00,64.7,49.6,57.9,0.0,NW@1.2,3.5,0.0,0,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,06:15,65.4,48.2,53.7,0.0,S@0.9,3.5,0.04,3,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,06:30,63.2,54.7,73.8,0.0,NW@2.0,3.1,0.1,1,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,06:45,63.1,55.0,74.7,0.0,N @2.2,6.4,0.15,4,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,07:00,63.3,54.1,71.9,0.0,SE@1.0,6.4,0.06,4,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,07:15,62.8,53.7,72.0,0.0,N @0.0,0.0,0.13,7,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,07:30,62.9,54.3,73.3,0.0,NE@0.1,1.7,0.0,7,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,07:45,64.1,53.4,68.2,0.0,NE@2.2,3.9,0.25,12,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,08:00,62.8,55.3,76.5,0.0,N@3.6,6.7,0.34,21,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,08:15,64.3,55.1,72.1,0.0,N @3.7,7.1,0.06,30,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,08:30,64.3,55.7,73.5,0.0,NW@3.1,7.1,0.0,34,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,08:45,64.9,55.8,72.3,0.0,NW@2.1,3.5,0.0,59,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,09:00,65.0,58.0,77.9,0.0,SE@2.6,4.6,0.0,47,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,09:15,64.7,57.8,78.4,0.0,SE@3.0,5.3,0.0,47,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,09:30,64.7,56.6,74.9,0.0,SE@2.6,4.6,0.0,62,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,09:45,64.9,55.8,72.2,0.0,SE@2.1,3.9,0.03,75,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,10:00,65.5,57.8,76.1,0.0,S@1.1,2.8,0.0,97,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,10:15,66.7,57.7,72.6,0.0,S@2.2,4.9,0.0,125,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,10:30,67.9,58.6,72.2,0.0,SE@1.1,3.9,0.0,133,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,10:45,68.7,58.4,69.5,0.0,NE@2.2,3.5,0.0,232,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,11:00,70.4,58.8,66.7,0.0,NE@1.7,3.1,0.0,246,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,11:15,72.5,60.4,65.6,0.0,NE@0.7,2.8,0.0,238,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,11:30,73.7,62.1,66.9,0.0,NE@1.2,2.4,0.0,138,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,11:45,73.5,63.5,70.7,0.0,SE@0.7,2.1,0.0,120,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,12:00,76.8,66.9,71.5,0.0,S@0.9,2.8,0.0,154,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,12:15,80.3,72.6,77.3,0.0,NW@0.6,2.1,0.0,206,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,12:30,86.3,77.4,74.7,0.0,SE@0.3,2.1,0.0,214,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,12:45,88.8,79.8,74.8,0.0,S@0.7,2.1,0.0,151,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,13:00,88.8,79.9,74.9,0.0,SE@0.2,2.4,0.0,169,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,13:15,96.6,88.2,77.0,0.0,E@0.7,2.4,0.0,211,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,13:30,85.5,73.8,68.0,0.0,NE@1.7,3.5,0.0,404,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,13:45,86.9,76.2,70.6,0.0,NW@2.1,3.9,0.0,335,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,14:00,99.5,89.2,72.7,0.0,NW@2.6,4.2,0.0,525,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,14:15,87.5,70.4,56.9,0.0,N@2.6,4.6,0.0,669,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,14:30,84.4,64.6,51.5,0.0,NW@2.3,3.5,0.0,598,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,14:45,84.7,62.6,47.6,0.0,NW@1.7,3.9,0.0,571,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,15:00,85.2,63.0,47.3,0.0,NW@1.9,3.9,0.0,591,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,15:15,83.5,63.8,51.5,0.0,NW@1.7,3.1,0.0,357,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,15:30,83.3,65.9,55.9,0.0,S@1.4,3.9,0.0,381,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,15:45,83.2,64.9,54.1,0.0,S@2.4,5.3,0.0,328,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,16:00,83.0,62.7,50.4,0.0,S@4.3,7.8,0.0,386,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,16:15,82.5,64.0,53.7,0.0,S@3.1,5.7,0.0,190,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,16:30,82.8,64.4,53.9,0.0,S@3.4,4.9,0.0,293,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,16:45,82.2,63.9,54.0,0.0,S@3.3,5.3,0.0,156,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,17:00,81.8,65.9,58.6,0.0,S@4.4,7.1,0.0,202,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,17:15,82.6,67.4,60.1,0.0,S@4.1,7.4,0.0,181,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,17:30,82.8,65.5,56.0,0.0,S@4.7,7.4,0.0,157,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,17:45,81.7,66.3,59.5,0.0,S@5.4,10.3,0.0,95,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,18:00,81.6,67.5,62.3,0.0,S@4.7,6.7,0.0,50,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,18:15,87.1,76.0,69.6,0.0,S@4.4,6.7,0.0,39,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,18:30,95.8,87.4,76.9,0.0,S@3.5,5.3,0.0,52,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,18:45,98.0,91.6,82.0,0.0,S@3.0,4.6,0.0,42,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,19:00,100.5,94.7,83.8,0.0,S@2.9,3.9,0.0,21,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,19:15,86.6,79.4,79.2,0.0,S@1.4,2.8,0.0,16,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,19:30,87.0,78.6,76.2,0.0,S@3.6,6.0,0.0,9,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,19:45,85.8,76.6,74.1,0.0,S@3.0,5.3,0.0,3,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,20:00,85.2,76.5,75.2,0.0,S@2.3,3.9,0.0,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,20:15,81.8,75.3,80.5,0.0,SE@1.5,2.4,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,20:30,81.6,74.3,78.3,0.0,S@2.6,4.9,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,20:45,80.5,73.5,79.3,0.0,S@1.6,3.9,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,21:00,78.5,71.6,79.4,0.0,S@0.5,2.8,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,21:15,80.7,74.6,81.6,0.0,S@0.6,2.8,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,21:30,83.3,78.7,85.9,0.0,S@0.5,2.8,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,21:45,83.0,78.8,87.0,0.0,S@0.7,2.1,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,22:00,82.1,78.6,88.9,0.0,S@0.2,1.7,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,22:15,82.3,79.1,90.0,0.0,S@0.1,1.7,0.01,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,22:30,77.6,73.9,88.2,0.0,S@0.0,1.4,0.05,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,22:45,73.2,69.0,86.6,0.0,N @0.0,0.0,0.05,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,23:00,73.2,68.6,85.6,0.0,N @0.0,0.0,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,23:15,73.3,68.7,85.5,0.0,E@0.0,1.4,0.01,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,23:30,71.4,67.9,88.5,0.0,E@0.0,1.4,0.06,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,23:45,70.2,66.3,87.3,0.0,NE@0.9,2.4,0.07,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-29,24:00,69.1,65.3,87.4,0.0,NW@1.2,2.8,0.08,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,00:15,68.0,65.1,90.3,0.0,NW@1.4,2.4,0.11,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,00:30,67.2,64.7,91.5,0.0,NW@1.8,3.1,0.13,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,00:45,67.4,65.0,91.9,0.0,NW@1.8,3.5,0.12,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,01:00,67.4,65.1,92.4,0.0,W@0.0,1.4,0.14,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,01:15,68.1,65.1,90.3,0.0,NE@1.0,2.8,0.1,0,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,01:30,67.7,64.6,89.8,0.0,S@0.8,2.4,0.14,0,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,01:45,66.6,64.5,93.0,0.0,NW@1.1,3.1,0.32,0,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,02:00,66.5,64.7,93.8,0.0,W@0.4,2.4,0.4,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,02:15,66.4,64.4,93.3,0.0,W@1.1,3.5,0.39,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,02:30,66.2,64.5,94.0,0.0,NW@0.2,2.4,0.36,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,02:45,66.0,64.2,93.8,0.0,NW@0.0,1.4,0.4,0,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,03:00,66.0,64.1,93.4,0.0,W@0.5,2.1,0.4,0,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,03:15,64.9,63.3,94.5,0.0,NW@2.0,2.8,0.4,0,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,03:30,65.0,63.4,94.6,0.0,NE@0.9,2.8,0.39,0,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,03:45,65.3,63.7,94.5,0.0,W@0.9,2.1,0.4,0,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,04:00,65.5,63.5,92.9,0.0,E@0.0,1.4,0.3,0,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,04:15,65.3,63.4,93.5,0.0,NW@0.7,2.8,0.28,0,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,04:30,65.1,63.4,94.2,0.0,NW@0.6,2.4,0.28,0,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,04:45,64.9,63.6,95.3,0.0,SE@0.3,2.1,0.44,0,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,05:00,65.2,63.5,93.9,0.0,N @0.0,0.0,0.53,0,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,05:15,64.7,63.0,94.2,0.0,NW@0.7,2.1,0.53,0,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,05:30,64.9,63.5,95.1,0.0,N @0.9,3.1,0.37,0,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,05:45,65.0,63.6,95.0,0.0,NW@0.8,2.4,0.49,0,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,06:00,65.2,63.7,94.9,0.0,NW@0.6,2.1,0.43,0,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,06:15,65.0,63.6,95.2,0.0,N @0.0,0.0,0.4,1,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,06:30,65.2,63.4,93.5,0.0,SE@1.1,2.1,0.34,9,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,06:45,65.1,63.1,93.3,0.0,NE@0.8,2.1,0.36,12,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,07:00,65.2,63.1,92.8,0.0,SE@0.3,2.4,0.26,23,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,07:15,65.8,63.6,92.6,0.0,NE@0.2,2.1,0.12,57,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,07:30,66.9,64.3,91.3,0.0,NE@0.3,2.1,0.05,50,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,07:45,67.7,65.0,91.0,0.0,N @0.0,0.0,0.02,66,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,08:00,67.7,65.2,91.6,0.0,E@1.1,2.8,0.0,80,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,08:15,68.2,65.3,90.2,0.0,NE@1.3,3.5,0.0,122,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,08:30,70.0,66.4,88.3,0.0,N @0.0,0.0,0.0,134,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,08:45,72.1,67.8,86.1,0.0,SE@0.4,2.4,0.0,121,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,09:00,78.6,73.2,83.4,0.0,SE@0.6,2.8,0.0,304,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,09:15,83.6,77.4,81.5,0.0,SE@3.4,5.7,0.0,411,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,09:30,83.8,76.8,79.5,0.0,S@4.2,6.7,0.0,392,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,09:45,90.1,81.8,76.6,0.0,S@4.1,7.8,0.0,457,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,10:00,93.9,83.7,72.6,0.0,S@3.8,6.4,0.0,497,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,10:15,84.4,71.3,64.8,0.0,S@3.5,5.7,0.0,519,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,10:30,84.2,69.5,61.4,0.0,S@3.3,6.0,0.0,546,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,10:45,82.8,67.1,59.1,0.0,S@4.3,7.4,0.0,574,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,11:00,83.1,66.9,58.1,0.0,S@3.6,8.9,0.0,598,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,11:15,83.9,65.8,54.6,0.0,W@2.8,6.4,0.0,621,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,11:30,83.1,65.0,54.5,0.0,W@2.6,5.7,0.0,641,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,11:45,83.4,64.9,53.7,0.0,NW@2.7,4.9,0.0,655,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,12:00,84.7,65.0,51.7,0.0,W@2.6,4.6,0.0,672,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,12:15,84.9,64.3,50.2,0.0,S@2.7,4.9,0.0,683,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,12:30,86.0,65.2,50.0,0.0,S@3.2,6.4,0.0,693,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,12:45,86.2,65.8,50.8,0.0,SW@2.9,5.3,0.0,703,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,13:00,86.5,65.9,50.3,0.0,S@3.4,6.4,0.0,684,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,13:15,86.0,66.2,51.7,0.0,S@4.1,8.2,0.0,700,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,13:30,85.7,65.5,51.1,0.0,S@4.3,8.9,0.0,698,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,13:45,86.8,65.7,49.6,0.0,S@3.6,6.7,0.0,701,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,14:00,86.9,64.9,48.1,0.0,SW@3.2,6.7,0.0,733,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,14:15,88.8,66.7,48.2,0.0,S@2.9,6.4,0.0,727,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,14:30,87.6,66.5,49.6,0.0,S@3.7,7.4,0.0,673,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,14:45,86.0,67.5,53.9,0.0,S@4.6,8.9,0.0,642,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,15:00,85.7,69.5,58.3,0.0,SE@3.1,7.1,0.0,624,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,15:15,85.5,68.4,56.6,0.0,S@4.1,8.2,0.0,605,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,15:30,85.4,67.4,55.0,0.0,SE@3.4,7.1,0.0,575,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,15:45,85.2,67.6,55.6,0.0,S@3.9,8.2,0.0,553,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,16:00,86.1,66.1,51.4,0.0,S@3.2,6.0,0.0,523,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,16:15,85.2,68.6,57.6,0.0,SE@3.0,4.9,0.0,490,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,16:30,85.0,67.2,55.2,0.0,S@3.4,5.7,0.0,455,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,16:45,84.7,67.0,55.4,0.0,S@3.3,5.3,0.0,243,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,17:00,84.7,67.3,55.9,0.0,S@3.0,6.0,0.0,54,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,17:15,83.9,69.2,61.3,0.0,SE@2.4,4.9,0.0,61,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,17:30,84.0,68.7,60.2,0.0,S@2.7,4.6,0.0,60,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,17:45,83.7,67.8,58.9,0.0,S@2.8,6.4,0.0,38,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,18:00,83.9,67.9,58.6,0.0,S@1.8,4.2,0.0,32,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,18:15,84.9,71.4,63.9,0.0,S@0.4,2.8,0.0,29,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,18:30,85.2,72.5,65.8,0.0,S@0.6,2.1,0.0,26,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,18:45,82.2,69.7,65.8,0.0,S@0.1,1.7,0.0,22,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,19:00,82.1,68.6,63.8,0.0,W@0.0,1.4,0.0,20,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,19:15,82.2,69.8,66.1,0.0,N@0.1,1.7,0.0,14,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,19:30,82.1,69.5,65.6,0.0,NE@0.1,1.7,0.0,8,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,19:45,83.9,71.4,66.0,0.0,N @0.1,1.7,0.0,4,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,20:00,91.2,81.8,74.1,0.0,NW@0.6,2.1,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,20:15,88.1,76.9,69.6,0.0,NW@1.9,2.8,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,20:30,86.5,74.2,66.8,0.0,NW@0.0,1.4,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,20:45,86.2,76.5,72.9,0.0,N @0.0,0.0,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,21:00,84.3,76.0,76.1,0.0,N @0.0,0.0,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,21:15,78.8,68.7,71.0,0.0,SW@0.6,2.8,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,21:30,78.4,67.3,68.7,0.0,SW@1.0,3.1,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,21:45,77.8,67.2,69.9,0.0,NE@0.0,1.4,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,22:00,76.7,67.4,73.0,0.0,N @0.3,2.4,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,22:15,77.1,66.7,70.3,0.0,N @0.0,1.4,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,22:30,77.5,66.0,67.6,0.0,NE@0.0,1.4,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,22:45,76.5,65.3,68.3,0.0,NE@0.1,1.4,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,23:00,76.1,64.8,67.8,0.0,E@0.0,1.4,0.0,0,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,23:15,77.1,66.3,69.2,0.0,E@0.2,1.4,0.0,0,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,23:30,84.8,77.4,78.5,0.0,S@0.0,1.4,0.0,0,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,23:45,72.6,64.8,76.5,0.0,S@0.0,1.4,0.0,0,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-30,24:00,70.7,64.0,79.3,0.0,N @0.0,0.0,0.01,0,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,00:15,68.9,62.2,78.9,0.0,N @0.0,0.0,0.01,0,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,00:30,69.8,61.7,75.4,0.0,E@0.0,1.4,0.0,0,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,00:45,69.5,61.2,74.8,0.0,N @0.0,0.0,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,01:00,68.3,62.0,80.1,0.0,N @0.0,0.0,0.04,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,01:15,68.1,61.6,79.7,0.0,NE@0.2,2.1,0.02,0,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,01:30,68.8,61.1,76.3,0.0,N @0.2,2.1,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,01:45,67.5,60.7,78.7,0.0,SE@0.2,1.7,0.02,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,02:00,67.1,60.4,79.1,0.0,N @0.0,0.0,0.03,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,02:15,66.4,59.7,78.9,0.0,SE@1.0,2.8,0.02,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,02:30,67.0,59.3,76.3,0.0,E@0.5,1.7,0.0,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,02:45,67.4,59.0,74.4,0.0,SE@1.6,3.1,0.0,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,03:00,66.8,59.0,75.9,0.0,S@2.2,3.5,0.0,0,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,03:15,66.1,58.9,77.3,0.0,SE@1.3,3.1,0.0,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,03:30,65.0,59.0,80.9,0.0,SW@0.0,1.4,0.06,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,03:45,64.8,58.4,79.8,0.0,SE@0.7,2.1,0.01,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,04:00,64.7,58.2,79.6,0.0,E@0.6,2.1,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,04:15,64.7,58.2,79.3,0.0,SE@1.6,2.4,0.0,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,04:30,64.1,58.1,80.7,0.0,E@1.8,2.8,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,04:45,63.7,57.9,81.4,0.0,E@1.2,2.8,0.0,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,05:00,64.5,58.1,79.5,0.0,SE@2.5,5.3,0.0,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,05:15,63.8,58.0,81.4,0.0,SE@2.0,2.8,0.0,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,05:30,62.8,57.5,82.9,0.0,SE@1.3,2.4,0.0,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,05:45,63.0,57.5,82.0,0.0,SE@1.2,2.1,0.0,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,06:00,63.1,57.4,81.5,0.0,SE@2.0,3.1,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,06:15,62.3,57.5,84.0,0.0,SE@1.8,2.8,0.01,3,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,06:30,62.0,57.6,85.3,0.0,SE@2.2,3.5,0.01,13,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,06:45,62.6,57.6,83.4,0.0,SE@1.1,2.8,0.0,33,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,07:00,63.8,57.7,80.5,0.0,SE@1.3,2.4,0.0,58,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,07:15,64.6,58.4,80.4,0.0,SE@0.5,2.1,0.0,68,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,07:30,65.5,57.9,76.5,0.0,SE@1.8,3.5,0.0,111,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,07:45,66.8,58.5,74.5,0.0,SE@2.5,3.9,0.0,168,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,08:00,68.3,59.8,74.1,0.0,SE@2.3,3.5,0.0,207,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,08:15,70.6,61.0,71.4,0.0,SE@2.4,4.2,0.0,244,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,08:30,70.5,61.0,72.0,0.0,SE@3.3,5.3,0.0,282,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,08:45,72.3,62.8,72.1,0.0,SE@3.7,6.4,0.0,321,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,09:00,76.4,66.5,71.6,0.0,S@4.6,8.2,0.0,357,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,09:15,79.1,68.3,69.7,0.0,S@4.8,7.4,0.0,391,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,09:30,84.0,73.4,70.5,0.0,S@4.6,7.1,0.0,431,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,09:45,86.1,75.0,69.6,0.0,S@4.7,8.2,0.0,463,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,10:00,87.0,75.6,69.0,0.0,S@4.9,8.2,0.0,498,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,10:15,109.7,102.6,81.2,0.0,S@4.7,7.8,0.0,527,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,10:30,88.1,75.7,66.7,0.0,S@4.1,6.4,0.0,556,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,10:45,94.1,81.4,66.8,0.0,SW@2.8,6.4,0.0,583,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,11:00,86.9,72.4,62.1,0.0,W@2.4,5.3,0.0,607,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,11:15,84.2,68.8,60.0,0.0,W@2.3,4.9,0.0,629,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,11:30,84.8,67.5,56.3,0.0,SW@2.2,4.9,0.0,648,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,11:45,85.9,65.8,51.2,0.0,S@2.6,5.7,0.0,667,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,12:00,85.8,65.5,50.7,0.0,S@3.2,6.0,0.0,682,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,12:15,85.3,65.7,52.0,0.0,W@2.2,3.5,0.0,693,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,12:30,84.4,61.3,45.9,0.0,SW@2.2,4.9,0.0,703,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,12:45,84.4,58.6,41.6,0.0,S@3.3,6.0,0.0,709,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,13:00,85.1,58.9,41.2,0.0,S@4.7,7.1,0.0,713,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,13:15,84.8,59.6,42.5,0.0,S@4.1,8.2,0.0,713,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,13:30,84.3,59.7,43.5,0.0,S@4.6,7.8,0.0,712,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,13:45,85.7,60.5,42.7,0.0,S@3.8,7.8,0.0,708,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,14:00,85.3,61.3,44.6,0.0,S@4.2,7.4,0.0,701,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,14:15,85.7,59.2,40.9,0.0,S@3.9,6.4,0.0,689,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,14:30,86.2,60.0,41.3,0.0,S@4.0,6.4,0.0,674,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,14:45,87.3,60.9,41.1,0.0,SE@3.3,6.0,0.0,657,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,15:00,87.1,61.3,42.1,0.0,S@3.8,5.7,0.0,642,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,15:15,86.9,60.5,41.2,0.0,S@4.2,6.7,0.0,622,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,15:30,86.6,61.2,42.6,0.0,S@4.2,7.1,0.0,597,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,15:45,86.7,60.5,41.4,0.0,S@4.4,6.7,0.0,568,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,16:00,87.0,59.8,40.1,0.0,S@4.5,7.1,0.0,539,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,16:15,86.8,59.3,39.4,0.0,S@4.3,7.4,0.0,506,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,16:30,86.4,58.0,38.3,0.0,S@4.4,8.5,0.0,472,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,16:45,85.9,57.8,38.5,0.0,S@4.4,9.2,0.0,248,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,17:00,84.9,58.7,41.1,0.0,S@3.9,6.0,0.0,41,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,17:15,85.3,56.7,37.8,0.0,S@3.7,6.7,0.0,42,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,17:30,84.3,59.2,42.7,0.0,S@2.3,3.1,0.0,70,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,17:45,83.6,60.5,45.7,0.0,S@2.2,3.9,0.0,29,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,18:00,87.3,69.3,55.2,0.0,S@2.1,3.1,0.0,26,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,18:15,84.5,65.5,53.0,0.0,S@2.3,4.6,0.0,24,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,18:30,83.5,66.4,56.5,0.0,S@2.4,4.2,0.0,22,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,18:45,85.3,71.0,62.4,0.0,S@1.1,2.4,0.0,20,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,19:00,87.9,70.8,57.1,0.0,SW@2.1,3.1,0.0,17,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,19:15,86.8,72.1,61.8,0.0,SW@2.0,3.1,0.0,13,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,19:30,83.1,65.1,54.6,0.0,SW@1.9,3.5,0.0,9,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,19:45,79.3,61.9,55.2,0.0,SW@2.1,3.9,0.0,4,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,20:00,78.9,60.9,54.2,0.0,SW@1.7,2.8,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,20:15,81.1,71.1,71.7,0.0,NW@1.8,2.8,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,20:30,75.6,69.1,80.2,0.0,NW@1.5,2.8,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,20:45,73.0,62.7,70.2,0.0,NW@1.4,2.8,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,21:00,73.7,59.9,62.0,0.0,NW@1.0,2.8,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,21:15,74.5,61.8,64.5,0.0,NW@1.0,3.1,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,21:30,72.7,61.0,66.8,0.0,NW@1.2,3.1,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,21:45,72.1,59.4,64.2,0.0,NW@1.5,3.1,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,22:00,81.7,64.8,56.7,0.0,W@2.4,4.2,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,22:15,84.9,69.1,59.2,0.0,W@2.8,7.8,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,22:30,82.5,69.1,63.8,0.0,W@3.1,5.7,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,22:45,83.3,70.5,65.4,0.0,W@3.2,4.9,0.0,0,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,23:00,83.1,68.7,61.8,0.0,W@3.2,5.7,0.0,0,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,23:15,81.9,67.8,62.4,0.0,W@3.2,5.7,0.0,0,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,23:30,78.8,64.8,62.1,0.0,W@2.6,4.6,0.0,0,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,23:45,75.7,64.5,68.2,0.0,NW@0.1,1.7,0.0,0,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-08-31,24:00,70.2,62.9,77.6,0.0,NW@0.9,2.8,0.0,0,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,00:15,67.6,61.5,80.7,0.0,NW@1.2,2.8,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,00:30,68.1,62.4,82.1,0.0,NW@1.6,3.1,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,00:45,69.2,61.9,77.6,0.0,NW@2.5,4.2,0.0,0,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,01:00,68.8,62.0,78.8,0.0,W@1.8,3.5,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,01:15,68.0,62.5,82.5,0.0,W@0.7,2.8,0.02,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,01:30,65.5,61.5,86.9,0.0,NW@0.7,2.1,0.11,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,01:45,65.9,61.1,84.2,0.0,W@2.5,4.6,0.04,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,02:00,67.0,60.5,79.6,0.0,NW@2.6,3.9,0.0,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,02:15,67.0,60.7,80.2,0.0,W@1.7,3.9,0.0,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,02:30,67.9,60.3,76.5,0.0,W@1.7,3.5,0.0,0,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,02:45,66.2,60.3,81.2,0.0,NW@0.6,3.1,0.03,0,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,03:00,64.9,59.9,83.8,0.0,NW@1.0,3.1,0.06,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,03:15,63.9,60.0,87.1,0.0,NW@1.8,3.1,0.08,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,03:30,63.5,59.7,87.4,0.0,NW@1.4,3.1,0.13,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,03:45,62.6,59.3,88.8,0.0,NW@1.1,3.1,0.2,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,04:00,63.8,58.9,84.1,0.0,S@1.9,4.2,0.08,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,04:15,62.8,58.6,86.0,0.0,SE@0.2,1.7,0.16,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,04:30,62.3,58.4,86.8,0.0,SW@0.7,2.1,0.23,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,04:45,61.9,58.4,88.3,0.0,S@0.5,2.4,0.33,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,05:00,62.2,58.7,88.5,0.0,SW@0.9,3.9,0.34,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,05:15,61.5,58.3,89.1,0.0,NE@0.6,3.5,0.36,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,05:30,60.8,58.1,90.8,0.0,NW@2.0,3.5,0.37,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,05:45,60.7,58.5,92.4,0.0,NW@0.7,2.4,0.49,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,06:00,60.9,58.8,92.9,0.0,N @0.1,1.7,0.54,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,06:15,60.9,58.8,92.4,0.0,NE@0.2,2.8,0.56,2,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,06:30,60.8,58.9,93.3,0.0,N @0.0,0.0,0.58,10,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,06:45,60.8,58.8,93.1,0.0,N @0.0,0.0,0.56,35,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,07:00,62.0,59.9,92.6,0.0,S@0.4,2.4,0.15,67,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,07:15,65.1,60.3,84.5,0.0,S@0.0,1.4,0.0,95,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,07:30,68.5,62.2,80.2,0.0,E@0.1,2.1,0.0,129,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,07:45,72.1,63.5,74.3,0.0,SE@1.0,2.1,0.0,166,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,08:00,76.3,66.7,72.2,0.0,SE@1.1,2.4,0.0,204,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,08:15,89.1,80.2,75.1,0.0,W@0.7,3.1,0.0,242,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,08:30,76.0,63.0,64.2,0.0,SE@1.3,3.9,0.0,280,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,08:45,74.5,62.6,66.3,0.0,SE@2.4,3.5,0.0,318,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,09:00,75.4,63.5,66.4,0.0,S@2.8,5.3,0.0,355,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,09:15,75.7,63.4,65.5,0.0,S@3.3,5.3,0.0,393,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,09:30,77.0,62.1,60.0,0.0,S@3.0,6.4,0.0,427,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,09:45,79.0,61.2,54.4,0.0,SW@2.3,4.6,0.0,462,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,10:00,79.5,60.8,52.9,0.0,SW@2.6,4.6,0.0,494,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,10:15,80.0,61.1,52.4,0.0,SW@2.5,4.2,0.0,524,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,10:30,80.6,60.4,50.2,0.0,S@2.7,5.7,0.0,553,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,10:45,81.1,60.2,49.1,0.0,S@2.9,5.7,0.0,580,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,11:00,80.8,60.2,49.6,0.0,NW@2.7,4.6,0.0,603,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,11:15,81.1,61.3,50.9,0.0,SW@3.3,6.4,0.0,627,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,11:30,81.9,59.6,46.8,0.0,S@4.8,9.6,0.0,647,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,11:45,81.9,59.5,46.6,0.0,S@5.8,11.7,0.0,663,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,12:00,82.2,60.2,47.3,0.0,S@5.7,9.2,0.0,677,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,12:15,82.1,59.4,46.1,0.0,S@5.9,9.2,0.0,690,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,12:30,82.3,59.7,46.2,0.0,S@5.3,8.9,0.0,698,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,12:45,83.0,60.2,46.1,0.0,S@5.1,9.6,0.0,705,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,13:00,83.9,59.4,43.5,0.0,S@4.4,8.2,0.0,709,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,13:15,84.1,59.6,43.5,0.0,S@4.7,7.8,0.0,710,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,13:30,84.1,61.4,46.5,0.0,S@5.2,9.6,0.0,708,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,13:45,83.6,63.0,49.9,0.0,S@4.4,6.7,0.0,701,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,14:00,83.7,62.0,48.0,0.0,S@4.8,8.5,0.0,694,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,14:15,83.0,64.3,53.3,0.0,S@5.8,10.7,0.0,682,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,14:30,83.2,63.1,50.8,0.0,S@5.5,10.3,0.0,668,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,14:45,83.1,62.7,50.2,0.0,S@6.2,11.0,0.0,653,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,15:00,83.5,62.3,48.9,0.0,S@6.3,11.0,0.0,631,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,15:15,83.5,62.5,49.2,0.0,S@6.0,10.7,0.0,607,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,15:30,83.2,61.9,48.7,0.0,S@6.1,11.7,0.0,582,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,15:45,83.7,61.7,47.7,0.0,S@6.0,10.7,0.0,554,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,16:00,82.8,62.0,49.5,0.0,S@5.8,9.6,0.0,524,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,16:15,83.3,61.6,47.9,0.0,S@5.7,9.9,0.0,490,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,16:30,82.7,61.4,48.5,0.0,S@5.4,9.9,0.0,456,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,16:45,82.6,62.0,49.7,0.0,S@5.4,8.9,0.0,228,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,17:00,82.0,63.4,53.4,0.0,SE@4.0,7.1,0.0,46,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,17:15,82.1,62.9,52.3,0.0,S@3.9,7.4,0.0,49,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,17:30,81.6,62.5,52.4,0.0,SE@4.3,7.4,0.0,45,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,17:45,81.9,62.4,51.7,0.0,S@3.3,4.9,0.0,32,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,18:00,80.6,66.0,61.2,0.0,W@2.1,4.6,0.0,27,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,18:15,80.3,63.6,56.8,0.0,W@2.5,6.4,0.0,24,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,18:30,78.1,61.3,56.2,0.0,NW@3.3,7.1,0.0,22,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,18:45,77.1,59.6,54.8,0.0,W@3.5,5.7,0.0,19,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,19:00,75.1,61.6,62.9,0.0,NW@2.4,3.9,0.0,16,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,19:15,74.0,65.8,75.5,0.0,NW@2.3,3.1,0.0,13,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,19:30,70.6,63.3,77.6,0.0,NW@2.3,3.1,0.0,8,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,19:45,70.3,61.6,74.0,0.0,NW@1.9,3.5,0.0,3,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,20:00,69.3,60.0,72.4,0.0,NW@1.9,3.5,0.0,0,74.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,20:15,70.6,56.5,60.9,0.0,W@2.2,3.9,0.0,0,74.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,20:30,71.2,55.3,57.2,0.0,W@2.1,3.9,0.0,0,74.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,20:45,72.0,56.1,57.3,0.0,W@2.8,5.3,0.0,0,74.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,21:00,71.9,56.8,58.9,0.0,NW@2.9,4.9,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,21:15,72.6,56.5,56.9,0.0,W@2.7,5.3,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,21:30,72.6,56.7,57.2,0.0,W@2.1,4.2,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,21:45,71.7,56.3,58.2,0.0,W@2.5,5.7,0.0,0,74.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,22:00,71.4,55.7,57.6,0.0,W@3.1,6.0,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,22:15,70.6,55.5,58.6,0.0,NW@4.0,7.4,0.0,0,74.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,22:30,69.3,55.3,61.0,0.0,NW@3.2,4.9,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,22:45,68.7,54.8,61.1,0.0,NW@3.3,5.7,0.0,0,74.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,23:00,69.2,53.9,58.1,0.0,W@3.1,6.0,0.0,0,74.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,23:15,68.1,53.9,60.4,0.0,W@2.8,4.9,0.0,0,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,23:30,67.5,53.8,61.5,0.0,NW@3.6,4.9,0.0,0,74.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,23:45,67.4,53.9,61.9,0.0,NW@4.1,7.4,0.0,0,74.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-01,24:00,67.0,54.0,63.0,0.0,NW@3.7,7.1,0.0,0,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,00:15,66.0,53.8,64.8,0.0,NW@3.0,6.4,0.0,0,74.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,00:30,65.8,53.5,64.3,0.0,W@3.2,7.4,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,00:45,64.9,54.4,68.8,0.0,NW@1.8,3.9,0.0,0,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,01:00,62.3,54.4,75.2,0.0,NW@0.2,1.7,0.0,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,01:15,60.8,54.5,79.7,0.0,W@0.0,1.4,0.04,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,01:30,60.1,55.3,83.9,0.0,NW@0.2,2.1,0.09,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,01:45,61.2,54.4,78.2,0.0,NW@0.8,2.8,0.04,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,02:00,59.2,55.0,85.6,0.0,NW@0.6,2.1,0.13,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,02:15,60.2,54.2,80.4,0.0,NW@0.9,2.8,0.04,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,02:30,59.7,53.3,79.4,0.0,W@0.1,1.7,0.05,0,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,02:45,58.7,53.0,81.2,0.0,W@0.1,1.4,0.09,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,03:00,58.2,52.8,82.0,0.0,NW@0.2,1.4,0.1,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,03:15,57.4,53.7,87.4,0.0,NW@0.2,2.1,0.29,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,03:30,56.2,54.2,92.9,0.0,NW@0.4,2.1,0.47,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,03:45,55.9,54.1,93.7,0.0,N @0.0,0.0,0.51,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,04:00,55.4,53.9,94.4,0.0,N @0.0,0.0,0.54,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,04:15,55.2,53.8,94.9,0.0,N @0.0,0.0,0.57,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,04:30,56.7,53.7,89.6,0.0,W@0.1,2.4,0.58,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,04:45,57.0,52.8,85.7,0.0,W@0.4,2.1,0.58,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,05:00,56.3,52.7,87.6,0.0,N @0.0,0.0,0.57,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,05:15,56.8,52.6,85.7,0.0,W@0.0,1.7,0.54,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,05:30,56.1,52.3,86.9,0.0,N @0.0,0.0,0.52,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,05:45,55.2,52.2,89.4,0.0,N @0.0,0.0,0.54,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,06:00,54.5,52.0,91.3,0.0,N @0.0,0.0,0.54,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,06:15,55.5,52.3,88.8,0.0,N @0.0,0.0,0.54,2,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,06:30,56.0,52.2,87.1,0.0,E@0.1,1.4,0.51,11,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,06:45,56.9,52.6,85.6,0.0,NW@1.2,2.4,0.2,35,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,07:00,58.0,53.4,84.6,0.0,NW@1.5,2.4,0.03,64,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,07:15,60.3,54.1,80.1,0.0,SW@0.6,2.4,0.0,96,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,07:30,62.5,56.7,81.2,0.0,W@0.4,3.1,0.0,130,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,07:45,63.2,56.7,79.2,0.0,N@1.9,3.9,0.0,167,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,08:00,64.8,56.1,73.4,0.0,NE@2.3,3.9,0.0,204,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,08:15,67.5,56.2,67.1,0.0,E@1.1,2.8,0.0,243,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,08:30,68.3,56.7,66.5,0.0,SE@3.2,4.2,0.0,284,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,08:45,70.3,57.1,62.9,0.0,SE@2.6,5.3,0.0,323,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,09:00,76.1,62.8,63.2,0.0,S@3.3,5.3,0.0,361,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,09:15,83.6,70.8,65.4,0.0,SE@2.8,4.9,0.0,398,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,09:30,77.1,60.6,56.7,0.0,NW@2.2,3.9,0.0,434,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,09:45,77.3,60.6,56.5,0.0,NW@2.1,4.6,0.0,469,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,10:00,78.0,60.4,54.8,0.0,W@2.1,4.2,0.0,501,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,10:15,77.8,58.9,52.2,0.0,W@2.1,3.9,0.0,531,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,10:30,77.4,59.1,53.1,0.0,W@2.2,3.9,0.0,560,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,10:45,77.7,58.0,50.7,0.0,SE@3.4,6.0,0.0,587,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,11:00,79.1,57.1,47.0,0.0,SE@2.6,5.3,0.0,612,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,11:15,78.7,55.7,45.3,0.0,SE@3.0,7.8,0.0,634,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,11:30,79.1,54.6,42.9,0.0,SE@3.2,7.4,0.0,654,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,11:45,79.2,55.2,43.6,0.0,SE@3.5,6.4,0.0,672,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,12:00,81.0,56.8,43.5,0.0,S@3.2,5.3,0.0,688,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,12:15,81.1,55.7,41.8,0.0,S@3.5,6.7,0.0,701,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,12:30,81.7,55.8,41.1,0.0,SW@2.5,4.6,0.0,709,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,12:45,81.8,57.0,42.7,0.0,S@2.7,5.7,0.0,714,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,13:00,81.0,58.5,46.3,0.0,NW@2.6,4.6,0.0,716,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,13:15,81.0,56.9,43.7,0.0,NW@2.7,4.6,0.0,717,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,13:30,81.6,56.1,41.6,0.0,SW@3.0,7.4,0.0,716,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,13:45,82.8,54.7,38.1,0.0,W@2.5,3.9,0.0,711,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,14:00,82.4,54.5,38.2,0.0,W@2.4,5.7,0.0,703,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,14:15,82.5,52.7,35.7,0.0,W@2.6,4.6,0.0,693,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,14:30,83.0,52.7,35.1,0.0,S@3.2,6.0,0.0,677,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,14:45,82.3,54.1,37.8,0.0,S@2.8,5.3,0.0,659,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,15:00,81.6,60.3,48.4,0.0,NW@2.6,3.9,0.0,639,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,15:15,82.3,60.0,46.8,0.0,NW@2.6,5.7,0.0,616,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,15:30,81.7,61.3,50.1,0.0,NW@2.2,3.5,0.0,590,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,15:45,81.4,61.8,51.3,0.0,NW@2.5,4.9,0.0,562,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,16:00,80.6,62.4,53.9,0.0,NW@2.6,3.9,0.0,532,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,16:15,81.7,60.0,47.7,0.0,NW@2.1,4.6,0.0,500,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,16:30,81.1,61.7,51.8,0.0,NW@2.1,3.9,0.0,465,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,16:45,79.5,62.5,56.0,0.0,NW@2.7,3.9,0.0,230,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,17:00,78.9,61.3,54.7,0.0,NW@2.9,3.9,0.0,39,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,17:15,78.9,63.8,59.9,0.0,NW@2.7,3.5,0.0,40,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,17:30,78.7,65.6,64.1,0.0,NW@2.1,3.1,0.0,65,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,17:45,79.8,62.1,54.7,0.0,NW@2.3,3.1,0.0,33,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,18:00,79.7,60.5,52.0,0.0,NW@2.8,3.5,0.0,26,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,18:15,78.8,60.9,54.1,0.0,NW@2.6,3.1,0.0,24,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,18:30,78.3,60.7,54.8,0.0,NW@2.7,3.5,0.0,22,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,18:45,77.9,60.9,55.7,0.0,NW@2.6,3.1,0.0,20,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,19:00,78.1,60.1,53.8,0.0,NW@2.6,3.1,0.0,17,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,19:15,78.1,62.5,58.8,0.0,NW@2.7,3.5,0.0,12,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,19:30,79.3,66.0,63.8,0.0,NW@2.7,3.1,0.0,8,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,19:45,86.7,77.8,74.7,0.0,NW@1.9,3.1,0.0,2,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,20:00,90.9,75.9,61.5,0.0,NW@0.1,1.4,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,20:15,88.1,70.5,56.1,0.0,NW@0.0,1.4,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,20:30,89.2,72.9,58.8,0.0,N @0.0,0.0,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,20:45,79.8,66.5,63.9,0.0,W@0.8,2.1,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,21:00,67.5,56.6,68.0,0.0,N @0.0,0.0,0.0,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,21:15,65.7,59.2,79.5,0.0,NW@0.5,2.8,0.01,0,73.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,21:30,63.9,58.4,82.2,0.0,W@0.1,1.7,0.02,0,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,21:45,66.1,56.8,71.8,0.0,W@1.2,3.1,0.0,0,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,22:00,64.9,57.7,77.5,0.0,W@1.2,3.1,0.0,0,73.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,22:15,64.4,56.9,76.7,0.0,N @0.0,0.0,0.01,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,22:30,64.1,56.1,75.3,0.0,N @0.0,0.0,0.02,0,73.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,22:45,63.0,56.0,78.0,0.0,N @0.0,0.0,0.02,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,23:00,62.9,55.1,75.6,0.0,W@0.1,1.7,0.02,0,73.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,23:15,62.1,55.5,78.9,0.0,N @0.0,0.0,0.02,0,73.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,23:30,61.2,56.2,83.5,0.0,N @0.0,0.0,0.04,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,23:45,60.9,57.6,88.8,0.0,N @0.0,0.0,0.13,0,73.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-02,24:00,60.5,57.4,89.5,0.0,NW@0.6,2.4,0.14,0,73.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,00:15,60.6,58.2,91.7,0.0,W@1.0,3.5,0.23,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,00:30,60.4,58.0,91.6,0.0,N @0.0,0.0,0.3,0,73.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,00:45,60.9,57.4,88.2,0.0,NW@1.9,3.1,0.1,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,01:00,62.0,56.6,82.4,0.0,NW@2.9,3.9,0.02,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,01:15,62.5,55.8,78.5,0.0,NW@2.5,3.5,0.0,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,01:30,62.8,55.2,76.1,0.0,NW@3.9,4.9,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,01:45,61.8,55.6,79.9,0.0,NW@3.9,4.9,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,02:00,62.2,54.8,76.7,0.0,NW@3.7,4.9,0.0,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,02:15,61.7,54.7,77.7,0.0,NW@1.2,3.9,0.0,0,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,02:30,61.0,54.7,79.5,0.0,NW@2.1,3.1,0.0,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,02:45,59.8,55.0,84.1,0.0,N @0.0,0.0,0.07,0,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,03:00,59.7,54.6,83.1,0.0,NW@2.7,3.9,0.06,0,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,03:15,61.5,53.4,74.9,0.0,NW@3.2,4.2,0.0,0,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,03:30,61.7,52.9,72.8,0.0,NW@2.6,4.6,0.0,0,72.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,03:45,60.6,53.2,76.5,0.0,S@0.6,3.5,0.0,0,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,04:00,59.1,53.0,80.3,0.0,SW@0.7,2.1,0.01,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,04:15,57.1,53.7,88.4,0.0,W@0.0,1.4,0.17,0,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,04:30,57.0,53.6,88.6,0.0,NW@1.2,3.1,0.16,0,71.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,04:45,59.3,53.3,80.5,0.0,NW@2.3,3.1,0.0,0,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,05:00,59.6,52.7,77.8,0.0,NW@2.9,3.9,0.0,0,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,05:15,58.8,53.0,80.9,0.0,NW@3.4,5.3,0.0,0,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,05:30,59.5,53.0,78.9,0.0,NW@4.1,5.3,0.0,0,71.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,05:45,59.4,53.6,80.9,0.0,NW@3.4,5.3,0.0,0,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,06:00,59.2,53.7,81.9,0.0,NW@3.2,5.3,0.0,0,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,06:15,59.7,53.4,79.7,0.0,NW@2.6,3.5,0.0,2,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,06:30,59.9,53.5,79.1,0.0,NW@3.5,5.3,0.0,8,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,06:45,60.2,54.1,80.4,0.0,NW@3.1,5.7,0.0,15,71.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,07:00,59.4,54.6,84.1,0.0,NW@3.1,5.7,0.0,51,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,07:15,60.8,55.2,81.6,0.0,NW@2.4,4.6,0.0,91,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,07:30,61.3,56.1,82.7,0.0,NW@2.6,3.5,0.0,102,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,07:45,63.6,56.5,77.7,0.0,N@3.7,6.0,0.0,132,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,08:00,63.1,56.2,78.1,0.0,NW@4.0,6.0,0.0,81,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,08:15,62.6,56.1,79.5,0.0,NW@4.4,6.0,0.0,66,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,08:30,62.7,56.6,80.3,0.0,NW@4.0,6.4,0.0,127,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,08:45,65.3,57.7,76.5,0.0,N@4.5,7.8,0.0,289,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,09:00,69.5,59.4,70.1,0.0,N @4.8,7.4,0.0,345,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,09:15,73.5,61.6,66.4,0.0,N @5.4,8.9,0.0,402,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,09:30,78.9,67.5,67.9,0.0,N@5.3,8.2,0.0,434,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,09:45,87.9,77.5,71.5,0.0,N @5.4,8.2,0.0,444,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,10:00,86.5,76.0,70.9,0.0,N@3.9,7.4,0.0,394,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,10:15,89.2,77.1,67.5,0.0,N @5.0,8.5,0.0,423,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,10:30,85.2,71.6,63.8,0.0,N @4.4,7.4,0.0,480,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,10:45,81.4,66.7,60.9,0.0,N@4.2,6.7,0.0,385,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,11:00,80.8,64.5,57.7,0.0,N @4.8,7.8,0.0,463,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,11:15,79.5,62.7,56.4,0.0,N@4.5,7.8,0.0,453,70.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,11:30,79.6,61.8,54.6,0.0,N@3.7,7.1,0.0,581,70.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,11:45,79.6,60.9,52.8,0.0,N@4.4,7.4,0.0,579,70.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,12:00,79.8,60.6,51.9,0.0,NW@4.2,7.1,0.0,558,70.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,12:15,79.5,61.9,54.9,0.0,NW@2.9,4.9,0.0,358,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,12:30,79.2,62.4,56.4,0.0,NW@2.9,5.3,0.0,345,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,12:45,78.8,60.8,54.0,0.0,NW@3.2,5.3,0.0,392,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,13:00,80.7,61.9,52.7,0.0,N@3.2,5.7,0.0,517,70.2,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,13:15,82.8,61.2,48.0,0.0,N@3.4,5.7,0.0,767,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,13:30,81.6,60.9,49.4,0.0,NW@2.2,3.5,0.0,339,70.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,13:45,83.2,60.5,46.3,0.0,NW@2.4,4.6,0.0,647,70.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,14:00,86.0,58.5,39.5,0.0,NW@2.3,4.2,0.0,747,70.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,14:15,87.2,57.1,36.0,0.0,W@3.2,5.3,0.0,766,70.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,14:30,85.7,58.1,39.3,0.0,NW@2.9,6.0,0.0,581,70.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,14:45,86.6,56.3,35.8,0.0,NW@2.6,5.7,0.0,585,70.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,15:00,87.1,57.4,36.6,0.0,NW@2.6,4.2,0.0,644,70.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,15:15,84.8,59.8,43.0,0.0,W@2.6,5.3,0.0,549,71.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,15:30,85.0,58.8,41.1,0.0,NW@2.6,4.2,0.0,603,71.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,15:45,87.4,58.3,37.5,0.0,SW@2.5,5.3,0.0,558,71.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,16:00,86.4,59.4,40.1,0.0,NW@2.0,3.9,0.0,512,71.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,16:15,86.3,59.7,40.8,0.0,S@1.9,4.2,0.0,487,71.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,16:30,85.2,59.2,41.4,0.0,S@3.3,4.9,0.0,433,71.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,16:45,85.0,59.2,41.8,0.0,S@3.3,7.1,0.0,167,71.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,17:00,84.2,58.7,42.1,0.0,S@3.7,5.7,0.0,46,72.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,17:15,83.6,58.2,42.1,0.0,S@3.1,5.7,0.0,40,72.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,17:30,83.2,58.9,43.8,0.0,S@3.1,5.3,0.0,51,72.3,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,17:45,82.5,60.5,47.5,0.0,S@2.0,3.5,0.0,34,72.4,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,18:00,82.3,64.1,54.1,0.0,S@1.0,3.5,0.0,30,72.5,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,18:15,81.2,63.9,55.8,0.0,S@1.9,2.8,0.0,29,72.6,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,18:30,79.5,63.6,58.3,0.0,S@1.3,2.8,0.0,25,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,18:45,78.7,65.4,63.7,0.0,S@1.6,2.8,0.0,22,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,19:00,78.8,67.9,69.2,0.0,S@1.9,2.8,0.0,19,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,19:15,79.3,68.6,69.8,0.0,SW@1.4,2.4,0.0,14,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,19:30,81.4,67.0,61.6,0.0,W@1.3,2.1,0.0,8,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,19:45,80.6,65.0,59.0,0.0,SW@1.8,2.8,0.0,3,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,20:00,80.7,66.6,62.2,0.0,SW@1.9,2.8,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,20:15,81.3,65.8,59.4,0.0,SW@2.4,4.2,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,20:30,92.0,83.2,75.4,0.0,SW@2.0,3.1,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,20:45,97.6,91.0,81.5,0.0,SW@2.0,3.1,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,21:00,94.8,84.5,72.4,0.0,SW@3.0,6.0,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,21:15,88.6,76.9,68.4,0.0,W@2.3,5.3,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,21:30,84.9,72.6,66.7,0.0,W@3.2,6.0,0.0,0,73.1,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,21:45,84.8,71.9,65.4,0.0,W@3.7,8.5,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,22:00,84.8,70.5,62.3,0.0,W@5.0,9.2,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,22:15,84.1,68.9,60.3,0.0,W@5.0,7.8,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,22:30,83.5,67.7,59.2,0.0,W@4.8,9.2,0.0,0,73.0,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,22:45,83.1,66.9,58.0,0.0,W@4.8,10.7,0.0,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,23:00,82.6,66.2,57.7,0.0,W@4.9,9.2,0.0,0,72.9,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,23:15,83.7,68.2,59.5,0.0,W@5.1,9.9,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,23:30,89.3,75.1,63.1,0.0,W@5.1,10.7,0.0,0,72.8,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,23:45,96.4,84.0,67.7,0.0,W@4.5,8.5,0.0,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925
+2019-09-03,24:00,81.0,66.3,61.0,0.0,NW@4.9,8.5,0.0,0,72.7,"Basin.City (Basin City), Franklin County",300116,Basin.City,2020-06-02 10:14:35.552925

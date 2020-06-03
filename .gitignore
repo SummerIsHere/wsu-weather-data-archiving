@@ -294,6 +294,8 @@ sqlite/wrk_310120.db
 sqlite/wrk_310112.db
 sqlite/wrk_310111.db
 sqlite/wrk_310107.db
+
+# Ignoring these tide stations because they don't contain valid data?
 downloaded_data/tide_gauge/tidied_data_nwlon_station_id_9444090_datum_NAVD.csv
 downloaded_data/tide_gauge/tidied_data_nwlon_station_id_9444090_datum_STND.csv
 downloaded_data/tide_gauge/tidied_data_nwlon_station_id_9444900_datum_STND.csv
@@ -315,10 +317,14 @@ downloaded_data/tide_gauge/nwlon_station_id_9449424_datum_NAVD.csv
 downloaded_data/tide_gauge/nwlon_station_id_9449424_datum_STND.csv
 downloaded_data/tide_gauge/nwlon_station_id_9449880_datum_NAVD.csv
 downloaded_data/tide_gauge/nwlon_station_id_9449880_datum_STND.csv
+
+# Ignoring these tide stations because they don't contain valid data?
 downloaded_data/streamflow/tidy_data_usgs_streamflow_site_id_12150800.csv
 downloaded_data/streamflow/tidy_data_usgs_streamflow_site_id_12186000.csv
 downloaded_data/streamflow/tidy_data_usgs_streamflow_site_id_12189500.csv
 downloaded_data/streamflow/tidy_data_usgs_streamflow_site_id_12201500.csv
+
+# Ignoring these tide stations because they don't contain valid data?
 downloaded_data/snotel/tidy_data_snotel_station_id_1011_swe_hx.csv
 downloaded_data/snotel/tidy_data_snotel_station_id_1012_swe_hx.csv
 downloaded_data/snotel/tidy_data_snotel_station_id_1068_swe_hx.csv
@@ -385,6 +391,8 @@ downloaded_data/snotel/tidy_data_snotel_station_id_985_swe_hx.csv
 downloaded_data/snotel/tidy_data_snotel_station_id_990_swe_hx.csv
 downloaded_data/snotel/tidy_data_snotel_station_id_998_swe_hx.csv
 downloaded_data/snotel/tidy_data_snotel_station_id_999_swe_hx.csv
+
+# Other
 run_scratch_logging.txt
 run_scratch_stdout.txt
 seattle_logging.txt
@@ -394,3 +402,4 @@ temp station info.csv
 downloaded_data/wsu/daylight_savings/330164/330164_2008-01-01.csv
 downloaded_data/wsu/daylight_savings/330171/330171_2009-01-01.csv
 downloaded_data/wsu/daylight_savings/331106/331106_2011-11-10.csv
+reports/Apocalypse Status Board Alt Source.pbix
