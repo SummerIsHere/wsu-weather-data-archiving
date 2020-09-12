@@ -46,7 +46,7 @@ root.addHandler(ch)
 
 # logging.info('Before exception')
 # raise Exception ('Deliberate exception')
-
+'''
 ## Download and minimally tidy up data
 logging.info('Getting CO2 Data')
 dtu.get_CO2_conc(output_folder=data_folder)
@@ -70,15 +70,15 @@ dtu.get_grain_data(output_folder=data_folder
 
 # Update station list
 dtu.get_wsu_station_list(output_folder=wsu_folder)
+'''
 
-# Update station info
 
 # Download WSU weather data
 logging.info('Getting WSU weather data')
 dtu.get_wsu_weather_data(output_folder=wsu_subfolder,station_list_file=sl_file,
                        station_info_file = si_file, gecko_fullpath=gecko_fullpath)
 
-
+'''
 #logging.info('Create data lakes')
 #dl.create_data_lakes(sl_file=sl_file,dl_folder=dl_folder,overwrite=False)
 
@@ -111,12 +111,17 @@ for this_stat in stat_list.loc[:, 'station_id']:
         logging.warning('Moving on to next station')
         continue
 
-logging.info('Calling wsu_progress')
-dtu.wsu_progress(station_list_file=sl_file,output_folder=wsu_folder, scan_folder=wsu_subfolder, dl_folder=dl_folder
-                 , dr_folder=dr_folder)
+
 
 
 logging.info('Calling wsu_min_max')
 dtu.wsu_min_max(data_folder=wsu_folder, station_list_file=sl_ps_file)
+
+
+'''
+
+logging.info('Calling wsu_progress')
+dtu.wsu_progress(station_list_file=sl_file,output_folder=wsu_folder, scan_folder=wsu_subfolder, dl_folder=dl_folder
+                 , dr_folder=dr_folder)
 
 logging.info('End main.py')
