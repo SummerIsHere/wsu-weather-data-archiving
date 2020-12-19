@@ -1,0 +1,673 @@
+Date,Time PST,1.5m Air Temp °F, 1.5m Dew Point °F, 1.5m Rel Hum %, Tot Prec in, Solar Rad W/m², Wind Direction, Wind Speed mph, 2m Wind Gust mph, 1.5m Leaf Wet u., 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2020-09-26,00:15,51.1,49.5,93.9,0.0,0,SE,4.1,7.4,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,00:30,50.9,49.6,95.1,0.0,0,E,2.0,3.1,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,00:45,50.8,49.7,95.9,0.0,0,E,2.5,3.5,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,01:00,51.1,50.1,96.5,0.0,0,E,2.5,3.5,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,01:15,51.4,50.3,96.1,0.0,0,E,3.2,4.9,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,01:30,51.8,50.5,95.4,0.0,0,E,2.8,4.2,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,01:45,51.5,50.3,95.4,0.0,0,E,3.4,5.3,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,02:00,51.5,50.3,95.6,0.0,0,E,5.2,9.2,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,02:15,51.8,50.2,94.3,0.0,0,E,5.8,9.2,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,02:30,51.9,50.3,94.5,0.0,0,E,4.1,6.0,0.78,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,02:45,51.9,50.3,94.4,0.0,0,SE,3.1,4.9,0.77,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,03:00,51.7,50.4,95.2,0.0,0,E,3.4,4.9,0.76,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,03:15,51.4,50.3,96.0,0.0,0,E,3.6,4.9,0.76,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,03:30,51.3,50.4,96.4,0.0,0,E,3.4,5.7,0.76,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,03:45,51.7,50.6,96.1,0.0,0,E,2.8,4.2,0.75,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,04:00,52.1,50.8,95.3,0.0,0,E,3.4,4.9,0.72,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,04:15,52.3,51.0,95.3,0.0,0,SE,1.8,3.5,0.69,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,04:30,52.3,51.3,96.1,0.0,0,S,1.4,3.1,0.68,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,04:45,52.1,51.2,96.6,0.0,0,SE,3.2,4.6,0.67,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,05:00,52.3,51.1,95.7,0.0,0,SE,3.3,5.7,0.65,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,05:15,52.2,51.0,95.3,0.0,0,SE,3.8,5.3,0.63,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,05:30,51.9,50.8,96.0,0.0,0,SE,2.9,4.2,0.63,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,05:45,51.4,50.6,97.1,0.0,0,E,2.5,3.5,0.71,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,06:00,51.4,50.6,97.0,0.0,2,E,3.0,5.7,0.72,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,06:15,51.0,50.2,96.9,0.0,6,E,2.9,4.2,0.75,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,06:30,51.1,50.3,97.2,0.0,15,SE,2.9,4.2,0.77,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,06:45,51.5,50.4,96.0,0.0,61,SE,2.7,6.0,0.77,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,07:00,52.7,50.9,93.7,0.0,77,E,4.1,7.1,0.67,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,07:15,53.0,51.2,93.2,0.0,122,SE,3.5,6.0,0.49,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,07:30,54.1,51.8,91.9,0.0,141,E,5.3,7.4,0.05,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,07:45,54.3,52.1,92.2,0.0,113,E,5.0,6.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,08:00,55.0,52.5,91.3,0.0,181,E,5.4,7.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,08:15,55.4,52.9,91.2,0.0,166,E,4.6,6.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,08:30,56.1,53.4,90.6,0.0,187,E,4.7,6.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,08:45,57.1,53.6,88.2,0.0,171,SE,5.4,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,09:00,58.3,53.9,85.4,0.0,300,SE,5.6,7.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,09:15,59.6,54.3,82.7,0.0,368,SE,6.4,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,09:30,59.6,54.1,81.8,0.0,362,SE,6.9,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,09:45,59.4,54.0,82.3,0.0,204,SE,6.8,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,10:00,59.4,53.9,81.7,0.0,229,SE,6.6,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,10:15,60.4,54.5,80.7,0.0,319,SE,6.1,10.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,10:30,60.7,54.2,79.3,0.0,268,SE,5.8,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,10:45,61.4,54.4,77.6,0.0,300,SE,5.4,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,11:00,62.3,54.4,75.3,0.0,409,SE,6.5,12.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,11:15,62.6,53.3,71.4,0.0,314,S,7.1,11.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,11:30,62.2,52.8,71.3,0.0,213,S,7.1,16.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,11:45,62.1,53.0,72.0,0.0,183,S,7.2,12.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,12:00,61.8,52.8,72.2,0.0,102,S,7.8,12.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,12:15,61.6,52.8,72.7,0.0,92,S,8.3,15.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,12:30,61.7,53.1,73.2,0.0,132,S,7.4,11.0,0.02,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,12:45,62.4,53.5,72.4,0.0,196,S,6.6,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,13:00,62.8,53.8,72.3,0.0,221,S,6.5,11.7,0.04,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,13:15,62.9,54.3,73.5,0.0,191,S,5.8,9.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,13:30,63.5,54.3,71.9,0.0,364,S,7.5,15.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,13:45,65.1,54.7,68.9,0.0,466,S,8.9,13.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,14:00,63.4,54.4,72.4,0.0,227,S,8.4,13.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,14:15,62.3,54.5,75.4,0.0,193,S,7.8,13.9,0.01,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,14:30,62.6,53.8,72.8,0.0,144,S,7.6,12.4,0.01,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,14:45,63.7,53.6,69.8,0.0,366,SW,9.4,14.6,0.01,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,15:00,65.6,54.2,66.6,0.0,435,SW,10.8,16.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,15:15,63.8,54.0,70.4,0.0,273,S,11.2,15.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,15:30,62.7,53.9,72.9,0.0,186,SW,9.5,15.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,15:45,64.9,55.3,71.0,0.0,405,SW,8.2,12.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,16:00,64.9,54.9,70.1,0.0,335,SW,7.7,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,16:15,63.0,54.3,73.1,0.0,85,SW,6.9,11.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,16:30,61.0,54.4,78.8,0.0,28,N,7.1,12.1,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,16:45,60.5,54.1,79.3,0.0,27,N,4.4,8.9,0.43,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,17:00,59.9,55.0,83.6,0.02,22,N,2.8,5.3,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,17:15,59.2,55.4,87.0,0.06,20,SE,2.4,4.6,0.78,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,17:30,58.1,55.4,90.9,0.0,25,SE,3.3,5.3,0.79,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,17:45,57.0,54.8,92.4,0.0,12,S,2.7,5.7,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,18:00,56.9,55.0,93.4,0.0,5,SE,1.7,2.4,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,18:15,56.4,55.0,94.8,0.0,2,E,1.4,2.8,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,18:30,55.8,54.3,94.8,0.0,0,E,1.8,2.8,0.84,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,18:45,55.6,54.4,95.9,0.0,0,E,1.5,3.1,0.84,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,19:00,55.3,54.4,96.7,0.0,0,E,2.5,3.9,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,19:15,55.2,54.4,96.9,0.0,0,E,2.6,3.5,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,19:30,54.4,53.5,96.6,0.01,0,E,2.6,4.2,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,19:45,54.4,53.1,95.0,0.0,0,NE,2.6,3.9,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,20:00,54.6,53.1,94.6,0.01,0,E,3.6,5.7,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,20:15,54.5,53.2,95.2,0.01,0,E,4.1,6.0,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,20:30,54.2,53.2,96.6,0.01,0,NE,3.1,5.3,0.78,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,20:45,54.2,53.3,96.6,0.0,0,E,3.3,4.9,0.78,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,21:00,54.0,53.2,97.0,0.0,0,E,3.1,4.6,0.79,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,21:15,53.8,53.1,97.4,0.0,0,E,2.2,3.9,0.79,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,21:30,53.7,53.0,97.3,0.0,0,E,2.0,3.1,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,21:45,53.5,52.8,97.4,0.0,0,E,1.9,2.8,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,22:00,53.6,53.0,97.8,0.0,0,S,1.2,2.8,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,22:15,53.1,52.5,97.9,0.0,0,N ,0.7,2.1,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,22:30,52.9,52.4,98.1,0.0,0,N ,0.0,0.0,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,22:45,52.9,52.5,98.4,0.0,0,E,0.1,1.7,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-26,23:00,52.6,52.1,98.3,0.0,0,N ,0.0,0.0,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,23:15,51.0,50.5,98.2,0.0,0,N ,0.0,0.0,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,23:30,50.2,49.7,98.4,0.0,0,N,0.9,2.4,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,23:45,49.9,49.5,98.6,0.0,0,SW,1.0,2.4,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,24:00,49.1,48.8,98.6,0.0,0,SW,1.8,2.8,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,00:15,49.2,49.0,98.9,0.0,0,NW,0.5,2.4,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,00:30,49.9,49.7,99.0,0.0,0,NW,1.7,2.4,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,00:45,50.2,49.9,99.1,0.0,0,W,1.4,3.1,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,01:00,50.8,50.6,99.2,0.0,0,W,2.4,3.5,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,01:15,51.2,51.0,99.2,0.0,0,W,0.9,3.1,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,01:30,51.0,50.8,99.2,0.0,0,SW,1.7,2.4,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,01:45,51.6,51.4,99.3,0.0,0,W,3.2,4.9,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,02:00,51.7,51.5,99.2,0.0,0,W,3.3,4.6,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,02:15,51.1,50.8,99.1,0.0,0,W,2.8,3.9,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,02:30,49.8,49.5,98.9,0.0,0,W,2.8,3.9,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,02:45,49.7,49.5,99.0,0.0,0,W,1.2,3.1,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,03:00,49.8,49.6,99.0,0.0,0,E,0.2,1.7,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,03:15,49.5,49.2,99.0,0.0,0,E,1.1,2.4,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,03:30,49.8,49.5,99.0,0.0,0,E,1.4,2.4,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,03:45,50.2,49.9,99.1,0.0,0,E,0.8,2.4,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,04:00,50.3,50.0,99.1,0.0,0,NE,1.2,2.1,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,04:15,50.7,50.5,99.2,0.0,0,NE,1.0,2.4,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,04:30,50.9,50.7,99.2,0.0,0,E,0.1,1.7,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,04:45,51.0,50.8,99.3,0.0,0,E,0.8,2.4,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,05:00,51.0,50.9,99.3,0.0,0,E,1.4,3.9,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,05:15,50.9,50.8,99.3,0.0,0,E,3.4,4.9,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,05:30,51.0,50.8,99.4,0.0,0,E,2.5,4.2,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,05:45,51.1,50.9,99.4,0.0,0,E,4.2,7.4,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,06:00,50.8,50.7,99.4,0.0,2,E,4.0,6.7,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,06:15,51.0,50.9,99.4,0.0,5,E,3.7,6.0,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,06:30,51.1,51.0,99.4,0.0,16,SE,2.0,6.4,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,06:45,51.4,51.2,99.4,0.0,26,SE,2.1,3.9,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,07:00,51.5,51.4,99.4,0.0,40,E,1.5,3.9,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,07:15,51.6,51.5,99.4,0.0,56,E,0.4,2.4,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,07:30,51.8,51.6,99.4,0.0,99,NE,1.2,3.5,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,07:45,52.1,51.9,99.3,0.0,122,SE,0.3,2.8,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,08:00,52.5,52.3,99.3,0.0,102,E,0.5,2.8,0.82,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,08:15,52.9,52.7,99.2,0.0,181,E,0.3,2.1,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,08:30,53.1,52.9,99.3,0.0,117,SE,1.1,3.5,0.84,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,08:45,53.3,53.1,99.2,0.0,157,SE,1.1,3.9,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,09:00,53.7,53.4,98.9,0.0,234,SE,1.5,5.7,0.81,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,09:15,54.7,54.4,98.6,0.0,290,S,0.3,2.1,0.7,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,09:30,56.0,55.0,96.5,0.0,352,SE,0.8,3.1,0.31,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,09:45,56.1,54.6,94.6,0.0,364,E,0.9,3.9,0.01,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,10:00,57.8,55.3,91.1,0.0,465,SE,0.4,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,10:15,58.0,54.9,89.4,0.0,461,S,0.1,1.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,10:30,60.1,55.7,85.2,0.0,481,E,0.9,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,10:45,61.6,56.1,81.9,0.0,563,SW,0.5,3.1,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,11:00,62.2,54.7,76.5,0.0,539,S,0.8,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,11:15,63.1,54.5,73.5,0.0,547,SE,0.3,6.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,11:30,64.4,54.5,70.0,0.0,604,S,0.7,4.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,11:45,64.6,52.9,65.8,0.0,589,W,0.4,3.1,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,12:00,65.0,52.3,63.2,0.0,607,W,0.7,4.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,12:15,65.6,52.5,62.5,0.0,625,W,0.6,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,12:30,65.7,53.3,64.3,0.0,638,W,2.4,8.5,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,12:45,65.7,52.7,62.7,0.0,502,NW,2.0,6.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,13:00,65.0,53.0,65.1,0.0,351,NW,3.5,10.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,13:15,65.3,53.2,64.9,0.0,465,NW,5.5,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,13:30,65.9,53.7,64.7,0.0,559,NW,5.6,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,13:45,66.3,53.5,63.2,0.0,570,NW,6.1,8.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,14:00,66.3,52.5,61.0,0.0,542,NW,5.7,8.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,14:15,66.8,53.4,62.0,0.0,518,NW,6.8,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,14:30,66.6,52.9,61.4,0.0,491,NW,7.6,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,14:45,66.4,53.1,62.2,0.0,464,NW,7.2,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,15:00,66.7,53.6,62.7,0.0,433,NW,6.7,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,15:15,66.7,53.9,63.3,0.0,401,NW,7.1,10.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,15:30,66.0,54.0,65.1,0.0,367,NW,8.3,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,15:45,65.8,53.7,65.0,0.0,331,NW,7.7,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,16:00,65.5,53.3,64.5,0.0,294,NW,7.7,10.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,16:15,65.2,52.4,63.1,0.0,256,NW,6.9,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,16:30,65.0,51.9,62.5,0.0,218,NW,7.2,9.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,16:45,64.6,52.0,63.7,0.0,180,NW,7.4,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,17:00,64.0,52.0,65.0,0.0,143,NW,7.2,9.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,17:15,63.0,51.1,65.0,0.0,106,NW,6.2,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,17:30,62.2,51.1,67.0,0.0,70,NW,4.8,7.1,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,17:45,60.9,51.4,70.8,0.0,33,NW,4.3,6.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,18:00,59.6,51.0,73.0,0.0,6,W,4.1,5.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,18:15,58.6,51.3,76.7,0.0,2,W,3.2,4.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,18:30,57.1,51.6,81.6,0.0,0,W,2.8,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,18:45,54.4,49.7,84.2,0.0,0,W,4.1,4.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,19:00,52.7,49.5,88.8,0.0,0,W,3.5,4.2,0.01,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,19:15,52.7,50.0,90.6,0.0,0,SW,1.4,3.5,0.11,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,19:30,53.4,51.1,91.9,0.0,0,N ,0.0,0.0,0.34,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,19:45,53.6,51.1,91.1,0.0,0,N ,0.0,0.0,0.56,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,20:00,53.7,51.0,90.5,0.0,0,N ,0.0,0.0,0.66,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,20:15,52.5,50.5,93.1,0.0,0,E,1.8,2.8,0.73,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,20:30,51.8,50.4,94.9,0.0,0,E,0.4,2.8,0.77,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,20:45,51.9,50.5,95.0,0.0,0,N ,0.0,0.0,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,21:00,51.9,50.6,95.4,0.0,0,N ,0.0,0.0,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,21:15,51.3,50.1,95.4,0.0,0,SE,0.0,2.1,0.84,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,21:30,50.7,49.8,96.7,0.0,0,N ,0.0,0.0,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,21:45,50.4,49.7,97.3,0.0,0,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,22:00,49.5,48.7,97.3,0.0,0,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,22:15,49.3,48.8,98.0,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,22:30,49.3,48.8,98.3,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,22:45,48.9,48.5,98.4,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-27,23:00,48.6,48.3,98.6,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,23:15,47.6,47.3,98.5,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,23:30,47.0,46.7,98.6,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,23:45,46.5,46.2,98.7,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,24:00,46.8,46.6,98.9,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,00:15,46.4,46.1,98.9,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,00:30,46.1,45.8,98.9,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,00:45,45.8,45.6,99.0,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,01:00,45.0,44.7,98.9,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,01:15,45.3,45.1,99.0,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,01:30,46.1,45.9,99.2,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,01:45,46.7,46.5,99.2,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,02:00,46.0,45.8,99.2,0.0,0,S,0.0,1.4,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,02:15,45.7,45.5,99.2,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,02:30,45.9,45.7,99.3,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,02:45,45.6,45.4,99.2,0.0,0,W,0.2,1.7,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,03:00,45.0,44.8,99.3,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,03:15,45.4,45.3,99.4,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,03:30,45.4,45.2,99.4,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,03:45,45.7,45.6,99.4,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,04:00,45.3,45.1,99.3,0.0,0,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,04:15,45.3,45.2,99.4,0.0,0,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,04:30,45.7,45.5,99.4,0.0,0,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,04:45,45.4,45.3,99.4,0.0,0,N ,0.0,0.0,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,05:00,44.9,44.7,99.4,0.0,0,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,05:15,45.2,45.1,99.5,0.0,0,E,0.0,1.4,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,05:30,45.4,45.3,99.5,0.0,0,E,0.4,2.1,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,05:45,45.6,45.5,99.5,0.0,0,E,0.1,1.7,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,06:00,45.0,44.8,99.4,0.0,2,SE,0.0,1.4,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,06:15,44.9,44.8,99.5,0.0,6,N ,0.0,0.0,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,06:30,45.2,45.1,99.5,0.0,19,N ,0.0,0.0,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,06:45,46.2,46.1,99.5,0.0,31,NW,0.0,1.7,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,07:00,47.2,47.1,99.5,0.0,48,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,07:15,47.5,47.4,99.4,0.0,72,E,0.0,1.4,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,07:30,47.9,47.7,99.4,0.0,119,SE,0.1,1.7,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,07:45,49.3,49.1,99.1,0.0,179,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,08:00,50.5,50.2,98.9,0.0,245,N ,0.0,0.0,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,08:15,52.9,52.6,98.6,0.0,305,SW,0.0,1.4,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,08:30,53.3,52.7,97.8,0.0,331,W,0.5,2.1,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,08:45,54.4,53.4,96.3,0.0,361,NW,0.7,3.1,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,09:00,56.0,53.5,91.5,0.0,390,NW,0.8,3.9,0.69,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,09:15,57.3,52.7,84.6,0.0,416,NW,3.6,6.7,0.18,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,09:30,58.1,53.0,83.0,0.0,441,NW,5.3,7.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,09:45,58.8,53.3,81.9,0.0,470,NW,5.5,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,10:00,59.9,54.0,80.8,0.0,496,NW,4.7,7.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,10:15,60.8,53.7,77.3,0.0,520,NW,4.7,7.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,10:30,62.0,54.3,75.7,0.0,542,W,2.9,6.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,10:45,62.9,54.4,73.7,0.0,561,W,2.7,7.1,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,11:00,63.8,55.3,73.8,0.0,576,W,3.8,6.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,11:15,64.9,56.2,73.3,0.0,589,W,5.0,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,11:30,65.2,55.9,71.8,0.0,598,NW,6.4,8.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,11:45,65.7,56.6,72.3,0.0,606,NW,6.8,9.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,12:00,65.7,56.3,71.6,0.0,609,NW,8.0,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,12:15,66.2,56.7,71.3,0.0,609,NW,7.5,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,12:30,66.6,56.5,69.8,0.0,607,NW,6.9,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,12:45,67.1,57.2,70.4,0.0,602,NW,7.7,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,13:00,67.7,57.8,70.6,0.0,593,NW,7.2,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,13:15,68.3,57.4,68.1,0.0,582,NW,7.4,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,13:30,68.7,58.0,68.6,0.0,567,NW,7.3,10.7,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,13:45,68.7,57.5,67.3,0.0,550,NW,7.3,10.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,14:00,69.4,57.8,66.5,0.0,530,NW,6.6,9.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,14:15,69.9,57.5,64.8,0.01,508,NW,6.6,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,14:30,69.8,56.8,63.3,0.0,483,NW,8.0,11.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,14:45,69.8,56.4,62.5,0.0,456,NW,7.6,11.0,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,15:00,69.5,56.6,63.6,0.0,426,NW,8.0,10.3,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,15:15,69.4,57.1,64.9,0.0,395,NW,8.4,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,15:30,68.8,57.0,66.0,0.0,361,NW,8.8,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,15:45,68.8,56.9,65.7,0.0,326,NW,8.5,11.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,16:00,68.7,56.3,64.5,0.0,290,NW,8.0,9.6,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,16:15,68.6,56.4,65.1,0.0,252,NW,7.7,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,16:30,68.4,56.6,66.0,0.0,214,NW,6.8,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,16:45,67.9,56.4,66.6,0.0,176,NW,7.0,8.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,17:00,67.3,56.9,69.1,0.0,138,W,5.0,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,17:15,66.4,56.7,70.9,0.0,101,W,5.0,7.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,17:30,65.1,55.8,71.7,0.0,66,NW,6.3,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,17:45,63.6,55.3,74.2,0.0,28,NW,5.9,7.8,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,18:00,62.0,55.1,78.0,0.0,5,NW,4.1,7.4,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,18:15,60.5,54.8,81.6,0.0,2,NW,3.1,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,18:30,59.5,54.5,83.6,0.0,0,NW,2.3,2.8,0.01,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,18:45,57.5,53.0,85.1,0.0,0,SW,1.0,2.4,0.07,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,19:00,57.6,53.4,85.9,0.0,0,N ,0.0,0.0,0.13,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,19:15,57.9,53.6,85.2,0.0,0,N ,0.0,0.0,0.13,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,19:30,57.0,53.5,87.9,0.0,0,N ,0.0,0.0,0.25,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,19:45,56.6,53.3,88.4,0.0,0,SW,0.1,1.7,0.41,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,20:00,54.8,52.8,93.1,0.0,0,N ,0.0,0.0,0.62,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,20:15,53.6,52.2,94.9,0.0,0,SE,0.8,2.1,0.74,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,20:30,53.9,52.5,95.0,0.0,0,S,1.0,2.1,0.8,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,20:45,52.5,51.6,96.5,0.0,0,S,0.6,2.4,0.83,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,21:00,52.5,51.7,96.8,0.0,0,N ,0.0,0.0,0.85,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,21:15,52.9,51.7,95.8,0.0,0,SW,0.0,1.7,0.86,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,21:30,52.0,50.9,96.0,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,21:45,51.6,50.6,96.4,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,22:00,52.1,51.2,96.8,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,22:15,51.5,50.6,96.8,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,22:30,50.6,49.8,97.2,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,22:45,50.1,49.5,97.8,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-28,23:00,50.6,50.2,98.4,0.0,0,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,23:15,51.1,50.8,98.6,0.0,0,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,23:30,50.0,49.6,98.4,0.0,0,N ,0.0,0.0,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,23:45,49.0,48.6,98.5,0.0,0,N ,0.0,0.0,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,24:00,48.1,47.8,98.5,0.0,0,N ,0.0,0.0,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,00:15,47.9,47.6,98.7,0.0,0,N ,0.0,0.0,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,00:30,48.9,48.7,98.9,0.0,0,E,0.1,2.4,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,00:45,49.0,48.6,98.6,0.0,0,SW,0.0,1.4,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,01:00,49.2,48.9,98.8,0.0,0,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,01:15,48.6,48.3,98.6,0.0,0,NW,0.1,2.4,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,01:30,48.6,48.3,98.8,0.0,0,SE,0.0,1.4,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,01:45,49.1,48.8,98.8,0.0,0,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,02:00,49.0,48.6,98.6,0.0,0,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,02:15,48.2,47.7,98.3,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,02:30,48.2,47.8,98.7,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,02:45,46.9,46.5,98.6,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,03:00,48.3,48.1,99.1,0.0,0,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,03:15,47.7,47.4,99.0,0.0,0,E,0.4,1.7,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,03:30,47.0,46.7,99.0,0.0,0,E,0.5,2.1,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,03:45,46.1,45.9,99.0,0.0,0,W,0.3,2.1,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,04:00,44.3,44.1,98.9,0.0,0,E,0.4,2.1,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,04:15,46.2,46.0,99.2,0.0,0,E,0.5,2.1,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,04:30,46.0,45.8,99.2,0.0,0,E,0.4,2.1,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,04:45,45.8,45.6,99.2,0.0,0,E,0.4,2.1,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,05:00,45.1,44.9,99.2,0.0,0,S,0.6,1.7,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,05:15,45.5,45.4,99.3,0.0,0,S,0.0,1.7,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,05:30,45.4,45.2,99.2,0.0,0,N ,0.0,0.0,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,05:45,43.5,43.3,99.2,0.0,0,N ,0.0,0.0,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,06:00,43.7,43.5,99.3,0.0,2,SW,0.0,1.4,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,06:15,44.8,44.7,99.4,0.0,4,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,06:30,46.2,46.0,99.5,0.0,11,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,06:45,47.2,47.1,99.5,0.0,20,E,0.6,2.1,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,07:00,47.6,47.5,99.4,0.0,35,SE,0.8,2.1,0.88,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,07:15,48.3,48.2,99.4,0.0,48,SE,0.1,1.7,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,07:30,49.0,48.8,99.4,0.0,64,N ,0.0,0.0,0.89,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,07:45,49.6,49.4,99.4,0.0,81,N ,0.1,1.7,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,08:00,49.8,49.7,99.4,0.0,103,N ,0.0,0.0,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,08:15,50.6,50.4,99.3,0.0,146,NW,0.1,1.7,0.9,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,08:30,51.3,51.1,99.3,0.0,155,NW,0.2,1.7,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,08:45,52.2,52.0,99.3,0.0,162,W,0.3,2.1,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,09:00,52.8,52.6,99.2,0.0,201,W,0.2,2.1,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,09:15,53.7,53.5,99.1,0.0,262,SW,0.7,2.8,0.91,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,09:30,54.4,54.1,99.0,0.0,270,SW,0.9,2.8,0.87,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,09:45,55.9,55.6,98.8,0.0,394,W,0.6,2.8,0.68,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,10:00,56.6,56.1,98.3,0.0,467,W,0.8,3.5,0.1,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,10:15,58.1,57.5,97.8,0.0,537,W,1.2,4.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,10:30,60.2,58.7,94.6,0.0,546,W,0.6,3.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,10:45,62.8,59.1,87.6,0.0,564,W,3.9,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,11:00,64.6,58.3,80.0,0.0,579,NW,5.2,8.2,0.02,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,11:15,65.8,58.2,76.4,0.01,593,NW,5.0,8.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,11:30,66.4,58.5,75.8,0.01,608,NW,5.5,9.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,11:45,67.0,58.9,75.1,0.0,619,NW,6.5,9.2,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,12:00,67.7,59.2,74.1,0.0,623,NW,6.3,8.9,0.0,,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,12:15,68.6,59.7,73.1,0.0,623,NW,6.3,9.9,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,12:30,69.1,59.9,72.3,0.0,620,NW,7.1,9.6,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,12:45,69.5,59.8,71.4,0.0,614,NW,7.0,9.9,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,13:00,70.1,60.0,70.4,0.0,605,NW,7.8,10.3,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,13:15,70.6,60.0,69.0,0.0,593,NW,7.1,9.6,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,13:30,71.1,59.9,67.6,0.0,578,NW,7.0,9.2,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,13:45,71.4,59.6,66.3,0.0,560,NW,6.4,9.2,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,14:00,71.4,59.5,66.0,0.0,539,NW,7.0,9.2,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,14:15,71.6,59.5,65.5,0.0,516,NW,7.0,8.9,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,14:30,72.0,59.8,65.3,0.0,490,NW,6.4,8.9,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,14:45,72.3,59.6,64.5,0.0,462,NW,6.1,8.2,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,15:00,72.7,60.1,64.6,0.0,431,NW,5.6,8.2,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,15:15,72.7,59.7,63.5,0.0,399,NW,4.8,7.1,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,15:30,73.0,60.6,65.0,0.0,364,NW,4.9,7.4,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,15:45,73.1,60.1,63.8,0.0,328,NW,4.8,6.4,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,16:00,73.0,59.9,63.6,0.0,290,NW,5.4,7.4,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,16:15,72.8,60.1,64.3,0.0,252,NW,5.5,7.4,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,16:30,72.5,59.8,64.3,0.0,213,NW,4.8,6.4,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,16:45,71.9,59.7,65.3,0.0,173,NW,5.1,6.7,0.0,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,17:00,71.0,59.4,66.8,0.0,135,NW,5.4,7.4,0.01,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,17:15,70.0,59.2,68.6,0.0,98,NW,4.7,6.4,0.0,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,17:30,68.9,59.0,70.6,0.0,59,NW,3.9,4.9,0.0,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,17:45,67.4,58.4,73.0,0.0,13,NW,3.2,4.9,0.0,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,18:00,64.7,58.1,79.1,0.0,4,W,1.0,2.8,0.0,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,18:15,61.6,57.9,87.7,0.0,1,SW,0.1,2.1,0.23,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,18:30,60.0,57.9,92.8,0.0,0,N ,0.0,0.0,0.64,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,18:45,59.0,57.5,94.8,0.0,0,N ,0.0,0.0,0.83,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,19:00,58.8,57.3,94.9,0.0,0,N ,0.0,0.0,0.87,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,19:15,58.5,57.2,95.3,0.0,0,N ,0.0,0.0,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,19:30,57.8,56.9,96.7,0.0,0,N ,0.0,0.0,0.91,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,19:45,57.2,56.5,97.4,0.0,0,N ,0.0,0.0,0.92,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,20:00,56.9,56.3,97.9,0.0,0,N ,0.0,0.0,0.92,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,20:15,55.8,55.2,97.7,0.0,0,N ,0.0,0.0,0.93,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,20:30,54.0,53.3,97.5,0.0,0,SW,0.0,1.4,0.93,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,20:45,53.9,53.5,98.5,0.0,0,N ,0.0,0.0,0.93,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,21:00,53.9,53.6,98.7,0.0,0,N ,0.0,0.0,0.94,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,21:15,54.1,53.8,98.9,0.0,0,N ,0.0,0.0,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,21:30,53.9,53.6,99.0,0.0,0,N ,0.0,0.0,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,21:45,53.6,53.3,99.0,0.0,0,N ,0.0,0.0,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,22:00,52.3,52.0,98.9,0.0,0,N ,0.0,0.0,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,22:15,52.3,52.0,99.0,0.0,0,S,0.0,1.4,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,22:30,52.4,52.1,99.1,0.0,0,N ,0.0,0.0,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,22:45,51.6,51.3,99.0,0.0,0,E,0.0,1.4,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-29,23:00,51.4,51.1,99.1,0.0,0,E,0.0,1.4,0.94,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,23:15,51.3,51.1,99.2,0.0,0,N ,0.0,0.0,0.93,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,23:30,51.1,50.8,99.2,0.0,0,N ,0.0,0.0,0.93,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,23:45,50.4,50.2,99.2,0.0,0,N ,0.0,0.0,0.93,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,24:00,50.3,50.1,99.2,0.0,0,N ,0.0,0.0,0.93,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,00:15,50.4,50.3,99.3,0.0,0,N ,0.0,0.0,0.92,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,00:30,50.8,50.6,99.3,0.0,0,SW,0.1,1.4,0.92,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,00:45,49.6,49.4,99.2,0.0,0,S,0.2,1.7,0.92,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,01:00,49.1,48.9,99.3,0.0,0,N ,0.0,0.0,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,01:15,49.6,49.5,99.4,0.0,0,N ,0.0,0.0,0.92,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,01:30,50.1,49.9,99.4,0.0,0,N ,0.0,0.0,0.92,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,01:45,51.3,51.2,99.5,0.0,0,N ,0.0,0.0,0.92,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,02:00,51.4,51.3,99.4,0.0,0,N ,0.0,0.0,0.92,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,02:15,50.6,50.5,99.4,0.0,0,S,0.1,2.4,0.91,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,02:30,50.4,50.2,99.4,0.0,0,S,0.1,1.7,0.91,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,02:45,50.3,50.1,99.4,0.0,0,S,0.0,1.4,0.92,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,03:00,50.5,50.4,99.5,0.0,0,N ,0.0,0.0,0.92,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,03:15,50.4,50.2,99.4,0.0,0,SE,0.0,1.7,0.92,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,03:30,51.0,50.9,99.5,0.0,0,SE,0.0,1.4,0.92,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,03:45,51.5,51.4,99.5,0.0,0,E,0.0,1.4,0.92,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,04:00,51.6,51.5,99.5,0.0,0,N ,0.0,0.0,0.92,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,04:15,51.5,51.3,99.5,0.0,0,E,0.1,1.7,0.92,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,04:30,51.1,50.9,99.5,0.0,0,E,0.0,1.7,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,04:45,51.1,51.0,99.5,0.0,0,E,0.1,2.4,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,05:00,51.0,50.9,99.5,0.0,0,N ,0.0,0.0,0.9,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,05:15,51.2,51.0,99.5,0.01,0,N ,0.0,0.0,0.9,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,05:30,51.3,51.2,99.5,0.0,0,N ,0.0,0.0,0.89,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,05:45,51.3,51.2,99.5,0.0,0,SE,0.1,1.7,0.89,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,06:00,50.7,50.6,99.5,0.0,1,SE,0.3,1.7,0.88,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,06:15,51.0,50.9,99.6,0.0,2,SE,0.6,2.4,0.89,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,06:30,50.8,50.7,99.5,0.0,8,SE,0.2,1.7,0.88,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,06:45,50.7,50.6,99.5,0.0,18,N ,0.0,0.0,0.88,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,07:00,50.8,50.6,99.5,0.0,31,E,0.0,1.7,0.88,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,07:15,50.9,50.8,99.5,0.0,44,E,0.3,2.1,0.88,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,07:30,51.0,50.9,99.5,0.0,59,NE,0.1,1.7,0.89,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,07:45,51.2,51.1,99.5,0.0,78,N ,0.0,0.0,0.89,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,08:00,51.4,51.2,99.5,0.0,99,N,0.0,1.4,0.88,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,08:15,51.9,51.8,99.4,0.0,127,N,0.0,1.7,0.87,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,08:30,52.5,52.4,99.4,0.0,148,SE,0.0,1.4,0.87,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,08:45,53.1,52.9,99.3,0.0,177,S,0.5,3.1,0.87,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,09:00,53.1,52.9,99.2,0.0,223,SE,1.4,3.1,0.87,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,09:15,53.3,53.1,99.2,0.0,209,SE,0.5,2.8,0.88,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,09:30,54.5,54.3,99.2,0.0,233,SE,0.0,1.4,0.86,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,09:45,55.0,54.8,99.0,0.0,292,NW,0.0,1.4,0.79,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,10:00,56.3,56.0,98.9,0.0,340,E,0.1,1.7,0.61,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,10:15,57.1,56.8,98.7,0.0,347,NE,0.0,1.4,0.23,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,10:30,58.2,57.7,97.9,0.0,367,E,0.2,2.1,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,10:45,59.1,58.0,96.0,0.0,377,E,0.3,2.1,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,11:00,60.4,58.5,93.4,0.0,403,E,0.2,2.8,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,11:15,61.6,59.1,91.6,0.0,411,E,0.5,3.5,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,11:30,63.1,59.8,88.9,0.0,425,E,1.0,3.5,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,11:45,64.6,60.6,86.7,0.0,439,SE,0.4,3.1,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,12:00,66.2,61.2,83.8,0.0,472,E,0.2,2.4,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,12:15,67.8,61.0,78.6,0.0,474,NW,0.1,2.1,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,12:30,69.2,61.6,76.6,0.0,480,SW,0.1,2.1,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,12:45,70.7,61.2,71.9,0.0,491,NW,0.1,1.7,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,13:00,72.1,61.0,68.0,0.0,526,N ,0.0,0.0,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,13:15,73.4,61.0,65.1,0.0,491,NW,0.3,3.1,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,13:30,73.5,61.3,65.7,0.0,432,W,1.1,4.2,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,13:45,73.4,62.4,68.4,0.0,412,W,3.3,5.7,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,14:00,73.6,61.8,66.5,0.0,427,NW,2.6,4.9,0.0,58.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,14:15,74.3,61.7,64.9,0.0,391,W,2.4,4.9,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,14:30,74.0,61.3,64.4,0.0,389,NW,4.4,5.7,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,14:45,74.0,61.4,64.7,0.0,361,NW,5.1,7.1,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,15:00,73.8,60.7,63.4,0.0,341,NW,4.5,6.7,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,15:15,74.1,60.6,62.7,0.0,305,NW,3.4,4.6,0.0,58.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,15:30,74.0,60.8,63.3,0.0,248,W,3.0,4.9,0.0,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,15:45,73.5,61.5,66.1,0.0,211,NW,4.7,7.1,0.0,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,16:00,72.7,61.7,68.3,0.0,189,NW,5.6,8.9,0.0,59.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,16:15,72.0,61.4,69.2,0.0,162,NW,4.4,6.0,0.0,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,16:30,71.1,62.0,72.9,0.0,130,NW,4.5,6.7,0.0,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,16:45,70.5,61.3,72.6,0.0,106,NW,3.7,5.7,0.0,59.1,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,17:00,69.2,62.0,77.9,0.0,66,NW,1.5,3.1,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,17:15,67.1,60.7,79.9,0.0,39,W,2.8,3.9,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,17:30,64.3,59.8,85.3,0.0,24,SW,3.4,4.6,0.02,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,17:45,63.2,60.1,89.5,0.0,8,SW,0.4,3.1,0.18,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,18:00,62.9,60.4,91.5,0.0,2,N ,0.0,0.0,0.52,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,18:15,63.4,60.2,89.2,0.0,0,N ,0.0,0.0,0.67,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,18:30,60.0,58.5,94.9,0.0,0,W,0.4,2.4,0.8,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,18:45,59.1,58.2,96.9,0.0,0,N ,0.0,0.0,0.86,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,19:00,58.6,57.8,97.1,0.0,0,N ,0.0,0.0,0.88,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,19:15,58.1,57.4,97.4,0.0,0,N ,0.0,0.0,0.89,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,19:30,58.3,57.8,98.3,0.0,0,N ,0.0,0.0,0.9,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,19:45,58.2,57.7,98.1,0.0,0,N ,0.0,0.0,0.91,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,20:00,58.2,57.8,98.2,0.0,0,N ,0.0,0.0,0.92,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,20:15,58.1,57.6,98.1,0.0,0,N ,0.0,0.0,0.92,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,20:30,56.3,55.6,97.4,0.0,0,N ,0.0,0.0,0.92,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,20:45,54.5,53.8,97.4,0.0,0,N ,0.0,0.0,0.92,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,21:00,54.1,53.7,98.4,0.0,0,N ,0.0,0.0,0.93,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,21:15,53.9,53.6,98.8,0.0,0,N ,0.0,0.0,0.93,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,21:30,54.4,54.1,99.0,0.0,0,N ,0.0,0.0,0.93,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,21:45,53.3,53.0,98.9,0.0,0,N ,0.0,0.0,0.93,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,22:00,53.9,53.7,99.2,0.0,0,N ,0.0,0.0,0.93,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,22:15,53.8,53.5,99.1,0.0,0,N ,0.0,0.0,0.93,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,22:30,52.2,51.9,99.0,0.0,0,N ,0.0,0.0,0.92,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,22:45,51.4,51.1,99.1,0.0,0,N ,0.0,0.0,0.92,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-09-30,23:00,50.9,50.7,99.1,0.0,0,N ,0.0,0.0,0.92,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,23:15,51.3,51.1,99.2,0.0,0,N ,0.0,0.0,0.91,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,23:30,51.3,51.1,99.3,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,23:45,51.4,51.2,99.3,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,24:00,50.6,50.4,99.2,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,00:15,50.3,50.2,99.3,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,00:30,50.7,50.6,99.4,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,00:45,50.7,50.5,99.4,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,01:00,50.4,50.3,99.4,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,01:15,50.5,50.4,99.4,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,01:30,50.8,50.7,99.4,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,01:45,50.7,50.5,99.4,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,02:00,51.2,51.1,99.5,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,02:15,51.5,51.4,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,02:30,51.8,51.6,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,02:45,51.9,51.7,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,03:00,51.2,51.1,99.4,0.0,0,N ,0.0,0.0,0.89,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,03:15,50.5,50.4,99.4,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,03:30,50.6,50.5,99.5,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,03:45,50.7,50.6,99.5,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,04:00,51.1,51.0,99.5,0.0,0,N ,0.0,0.0,0.91,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,04:15,51.7,51.6,99.5,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,04:30,52.4,52.3,99.6,0.0,0,N ,0.0,0.0,0.9,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,04:45,52.6,52.5,99.6,0.0,0,N ,0.0,0.0,0.9,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,05:00,52.9,52.8,99.6,0.0,0,N ,0.0,0.0,0.9,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,05:15,53.3,53.2,99.6,0.0,0,N ,0.0,0.0,0.9,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,05:30,53.5,53.4,99.6,0.0,0,N ,0.0,0.0,0.91,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,05:45,53.8,53.7,99.6,0.0,0,NW,0.3,2.8,0.91,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,06:00,54.5,54.5,99.6,0.0,0,NW,0.6,3.5,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,06:15,55.0,54.9,99.6,0.0,2,N,1.3,3.1,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,06:30,55.1,55.0,99.6,0.0,3,N,0.8,3.5,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,06:45,55.0,54.9,99.6,0.0,9,N,0.3,2.8,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,07:00,55.0,54.9,99.6,0.0,20,NW,0.1,1.7,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,07:15,54.9,54.8,99.6,0.0,31,NW,0.8,3.1,0.91,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,07:30,54.8,54.7,99.6,0.0,39,NW,0.4,2.4,0.9,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,07:45,54.8,54.7,99.6,0.0,42,W,0.4,2.4,0.91,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,08:00,54.7,54.6,99.6,0.0,56,NW,1.7,3.1,0.91,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,08:15,54.7,54.6,99.6,0.0,66,W,1.3,2.4,0.91,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,08:30,54.7,54.6,99.5,0.0,77,NW,1.6,3.1,0.9,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,08:45,54.6,54.5,99.5,0.0,108,NW,0.4,2.1,0.89,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,09:00,54.9,54.8,99.5,0.0,103,NW,0.4,3.5,0.9,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,09:15,55.0,54.9,99.5,0.0,105,NW,0.4,3.9,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,09:30,55.5,55.3,99.5,0.0,133,W,0.2,2.8,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,09:45,55.7,55.6,99.4,0.0,161,NW,0.1,1.7,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,10:00,55.8,55.6,99.4,0.0,148,NW,0.3,2.4,0.9,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,10:15,56.0,55.9,99.4,0.0,158,NW,1.0,3.9,0.88,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,10:30,56.2,56.0,99.4,0.0,185,W,0.3,3.9,0.81,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,10:45,56.5,56.4,99.4,0.0,157,N ,0.0,0.0,0.63,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,11:00,56.7,56.5,99.3,0.0,189,N,0.5,2.4,0.27,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,11:15,56.7,56.5,99.2,0.0,209,S,0.0,1.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,11:30,57.9,57.7,99.2,0.0,221,NW,0.2,2.1,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,11:45,58.4,58.2,99.0,0.0,313,SW,0.1,1.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,12:00,58.5,58.1,98.4,0.0,334,W,0.1,2.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,12:15,59.8,59.0,97.0,0.0,466,W,1.2,5.7,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,12:30,61.2,59.6,94.3,0.0,578,W,1.9,4.9,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,12:45,63.1,60.2,90.2,0.0,587,W,2.9,6.7,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,13:00,64.8,60.0,84.3,0.0,562,W,2.2,5.3,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,13:15,66.0,59.4,79.2,0.0,593,NW,4.9,7.4,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,13:30,67.5,60.1,77.1,0.0,588,NW,6.3,11.0,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,13:45,67.4,59.4,75.6,0.0,508,NW,7.6,9.9,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,14:00,66.8,59.1,76.0,0.0,474,NW,7.3,9.9,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,14:15,66.6,59.1,76.6,0.0,436,NW,6.7,9.2,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,14:30,66.7,59.3,76.9,0.0,394,NW,7.4,9.2,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,14:45,66.5,59.6,78.2,0.0,370,NW,7.6,9.9,0.0,59.2,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,15:00,66.9,59.6,77.4,0.0,405,NW,6.8,8.5,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,15:15,66.8,59.2,76.6,0.0,333,NW,6.1,8.5,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,15:30,67.0,59.6,77.2,0.0,346,NW,5.6,7.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,15:45,66.9,59.9,77.9,0.0,253,NW,6.5,8.5,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,16:00,66.6,59.2,77.1,0.0,229,NW,7.2,9.2,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,16:15,66.2,58.5,76.3,0.0,210,NW,6.3,8.5,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,16:30,65.6,58.2,76.9,0.0,145,NW,6.3,8.2,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,16:45,64.9,58.0,78.1,0.0,93,NW,5.8,7.1,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,17:00,64.4,58.2,80.3,0.0,75,NW,5.1,6.7,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,17:15,64.0,58.0,80.9,0.0,57,NW,4.4,6.0,0.0,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,17:30,63.2,57.9,82.7,0.0,33,NW,3.3,4.6,0.0,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,17:45,62.2,57.8,85.4,0.0,16,NW,0.6,3.1,0.02,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,18:00,60.7,57.2,88.3,0.0,7,N ,0.0,0.0,0.15,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,18:15,59.8,57.0,90.5,0.0,1,N ,0.0,0.0,0.29,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,18:30,58.6,56.9,94.0,0.0,0,N ,0.0,0.0,0.59,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,18:45,58.4,57.1,95.3,0.0,0,N ,0.0,0.0,0.75,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,19:00,57.8,56.5,95.3,0.0,0,N ,0.0,0.0,0.81,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,19:15,56.5,55.6,96.5,0.0,0,N ,0.0,0.0,0.84,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,19:30,56.2,55.5,97.3,0.0,0,N ,0.0,0.0,0.86,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,19:45,56.2,55.5,97.5,0.0,0,N ,0.0,0.0,0.88,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,20:00,55.5,54.7,97.1,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,20:15,54.8,54.2,97.7,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,20:30,54.5,54.0,98.3,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,20:45,54.2,53.8,98.4,0.0,0,N ,0.0,0.0,0.91,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,21:00,52.5,52.0,98.3,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,21:15,53.1,52.8,98.8,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,21:30,53.3,53.0,99.0,0.0,0,N ,0.0,0.0,0.92,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,21:45,52.4,52.1,98.9,0.0,0,N ,0.0,0.0,0.92,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,22:00,52.1,51.9,99.0,0.0,0,N ,0.0,0.0,0.92,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,22:15,51.9,51.6,99.0,0.0,0,N ,0.0,0.0,0.93,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,22:30,50.6,50.3,99.0,0.0,0,N ,0.0,0.0,0.93,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,22:45,50.4,50.1,99.1,0.0,0,N ,0.0,0.0,0.93,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-01,23:00,50.3,50.1,99.2,0.0,0,N ,0.0,0.0,0.92,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,23:15,50.7,50.5,99.3,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,23:30,50.7,50.6,99.3,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,23:45,50.3,50.1,99.3,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,24:00,50.8,50.6,99.4,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,00:15,51.3,51.2,99.4,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,00:30,51.1,50.9,99.4,0.0,0,N ,0.0,0.0,0.9,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,00:45,50.2,50.0,99.4,0.0,0,N ,0.0,0.0,0.9,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,01:00,50.8,50.7,99.5,0.0,0,N ,0.0,0.0,0.89,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,01:15,50.8,50.7,99.4,0.0,0,N ,0.0,0.0,0.9,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,01:30,51.0,50.8,99.4,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,01:45,51.5,51.4,99.5,0.0,0,N ,0.0,0.0,0.91,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,02:00,51.9,51.8,99.5,0.01,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,02:15,52.0,51.9,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,02:30,52.0,51.9,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,02:45,52.0,51.9,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,03:00,52.2,52.0,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,03:15,52.3,52.2,99.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,03:30,52.3,52.2,99.5,0.0,0,N ,0.0,0.0,0.89,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,03:45,52.5,52.4,99.5,0.0,0,N ,0.0,0.0,0.89,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,04:00,52.7,52.6,99.6,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,04:15,52.9,52.8,99.6,0.0,0,N ,0.0,0.0,0.91,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,04:30,53.1,53.0,99.6,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,04:45,53.3,53.2,99.6,0.0,0,N ,0.0,0.0,0.9,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,05:00,53.4,53.3,99.6,0.0,0,N ,0.0,0.0,0.89,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,05:15,53.5,53.4,99.6,0.0,0,N ,0.0,0.0,0.89,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,05:30,53.6,53.5,99.6,0.0,0,N ,0.0,0.0,0.89,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,05:45,53.7,53.6,99.6,0.0,0,N ,0.0,0.0,0.88,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,06:00,53.7,53.6,99.6,0.0,1,N ,0.0,0.0,0.88,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,06:15,53.8,53.7,99.6,0.0,2,N ,0.0,0.0,0.88,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,06:30,53.8,53.7,99.6,0.0,7,N ,0.0,0.0,0.88,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,06:45,53.9,53.8,99.6,0.0,15,N,0.1,1.7,0.87,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,07:00,53.9,53.9,99.6,0.0,23,N ,0.0,0.0,0.87,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,07:15,54.1,54.0,99.6,0.0,29,W,0.0,1.4,0.89,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,07:30,54.0,53.9,99.6,0.0,39,NW,0.9,3.1,0.88,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,07:45,54.1,54.0,99.6,0.0,51,NW,0.7,2.8,0.88,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,08:00,54.0,53.9,99.6,0.0,62,NW,0.2,2.1,0.87,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,08:15,54.1,54.0,99.6,0.0,76,W,0.1,1.7,0.87,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,08:30,54.4,54.3,99.6,0.0,85,W,0.9,3.1,0.87,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,08:45,54.3,54.2,99.5,0.0,102,N,0.1,2.1,0.88,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,09:00,54.5,54.4,99.5,0.0,111,SE,0.0,1.4,0.88,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,09:15,54.9,54.8,99.5,0.0,111,NW,0.2,2.4,0.89,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,09:30,54.8,54.7,99.5,0.0,124,W,0.1,2.1,0.89,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,09:45,55.0,54.9,99.5,0.0,143,W,0.1,1.7,0.89,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,10:00,55.6,55.5,99.4,0.0,150,W,0.6,3.1,0.89,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,10:15,55.5,55.3,99.4,0.0,162,NW,0.5,2.8,0.86,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,10:30,55.5,55.4,99.3,0.0,213,W,0.9,2.8,0.77,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,10:45,56.3,56.2,99.3,0.0,241,NW,0.4,2.4,0.45,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,11:00,56.7,56.5,99.3,0.0,227,NW,0.4,2.4,0.02,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,11:15,57.4,57.3,99.3,0.0,236,NW,0.5,3.1,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,11:30,57.7,57.5,99.1,0.0,264,W,0.1,2.1,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,11:45,58.5,58.2,98.9,0.0,376,W,0.1,2.1,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,12:00,59.2,58.6,97.7,0.0,449,N ,0.1,2.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,12:15,61.1,59.7,94.9,0.01,587,NW,0.7,3.1,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,12:30,62.9,59.9,89.9,0.0,580,W,0.8,3.5,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,12:45,64.7,60.2,85.1,0.0,574,NW,0.6,3.5,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,13:00,66.6,60.7,81.3,0.0,564,NW,0.7,4.2,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,13:15,68.0,60.2,76.0,0.0,553,NW,3.4,6.7,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,13:30,68.8,59.5,72.3,0.0,535,NW,4.1,6.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,13:45,69.2,58.8,69.3,0.0,519,NW,3.9,6.0,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,14:00,70.1,59.1,68.1,0.0,498,NW,3.4,5.7,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,14:15,70.8,58.8,65.9,0.0,476,NW,3.1,6.0,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,14:30,71.5,58.6,63.8,0.0,451,NW,2.9,5.7,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,14:45,71.7,58.7,63.5,0.0,422,NW,3.7,6.0,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,15:00,71.7,58.1,62.1,0.0,391,NW,4.6,7.4,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,15:15,71.5,58.8,64.1,0.0,359,NW,6.3,8.2,0.0,59.3,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,15:30,71.0,59.6,67.3,0.0,324,NW,6.5,8.5,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,15:45,70.7,59.5,67.6,0.0,288,NW,5.5,8.2,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,16:00,70.6,59.4,67.5,0.0,250,NW,5.5,7.4,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,16:15,70.1,59.2,68.4,0.0,213,NW,5.3,6.7,0.0,59.4,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,16:30,69.7,59.2,69.4,0.0,175,NW,4.8,6.7,0.0,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,16:45,68.8,58.5,69.5,0.0,136,NW,4.9,7.1,0.0,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,17:00,68.0,58.5,71.7,0.0,99,NW,3.5,5.3,0.0,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,17:15,66.9,58.4,73.9,0.0,63,NW,2.7,4.6,0.0,59.5,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,17:30,64.0,57.7,80.1,0.0,29,W,2.7,4.2,0.0,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,17:45,61.6,57.7,86.8,0.0,9,SW,2.7,3.5,0.05,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,18:00,59.9,57.6,92.1,0.0,3,SW,0.2,2.8,0.31,59.6,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,18:15,60.0,57.8,92.3,0.0,1,N ,0.0,0.0,0.65,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,18:30,58.9,57.1,93.7,0.0,0,N ,0.0,0.0,0.79,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,18:45,58.2,57.0,95.7,0.0,0,N ,0.0,0.0,0.84,59.7,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,19:00,59.0,57.5,94.6,0.0,0,N ,0.0,0.0,0.87,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,19:15,57.8,56.5,95.1,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,19:30,57.0,56.1,96.7,0.0,0,N ,0.0,0.0,0.89,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,19:45,56.7,56.0,97.5,0.0,0,N ,0.0,0.0,0.9,59.8,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,20:00,55.8,55.2,97.7,0.0,0,N ,0.0,0.0,0.9,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,20:15,55.2,54.7,98.0,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,20:30,54.9,54.4,98.3,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,20:45,54.5,54.1,98.6,0.0,0,N ,0.0,0.0,0.91,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,21:00,54.4,54.1,98.7,0.0,0,N ,0.0,0.0,0.92,59.9,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,21:15,53.6,53.3,98.7,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,21:30,52.4,52.1,98.7,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,21:45,51.7,51.4,98.8,0.0,0,N ,0.0,0.0,0.93,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,22:00,50.5,50.2,98.7,0.0,0,N ,0.0,0.0,0.93,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,22:15,51.0,50.8,99.0,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,22:30,50.6,50.3,99.0,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,22:45,50.2,49.9,99.1,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-02,23:00,50.7,50.5,99.2,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-03,23:15,51.3,51.1,99.3,0.0,0,N ,0.0,0.0,0.92,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-03,23:30,50.4,50.2,99.2,0.0,0,N ,0.0,0.0,0.91,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-03,23:45,49.8,49.6,99.2,0.0,0,N ,0.0,0.0,0.91,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025
+2020-10-03,24:00,49.9,49.7,99.3,0.0,0,N ,0.0,0.0,0.91,60.0,"Snohomish, Snohomish, Snohomish County",330162,Snohomish,2020-12-14 00:43:44.340025

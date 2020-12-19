@@ -1,53 +1,673 @@
-Date,Time PDT,Air Temp °F, Dew Point °F, Rel Hum %, Tot Prec in, Wind Dir @ Speed mph, Wind Gust mph, Leaf Wet u., Solar Rad W/m², 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
-2020-05-03,00:15,47.5,42.9,83.9,0.0,S@0.6,3.5,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,00:30,47.5,42.9,83.8,0.0,S@0.9,4.6,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,00:45,46.9,42.5,84.5,0.0,S@0.2,3.9,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,01:00,46.0,42.2,86.2,0.0,N @0.0,0.0,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,01:15,45.3,42.0,88.0,0.0,N @0.0,0.0,0.01,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,01:30,45.3,42.3,89.4,0.0,S@0.3,3.1,0.01,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,01:45,46.0,42.5,87.6,0.0,S@2.1,6.0,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,02:00,46.2,42.4,86.4,0.0,S@0.5,4.6,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,02:15,46.5,42.5,85.8,0.0,SE@0.5,4.2,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,02:30,46.5,42.2,84.6,0.0,S@0.8,4.9,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,02:45,46.0,41.8,85.2,0.0,S@0.4,4.6,0.0,0,53.6,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,03:00,45.7,41.8,86.1,0.0,SE@0.7,3.9,0.01,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,03:15,45.8,41.9,86.1,0.0,SE@0.6,3.9,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,03:30,46.1,42.1,85.9,0.0,S@3.4,8.2,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,03:45,45.9,41.8,85.3,0.0,S@2.8,6.7,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,04:00,45.9,41.6,84.8,0.0,S@2.3,5.3,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,04:15,45.8,41.3,84.3,0.0,S@1.7,10.7,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,04:30,44.9,40.8,85.4,0.0,S@1.8,6.0,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,04:45,44.2,40.3,86.1,0.0,S@2.8,8.5,0.0,0,53.5,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,05:00,44.4,39.9,83.9,0.0,S@4.1,8.9,0.0,0,53.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,05:15,44.5,39.5,82.4,0.0,S@3.6,8.5,0.0,0,53.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,05:30,44.0,39.4,83.8,0.0,SE@1.1,6.0,0.0,0,53.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,05:45,44.5,40.0,84.1,0.0,S@1.1,4.6,0.0,1,53.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,06:00,45.0,40.3,83.4,0.0,S@2.3,7.1,0.0,4,53.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,06:15,45.4,40.2,81.9,0.0,S@2.8,7.1,0.0,19,53.4,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,06:30,45.4,40.2,81.8,0.0,S@3.6,8.5,0.0,30,53.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,06:45,45.6,40.8,83.2,0.0,S@2.4,6.4,0.0,62,53.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,07:00,45.8,41.3,84.0,0.0,S@2.5,7.1,0.01,62,53.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,07:15,45.8,41.1,83.4,0.0,S@4.6,8.9,0.0,77,53.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,07:30,45.8,41.1,83.3,0.0,S@3.8,7.8,0.0,74,53.3,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,07:45,45.6,40.8,83.2,0.0,S@3.9,8.2,0.0,75,53.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,08:00,46.1,40.9,81.9,0.0,S@3.2,8.2,0.0,153,53.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,08:15,46.8,41.1,80.6,0.0,S@3.1,6.0,0.0,210,53.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,08:30,47.6,41.1,78.3,0.0,S@4.4,9.6,0.0,255,53.2,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,08:45,48.4,41.0,75.4,0.0,S@5.7,13.5,0.0,339,53.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,09:00,48.1,40.7,75.5,0.0,S@5.4,10.3,0.0,275,53.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,09:15,48.2,40.7,75.2,0.0,S@5.2,9.6,0.0,255,53.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,09:30,48.5,41.1,75.3,0.0,S@4.4,8.9,0.0,278,53.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,09:45,49.5,41.6,74.1,0.0,S@4.1,9.6,0.0,356,53.1,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,10:00,50.0,41.6,72.5,0.0,S@6.4,10.7,0.0,526,53.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,10:15,50.8,41.7,70.9,0.0,S@6.2,11.7,0.0,629,53.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,10:30,52.0,42.2,69.2,0.0,S@6.2,14.6,0.0,761,53.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,10:45,50.6,41.3,70.3,0.0,S@5.9,12.8,0.0,266,53.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,11:00,51.1,41.1,68.6,0.0,S@5.3,11.0,0.0,371,53.0,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,11:15,51.8,40.6,65.6,0.0,S@5.8,11.7,0.0,560,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,11:30,52.5,41.0,64.8,0.0,S@5.5,10.7,0.0,566,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,11:45,54.6,41.6,61.4,0.0,S@5.4,13.5,0.0,660,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,12:00,53.0,39.6,60.1,0.0,S@5.3,11.4,0.0,344,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,12:15,52.9,38.9,58.7,0.0,S@6.1,14.2,0.0,395,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,12:30,55.1,40.2,57.1,0.0,S@6.3,11.4,0.0,812,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,12:45,55.4,40.3,56.7,0.0,S@4.8,11.4,0.0,548,52.9,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
-2020-05-03,13:00,55.7,40.0,55.4,0.0,S@5.2,11.0,0.0,696,52.8,"Woodinvill (21 Acres), Woodinville, King County",330026,Woodinvill,2020-05-03 13:08:19.966223
+Date,Time PST,1.5m Air Temp °F, 1.5m Dew Point °F, 1.5m Rel Hum %, Tot Prec in, Solar Rad W/m², Atm. 2m Press. inHg, Wind Direction, Wind Speed mph, 2m Wind Gust mph, 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, 2 in. SWP kPa, 8 in. SWP kPa,Location,Station ID,Station Name,Download Timestamp
+2020-05-03,00:15,45.3,42.0,88.0,0.0,0,,N ,0.0,0.0,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,00:30,45.3,42.3,89.4,0.0,0,,S,0.3,3.1,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,00:45,46.0,42.5,87.6,0.0,0,,S,2.1,6.0,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,01:00,46.2,42.4,86.4,0.0,0,,S,0.5,4.6,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,01:15,46.5,42.5,85.8,0.0,0,,SE,0.5,4.2,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,01:30,46.5,42.2,84.6,0.0,0,,S,0.8,4.9,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,01:45,46.0,41.8,85.2,0.0,0,,S,0.4,4.6,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,02:00,45.7,41.8,86.1,0.0,0,,SE,0.7,3.9,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,02:15,45.8,41.9,86.1,0.0,0,,SE,0.6,3.9,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,02:30,46.1,42.1,85.9,0.0,0,,S,3.4,8.2,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,02:45,45.9,41.8,85.3,0.0,0,,S,2.8,6.7,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,03:00,45.9,41.6,84.8,0.0,0,,S,2.3,5.3,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,03:15,45.8,41.3,84.3,0.0,0,,S,1.7,10.7,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,03:30,44.9,40.8,85.4,0.0,0,,S,1.8,6.0,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,03:45,44.2,40.3,86.1,0.0,0,,S,2.8,8.5,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,04:00,44.4,39.9,83.9,0.0,0,,S,4.1,8.9,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,04:15,44.5,39.5,82.4,0.0,0,,S,3.6,8.5,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,04:30,44.0,39.4,83.8,0.0,0,,SE,1.1,6.0,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,04:45,44.5,40.0,84.1,0.0,1,,S,1.1,4.6,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,05:00,45.0,40.3,83.4,0.0,4,,S,2.3,7.1,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,05:15,45.4,40.2,81.9,0.0,19,,S,2.8,7.1,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,05:30,45.4,40.2,81.8,0.0,30,,S,3.6,8.5,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,05:45,45.6,40.8,83.2,0.0,62,,S,2.4,6.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,06:00,45.8,41.3,84.0,0.0,62,,S,2.5,7.1,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,06:15,45.8,41.1,83.4,0.0,77,,S,4.6,8.9,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,06:30,45.8,41.1,83.3,0.0,74,,S,3.8,7.8,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,06:45,45.6,40.8,83.2,0.0,75,,S,3.9,8.2,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,07:00,46.1,40.9,81.9,0.0,153,,S,3.2,8.2,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,07:15,46.8,41.1,80.6,0.0,210,,S,3.1,6.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,07:30,47.6,41.1,78.3,0.0,255,,S,4.4,9.6,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,07:45,48.4,41.0,75.4,0.0,339,,S,5.7,13.5,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,08:00,48.1,40.7,75.5,0.0,275,,S,5.4,10.3,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,08:15,48.2,40.7,75.2,0.0,255,,S,5.2,9.6,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,08:30,48.5,41.1,75.3,0.0,278,,S,4.4,8.9,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,08:45,49.5,41.6,74.1,0.0,356,,S,4.1,9.6,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,09:00,50.0,41.6,72.5,0.0,526,,S,6.4,10.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,09:15,50.8,41.7,70.9,0.0,629,,S,6.2,11.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,09:30,52.0,42.2,69.2,0.0,761,,S,6.2,14.6,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,09:45,50.6,41.3,70.3,0.0,266,,S,5.9,12.8,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,10:00,51.1,41.1,68.6,0.0,371,,S,5.3,11.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,10:15,51.8,40.6,65.6,0.0,560,,S,5.8,11.7,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,10:30,52.5,41.0,64.8,0.0,566,,S,5.5,10.7,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,10:45,54.6,41.6,61.4,0.0,660,,S,5.4,13.5,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,11:00,53.0,39.6,60.1,0.0,344,,S,5.3,11.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,11:15,52.9,38.9,58.7,0.0,395,,S,6.1,14.2,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,11:30,55.1,40.2,57.1,0.0,812,,S,6.3,11.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,11:45,55.4,40.3,56.7,0.0,548,,S,4.8,11.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,12:00,55.7,40.0,55.4,0.0,696,,S,5.2,11.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,12:15,56.7,39.6,52.6,0.0,762,,S,5.6,13.5,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,12:30,57.3,39.1,50.5,0.0,858,,SW,6.5,14.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,12:45,56.5,39.0,51.7,0.0,709,,S,6.7,18.9,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,13:00,56.8,41.2,55.8,0.0,896,,SW,7.2,13.5,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,13:15,57.6,39.3,50.3,0.0,861,,S,6.9,16.4,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,13:30,56.8,36.4,46.3,0.0,844,,S,7.4,14.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,13:45,57.1,36.7,46.4,0.0,841,,S,7.6,16.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,14:00,57.2,36.8,46.2,0.0,833,,SW,7.4,14.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,14:15,57.7,37.5,46.6,0.0,840,,S,7.0,14.6,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,14:30,58.2,37.9,46.7,0.0,738,,S,6.1,13.9,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,14:45,56.6,38.0,49.5,0.0,380,,S,6.1,11.7,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,15:00,55.8,37.5,50.2,0.0,231,,SW,4.8,9.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,15:15,58.0,39.4,49.9,0.0,751,,SW,6.4,15.3,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,15:30,58.1,39.9,50.7,0.0,629,,S,5.7,13.5,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,15:45,58.8,40.0,49.6,0.0,681,,SW,5.0,9.6,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,16:00,58.5,38.9,48.0,0.0,566,,S,4.0,8.5,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,16:15,59.0,37.7,45.1,0.0,532,,SW,4.4,12.8,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,16:30,58.4,36.9,44.5,0.0,479,,SW,4.5,8.9,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,16:45,57.4,36.9,46.2,0.0,331,,S,4.9,10.7,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,17:00,55.7,36.5,48.3,0.0,124,,S,4.4,8.9,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,17:15,55.6,37.5,50.5,0.0,125,,S,3.9,9.2,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,17:30,55.6,38.4,52.3,0.0,148,,S,4.6,8.5,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,17:45,55.0,39.2,55.2,0.0,99,,SW,4.6,9.2,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,18:00,55.1,39.7,56.1,0.0,171,,W,3.0,5.3,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,18:15,55.4,39.7,55.3,0.0,174,,SW,3.3,5.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,18:30,54.3,39.6,57.3,0.0,68,,W,1.9,5.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,18:45,53.8,39.7,58.6,0.0,37,,SW,2.0,4.6,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,19:00,53.1,38.3,57.1,0.0,24,,W,2.4,5.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,19:15,52.2,38.7,59.8,0.0,10,,SW,0.6,3.1,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,19:30,51.2,39.2,63.2,0.0,4,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,19:45,50.0,41.6,72.7,0.0,1,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,20:00,48.6,42.2,78.5,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,20:15,47.4,41.9,81.1,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,20:30,46.6,42.1,84.2,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,20:45,45.7,41.8,86.2,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,21:00,44.4,41.1,87.8,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,21:15,44.0,41.2,90.1,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,21:30,44.7,41.5,88.7,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,21:45,43.6,41.2,91.1,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,22:00,42.8,40.7,92.1,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,22:15,42.5,40.8,93.3,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,22:30,41.6,39.9,93.7,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,22:45,41.2,39.8,94.6,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-03,23:00,40.7,39.4,95.1,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,23:15,40.4,39.3,95.6,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,23:30,40.1,39.1,96.0,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,23:45,39.7,38.8,96.5,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,24:00,39.4,38.5,96.8,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,00:15,39.0,38.3,97.0,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,00:30,38.6,37.9,97.2,0.0,0,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,00:45,38.5,37.9,97.3,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,01:00,38.2,37.6,97.5,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,01:15,38.0,37.4,97.6,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,01:30,37.5,37.0,97.8,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,01:45,37.7,37.2,97.9,0.0,0,,N ,0.0,0.0,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,02:00,37.4,36.9,98.0,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,02:15,36.9,36.4,98.1,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,02:30,37.0,36.6,98.2,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,02:45,37.1,36.7,98.3,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,03:00,36.6,36.1,98.3,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,03:15,36.6,36.2,98.4,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,03:30,35.9,35.5,98.4,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,03:45,36.0,35.7,98.5,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,04:00,36.4,36.1,98.6,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,04:15,35.9,35.6,98.6,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,04:30,36.0,35.7,98.7,0.0,0,,NE,0.0,1.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,04:45,35.3,34.9,98.7,0.0,3,,N ,0.0,0.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,05:00,35.1,34.7,98.7,0.0,9,,N ,0.0,0.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,05:15,35.7,35.4,98.8,0.0,17,,N ,0.0,0.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,05:30,36.2,35.9,98.8,0.0,22,,N ,0.0,0.0,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,05:45,36.6,36.3,98.9,0.0,35,,N ,0.0,0.0,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,06:00,38.0,37.7,98.7,0.0,146,,N ,0.0,0.0,,52.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,06:15,39.8,39.4,98.5,0.0,197,,N ,0.0,0.0,,52.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,06:30,41.7,41.2,98.0,0.0,239,,N,0.2,2.8,,52.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,06:45,43.0,42.1,96.5,0.0,277,,E,1.2,3.1,,52.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,07:00,44.6,42.6,92.3,0.0,317,,E,0.9,2.4,,52.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,07:15,46.8,42.7,85.4,0.0,360,,N ,0.9,2.8,,52.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,07:30,48.4,41.3,76.3,0.0,406,,NW,1.6,3.9,,52.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,07:45,49.4,41.3,73.2,0.0,443,,NW,2.0,3.9,,52.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,08:00,50.8,41.2,69.4,0.0,503,,SW,2.1,3.9,,52.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,08:15,51.8,41.4,67.5,0.0,488,,N,2.2,5.3,,52.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,08:30,52.7,41.2,64.8,0.0,468,,NW,3.4,6.4,,52.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,08:45,53.5,40.8,61.8,0.0,516,,N,3.4,6.4,,52.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,09:00,53.8,40.3,60.0,0.0,344,,NW,3.2,6.0,,52.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,09:15,54.3,40.7,59.9,0.0,406,,NW,4.2,7.4,,52.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,09:30,55.1,41.1,59.1,0.0,470,,NW,3.7,6.7,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,09:45,56.2,41.7,58.0,0.0,431,,NW,3.0,6.0,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,10:00,56.4,41.0,56.0,0.0,483,,N,3.6,6.7,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,10:15,57.0,41.2,55.2,0.0,500,,N,2.9,7.1,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,10:30,57.6,40.9,53.6,0.0,460,,NW,3.9,6.0,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,10:45,58.3,40.9,52.2,0.0,659,,NW,4.3,7.1,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,11:00,60.1,41.2,49.5,0.0,944,,NW,3.4,6.7,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,11:15,61.3,41.8,48.6,0.0,836,,NW,3.5,7.4,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,11:30,62.1,40.4,44.7,0.0,707,,NW,3.3,6.4,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,11:45,62.7,39.4,42.2,0.0,676,,SW,3.1,5.7,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,12:00,63.8,37.9,38.3,0.0,705,,W,2.3,5.7,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,12:15,64.9,37.5,36.2,0.0,894,,SW,3.6,7.1,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,12:30,65.6,36.8,34.3,0.0,881,,S,2.7,6.0,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,12:45,66.6,37.5,34.1,0.0,791,,W,3.5,7.8,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,13:00,66.9,36.6,32.5,0.0,593,,W,1.9,7.1,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,13:15,66.7,35.9,32.0,0.0,491,,SW,3.2,6.4,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,13:30,67.7,36.4,31.4,0.0,638,,SW,3.6,6.4,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,13:45,67.9,35.8,30.5,0.0,601,,S,2.5,5.3,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,14:00,69.0,37.4,31.4,0.0,651,,S,2.9,6.0,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,14:15,67.4,36.5,32.0,0.0,439,,SW,2.8,6.7,,51.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,14:30,68.2,37.7,32.6,0.0,684,,N,3.2,6.4,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,14:45,67.9,37.5,32.6,0.0,490,,N,5.3,10.3,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,15:00,67.3,36.2,31.7,0.0,228,,SW,3.4,6.7,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,15:15,66.8,36.4,32.5,0.0,262,,SW,3.8,8.9,,52.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,15:30,67.1,36.9,32.8,0.0,355,,SW,2.3,5.7,,52.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,15:45,67.1,36.1,31.7,0.0,250,,SW,2.6,6.7,,52.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,16:00,66.3,37.1,34.0,0.0,181,,SW,4.1,12.8,,52.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,16:15,64.8,34.2,31.9,0.0,116,,SW,4.7,10.3,,52.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,16:30,64.3,32.9,30.8,0.0,98,,W,3.6,10.3,,52.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,16:45,64.4,33.4,31.3,0.0,139,,SW,2.2,5.3,,52.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,17:00,64.9,35.8,33.9,0.0,183,,S,1.3,3.5,,52.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,17:15,65.3,37.5,35.7,0.0,233,,S,2.1,4.6,,52.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,17:30,64.7,36.7,35.4,0.0,175,,S,3.8,7.8,,52.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,17:45,64.1,35.6,34.7,0.0,117,,S,5.2,11.4,,52.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,18:00,63.1,35.4,35.6,0.0,65,,S,4.2,8.2,,52.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,18:15,62.5,36.9,38.4,0.0,44,,S,3.9,8.9,,52.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,18:30,62.0,37.5,40.0,0.0,39,,S,3.8,9.9,,52.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,18:45,61.5,38.4,42.2,0.0,26,,S,3.4,8.5,,52.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,19:00,61.1,38.8,43.6,0.0,10,,S,2.6,6.0,,52.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,19:15,60.4,40.6,48.0,0.0,5,,NW,2.1,5.7,,52.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,19:30,59.6,41.1,50.3,0.0,3,,W,2.3,4.6,,52.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,19:45,59.0,41.2,51.4,0.0,0,,SW,3.0,5.7,,52.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,20:00,58.3,41.9,54.1,0.0,0,,S,2.8,6.0,,52.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,20:15,58.0,42.1,55.3,0.0,0,,S,2.5,4.9,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,20:30,57.9,41.1,53.4,0.0,0,,S,4.2,7.4,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,20:45,57.5,39.6,51.0,0.0,0,,S,3.4,7.8,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,21:00,57.0,39.7,52.2,0.0,0,,SE,1.7,4.2,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,21:15,56.6,40.1,53.8,0.0,0,,SE,1.8,4.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,21:30,56.0,40.7,56.2,0.0,0,,E,1.1,3.9,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,21:45,55.0,42.4,62.4,0.0,0,,N ,0.0,0.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,22:00,54.9,42.2,62.2,0.0,0,,S,0.6,4.6,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,22:15,54.3,42.8,64.8,0.0,0,,N ,0.0,0.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,22:30,53.8,43.6,68.3,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,22:45,53.8,43.5,67.9,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-04,23:00,53.0,44.5,72.5,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,23:15,53.0,44.6,73.0,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,23:30,53.0,45.1,74.2,0.0,0,,N ,0.0,0.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,23:45,52.9,45.3,75.3,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,24:00,53.3,45.4,74.2,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,00:15,52.6,45.6,76.9,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,00:30,52.2,46.2,79.7,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,00:45,52.3,46.1,79.3,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,01:00,51.8,46.3,81.2,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,01:15,51.9,46.5,81.9,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,01:30,51.6,46.4,82.2,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,01:45,51.3,46.7,84.4,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,02:00,51.5,46.6,83.1,0.0,0,,N ,0.0,0.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,02:15,51.3,46.9,85.0,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,02:30,51.2,46.7,84.3,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,02:45,51.3,46.7,84.2,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,03:00,50.6,46.7,86.2,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,03:15,50.1,46.7,88.1,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,03:30,50.1,46.6,87.7,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,03:45,49.6,46.4,88.3,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,04:00,49.4,46.5,89.5,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,04:15,48.9,46.1,90.1,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,04:30,48.7,45.9,90.0,0.0,0,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,04:45,49.4,46.4,89.2,0.0,1,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,05:00,50.7,46.3,84.9,0.0,4,,NW,1.7,3.1,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,05:15,50.9,46.2,83.9,0.0,8,,N ,0.0,1.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,05:30,50.9,46.3,84.0,0.0,15,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,05:45,51.1,46.7,84.7,0.0,24,,NW,0.1,1.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,06:00,51.6,46.2,81.8,0.0,42,,NW,3.4,5.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,06:15,51.9,46.2,80.8,0.0,56,,NW,2.9,4.6,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,06:30,52.1,46.2,80.0,0.0,69,,NW,3.4,5.3,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,06:45,52.4,46.0,78.8,0.0,94,,N,3.7,5.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,07:00,52.6,45.9,78.0,0.0,92,,N,3.7,6.4,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,07:15,52.7,45.9,77.7,0.0,92,,N ,3.1,5.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,07:30,53.0,46.4,78.2,0.0,112,,N,3.3,5.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,07:45,53.3,46.3,77.1,0.0,139,,NW,3.9,6.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,08:00,54.4,46.9,75.6,0.0,328,,N,3.8,6.4,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,08:15,55.9,47.0,71.8,0.0,503,,N,4.7,7.8,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,08:30,56.4,46.7,69.8,0.0,462,,N,3.7,6.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,08:45,57.8,46.6,66.1,0.0,567,,N,3.7,7.1,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,09:00,58.7,46.9,64.7,0.0,592,,NW,3.2,6.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,09:15,60.5,47.7,62.5,0.0,652,,N,3.0,6.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,09:30,60.3,46.9,61.0,0.0,645,,N,3.6,6.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,09:45,61.9,47.6,59.4,0.0,703,,N ,2.8,6.0,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,10:00,62.3,46.8,56.7,0.0,622,,N ,3.6,8.9,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,10:15,62.7,46.5,55.3,0.0,679,,N,4.7,8.2,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,10:30,62.9,46.2,54.3,0.0,642,,N,3.9,11.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,10:45,64.1,45.8,51.3,0.0,845,,N ,3.8,7.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,11:00,65.2,45.5,48.9,0.0,840,,NE,4.1,9.2,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,11:15,66.0,45.5,47.5,0.0,877,,N ,3.7,8.5,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,11:30,66.1,44.2,45.0,0.0,872,,NW,4.0,8.9,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,11:45,67.4,45.4,45.1,0.0,868,,NW,3.6,7.1,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,12:00,67.0,44.7,44.4,0.0,873,,NE,5.0,9.9,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,12:15,68.2,45.1,43.3,0.0,871,,N,4.8,8.9,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,12:30,68.4,44.5,42.1,0.0,868,,N ,4.8,9.2,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,12:45,69.5,45.0,41.3,0.0,859,,NW,3.9,7.4,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,13:00,69.9,45.8,42.1,0.0,841,,NW,5.5,9.2,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,13:15,70.1,45.5,41.2,0.0,767,,W,5.4,8.9,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,13:30,70.4,45.8,41.3,0.0,543,,NW,4.3,8.5,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,13:45,70.9,46.4,41.5,0.0,584,,NW,4.3,8.5,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,14:00,70.7,47.2,43.1,0.0,574,,W,5.0,9.9,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,14:15,70.8,47.5,43.3,0.0,783,,NW,5.0,9.2,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,14:30,71.3,46.4,40.9,0.0,729,,NW,4.2,7.8,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,14:45,71.6,46.3,40.3,0.0,675,,NW,4.9,7.4,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,15:00,72.0,45.2,38.2,0.0,670,,W,3.1,8.5,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,15:15,72.8,45.1,37.1,0.0,585,,W,4.5,8.9,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,15:30,71.0,44.2,38.1,0.0,433,,SW,4.6,8.9,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,15:45,71.9,44.8,37.7,0.0,594,,SW,4.3,7.4,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,16:00,71.4,45.5,39.4,0.0,417,,S,3.8,7.4,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,16:15,71.8,45.6,39.0,0.0,406,,S,3.7,7.8,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,16:30,70.4,45.0,40.1,0.0,304,,SW,3.2,6.4,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,16:45,70.0,45.0,40.6,0.0,206,,S,3.2,8.5,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,17:00,71.0,45.8,40.5,0.0,414,,SW,3.8,8.5,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,17:15,70.8,45.2,39.8,0.0,272,,SW,3.7,7.1,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,17:30,70.7,45.3,40.1,0.0,295,,SW,3.4,6.4,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,17:45,70.4,46.6,42.6,0.0,175,,S,1.2,4.6,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,18:00,70.1,46.8,43.3,0.0,150,,S,0.4,3.5,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,18:15,70.4,46.8,42.9,0.0,125,,S,0.3,3.1,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,18:30,69.0,49.0,48.7,0.0,82,,S,0.6,3.5,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,18:45,68.6,47.9,47.5,0.0,67,,SE,1.1,4.2,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,19:00,66.4,48.7,52.8,0.0,23,,SE,1.1,6.7,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,19:15,65.3,48.1,53.7,0.0,13,,SE,2.7,7.4,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,19:30,64.0,48.9,57.7,0.0,6,,S,1.0,4.6,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,19:45,62.4,50.1,63.9,0.0,2,,SW,1.0,8.9,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,20:00,63.8,48.1,56.6,0.0,0,,S,4.7,11.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,20:15,62.5,48.8,60.8,0.0,0,,S,2.8,6.4,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,20:30,61.1,50.4,67.6,0.0,0,,S,2.1,4.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,20:45,60.4,50.8,70.4,0.0,0,,S,2.1,5.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,21:00,60.4,50.4,69.4,0.0,0,,S,1.8,4.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,21:15,60.2,50.3,69.8,0.0,0,,S,2.7,8.5,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,21:30,60.3,49.3,67.1,0.0,0,,S,3.9,10.3,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,21:45,59.9,47.8,64.3,0.0,0,,SW,5.7,12.8,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,22:00,58.8,46.6,63.9,0.0,0,,S,5.2,13.5,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,22:15,58.2,45.6,62.7,0.0,0,,S,5.3,17.5,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,22:30,57.4,45.7,64.7,0.0,0,,S,6.1,13.2,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,22:45,54.9,47.8,76.8,0.01,0,,S,3.4,8.5,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-05,23:00,54.5,47.7,77.7,0.0,0,,S,4.0,7.4,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,23:15,54.4,47.1,76.3,0.0,0,,S,4.3,9.6,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,23:30,54.3,46.8,75.7,0.0,0,,S,3.7,7.4,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,23:45,54.6,45.1,70.1,0.0,0,,S,5.4,9.9,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,24:00,54.7,44.5,68.3,0.0,0,,S,6.5,14.6,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,00:15,54.5,44.4,68.6,0.0,0,,S,5.9,12.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,00:30,54.3,44.7,69.8,0.0,0,,S,5.9,15.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,00:45,53.8,44.8,71.4,0.0,0,,S,5.6,12.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,01:00,53.4,44.4,71.5,0.0,0,,S,5.3,10.3,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,01:15,53.2,43.8,70.1,0.0,0,,S,5.6,13.5,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,01:30,53.0,43.2,69.4,0.0,0,,S,5.5,11.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,01:45,52.7,42.3,67.7,0.0,0,,S,5.9,11.7,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,02:00,52.2,42.3,68.8,0.0,0,,S,5.3,10.7,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,02:15,52.3,42.8,69.9,0.0,0,,S,5.5,11.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,02:30,52.6,42.5,68.3,0.0,0,,S,6.6,14.6,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,02:45,52.6,42.4,68.0,0.0,0,,S,6.0,12.8,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,03:00,52.0,41.6,67.7,0.0,0,,S,5.2,12.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,03:15,50.3,43.2,76.6,0.0,0,,SE,3.7,9.6,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,03:30,49.0,44.4,83.9,0.0,0,,S,3.6,6.7,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,03:45,48.6,45.1,87.6,0.01,0,,S,4.3,8.9,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,04:00,48.5,44.7,86.6,0.0,0,,S,5.6,11.4,,54.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,04:15,48.4,43.7,83.8,0.01,0,,S,5.5,16.7,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,04:30,48.3,43.6,83.5,0.01,0,,S,6.3,11.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,04:45,47.9,44.6,88.3,0.0,0,,S,5.0,9.9,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,05:00,47.8,44.9,89.7,0.0,2,,S,4.2,8.2,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,05:15,47.9,44.8,89.1,0.0,2,,S,3.3,7.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,05:30,48.1,44.5,87.2,0.0,6,,S,4.3,9.6,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,05:45,48.6,43.5,82.3,0.0,11,,S,5.2,11.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,06:00,48.9,43.2,80.3,0.0,13,,S,4.7,11.7,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,06:15,48.7,43.6,82.3,0.0,21,,S,5.6,15.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,06:30,48.7,43.9,83.4,0.0,26,,S,4.5,11.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,06:45,49.2,43.7,81.1,0.0,30,,SW,5.0,9.6,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,07:00,49.6,43.7,80.1,0.0,45,,S,4.8,11.7,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,07:15,49.7,43.5,79.1,0.0,27,,S,4.9,10.3,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,07:30,49.8,43.7,79.3,0.0,43,,SW,3.8,8.2,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,07:45,48.4,44.0,84.6,0.06,44,,N,2.9,8.5,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,08:00,48.0,45.2,90.0,0.01,103,,SE,1.2,4.2,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,08:15,48.4,46.2,92.1,0.0,133,,SE,1.4,4.2,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,08:30,48.4,46.2,92.0,0.0,160,,S,2.4,4.6,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,08:45,49.6,47.1,90.9,0.0,399,,S,1.9,4.2,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,09:00,51.4,47.6,86.6,0.0,584,,S,2.8,5.3,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,09:15,52.2,46.5,80.8,0.0,596,,S,3.4,6.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,09:30,52.3,46.0,79.0,0.0,298,,S,2.6,4.2,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,09:45,52.3,45.4,77.2,0.0,365,,SE,2.2,5.3,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,10:00,53.2,45.1,73.8,0.0,460,,E,3.0,5.3,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,10:15,53.7,45.1,72.6,0.0,742,,NE,4.3,8.5,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,10:30,54.9,45.8,71.3,0.0,892,,NE,4.4,8.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,10:45,54.8,44.5,68.1,0.0,566,,N ,4.2,8.5,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,11:00,54.9,43.4,64.9,0.0,462,,N ,3.8,7.1,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,11:15,57.0,44.6,63.2,0.0,1049,,NE,3.9,6.4,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,11:30,56.6,44.3,63.2,0.0,486,,NE,3.9,8.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,11:45,55.8,43.6,63.4,0.0,266,,N ,3.8,8.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,12:00,55.8,43.4,62.9,0.0,230,,NE,2.9,6.4,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,12:15,55.8,43.2,62.5,0.0,182,,NW,1.9,4.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,12:30,55.5,44.0,65.0,0.0,177,,N,3.8,7.8,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,12:45,54.0,46.1,74.6,0.0,79,,W,3.3,9.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,13:00,54.8,47.0,74.7,0.0,493,,SW,4.3,8.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,13:15,58.2,49.6,72.7,0.0,938,,S,5.5,11.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,13:30,54.8,46.8,74.2,0.0,137,,SE,3.2,7.8,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,13:45,55.0,45.8,70.9,0.0,228,,S,2.7,4.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,14:00,58.1,47.2,66.9,0.0,797,,SE,2.8,5.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,14:15,60.5,47.4,62.0,0.0,879,,S,3.2,7.4,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,14:30,58.7,44.2,58.4,0.0,270,,S,2.2,6.4,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,14:45,58.0,42.6,56.5,0.0,126,,SE,2.8,6.4,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,15:00,57.3,43.6,60.0,0.0,112,,E,2.8,5.3,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,15:15,57.2,43.8,60.9,0.0,133,,E,3.2,5.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,15:30,57.1,43.5,60.4,0.0,133,,E,2.0,5.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,15:45,57.3,44.0,61.1,0.0,110,,E,1.6,4.6,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,16:00,57.4,42.5,57.4,0.0,133,,NW,3.7,10.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,16:15,58.5,42.1,54.5,0.0,327,,W,4.2,8.2,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,16:30,59.1,42.1,53.2,0.0,491,,NW,5.7,11.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,16:45,58.8,41.2,51.9,0.0,430,,N,6.2,11.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,17:00,59.3,41.5,51.7,0.0,413,,NW,5.1,8.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,17:15,58.4,40.4,51.1,0.0,192,,N,5.5,9.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,17:30,57.8,39.7,50.6,0.0,265,,NW,5.2,10.3,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,17:45,58.6,40.2,50.3,0.0,261,,NW,5.7,10.3,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,18:00,57.9,40.0,51.2,0.0,199,,NW,5.6,8.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,18:15,57.5,39.9,51.7,0.0,160,,NW,6.2,10.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,18:30,56.4,39.3,52.6,0.0,122,,NW,5.7,10.3,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,18:45,55.7,39.2,53.6,0.0,88,,N,5.6,10.3,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,19:00,54.8,39.3,55.7,0.0,48,,N,4.3,7.4,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,19:15,53.9,39.3,57.4,0.0,18,,NW,3.9,7.4,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,19:30,53.0,39.4,59.6,0.0,9,,N ,3.1,5.7,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,19:45,52.7,39.5,60.6,0.0,2,,N ,2.2,4.6,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,20:00,50.5,40.2,67.5,0.0,0,,N ,0.4,2.4,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,20:15,49.1,40.8,72.7,0.0,0,,W,0.5,2.8,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,20:30,47.3,40.8,77.8,0.0,0,,S,0.1,2.4,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,20:45,46.0,40.6,81.4,0.0,0,,W,0.4,3.5,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,21:00,45.8,41.2,83.9,0.0,0,,E,0.6,2.8,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,21:15,44.9,40.7,85.2,0.0,0,,N ,0.0,0.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,21:30,43.7,40.7,88.8,0.0,0,,N ,0.0,0.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,21:45,43.2,40.7,90.9,0.0,0,,N ,0.0,0.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,22:00,43.0,40.7,91.3,0.0,0,,NE,0.2,2.8,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,22:15,42.5,40.2,91.5,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,22:30,41.7,39.6,92.3,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,22:45,41.3,39.5,93.4,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-06,23:00,41.0,39.5,94.2,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,23:15,40.7,39.3,94.8,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,23:30,40.7,39.6,95.5,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,23:45,39.7,38.6,95.7,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,24:00,40.0,39.1,96.3,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,00:15,39.5,38.6,96.6,0.0,0,,N ,0.0,0.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,00:30,39.1,38.3,96.8,0.0,0,,N ,0.0,0.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,00:45,39.4,38.6,97.1,0.0,0,,N ,0.0,0.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,01:00,39.1,38.4,97.3,0.0,0,,N ,0.0,0.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,01:15,38.8,38.2,97.5,0.0,0,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,01:30,38.2,37.6,97.6,0.0,0,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,01:45,38.3,37.8,97.8,0.0,0,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,02:00,37.7,37.1,97.8,0.0,0,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,02:15,38.2,37.6,98.0,0.0,0,,N,0.4,3.1,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,02:30,37.7,37.2,98.0,0.0,0,,NW,0.4,2.8,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,02:45,37.1,36.6,98.1,0.0,0,,N ,0.0,0.0,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,03:00,37.6,37.1,98.2,0.0,0,,E,0.4,2.8,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,03:15,36.9,36.4,98.3,0.0,0,,N ,0.0,0.0,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,03:30,36.7,36.3,98.3,0.0,0,,N ,0.0,0.0,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,03:45,36.2,35.8,98.4,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,04:00,36.8,36.4,98.4,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,04:15,35.9,35.5,98.4,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,04:30,35.7,35.3,98.5,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,04:45,35.4,35.0,98.5,0.0,5,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,05:00,35.6,35.2,98.6,0.0,13,,N ,0.0,0.0,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,05:15,35.8,35.4,98.6,0.0,21,,N ,0.0,0.0,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,05:30,36.1,35.8,98.7,0.0,31,,N ,0.0,0.0,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,05:45,36.8,36.4,98.7,0.0,59,,N ,0.0,0.0,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,06:00,38.9,38.6,98.5,0.0,151,,N ,0.0,0.0,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,06:15,40.1,39.6,98.4,0.0,190,,N ,0.0,0.0,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,06:30,41.3,40.9,98.2,0.0,233,,N ,0.0,0.0,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,06:45,42.7,42.2,97.9,0.0,273,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,07:00,43.5,42.8,97.3,0.0,314,,N ,0.0,0.0,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,07:15,45.2,43.9,95.3,0.0,354,,SE,0.5,3.1,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,07:30,47.2,44.5,90.2,0.0,396,,SE,0.0,1.4,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,07:45,49.7,44.4,81.8,0.0,440,,E,1.8,5.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,08:00,51.2,42.9,73.3,0.0,482,,NE,3.9,6.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,08:15,52.3,42.7,69.6,0.0,520,,NE,2.8,6.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,08:30,53.0,42.5,67.4,0.0,570,,NE,3.9,7.1,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,08:45,53.9,42.1,64.2,0.0,610,,N,5.3,8.9,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,09:00,54.7,41.5,60.8,0.0,647,,NE,4.3,8.9,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,09:15,55.5,41.5,59.2,0.0,682,,NE,4.7,7.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,09:30,56.6,41.9,57.6,0.0,714,,N ,4.2,7.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,09:45,57.1,41.7,56.1,0.0,744,,NE,4.9,8.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,10:00,57.7,41.7,55.0,0.0,773,,NE,4.8,8.9,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,10:15,58.5,42.1,54.4,0.0,798,,N ,5.2,10.7,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,10:30,59.5,42.8,53.7,0.0,821,,NE,4.3,13.5,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,10:45,59.6,42.7,53.6,0.0,840,,N ,4.9,9.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,11:00,59.9,43.1,53.8,0.0,856,,NE,5.0,8.5,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,11:15,60.5,43.2,52.8,0.0,869,,N ,5.1,9.2,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,11:30,61.2,42.5,50.1,0.0,879,,N,5.2,10.3,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,11:45,62.5,42.7,48.2,0.0,886,,NE,4.8,10.3,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,12:00,62.8,41.9,46.3,0.0,890,,NE,4.5,8.5,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,12:15,63.0,42.0,46.1,0.0,888,,NE,5.0,8.5,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,12:30,63.5,43.3,47.6,0.0,883,,N ,6.2,10.7,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,12:45,64.3,43.5,46.7,0.0,877,,NW,5.8,11.7,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,13:00,64.9,43.7,46.1,0.0,867,,NW,5.6,9.6,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,13:15,65.2,43.4,45.2,0.0,854,,NW,6.4,11.7,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,13:30,65.6,43.2,44.2,0.0,838,,N,6.7,13.2,,52.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,13:45,65.8,42.7,43.0,0.0,819,,N,6.1,10.7,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,14:00,66.7,43.2,42.4,0.0,797,,N ,6.1,12.4,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,14:15,66.9,43.7,43.0,0.0,773,,N,6.5,13.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,14:30,66.8,43.7,43.0,0.0,746,,N,6.9,10.7,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,14:45,67.1,43.6,42.5,0.0,715,,N,6.4,11.4,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,15:00,67.4,44.3,43.1,0.0,682,,N,6.5,11.4,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,15:15,67.6,44.4,43.1,0.0,648,,N ,6.1,11.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,15:30,67.6,43.3,41.3,0.0,614,,N,6.5,11.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,15:45,67.6,42.4,39.9,0.0,576,,NW,7.0,12.8,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,16:00,67.7,40.0,36.2,0.0,539,,NW,6.8,12.8,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,16:15,67.4,38.4,34.4,0.0,499,,NW,6.4,12.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,16:30,67.6,38.3,34.0,0.0,458,,N,6.5,12.1,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,16:45,67.5,38.5,34.4,0.0,414,,N,7.2,14.6,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,17:00,66.6,38.8,36.0,0.0,371,,N,8.1,13.5,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,17:15,66.6,38.7,35.8,0.0,327,,N,7.1,12.1,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,17:30,66.7,39.4,36.7,0.0,284,,NW,6.0,9.9,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,17:45,66.3,41.3,40.1,0.0,240,,NW,6.3,10.3,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,18:00,65.9,43.0,43.4,0.0,197,,N,7.3,12.4,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,18:15,65.1,44.4,47.0,0.0,158,,N,7.3,11.4,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,18:30,64.2,44.5,48.6,0.0,121,,N,7.1,12.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,18:45,63.6,44.6,49.8,0.0,87,,N,6.2,11.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,19:00,62.4,44.6,52.0,0.0,43,,N,5.5,9.9,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,19:15,61.3,44.5,53.9,0.0,17,,N,4.7,7.4,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,19:30,60.1,44.5,56.1,0.0,8,,N,3.7,6.7,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,19:45,59.2,44.0,57.1,0.0,2,,N,3.5,6.7,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,20:00,58.3,43.4,57.6,0.0,0,,N,3.2,6.4,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,20:15,57.6,42.8,57.6,0.0,0,,N,3.3,5.3,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,20:30,56.9,42.2,57.7,0.0,0,,N,3.0,5.3,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,20:45,55.8,41.9,59.5,0.0,0,,N,1.0,3.1,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,21:00,54.0,42.4,64.8,0.0,0,,N ,0.0,0.0,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,21:15,53.3,42.1,65.8,0.0,0,,NW,0.9,4.2,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,21:30,53.0,41.5,64.7,0.0,0,,N,0.9,3.9,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,21:45,51.7,42.6,71.0,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,22:00,50.7,42.7,73.8,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,22:15,49.0,42.1,76.9,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,22:30,48.0,42.7,81.9,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,22:45,46.9,42.1,83.2,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-07,23:00,45.7,42.0,86.7,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,23:15,45.0,41.7,88.0,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,23:30,44.6,41.7,89.4,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,23:45,44.4,41.9,91.0,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,24:00,44.3,41.8,90.9,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,00:15,43.9,41.5,91.5,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,00:30,43.5,41.4,92.2,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,00:45,43.5,41.5,92.7,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,01:00,44.1,42.1,92.4,0.0,0,,NE,0.8,2.8,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,01:15,43.9,41.2,89.9,0.0,0,,N ,0.2,2.4,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,01:30,43.8,41.1,90.4,0.0,0,,N,1.5,3.1,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,01:45,43.4,41.1,91.5,0.0,0,,NW,0.2,2.1,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,02:00,43.1,40.7,91.0,0.0,0,,N ,0.0,0.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,02:15,41.9,39.8,92.2,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,02:30,41.6,40.0,93.8,0.0,0,,N ,0.1,2.8,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,02:45,41.0,39.4,94.0,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,03:00,40.4,39.0,95.0,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,03:15,39.9,38.8,95.7,0.0,0,,N ,0.0,0.0,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,03:30,40.4,39.4,96.3,0.0,0,,N,0.0,1.4,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,03:45,40.8,39.9,96.7,0.0,0,,N,0.7,2.4,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,04:00,40.3,39.5,96.9,0.0,0,,NW,0.5,3.1,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,04:15,40.9,40.1,96.9,0.0,0,,N,1.9,3.9,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,04:30,41.7,40.8,96.4,0.0,1,,NE,2.2,5.3,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,04:45,41.4,40.2,95.4,0.0,5,,N,0.7,3.9,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,05:00,40.6,39.4,95.7,0.0,11,,N ,0.0,0.0,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,05:15,40.0,38.9,96.0,0.0,18,,N ,0.0,0.0,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,05:30,39.4,38.4,96.3,0.0,24,,N ,0.0,0.0,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,05:45,39.3,38.5,96.6,0.0,63,,S,0.0,1.4,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,06:00,42.0,41.1,96.6,0.0,175,,S,0.1,2.1,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,06:15,44.2,43.1,95.9,0.0,207,,E,0.0,1.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,06:30,45.5,43.7,93.3,0.0,241,,SE,0.0,1.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,06:45,48.3,44.9,88.0,0.0,289,,E,0.2,2.1,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,07:00,50.8,45.2,80.9,0.0,328,,SE,1.1,2.8,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,07:15,52.4,46.1,78.8,0.0,370,,SE,0.8,2.1,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,07:30,55.4,47.0,73.0,0.0,415,,N ,0.0,0.0,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,07:45,57.6,46.8,67.2,0.0,459,,N,1.5,4.6,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,08:00,59.2,46.3,62.2,0.0,503,,NW,3.0,5.7,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,08:15,61.2,46.6,58.5,0.0,544,,NW,2.6,4.9,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,08:30,63.1,45.9,53.4,0.0,587,,NW,1.8,5.3,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,08:45,64.7,46.4,51.3,0.0,626,,N,1.8,6.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,09:00,65.8,43.1,43.5,0.0,662,,NW,3.7,6.0,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,09:15,67.6,42.7,40.4,0.0,697,,NW,2.9,6.4,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,09:30,68.5,44.2,41.4,0.0,730,,W,3.1,6.7,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,09:45,69.7,44.6,40.5,0.0,760,,W,3.2,6.0,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,10:00,70.6,44.6,39.1,0.0,790,,NW,3.3,5.3,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,10:15,71.4,43.3,36.3,0.0,813,,W,4.0,7.1,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,10:30,72.5,42.3,33.7,0.0,830,,NW,4.8,8.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,10:45,73.3,41.9,32.2,0.0,851,,N,3.8,7.8,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,11:00,74.5,42.0,31.1,0.0,865,,N,3.6,8.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,11:15,74.4,40.2,29.1,0.0,879,,N,4.5,7.8,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,11:30,75.0,39.8,28.1,0.0,888,,NW,4.2,7.1,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,11:45,75.5,41.8,29.9,0.0,891,,W,4.5,8.2,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,12:00,75.3,43.2,31.7,0.0,895,,W,5.5,10.3,,52.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,12:15,75.7,42.5,30.4,0.0,894,,NW,4.4,8.9,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,12:30,76.1,42.8,30.4,0.0,890,,W,5.4,12.1,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,12:45,76.0,43.9,31.8,0.0,884,,NW,5.9,12.1,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,13:00,76.1,44.1,32.0,0.0,874,,NW,6.3,9.9,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,13:15,76.3,43.4,31.0,0.0,860,,NW,6.3,12.1,,52.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,13:30,76.2,43.3,30.9,0.0,842,,NW,6.9,12.1,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,13:45,76.5,43.9,31.2,0.0,826,,NW,6.3,11.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,14:00,77.0,43.3,30.0,0.0,804,,NW,6.1,11.4,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,14:15,77.7,42.1,28.1,0.0,780,,NW,6.0,10.3,,53.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,14:30,77.9,41.7,27.5,0.0,747,,NW,6.4,12.1,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,14:45,78.3,41.9,27.3,0.0,725,,NW,6.0,14.6,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,15:00,78.7,42.5,27.6,0.0,692,,N,5.9,10.7,,53.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,15:15,78.6,42.5,27.6,0.0,658,,N,6.8,13.9,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,15:30,79.1,42.3,27.1,0.0,622,,N,6.7,13.2,,53.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,15:45,80.0,43.1,27.0,0.0,584,,N ,5.6,11.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,16:00,79.6,41.1,25.3,0.0,546,,NE,5.6,12.4,,53.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,16:15,79.6,39.8,24.0,0.0,505,,NE,5.9,12.4,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,16:30,79.6,40.9,25.1,0.0,463,,NE,5.2,10.7,,53.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,16:45,79.3,41.5,25.9,0.0,421,,N ,5.2,9.2,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,17:00,79.4,41.4,25.8,0.0,377,,NE,5.2,10.7,,53.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,17:15,78.8,41.0,25.9,0.0,334,,NE,5.2,11.0,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,17:30,78.7,40.8,25.8,0.0,289,,NE,4.5,8.2,,53.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,17:45,78.4,41.6,26.9,0.0,246,,N ,4.2,8.9,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,18:00,77.9,41.6,27.3,0.0,204,,N ,4.2,8.9,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,18:15,77.5,41.7,27.8,0.0,164,,N,4.4,7.8,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,18:30,76.9,42.1,28.8,0.0,126,,NW,3.1,7.1,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,18:45,76.0,41.0,28.5,0.0,92,,NW,3.4,6.4,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,19:00,74.0,41.7,31.3,0.0,45,,NW,2.3,4.2,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,19:15,70.3,43.5,37.9,0.0,16,,N,1.0,2.4,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,19:30,66.4,45.9,47.5,0.0,8,,W,0.0,1.4,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,19:45,62.8,47.3,56.9,0.0,2,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,20:00,61.1,48.3,62.8,0.0,0,,S,0.4,3.1,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,20:15,59.5,48.5,67.0,0.0,0,,N,1.1,3.5,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,20:30,58.2,48.1,69.0,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,20:45,56.7,48.0,72.5,0.0,0,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,21:00,55.6,47.5,74.1,0.0,0,,N ,0.0,0.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,21:15,55.9,47.2,72.3,0.0,0,,N ,0.0,0.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,21:30,54.7,47.0,75.4,0.0,0,,N ,0.0,0.0,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,21:45,53.8,47.2,78.3,0.0,0,,N ,0.0,0.0,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,22:00,53.3,46.8,78.5,0.0,0,,N ,0.0,0.0,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,22:15,52.2,46.8,81.7,0.0,0,,N ,0.0,0.0,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,22:30,51.4,46.7,83.8,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,22:45,51.0,47.0,86.1,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-08,23:00,50.3,46.4,86.2,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,23:15,50.2,46.5,86.8,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,23:30,49.8,46.0,86.8,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,23:45,48.6,45.6,89.2,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,24:00,48.4,45.7,90.3,0.0,0,,N ,0.0,0.0,,54.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,00:15,48.2,45.3,89.5,0.0,0,,NE,0.2,2.8,,54.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,00:30,49.4,44.8,84.2,0.0,0,,N,1.3,3.5,,54.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,00:45,48.5,44.5,86.0,0.0,0,,N,0.3,3.1,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,01:00,48.3,44.2,85.6,0.0,0,,NW,0.0,1.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,01:15,47.5,43.8,87.0,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,01:30,46.8,43.6,88.6,0.0,0,,N ,0.0,0.0,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,01:45,47.0,43.8,88.5,0.0,0,,N ,0.8,2.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,02:00,47.8,43.4,84.9,0.0,0,,N ,0.7,3.1,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,02:15,46.8,43.1,86.9,0.0,0,,NW,0.2,2.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,02:30,45.9,42.6,88.0,0.0,0,,NW,0.3,2.4,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,02:45,45.8,42.9,89.3,0.0,0,,N ,0.9,2.8,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,03:00,47.0,42.9,85.5,0.0,0,,N,1.2,3.1,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,03:15,46.4,42.5,85.9,0.0,0,,N ,0.8,3.1,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,03:30,46.8,42.6,85.0,0.0,0,,N ,2.2,4.2,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,03:45,46.9,42.5,84.6,0.0,0,,N ,1.8,3.5,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,04:00,46.7,42.3,84.7,0.0,0,,N,1.4,4.2,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,04:15,46.2,42.3,86.1,0.0,0,,NE,0.9,2.8,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,04:30,45.7,41.7,85.5,0.0,1,,NW,0.3,2.4,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,04:45,44.5,41.5,89.1,0.0,5,,NW,0.2,2.4,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,05:00,44.8,42.1,90.2,0.0,11,,NW,0.3,2.1,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,05:15,45.0,42.4,90.4,0.0,17,,N ,1.0,2.8,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,05:30,45.3,42.5,89.8,0.0,24,,NE,0.1,1.7,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,05:45,46.0,43.0,89.2,0.0,66,,N ,0.0,0.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,06:00,49.3,44.5,83.4,0.0,158,,N ,0.0,0.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,06:15,51.9,45.3,78.1,0.0,194,,N ,0.0,0.0,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,06:30,54.0,45.8,73.6,0.0,239,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,06:45,56.2,46.6,70.1,0.0,284,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,07:00,58.4,47.0,65.7,0.0,327,,N ,0.0,0.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,07:15,60.1,47.1,62.0,0.0,371,,N ,0.0,0.0,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,07:30,62.7,48.0,58.6,0.0,416,,N ,0.0,0.0,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,07:45,65.3,48.3,54.1,0.0,452,,N ,0.0,0.0,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,08:00,67.4,48.3,50.3,0.0,492,,N,1.0,3.5,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,08:15,69.0,48.6,48.1,0.0,538,,W,2.1,4.2,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,08:30,72.1,48.9,43.8,0.0,577,,W,1.9,4.2,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,08:45,73.7,46.7,38.2,0.0,612,,S,1.9,3.9,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,09:00,74.5,42.5,31.7,0.0,655,,SW,2.3,4.2,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,09:15,75.8,42.0,29.8,0.0,694,,SW,2.0,3.9,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,09:30,76.5,42.9,30.1,0.0,725,,SW,2.7,4.9,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,09:45,77.0,45.1,32.2,0.0,755,,S,3.2,5.3,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,10:00,77.9,43.4,29.2,0.0,785,,SW,2.0,6.4,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,10:15,78.8,44.2,29.3,0.0,834,,SW,2.3,4.9,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,10:30,78.6,42.8,28.0,0.0,592,,SW,2.8,5.7,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,10:45,79.1,42.6,27.3,0.0,791,,NW,2.6,4.6,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,11:00,80.9,41.4,24.6,0.0,963,,NW,3.1,6.0,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,11:15,81.1,40.4,23.4,0.0,735,,S,3.8,9.2,,53.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,11:30,81.5,38.2,21.2,0.0,770,,E,3.1,9.2,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,11:45,82.8,41.6,23.3,0.0,880,,S,2.7,7.1,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,12:00,82.5,40.8,22.8,0.0,672,,E,2.9,6.4,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,12:15,82.5,40.3,22.4,0.0,754,,SE,3.5,7.8,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,12:30,82.6,39.4,21.6,0.0,744,,E,3.6,9.2,,53.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,12:45,83.4,39.9,21.4,0.0,875,,E,3.9,10.3,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,13:00,83.4,39.3,20.9,0.0,672,,NE,3.5,7.1,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,13:15,84.4,38.8,19.8,0.0,931,,E,2.9,5.7,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,13:30,84.9,41.2,21.5,0.0,819,,E,3.3,8.5,,53.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,13:45,85.1,40.5,20.8,0.0,863,,SE,3.8,9.6,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,14:00,85.0,38.7,19.4,0.0,785,,SE,4.2,8.5,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,14:15,85.4,40.3,20.4,0.0,755,,SE,3.1,8.5,,54.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,14:30,85.6,40.1,20.0,0.0,698,,S,3.9,11.4,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,14:45,85.1,37.0,18.1,0.0,730,,NE,3.8,11.0,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,15:00,85.9,38.7,18.8,0.0,674,,SE,3.5,7.8,,54.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,15:15,85.8,38.4,18.7,0.0,564,,E,2.8,8.9,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,15:30,86.2,40.1,19.7,0.0,557,,E,2.7,5.7,,54.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,15:45,86.0,41.6,21.0,0.0,454,,S,2.0,6.0,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,16:00,83.7,44.0,24.8,0.0,284,,W,3.7,9.2,,54.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,16:15,81.8,45.4,27.9,0.0,302,,NW,3.7,7.4,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,16:30,81.9,45.0,27.3,0.0,417,,NW,5.2,8.2,,54.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,16:45,82.4,44.6,26.5,0.0,364,,NW,4.2,7.8,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,17:00,83.0,43.1,24.5,0.0,289,,N,5.1,10.3,,54.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,17:15,82.8,42.4,24.0,0.0,251,,N,5.0,10.3,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,17:30,82.0,42.6,24.8,0.0,237,,N ,4.6,11.7,,54.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,17:45,81.6,42.7,25.3,0.0,180,,NE,4.3,7.8,,54.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,18:00,81.2,42.9,25.8,0.0,155,,N ,3.3,7.1,,54.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,18:15,80.9,43.5,26.7,0.0,133,,NE,3.0,6.7,,54.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,18:30,80.5,44.4,28.0,0.0,104,,NE,1.7,4.2,,54.8,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,18:45,80.1,44.5,28.4,0.0,86,,NE,2.0,4.9,,54.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,19:00,78.5,49.3,35.9,0.0,69,,NE,0.3,2.8,,54.9,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,19:15,74.4,53.0,47.2,0.0,44,,S,0.0,1.4,,55.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,19:30,71.5,54.9,55.7,0.0,18,,N ,0.0,0.0,,55.0,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,19:45,69.0,55.1,61.1,0.0,5,,N ,0.0,0.0,,55.1,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,20:00,67.1,54.4,63.7,0.0,1,,N ,0.0,0.0,,55.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,20:15,65.1,54.1,67.4,0.0,0,,N ,0.0,0.0,,55.2,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,20:30,63.7,53.5,69.2,0.0,0,,N ,0.0,0.0,,55.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,20:45,62.3,52.5,70.3,0.0,0,,N ,0.0,0.0,,55.3,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,21:00,61.3,51.8,71.1,0.0,0,,N ,0.0,0.0,,55.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,21:15,61.2,50.0,66.5,0.0,0,,N ,0.0,0.0,,55.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,21:30,60.3,50.4,69.6,0.0,0,,N ,0.0,0.0,,55.4,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,21:45,60.0,50.3,70.2,0.0,0,,N ,0.0,0.0,,55.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,22:00,59.6,50.1,70.8,0.0,0,,N,0.3,3.9,,55.5,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,22:15,60.2,49.8,68.5,0.0,0,,NW,0.1,2.4,,55.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,22:30,60.0,49.6,68.5,0.0,0,,NE,0.6,2.8,,55.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,22:45,59.8,49.0,67.4,0.0,0,,N,0.4,2.8,,55.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-09,23:00,60.1,48.8,66.3,0.0,0,,N ,1.0,2.8,,55.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-10,23:15,58.8,48.7,69.0,0.0,0,,N ,0.7,3.9,,55.6,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-10,23:30,59.1,48.5,67.8,0.0,0,,NE,1.9,4.2,,55.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-10,23:45,58.1,48.3,69.8,0.0,0,,N ,1.3,3.1,,55.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551
+2020-05-10,24:00,56.5,48.4,74.0,0.0,0,,N,1.7,4.9,,55.7,,,"Woodinvill, Woodinville, King County",330026,Woodinvill,2020-12-13 21:34:02.347551

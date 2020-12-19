@@ -1,0 +1,669 @@
+Date,Time PST,1.5m Air Temp °F, 1.5m Dew Point °F, 1.5m Rel Hum %, Tot Prec in, Solar Rad W/m², Atm. 2m Press. inHg, Wind Direction, Wind Speed mph, 2m Wind Gust mph, 1.5m Leaf Wet u., 8 in. Soil Tmp °F, 8 in. SWP kPa,Location,Station ID,Station Name,Download Timestamp
+2019-10-31,00:15,,,52.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,00:30,,,52.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,00:45,,,52.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,01:00,,,53.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,01:15,,,51.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,01:30,,,50.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,01:45,,,48.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,02:00,,,51.2,,,,W,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,02:15,,,49.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,02:30,,,49.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,02:45,,,51.9,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,03:00,,,52.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,03:15,,,53.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,03:30,,,54.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,03:45,,,53.7,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,04:00,,,53.9,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,04:15,,,51.3,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,04:30,,,48.9,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,04:45,,,52.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,05:00,,,56.7,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,05:15,,,53.3,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,05:30,,,50.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,05:45,,,53.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,06:00,,,56.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,06:15,,,58.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,06:30,,,57.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,06:45,,,55.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,07:00,,,59.2,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,07:15,,,57.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,07:30,,,53.4,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,07:45,,,54.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,08:00,,,59.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,08:15,,,56.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,08:30,,,51.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,08:45,,,48.0,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,09:00,,,46.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,09:15,,,46.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,09:30,,,43.8,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,09:45,,,43.2,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,10:00,,,41.5,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,10:15,,,37.0,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,10:30,,,35.4,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,10:45,,,33.0,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,11:00,,,31.5,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,11:15,,,31.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,11:30,,,29.8,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,11:45,,,28.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,12:00,,,28.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,12:15,,,26.4,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,12:30,,,25.9,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,12:45,,,25.4,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,13:00,,,24.3,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,13:15,,,23.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,13:30,,,23.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,13:45,,,22.4,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,14:00,,,22.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,14:15,,,22.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,14:30,,,22.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,14:45,,,22.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,15:00,,,22.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,15:15,,,23.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,15:30,,,24.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,15:45,,,24.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,16:00,,,24.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,16:15,,,25.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,16:30,,,26.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,16:45,,,27.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,17:00,,,31.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,17:15,,,34.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,17:30,,,34.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,17:45,,,35.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,18:00,,,36.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,18:15,,,39.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,18:30,,,41.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,18:45,,,42.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,19:00,,,43.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,19:15,,,45.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,19:30,,,46.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,19:45,,,45.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,20:00,,,44.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,20:15,,,46.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,20:30,,,47.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,20:45,,,51.4,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,21:00,,,52.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,21:15,,,54.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,21:30,,,54.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,21:45,,,51.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,22:00,,,52.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,22:15,,,53.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,22:30,,,55.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,22:45,,,58.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-10-31,23:00,,,59.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,23:15,,,59.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,23:30,,,60.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,23:45,,,61.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,24:00,,,64.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,00:15,,,62.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,00:30,,,62.0,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,00:45,,,63.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,01:00,,,65.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,01:15,,,66.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,01:30,,,66.7,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,01:45,,,66.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,02:00,,,67.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,02:15,,,68.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,02:30,,,72.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,02:45,,,71.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,03:00,,,71.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,03:15,,,71.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,03:30,,,72.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,03:45,,,75.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,04:00,,,75.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,04:15,,,77.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,04:30,,,75.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,04:45,,,77.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,05:00,,,76.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,05:15,,,78.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,05:30,,,79.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,05:45,,,81.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,06:00,,,80.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,06:15,,,79.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,06:30,,,80.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,06:45,,,83.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,07:00,,,83.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,07:15,,,82.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,07:30,,,85.2,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,07:45,,,83.0,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,08:00,,,80.5,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,08:15,,,77.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,08:30,,,69.2,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,08:45,,,64.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,09:00,,,63.9,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,09:15,,,61.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,09:30,,,59.9,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,09:45,,,60.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,10:00,,,56.9,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,10:15,,,57.9,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,10:30,,,55.6,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,10:45,,,54.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,11:00,,,50.7,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,11:15,,,50.4,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,11:30,,,49.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,11:45,,,47.9,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,12:00,,,46.3,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,12:15,,,44.7,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,12:30,,,44.2,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,12:45,,,42.1,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,13:00,,,41.4,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,13:15,,,40.5,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,13:30,,,39.6,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,13:45,,,39.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,14:00,,,38.5,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,14:15,,,38.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,14:30,,,37.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,14:45,,,36.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,15:00,,,35.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,15:15,,,35.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,15:30,,,36.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,15:45,,,37.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,16:00,,,37.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,16:15,,,41.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,16:30,,,42.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,16:45,,,43.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,17:00,,,44.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,17:15,,,47.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,17:30,,,48.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,17:45,,,49.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,18:00,,,48.9,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,18:15,,,50.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,18:30,,,55.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,18:45,,,54.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,19:00,,,60.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,19:15,,,58.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,19:30,,,59.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,19:45,,,59.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,20:00,,,60.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,20:15,,,64.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,20:30,,,65.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,20:45,,,66.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,21:00,,,67.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,21:15,,,69.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,21:30,,,69.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,21:45,,,68.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,22:00,,,69.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,22:15,,,71.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,22:30,,,70.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,22:45,,,70.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-01,23:00,,,67.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,23:15,,,67.5,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,23:30,,,68.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,23:45,,,68.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,24:00,,,68.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,00:15,,,70.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,00:30,,,70.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,00:45,,,71.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,01:00,,,69.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,01:15,,,65.7,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,01:30,,,69.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,01:45,,,71.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,02:00,,,73.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,02:15,,,75.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,02:30,,,79.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,02:45,,,74.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,03:00,,,76.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,03:15,,,78.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,03:30,,,77.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,03:45,,,78.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,04:00,,,76.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,04:15,,,80.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,04:30,,,78.2,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,04:45,,,75.5,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,05:00,,,76.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,05:15,,,78.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,05:30,,,79.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,05:45,,,80.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,06:00,,,77.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,06:15,,,80.6,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,06:30,,,79.2,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,06:45,,,77.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,07:00,,,78.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,07:15,,,83.6,,,,W,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,07:30,,,79.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,07:45,,,80.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,08:00,,,81.2,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,08:15,,,79.4,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,08:30,,,78.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,08:45,,,73.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,09:00,,,70.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,09:15,,,65.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,09:30,,,62.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,09:45,,,61.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,10:00,,,59.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,10:15,,,57.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,10:30,,,53.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,10:45,,,51.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,11:00,,,51.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,11:15,,,49.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,11:30,,,47.2,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,11:45,,,45.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,12:00,,,43.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,12:15,,,42.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,12:30,,,41.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,12:45,,,39.3,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,13:00,,,37.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,13:15,,,36.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,13:30,,,36.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,13:45,,,36.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,14:00,,,34.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,14:15,,,33.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,14:30,,,33.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,14:45,,,33.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,15:00,,,33.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,15:15,,,33.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,15:30,,,34.4,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,15:45,,,34.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,16:00,,,35.3,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,16:15,,,36.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,16:30,,,37.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,16:45,,,41.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,17:00,,,41.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,17:15,,,43.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,17:30,,,48.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,17:45,,,48.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,18:00,,,50.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,18:15,,,50.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,18:30,,,50.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,18:45,,,53.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,19:00,,,52.9,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,19:15,,,54.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,19:30,,,56.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,19:45,,,60.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,20:00,,,58.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,20:15,,,60.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,20:30,,,61.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,20:45,,,63.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,21:00,,,63.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,21:15,,,63.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,21:30,,,66.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,21:45,,,66.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,22:00,,,68.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,22:15,,,65.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,22:30,,,63.7,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,22:45,,,64.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-02,23:00,,,67.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:15,,,66.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:30,,,67.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:45,,,71.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,24:00,,,67.7,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,00:15,,,72.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,00:30,,,74.4,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,00:45,,,74.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,02:00,,,75.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,02:15,,,75.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,02:30,,,75.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,02:45,,,74.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,03:00,,,75.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,03:15,,,74.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,03:30,,,75.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,03:45,,,77.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,04:00,,,80.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,04:15,,,80.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,04:30,,,81.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,04:45,,,80.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,05:00,,,81.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,05:15,,,81.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,05:30,,,82.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,05:45,,,82.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,06:00,,,79.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,06:15,,,83.0,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,06:30,,,82.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,06:45,,,81.3,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,07:00,,,81.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,07:15,,,83.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,07:30,,,80.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,07:45,,,81.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,08:00,,,84.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,08:15,,,81.5,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,08:30,,,80.2,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,08:45,,,76.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,09:00,,,74.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,09:15,,,71.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,09:30,,,70.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,09:45,,,67.4,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,10:00,,,63.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,10:15,,,60.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,10:30,,,55.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,10:45,,,54.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,11:00,,,53.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,11:15,,,51.0,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,11:30,,,49.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,11:45,,,47.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,12:00,,,46.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,12:15,,,45.0,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,12:30,,,44.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,12:45,,,42.4,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,13:00,,,43.0,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,13:15,,,42.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,13:30,,,40.3,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,13:45,,,40.1,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,14:00,,,38.8,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,14:15,,,37.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,14:30,,,38.2,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,14:45,,,37.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,15:00,,,38.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,15:15,,,38.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,15:30,,,38.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,15:45,,,38.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,16:00,,,40.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,16:15,,,42.1,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,16:30,,,46.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,16:45,,,49.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,17:00,,,51.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,17:15,,,55.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,17:30,,,54.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,17:45,,,58.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,18:00,,,58.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,18:15,,,58.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,18:30,,,59.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,18:45,,,60.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,19:00,,,62.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,19:15,,,65.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,19:30,,,63.4,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,19:45,,,64.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,20:00,,,67.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,20:15,,,66.7,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,20:30,,,68.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,20:45,,,70.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,21:00,,,69.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,21:15,,,72.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,21:30,,,72.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,21:45,,,75.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,22:00,,,72.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,22:15,,,75.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,22:30,,,75.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,22:45,,,74.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:00,,,76.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:15,,,80.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:30,,,78.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,23:45,,,80.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-03,24:00,,,80.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,00:15,,,80.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,00:30,,,83.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,00:45,,,82.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,01:00,,,80.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,01:15,,,79.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,01:30,,,82.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,01:45,,,83.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,02:00,,,80.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,02:15,,,80.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,02:30,,,81.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,02:45,,,81.1,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,03:00,,,81.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,03:15,,,82.2,,,,W,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,03:30,,,85.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,03:45,,,82.4,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,04:00,,,80.2,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,04:15,,,81.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,04:30,,,80.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,04:45,,,82.4,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,05:00,,,81.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,05:15,,,81.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,05:30,,,81.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,05:45,,,82.0,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,06:00,,,81.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,06:15,,,84.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,06:30,,,84.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,06:45,,,83.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,07:00,,,84.5,,,,W,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,07:15,,,83.5,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,07:30,,,81.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,07:45,,,87.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,08:00,,,85.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,08:15,,,83.9,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,08:30,,,84.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,08:45,,,83.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,09:00,,,85.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,09:15,,,83.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,09:30,,,77.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,09:45,,,74.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,10:00,,,70.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,10:15,,,67.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,10:30,,,65.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,10:45,,,62.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,11:00,,,59.4,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,11:15,,,57.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,11:30,,,53.4,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,11:45,,,52.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,12:00,,,50.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,12:15,,,49.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,12:30,,,48.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,12:45,,,47.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,13:00,,,46.2,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,13:15,,,44.9,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,13:30,,,43.7,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,13:45,,,42.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,14:00,,,42.1,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,14:15,,,40.6,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,14:30,,,40.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,14:45,,,41.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,15:00,,,40.8,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,15:15,,,40.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,15:30,,,41.3,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,15:45,,,42.7,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,16:00,,,45.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,16:15,,,44.8,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,16:30,,,45.3,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,16:45,,,48.2,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,17:00,,,51.1,,,,W,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,17:15,,,56.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,17:30,,,57.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,17:45,,,59.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,18:00,,,62.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,18:15,,,64.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,18:30,,,65.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,18:45,,,68.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,19:00,,,67.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,19:15,,,68.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,19:30,,,72.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,19:45,,,71.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,20:00,,,71.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,20:15,,,74.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,20:30,,,74.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,20:45,,,76.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,21:00,,,76.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,21:15,,,76.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,21:30,,,76.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,21:45,,,76.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,22:00,,,77.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,22:15,,,79.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,22:30,,,80.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,22:45,,,84.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,23:00,,,82.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,23:15,,,85.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,23:30,,,86.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,23:45,,,86.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-04,24:00,,,86.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,00:15,,,88.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,00:30,,,89.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,00:45,,,87.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,01:00,,,89.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,01:15,,,87.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,01:30,,,89.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,01:45,,,88.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,02:00,,,90.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,02:15,,,92.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,02:30,,,91.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,02:45,,,89.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,03:00,,,89.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,03:15,,,89.5,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,03:30,,,91.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,03:45,,,91.6,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,04:00,,,94.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,04:15,,,93.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,04:30,,,93.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,04:45,,,92.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,05:00,,,92.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,05:15,,,95.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,05:30,,,95.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,05:45,,,91.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,06:00,,,94.0,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,06:15,,,93.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,06:30,,,95.5,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,06:45,,,96.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,07:00,,,94.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,07:15,,,97.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,07:30,,,96.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,07:45,,,99.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,08:00,,,99.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,08:15,,,97.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,08:30,,,99.2,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,08:45,,,98.0,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,09:00,,,95.1,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,09:15,,,87.4,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,09:30,,,84.1,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,09:45,,,80.7,,,,E,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,10:00,,,79.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,10:15,,,75.8,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,10:30,,,75.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,10:45,,,71.0,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,11:00,,,67.6,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,11:15,,,67.0,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,11:30,,,64.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,11:45,,,64.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,12:00,,,61.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,12:15,,,60.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,12:30,,,60.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,12:45,,,58.8,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,13:00,,,57.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,13:15,,,56.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,13:30,,,55.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,13:45,,,54.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,14:00,,,53.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,14:15,,,52.8,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,14:30,,,52.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,14:45,,,52.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,15:00,,,51.7,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,15:15,,,52.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,15:30,,,53.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,15:45,,,53.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,16:00,,,56.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,16:15,,,58.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,16:30,,,59.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,16:45,,,61.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,17:00,,,65.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,17:15,,,68.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,17:30,,,69.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,17:45,,,72.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,18:00,,,73.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,18:15,,,73.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,18:30,,,74.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,18:45,,,78.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,19:00,,,80.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,19:15,,,79.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,19:30,,,77.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,19:45,,,81.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,20:00,,,84.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,20:15,,,80.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,20:30,,,83.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,20:45,,,86.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,21:00,,,83.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,21:15,,,87.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,21:30,,,87.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,21:45,,,89.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,22:00,,,92.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,22:15,,,89.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,22:30,,,89.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,22:45,,,91.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,23:00,,,89.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,23:15,,,91.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,23:30,,,93.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,23:45,,,90.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-05,24:00,,,90.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,00:15,,,92.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,00:30,,,94.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,00:45,,,94.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,01:00,,,92.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,01:15,,,95.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,01:30,,,94.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,01:45,,,90.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,02:00,,,89.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,02:15,,,90.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,02:30,,,96.1,,,,NE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,02:45,,,95.1,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,03:00,,,94.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,03:15,,,93.1,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,03:30,,,89.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,03:45,,,90.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,04:00,,,95.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,04:15,,,92.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,04:30,,,94.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,04:45,,,95.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,05:00,,,89.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,05:15,,,90.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,05:30,,,94.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,05:45,,,98.2,,,,SW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,06:00,,,93.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,06:15,,,89.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,06:30,,,99.1,,,,SE,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,06:45,,,96.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,07:00,,,92.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,07:15,,,91.8,,,,NW,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,07:30,,,92.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,07:45,,,98.0,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,08:00,,,97.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,08:15,,,97.5,,,,S,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,08:30,,,90.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,08:45,,,85.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,09:00,,,78.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,09:15,,,72.6,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,09:30,,,68.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,09:45,,,63.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,10:00,,,60.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,10:15,,,57.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,10:30,,,55.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,10:45,,,53.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,11:00,,,51.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,11:15,,,50.1,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,11:30,,,48.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,11:45,,,47.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,12:00,,,45.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,12:15,,,43.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,12:30,,,42.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,12:45,,,41.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,13:00,,,40.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,13:15,,,39.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,13:30,,,38.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,13:45,,,37.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,14:00,,,36.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,14:15,,,36.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,14:30,,,36.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,14:45,,,36.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,15:00,,,35.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,15:15,,,35.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,15:30,,,36.2,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,15:45,,,36.4,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,16:00,,,37.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,16:15,,,37.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,16:30,,,38.9,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,16:45,,,40.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,17:00,,,40.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,17:15,,,43.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,17:30,,,45.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,17:45,,,46.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,18:00,,,49.2,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,18:15,,,52.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,18:30,,,52.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,18:45,,,54.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,19:00,,,56.3,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,19:15,,,58.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,19:30,,,62.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,19:45,,,63.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,20:00,,,66.3,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,20:15,,,67.0,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,20:30,,,68.5,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,20:45,,,69.6,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,21:00,,,69.7,,,,N ,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,21:15,,,65.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,21:30,,,68.9,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,21:45,,,68.7,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,22:00,,,73.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,22:15,,,74.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,22:30,,,76.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,22:45,,,75.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,23:00,,,78.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,23:15,,,73.4,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,23:30,,,78.5,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,23:45,,,76.0,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717
+2019-11-06,24:00,,,78.8,,,,N,,,,,,"Loomis.Grd, Tonasket, Okanogan County",100019,Loomis.Grd,2020-12-16 01:14:57.727717

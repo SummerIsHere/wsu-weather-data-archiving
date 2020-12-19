@@ -1,0 +1,673 @@
+Date,Time PST,1.5m Air Temp °F, 1.5m Dew Point °F, 1.5m Rel Hum %, Tot Prec in, Solar Rad W/m², Atm. 2m Press. inHg, Wind Direction, Wind Speed mph, 2m Wind Gust mph,Location,Station ID,Station Name,Download Timestamp
+2020-11-25,00:15,40.4,38.4,92.3,0.0,0,29.98,W,1.7,4.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,00:30,40.7,38.0,90.0,0.0,0,29.99,SW,3.4,7.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,00:45,40.8,38.4,91.2,0.0,0,29.99,SW,3.3,9.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,01:00,40.6,38.4,91.8,0.0,0,29.99,SW,2.1,4.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,01:15,39.5,37.9,93.7,0.0,0,29.99,NW,2.6,6.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,01:30,39.0,37.1,93.1,0.0,0,29.99,W,1.8,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,01:45,38.4,36.4,92.3,0.0,0,30.0,NW,1.9,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,02:00,39.2,36.4,89.5,0.0,0,30.0,SW,2.1,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,02:15,39.7,37.0,89.8,0.0,0,30.0,SW,2.5,7.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,02:30,39.3,37.1,91.8,0.0,0,30.01,W,2.0,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,02:45,39.3,36.6,89.9,0.0,0,30.01,SW,2.9,10.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,03:00,39.3,36.5,89.6,0.0,0,30.01,SW,3.6,8.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,03:15,38.2,36.2,92.5,0.0,0,30.02,W,2.3,5.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,03:30,39.2,36.3,89.2,0.0,0,30.02,W,2.7,6.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,03:45,39.5,36.7,89.6,0.0,0,30.02,W,3.2,7.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,04:00,39.5,36.9,90.3,0.0,0,30.03,SW,3.4,7.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,04:15,39.7,37.1,90.5,0.0,0,30.03,SW,2.6,7.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,04:30,39.7,37.1,90.3,0.0,0,30.03,SW,3.8,9.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,04:45,39.3,36.8,90.4,0.0,0,30.03,W,3.0,7.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,05:00,39.0,36.3,90.0,0.0,0,30.03,SW,3.3,8.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,05:15,39.9,36.4,87.3,0.0,0,30.03,SW,5.2,10.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,05:30,39.8,36.8,88.9,0.0,0,30.04,W,2.3,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,05:45,38.7,36.8,92.9,0.01,0,30.04,NW,1.3,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,06:00,38.1,36.8,94.9,0.01,0,30.04,NW,0.9,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,06:15,38.7,36.8,92.8,0.01,0,30.04,W,1.5,6.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,06:30,38.6,36.9,93.6,0.01,0,30.04,NW,1.3,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,06:45,38.4,37.0,94.9,0.01,0,30.05,N,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,07:00,38.4,37.1,95.2,0.01,0,30.06,NW,1.2,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,07:15,38.3,37.1,95.4,0.01,0,30.06,NW,1.1,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,07:30,38.3,37.1,95.7,0.01,1,30.06,NE,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,07:45,38.2,37.1,96.0,0.01,2,30.07,SE,1.0,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,08:00,38.1,37.2,96.3,0.01,9,30.07,N ,1.0,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,08:15,38.2,37.5,97.1,0.01,27,30.07,NE,1.3,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,08:30,38.6,37.7,96.6,0.0,37,30.08,S,1.8,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,08:45,38.6,37.8,96.9,0.0,45,30.08,S,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,09:00,39.3,38.3,96.2,0.0,78,30.08,E,2.2,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,09:15,39.9,39.7,99.2,0.0,220,30.08,E,1.8,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,09:30,42.2,42.1,99.9,0.0,167,30.08,E,1.9,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,09:45,43.5,43.2,99.0,0.0,258,30.08,SE,2.2,5.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,10:00,44.0,42.9,96.1,0.0,145,30.09,S,2.1,6.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,10:15,43.3,40.7,90.2,0.0,154,30.09,SW,3.7,9.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,10:30,44.0,41.3,90.3,0.0,293,30.09,SW,4.4,10.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,10:45,44.9,42.4,90.7,0.0,335,30.1,S,3.8,9.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,11:00,46.0,42.4,87.1,0.0,357,30.1,SW,4.4,11.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,11:15,46.4,41.4,82.6,0.0,335,30.11,SW,4.1,12.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,11:30,47.1,40.7,78.4,0.0,412,30.11,SW,4.1,13.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,11:45,46.8,40.4,78.2,0.0,360,30.11,W,3.5,10.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,12:00,47.0,40.2,77.2,0.0,300,30.11,S,4.6,13.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,12:15,46.5,39.2,75.5,0.0,178,30.11,W,3.0,7.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,12:30,46.2,39.4,77.1,0.0,257,30.12,S,3.7,8.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,12:45,46.5,39.8,77.2,0.0,269,30.12,W,4.6,12.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,13:00,46.5,39.4,76.2,0.0,228,30.12,W,3.0,11.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,13:15,46.4,39.9,78.2,0.0,229,30.12,S,4.6,9.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,13:30,46.3,39.8,77.9,0.0,217,30.13,S,4.2,13.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,13:45,45.6,39.0,77.7,0.0,144,30.14,W,5.4,9.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,14:00,45.9,39.5,78.3,0.0,223,30.14,SW,4.0,10.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,14:15,45.8,39.3,78.0,0.0,184,30.14,S,3.3,8.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,14:30,45.9,38.9,76.3,0.0,126,30.15,S,2.6,6.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,14:45,45.4,38.9,78.0,0.0,155,30.15,SW,3.7,9.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,15:00,45.0,39.3,80.4,0.0,134,30.15,SW,2.5,8.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,15:15,44.6,38.3,78.4,0.0,44,30.16,SW,3.4,9.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,15:30,44.3,37.1,75.7,0.0,27,30.16,SW,3.0,7.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,15:45,43.8,36.8,76.2,0.0,26,30.17,W,2.4,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,16:00,43.1,36.8,78.2,0.0,16,30.17,S,2.9,8.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,16:15,41.2,36.5,83.4,0.0,10,30.18,NW,1.4,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,16:30,39.6,35.9,86.4,0.0,6,30.18,NW,2.3,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,16:45,39.3,35.4,85.8,0.0,1,30.18,NW,2.0,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,17:00,38.8,35.0,86.1,0.0,0,30.2,N,1.7,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,17:15,38.6,35.0,86.7,0.0,0,30.2,NW,1.6,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,17:30,38.9,35.1,86.0,0.0,0,30.2,W,1.9,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,17:45,40.6,35.8,83.1,0.0,0,30.21,W,1.8,4.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,18:00,41.5,36.6,82.6,0.0,0,30.21,W,2.4,8.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,18:15,42.5,37.2,81.4,0.0,0,30.22,W,2.8,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,18:30,42.5,37.4,82.2,0.0,0,30.22,W,3.8,11.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,18:45,43.3,37.7,80.3,0.0,0,30.23,W,3.9,9.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,19:00,42.9,37.6,81.4,0.0,0,30.23,W,3.5,10.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,19:15,43.1,37.5,80.3,0.0,0,30.24,W,3.8,8.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,19:30,42.9,37.3,80.6,0.0,0,30.25,NW,3.0,7.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,19:45,41.7,37.0,83.2,0.0,0,30.25,NW,2.5,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,20:00,39.8,36.2,86.9,0.0,0,30.25,N,1.3,4.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,20:15,39.5,35.9,86.5,0.0,0,30.26,NE,1.9,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,20:30,38.7,35.6,88.7,0.0,0,30.26,N ,1.4,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,20:45,38.0,35.2,89.7,0.0,0,30.27,NW,1.4,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,21:00,37.1,35.0,91.9,0.0,0,30.27,E,1.6,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,21:15,36.6,34.4,91.8,0.0,0,30.28,N,1.1,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,21:30,37.0,34.3,90.0,0.0,0,30.28,NW,1.5,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,21:45,36.4,34.3,92.1,0.0,0,30.29,N ,1.8,4.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,22:00,36.2,34.2,92.3,0.0,0,30.29,NW,1.5,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,22:15,35.7,33.9,93.2,0.0,0,30.29,N ,1.3,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,22:30,35.0,33.5,94.2,0.0,0,30.3,N ,1.3,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,22:45,34.7,33.2,94.1,0.0,0,30.3,N,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,23:00,34.4,32.8,93.7,0.0,0,30.31,NE,1.5,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,23:15,34.8,32.8,92.1,0.0,0,30.3,N,1.5,4.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,23:30,34.4,33.1,94.8,0.0,0,30.31,N ,1.7,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,23:45,34.5,33.2,95.0,0.0,0,30.32,NE,1.5,4.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-25,24:00,35.1,33.3,93.0,0.0,0,30.32,N,1.7,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,00:15,34.0,33.2,96.8,0.0,0,30.31,N ,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,00:30,33.7,32.5,95.4,0.0,0,30.31,NE,1.1,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,00:45,33.6,32.0,93.8,0.0,0,30.31,N ,1.4,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,01:00,33.2,31.8,94.6,0.0,0,30.31,NE,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,01:15,33.0,31.6,94.2,0.0,0,30.32,N ,0.8,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,01:30,32.8,31.6,95.0,0.0,0,30.32,N ,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,01:45,32.6,31.6,95.8,0.0,0,30.33,NE,1.4,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,02:00,32.6,31.6,96.0,0.0,0,30.33,NE,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,02:15,33.2,31.7,94.1,0.0,0,30.33,N ,1.4,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,02:30,33.7,32.3,94.6,0.0,0,30.33,NE,1.0,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,02:45,33.9,32.4,93.9,0.0,0,30.34,NE,1.3,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,03:00,33.8,32.4,94.7,0.0,0,30.34,N ,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,03:15,33.6,32.4,95.2,0.0,0,30.35,NE,1.4,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,03:30,34.6,32.5,92.1,0.0,0,30.34,N,1.3,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,03:45,33.9,33.1,96.8,0.0,0,30.35,E,1.0,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,04:00,33.8,32.9,96.6,0.0,0,30.34,N ,1.5,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,04:15,33.6,32.8,97.0,0.0,0,30.34,NE,0.8,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,04:30,33.6,32.6,96.2,0.0,0,30.35,N ,1.4,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,04:45,34.1,33.1,96.0,0.0,0,30.35,NE,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,05:00,33.6,32.8,96.9,0.0,0,30.35,N ,1.1,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,05:15,35.4,33.0,90.6,0.0,0,30.35,NW,1.6,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,05:30,36.2,34.3,92.6,0.0,0,30.35,N,2.3,6.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,05:45,35.6,34.4,95.2,0.0,0,30.36,NW,1.2,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,06:00,37.2,35.1,92.0,0.0,0,30.36,NW,1.4,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,06:15,36.7,35.7,96.3,0.0,0,30.37,N ,1.1,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,06:30,35.7,35.3,98.5,0.0,0,30.37,NE,1.2,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,06:45,35.5,34.9,97.7,0.0,0,30.37,NE,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,07:00,35.9,34.7,95.1,0.0,0,30.38,E,1.3,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,07:15,36.2,35.0,95.2,0.0,1,30.38,N ,1.9,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,07:30,37.6,35.6,92.4,0.0,5,30.38,N ,2.0,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,07:45,37.6,36.1,94.5,0.0,10,30.38,N,2.1,4.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,08:00,40.4,36.8,86.9,0.0,11,30.38,S,1.9,5.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,08:15,41.1,38.0,88.8,0.0,27,30.38,E,1.8,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,08:30,41.0,39.0,92.6,0.0,72,30.39,NE,2.0,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,08:45,40.9,40.3,97.7,0.0,119,30.39,NE,1.9,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,09:00,41.9,41.6,98.9,0.0,96,30.39,N ,2.1,5.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,09:15,43.3,43.1,99.2,0.0,251,30.39,NE,1.8,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,09:30,44.9,44.8,99.7,0.0,180,30.4,N ,2.6,5.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,09:45,44.4,44.3,99.7,0.0,125,30.41,NE,3.9,7.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,10:00,44.7,43.9,97.0,0.0,171,30.42,N ,1.6,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,10:15,46.0,45.2,97.0,0.0,397,30.41,NE,2.3,5.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,10:30,48.1,47.0,96.0,0.0,450,30.4,NE,4.0,10.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,10:45,49.2,46.7,90.9,0.0,485,30.4,NE,4.5,9.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,11:00,49.7,46.5,88.7,0.0,394,30.41,NE,3.7,8.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,11:15,50.0,43.3,77.6,0.0,326,30.41,NE,5.0,13.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,11:30,50.9,42.2,72.0,0.0,443,30.41,S,5.4,18.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,11:45,51.2,42.0,70.6,0.0,435,30.4,S,4.3,11.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,12:00,50.7,41.5,70.5,0.0,381,30.4,SW,4.7,10.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,12:15,50.5,41.0,69.9,0.0,356,30.41,W,5.9,19.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,12:30,49.7,40.2,69.7,0.0,276,30.41,SW,6.5,18.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,12:45,49.2,39.4,68.7,0.0,241,30.41,SW,4.8,10.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,13:00,49.6,39.9,69.2,0.0,263,30.4,SW,3.9,10.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,13:15,48.9,39.8,70.4,0.0,146,30.4,S,4.5,11.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,13:30,49.0,39.7,70.1,0.0,275,30.39,S,5.5,12.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,13:45,49.5,40.0,69.6,0.0,286,30.4,SW,4.5,10.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,14:00,50.2,40.2,68.3,0.0,259,30.4,SW,2.7,6.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,14:15,49.9,40.2,69.1,0.0,245,30.4,SW,4.0,8.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,14:30,49.5,39.6,68.5,0.0,216,30.4,S,5.3,13.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,14:45,48.4,38.6,68.7,0.0,93,30.41,S,5.3,11.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,15:00,47.4,38.0,69.6,0.0,43,30.41,SW,1.8,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,15:15,46.5,38.0,71.9,0.0,51,30.42,W,1.9,8.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,15:30,46.2,37.8,72.4,0.0,36,30.41,SW,3.0,11.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,15:45,45.8,37.4,72.4,0.0,29,30.41,W,3.0,8.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,16:00,45.8,36.9,70.8,0.0,25,30.42,W,3.6,10.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,16:15,45.3,36.8,72.0,0.0,16,30.41,W,3.0,8.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,16:30,45.3,36.8,72.0,0.0,6,30.41,W,3.9,8.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,16:45,44.2,36.5,74.2,0.0,1,30.4,W,2.8,7.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,17:00,43.1,36.1,76.1,0.0,0,30.4,W,2.7,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,17:15,41.0,35.8,81.6,0.0,0,30.4,NW,1.8,4.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,17:30,40.2,35.1,81.6,0.0,0,30.4,NW,1.5,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,17:45,39.5,34.6,82.5,0.0,0,30.4,NW,1.8,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,18:00,38.7,34.1,83.5,0.0,0,30.4,W,1.7,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,18:15,39.7,34.3,80.8,0.0,0,30.4,NW,2.2,5.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,18:30,40.0,34.6,81.1,0.0,0,30.4,W,2.7,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,18:45,39.2,34.6,83.7,0.0,0,30.41,W,1.8,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,19:00,39.5,34.4,81.6,0.0,0,30.41,W,2.3,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,19:15,38.3,34.5,86.3,0.0,0,30.41,NW,1.9,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,19:30,36.1,33.4,89.8,0.0,0,30.41,NE,1.4,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,19:45,35.4,32.5,89.0,0.0,0,30.4,NE,1.6,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,20:00,35.1,32.0,88.3,0.0,0,30.4,N ,1.6,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,20:15,34.7,32.0,89.5,0.0,0,30.41,NW,1.0,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,20:30,34.6,31.8,89.1,0.0,0,30.41,N,1.3,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,20:45,34.0,31.6,90.6,0.0,0,30.41,N ,1.0,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,21:00,33.6,31.4,91.8,0.0,0,30.41,N,0.9,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,21:15,33.6,31.1,90.6,0.0,0,30.41,N ,1.3,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,21:30,33.4,31.1,91.5,0.0,0,30.4,N,0.9,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,21:45,32.8,31.1,93.6,0.0,0,30.4,NE,1.0,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,22:00,33.8,30.8,89.0,0.0,0,30.4,W,1.0,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,22:15,33.9,31.5,90.5,0.0,0,30.4,NE,1.5,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,22:30,33.8,31.6,91.4,0.0,0,30.4,NW,1.0,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,22:45,33.0,31.2,93.1,0.0,0,30.39,N ,1.0,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,23:00,33.6,31.0,89.9,0.0,0,30.39,N,1.4,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,23:15,33.5,31.1,91.0,0.0,0,30.39,N,1.2,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,23:30,32.9,31.1,92.9,0.0,0,30.39,N,1.3,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,23:45,34.1,31.0,88.3,0.0,0,30.39,W,1.9,4.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-26,24:00,33.1,31.5,93.7,0.0,0,30.39,NW,1.0,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,00:15,32.6,30.9,93.4,0.0,0,30.39,NW,1.3,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,00:30,33.5,30.9,89.9,0.0,0,30.39,W,1.9,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,00:45,33.0,31.1,92.9,0.0,0,30.39,W,1.4,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,01:00,33.3,31.1,91.8,0.0,0,30.39,W,2.2,6.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,01:15,32.7,31.1,93.8,0.0,0,30.38,W,1.7,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,01:30,32.3,31.0,94.8,0.0,0,30.39,NW,1.3,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,01:45,32.1,30.5,94.0,0.0,0,30.39,W,1.3,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,02:00,31.8,30.2,94.0,0.0,0,30.39,NW,1.0,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,02:15,31.8,30.1,93.9,0.0,0,30.39,NW,1.3,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,02:30,31.3,29.6,94.2,0.0,0,30.39,NE,1.3,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,02:45,31.2,29.2,93.2,0.0,0,30.38,NW,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,03:00,30.9,29.1,94.4,0.0,0,30.38,N,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,03:15,30.9,29.1,94.1,0.0,0,30.38,N ,1.4,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,03:30,29.6,28.8,98.7,0.0,0,30.38,NE,1.2,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,03:45,29.1,28.0,97.5,0.0,0,30.37,NE,1.1,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,04:00,29.0,27.4,95.8,0.0,0,30.37,NE,0.9,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,04:15,28.4,26.9,96.6,0.0,0,30.37,NE,1.0,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,04:30,27.9,26.4,96.5,0.0,0,30.37,NE,0.9,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,04:45,28.1,25.9,94.2,0.0,0,30.37,N,1.0,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,05:00,28.0,25.9,94.6,0.0,0,30.37,NE,0.6,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,05:15,27.7,25.9,95.6,0.0,0,30.37,NE,1.3,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,05:30,27.0,25.3,96.8,0.0,0,30.37,NE,0.9,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,05:45,27.3,25.1,94.3,0.0,0,30.37,NE,1.0,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,06:00,27.1,24.8,94.1,0.0,0,30.37,NE,1.1,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,06:15,27.0,24.8,94.5,0.0,0,30.37,NE,0.7,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,06:30,26.8,24.7,95.1,0.0,0,30.37,NE,0.9,1.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,06:45,26.4,24.2,94.7,0.0,0,30.36,NE,0.7,1.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,07:00,26.2,24.2,95.4,0.0,0,30.37,NE,0.8,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,07:15,26.6,24.2,94.1,0.0,0,30.37,N ,0.9,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,07:30,26.6,24.7,95.8,0.0,3,30.37,NE,1.3,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,07:45,27.1,25.4,96.4,0.0,7,30.36,NE,1.3,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,08:00,27.1,25.8,98.4,0.0,21,30.36,NE,1.2,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,08:15,27.7,26.6,98.6,0.0,40,30.35,NE,0.9,1.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,08:30,28.4,27.6,99.2,0.0,51,30.35,NE,1.1,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,08:45,28.9,28.3,99.7,0.0,92,30.35,E,1.1,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,09:00,29.8,29.8,100.0,0.0,175,30.34,E,0.9,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,09:15,31.8,31.5,99.5,0.0,221,30.34,E,0.7,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,09:30,32.6,32.5,99.6,0.0,221,30.34,E,1.9,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,09:45,33.9,33.8,99.6,0.0,245,30.34,SE,1.3,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,10:00,35.8,35.6,99.3,0.0,259,30.33,SE,0.9,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,10:15,37.2,37.2,100.0,0.0,275,30.33,E,1.7,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,10:30,37.9,37.8,99.8,0.0,301,30.33,E,2.6,6.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,10:45,38.4,38.1,98.5,0.0,311,30.32,E,2.2,4.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,11:00,39.2,38.2,96.0,0.0,322,30.32,E,2.5,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,11:15,39.7,37.8,93.0,0.0,322,30.31,E,2.9,5.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,11:30,40.1,37.9,91.8,0.0,340,30.3,NE,3.0,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,11:45,40.9,38.3,90.4,0.0,320,30.29,E,2.3,4.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,12:00,41.9,38.1,86.3,0.0,338,30.28,E,2.8,5.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,12:15,42.6,38.1,84.2,0.0,330,30.28,E,2.8,6.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,12:30,42.8,38.3,83.9,0.0,332,30.27,E,3.2,5.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,12:45,43.5,38.0,80.9,0.0,340,30.27,NE,2.8,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,13:00,44.0,38.2,79.8,0.0,320,30.26,E,2.4,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,13:15,44.8,38.3,77.7,0.0,284,30.25,SE,2.0,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,13:30,45.5,38.6,76.6,0.0,276,30.25,E,2.1,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,13:45,46.0,38.4,74.8,0.0,255,30.24,E,2.5,6.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,14:00,45.8,38.2,74.6,0.0,222,30.24,N ,3.3,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,14:15,45.9,37.9,73.5,0.0,206,30.24,N,1.9,4.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,14:30,45.2,39.0,78.7,0.0,190,30.23,W,1.5,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,14:45,44.6,38.9,80.3,0.0,175,30.22,W,1.4,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,15:00,43.6,38.5,81.9,0.0,108,30.22,NW,1.6,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,15:15,42.8,37.3,80.9,0.0,40,30.22,NW,0.8,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,15:30,40.8,36.2,83.7,0.0,35,30.22,NW,0.9,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,15:45,39.6,35.4,84.6,0.0,37,30.22,N,0.7,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,16:00,38.8,34.9,85.6,0.0,26,30.22,N,0.8,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,16:15,38.0,34.4,86.8,0.0,11,30.22,N,0.9,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,16:30,37.5,33.9,86.7,0.0,3,30.21,N,0.9,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,16:45,36.7,33.6,88.5,0.0,0,30.21,N ,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,17:00,35.7,33.1,90.0,0.0,0,30.21,N ,1.1,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,17:15,35.0,32.6,90.9,0.0,0,30.2,NE,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,17:30,34.2,32.0,91.6,0.0,0,30.2,N ,1.1,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,17:45,33.3,31.3,92.3,0.0,0,30.2,N ,1.0,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,18:00,32.7,30.6,91.8,0.0,0,30.2,N ,0.9,1.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,18:15,32.5,30.2,91.0,0.0,0,30.21,NE,0.9,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,18:30,32.1,29.9,91.4,0.0,0,30.2,N ,0.8,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,18:45,31.8,29.6,92.1,0.0,0,30.21,NE,1.5,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,19:00,31.6,29.6,92.7,0.0,0,30.2,NE,1.1,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,19:15,31.7,29.3,91.5,0.0,0,30.2,N ,1.5,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,19:30,31.2,29.2,93.0,0.0,0,30.2,N ,1.3,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,19:45,30.9,29.0,93.7,0.0,0,30.2,NE,1.0,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,20:00,30.8,28.7,92.9,0.0,0,30.21,N ,1.4,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,20:15,30.6,28.6,93.7,0.0,0,30.21,NE,1.2,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,20:30,30.4,28.6,94.0,0.0,0,30.21,NE,0.8,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,20:45,30.0,28.1,94.1,0.0,0,30.21,NE,1.1,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,21:00,29.8,27.8,94.1,0.0,0,30.21,N ,0.9,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,21:15,30.3,27.7,91.2,0.0,0,30.21,N,1.2,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,21:30,29.9,28.1,94.5,0.0,0,30.2,NE,1.2,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,21:45,29.6,28.1,95.6,0.0,0,30.21,NE,1.1,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,22:00,28.9,27.4,96.1,0.0,0,30.22,NE,0.9,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,22:15,30.1,27.4,91.0,0.0,0,30.22,NW,1.5,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,22:30,29.5,27.9,95.8,0.0,0,30.22,NE,1.0,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,22:45,28.7,27.3,96.5,0.0,0,30.22,N ,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,23:00,28.7,27.0,95.6,0.0,0,30.23,N ,1.1,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,23:15,28.3,26.7,96.3,0.0,0,30.23,N ,1.4,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,23:30,27.9,26.3,96.3,0.0,0,30.22,N ,1.6,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,23:45,28.0,26.4,96.4,0.0,0,30.22,NE,1.0,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-27,24:00,28.2,26.1,94.4,0.0,0,30.22,NE,1.4,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,00:15,27.6,25.9,96.2,0.0,0,30.23,NE,1.2,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,00:30,27.8,25.9,95.1,0.0,0,30.23,NE,1.3,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,00:45,27.6,25.9,96.1,0.0,0,30.23,NE,1.4,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,01:00,27.3,25.6,96.4,0.0,0,30.23,NE,1.6,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,01:15,28.0,25.7,93.5,0.0,0,30.23,N ,1.8,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,01:30,27.4,25.8,96.8,0.0,0,30.23,NE,1.3,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,01:45,27.5,25.7,95.8,0.0,0,30.23,NE,1.0,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,02:00,27.6,25.4,93.9,0.0,0,30.23,N ,1.4,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,02:15,28.4,26.1,93.7,0.0,0,30.22,NE,1.6,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,02:30,27.4,26.0,97.5,0.0,0,30.23,NE,1.6,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,02:45,29.5,26.7,90.9,0.0,0,30.23,N,2.0,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,03:00,29.0,27.5,96.1,0.0,0,30.24,E,1.4,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,03:15,29.5,27.6,94.1,0.0,0,30.24,N ,1.4,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,03:30,29.8,27.9,94.4,0.0,0,30.25,NE,1.6,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,03:45,29.2,27.9,97.0,0.0,0,30.25,NE,1.1,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,04:00,29.8,28.2,95.3,0.0,0,30.25,NE,1.4,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,04:15,30.2,28.5,95.0,0.0,0,30.25,N ,1.6,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,04:30,30.2,29.0,96.6,0.0,0,30.25,NE,1.6,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,04:45,30.8,29.4,95.6,0.0,0,30.25,N ,1.2,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,05:00,31.9,30.2,94.0,0.0,0,30.25,NE,1.4,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,05:15,32.3,31.1,95.1,0.0,0,30.25,NE,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,05:30,33.1,31.6,93.8,0.0,0,30.25,N,2.1,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,05:45,33.5,31.9,94.0,0.0,0,30.25,NE,1.8,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,06:00,33.5,32.2,94.9,0.0,0,30.26,W,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,06:15,34.1,32.6,93.9,0.0,0,30.27,NW,1.3,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,06:30,34.8,33.5,94.6,0.0,0,30.28,NE,1.3,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,06:45,34.9,33.9,96.3,0.0,0,30.28,NE,1.7,4.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,07:00,35.3,34.2,95.8,0.0,0,30.28,NW,1.3,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,07:15,37.7,35.0,89.7,0.0,0,30.28,NW,1.6,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,07:30,36.1,35.7,98.6,0.0,1,30.28,NE,1.3,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,07:45,36.7,35.5,95.2,0.0,4,30.28,NW,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,08:00,35.3,35.3,99.8,0.0,7,30.29,E,0.9,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,08:15,35.5,35.0,98.1,0.0,14,30.29,N ,0.7,1.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,08:30,35.5,35.0,98.1,0.0,21,30.3,NE,1.1,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,08:45,35.7,35.3,98.4,0.01,19,30.3,N,1.1,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,09:00,35.8,35.4,98.3,0.0,16,30.3,E,1.0,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,09:15,35.8,35.6,99.0,0.0,47,30.31,NE,1.1,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,09:30,37.6,37.5,99.6,0.0,152,30.31,SE,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,09:45,40.2,40.2,99.8,0.0,172,30.31,NE,1.2,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,10:00,41.4,41.3,99.7,0.0,171,30.31,W,1.0,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,10:15,42.7,42.7,100.0,0.0,265,30.31,SE,1.6,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,10:30,43.8,43.8,100.0,0.0,242,30.31,NW,2.0,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,10:45,44.6,44.6,100.0,0.0,290,30.31,SW,1.4,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,11:00,45.7,45.4,98.7,0.0,240,30.32,NE,2.7,4.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,11:15,45.3,43.6,93.8,0.0,154,30.33,SE,4.1,8.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,11:30,45.3,42.5,89.9,0.0,128,30.33,SE,3.2,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,11:45,45.2,42.4,89.7,0.0,126,30.33,SE,3.8,8.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,12:00,45.3,42.6,90.2,0.0,137,30.33,SE,3.3,6.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,12:15,45.9,42.9,89.3,0.0,194,30.33,E,2.6,5.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,12:30,47.1,44.6,91.0,0.0,267,30.33,E,2.9,7.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,12:45,47.0,44.0,89.2,0.0,151,30.32,SE,2.4,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,13:00,46.9,43.5,87.9,0.0,169,30.32,SE,2.9,5.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,13:15,47.1,43.5,87.2,0.0,157,30.32,S,1.9,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,13:30,47.6,43.9,86.8,0.0,207,30.32,N,1.6,4.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,13:45,48.8,45.0,86.6,0.0,269,30.32,E,2.7,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,14:00,49.5,45.4,85.4,0.0,280,30.33,E,2.5,6.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,14:15,49.8,45.3,84.1,0.0,161,30.33,E,1.5,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,14:30,49.3,44.4,82.9,0.0,102,30.33,SE,2.3,4.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,14:45,48.9,43.8,82.5,0.0,140,30.33,E,2.3,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,15:00,48.9,44.2,83.7,0.0,116,30.33,E,1.7,3.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,15:15,47.6,43.4,85.1,0.0,30,30.33,N ,1.4,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,15:30,46.0,42.2,86.5,0.0,28,30.34,NW,1.6,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,15:45,44.7,41.4,88.1,0.0,24,30.34,NW,1.3,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,16:00,42.9,40.2,90.2,0.0,14,30.35,N ,1.1,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,16:15,42.1,39.2,89.4,0.0,9,30.35,NW,1.5,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,16:30,41.4,38.7,90.0,0.0,5,30.35,NW,1.1,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,16:45,41.0,38.5,90.8,0.0,1,30.35,N,1.1,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,17:00,41.0,38.5,90.7,0.0,0,30.34,NW,1.1,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,17:15,40.3,38.3,92.5,0.0,0,30.35,N,1.2,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,17:30,39.4,37.7,93.5,0.0,0,30.35,NE,0.9,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,17:45,38.8,37.2,93.8,0.0,0,30.36,NW,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,18:00,38.4,36.7,93.6,0.0,0,30.36,N ,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,18:15,38.1,36.4,93.5,0.0,0,30.35,N ,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,18:30,38.2,36.3,92.8,0.0,0,30.35,NE,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,18:45,37.8,36.3,94.4,0.0,0,30.36,NE,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,19:00,38.5,36.2,91.6,0.0,0,30.36,N,1.4,3.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,19:15,37.3,36.0,95.0,0.0,0,30.37,N ,1.0,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,19:30,37.1,35.4,93.6,0.0,0,30.38,N,1.0,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,19:45,35.9,35.0,96.4,0.0,0,30.38,N ,0.9,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,20:00,35.6,34.1,94.2,0.0,0,30.39,N ,1.0,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,20:15,34.9,33.6,95.1,0.0,0,30.38,NE,1.0,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,20:30,35.4,33.2,91.3,0.0,0,30.38,N,0.9,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,20:45,34.8,33.3,93.9,0.0,0,30.38,NE,1.0,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,21:00,34.4,33.0,94.8,0.0,0,30.39,N ,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,21:15,34.0,32.5,94.3,0.0,0,30.39,NE,1.3,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,21:30,33.9,32.4,94.2,0.0,0,30.4,NE,1.1,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,21:45,34.1,32.9,95.3,0.0,0,30.4,NE,1.3,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,22:00,34.2,33.2,96.2,0.0,0,30.4,NE,1.3,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,22:15,34.7,33.5,95.7,0.0,0,30.4,NE,1.0,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,22:30,34.6,33.7,96.5,0.0,0,30.4,NE,1.2,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,22:45,34.8,33.9,96.5,0.0,0,30.4,NE,1.1,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,23:00,34.9,33.9,96.3,0.0,0,30.4,NE,0.9,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,23:15,34.8,33.7,95.7,0.0,0,30.4,NE,1.2,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,23:30,34.1,33.4,97.0,0.0,0,30.4,N ,0.6,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,23:45,33.7,32.8,96.4,0.0,0,30.4,NE,1.0,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-28,24:00,33.1,32.2,96.5,0.0,0,30.4,NE,1.1,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,00:15,32.6,31.8,97.0,0.0,0,30.4,N ,1.5,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,00:30,32.4,31.5,96.5,0.0,0,30.4,NE,1.0,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,00:45,32.0,31.0,96.8,0.0,0,30.4,NE,1.2,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,01:00,32.2,31.1,95.8,0.0,0,30.4,N ,1.2,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,01:15,31.8,30.7,96.1,0.0,0,30.4,NE,1.6,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,01:30,31.0,30.3,98.4,0.0,0,30.39,NE,1.6,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,01:45,31.0,30.0,97.2,0.0,0,30.39,NE,1.5,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,02:00,31.1,30.1,96.8,0.0,0,30.39,NE,1.2,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,02:15,30.9,30.0,97.4,0.0,0,30.39,NE,1.7,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,02:30,31.2,30.5,97.8,0.0,0,30.39,NE,1.2,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,02:45,31.2,30.5,98.1,0.0,0,30.39,NE,1.0,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,03:00,32.3,31.3,95.8,0.0,0,30.39,NE,1.2,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,03:15,32.2,31.6,97.6,0.0,0,30.39,NE,1.6,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,03:30,32.8,31.9,96.4,0.0,0,30.39,E,1.5,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,03:45,32.9,32.3,97.7,0.0,0,30.38,N ,1.5,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,04:00,33.8,32.6,95.4,0.0,0,30.38,NE,2.4,8.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,04:15,34.7,33.6,95.8,0.0,0,30.38,E,1.2,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,04:30,34.9,34.0,96.6,0.0,0,30.38,N ,1.3,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,04:45,35.8,34.7,95.8,0.0,0,30.38,NE,1.3,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,05:00,36.5,35.3,95.7,0.0,0,30.38,N ,1.3,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,05:15,36.4,35.8,97.8,0.0,0,30.38,SE,0.9,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,05:30,36.9,36.1,96.9,0.0,0,30.38,N ,1.7,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,05:45,37.4,36.4,96.3,0.0,0,30.38,N ,2.6,7.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,06:00,38.8,37.0,93.4,0.0,0,30.37,N,3.5,8.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,06:15,38.8,37.3,94.3,0.0,0,30.37,N,2.7,5.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,06:30,39.0,37.5,94.2,0.0,0,30.37,N,2.6,5.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,06:45,38.8,37.5,94.8,0.0,0,30.36,N ,2.1,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,07:00,38.7,37.5,95.4,0.0,0,30.37,N ,2.5,6.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,07:15,38.9,37.5,94.5,0.0,0,30.37,N,2.8,7.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,07:30,38.8,37.8,96.2,0.0,1,30.37,N,3.7,6.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,07:45,38.7,37.8,96.6,0.0,6,30.37,N,4.3,8.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,08:00,38.7,37.8,96.7,0.0,10,30.37,N ,4.0,9.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,08:15,38.3,37.8,98.0,0.0,24,30.36,N ,3.8,8.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,08:30,38.4,37.6,97.1,0.0,65,30.36,N,3.5,8.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,08:45,38.7,37.8,96.6,0.0,78,30.36,N ,2.9,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,09:00,39.3,38.6,97.3,0.0,143,30.36,N ,3.5,7.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,09:15,39.6,39.5,99.4,0.0,127,30.35,N,4.4,11.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,09:30,39.6,38.6,95.9,0.0,135,30.35,N,3.8,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,09:45,39.7,37.8,92.9,0.0,90,30.35,N ,4.1,9.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,10:00,39.7,37.1,90.6,0.0,61,30.35,N ,3.2,7.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,10:15,39.6,37.1,90.7,0.0,78,30.35,N ,3.1,6.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,10:30,39.8,37.1,89.9,0.0,83,30.35,N ,3.4,7.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,10:45,39.6,37.1,90.6,0.0,93,30.35,N,3.1,5.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,11:00,39.7,36.8,89.2,0.0,93,30.34,N,3.4,5.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,11:15,39.9,36.8,88.5,0.0,80,30.33,N,2.6,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,11:30,40.2,36.8,87.6,0.0,76,30.33,N,2.4,5.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,11:45,40.4,36.8,86.8,0.0,95,30.32,N,2.5,5.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,12:00,40.6,36.8,86.0,0.0,118,30.32,N ,2.9,5.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,12:15,40.9,36.8,85.4,0.0,90,30.31,N ,2.7,5.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,12:30,40.9,36.8,85.4,0.0,76,30.3,NW,2.0,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,12:45,41.0,36.6,84.2,0.0,58,30.3,N,2.3,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,13:00,40.8,36.4,84.4,0.0,52,30.29,NW,2.2,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,13:15,40.5,36.5,85.5,0.0,56,30.28,NW,1.8,3.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,13:30,40.4,36.5,85.8,0.0,47,30.28,NW,1.5,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,13:45,39.9,36.5,87.3,0.0,50,30.28,NW,1.6,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,14:00,39.4,36.3,88.5,0.0,48,30.27,NW,1.4,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,14:15,38.9,36.1,89.5,0.0,34,30.27,N,0.9,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,14:30,38.8,35.7,88.5,0.0,30,30.26,NW,1.3,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,14:45,37.7,35.3,90.9,0.0,30,30.26,N ,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,15:00,37.2,35.0,91.4,0.0,28,30.26,N,1.3,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,15:15,36.9,34.7,91.4,0.0,28,30.25,N ,1.0,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,15:30,36.4,34.3,92.2,0.0,27,30.25,NE,1.4,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,15:45,36.1,34.2,92.6,0.0,17,30.25,N,1.3,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,16:00,36.0,33.7,91.3,0.0,12,30.25,N,1.2,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,16:15,35.1,33.3,93.1,0.0,8,30.25,N ,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,16:30,34.7,32.6,92.3,0.0,4,30.24,N,0.8,1.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,16:45,33.8,32.1,93.4,0.0,1,30.24,N ,0.7,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,17:00,33.3,31.3,92.3,0.0,0,30.24,N ,1.2,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,17:15,32.7,31.0,93.3,0.0,0,30.23,N ,0.8,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,17:30,32.4,30.5,92.7,0.0,0,30.23,N ,0.8,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,17:45,32.1,30.2,92.8,0.0,0,30.23,N ,0.9,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,18:00,31.6,29.7,93.1,0.0,0,30.23,NE,0.8,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,18:15,31.4,29.6,94.0,0.0,0,30.23,NE,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,18:30,31.1,29.2,93.6,0.0,0,30.23,N ,0.9,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,18:45,30.8,29.1,94.6,0.0,0,30.23,NE,0.8,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,19:00,31.1,29.2,93.5,0.0,0,30.23,N ,1.0,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,19:15,30.9,29.6,95.7,0.0,0,30.23,E,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,19:30,30.7,29.6,96.8,0.0,0,30.23,NE,1.3,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,19:45,31.0,29.6,95.4,0.0,0,30.22,N,1.0,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,20:00,31.2,29.6,94.7,0.0,0,30.22,N ,1.3,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,20:15,30.6,29.5,97.1,0.0,0,30.22,NE,1.2,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,20:30,30.5,29.4,97.0,0.0,0,30.22,N ,1.3,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,20:45,30.9,29.6,95.9,0.0,0,30.21,N ,0.6,1.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,21:00,30.6,29.5,97.0,0.0,0,30.21,NE,1.3,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,21:15,30.4,29.2,96.6,0.0,0,30.22,NE,0.9,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,21:30,30.7,29.3,95.7,0.0,0,30.21,N ,0.9,1.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,21:45,31.0,29.6,95.8,0.0,0,30.21,NE,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,22:00,30.7,29.8,97.8,0.0,0,30.2,NE,1.1,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,22:15,30.7,29.7,97.1,0.0,0,30.2,NE,0.7,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,22:30,30.3,29.5,98.1,0.0,0,30.2,NE,1.1,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,22:45,30.5,29.4,96.7,0.0,0,30.19,NE,1.1,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,23:00,30.3,29.5,98.4,0.0,0,30.18,N ,1.0,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,23:15,30.6,29.6,97.3,0.0,0,30.18,NE,1.3,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,23:30,31.4,30.2,96.1,0.0,0,30.18,N,1.3,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,23:45,32.0,30.7,95.7,0.0,0,30.16,N ,1.3,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-29,24:00,31.8,31.2,97.9,0.0,0,30.16,E,1.3,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,00:15,31.6,31.3,99.6,0.0,0,30.16,NE,1.1,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,00:30,31.8,31.4,99.1,0.0,0,30.15,N ,0.7,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,00:45,32.1,31.6,97.7,0.0,0,30.15,E,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,01:00,32.3,31.7,97.7,0.0,0,30.14,NE,1.0,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,01:15,32.9,32.0,96.7,0.0,0,30.14,NE,1.3,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,01:30,33.0,32.4,97.5,0.0,0,30.13,NE,0.8,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,01:45,32.7,32.4,98.8,0.0,0,30.12,E,1.4,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,02:00,32.6,32.4,99.0,0.0,0,30.12,NE,1.7,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,02:15,32.9,32.4,98.0,0.0,0,30.12,NE,1.1,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,02:30,33.5,32.8,97.0,0.0,0,30.1,N ,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,02:45,33.4,33.0,98.3,0.0,0,30.1,NE,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,03:00,33.3,33.1,99.1,0.0,0,30.09,N ,0.9,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,03:15,33.8,33.2,97.4,0.0,0,30.08,NE,1.0,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,03:30,33.6,33.2,98.5,0.0,0,30.07,NE,1.0,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,03:45,33.7,33.4,98.9,0.0,0,30.08,E,1.4,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,04:00,33.9,33.5,98.8,0.0,0,30.1,NE,1.9,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,04:15,33.8,33.5,99.0,0.0,0,30.08,SE,2.1,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,04:30,34.5,33.6,96.7,0.0,0,30.06,NW,1.4,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,04:45,34.3,33.9,98.7,0.0,0,30.07,NW,1.5,3.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,05:00,33.9,33.9,100.0,0.0,0,30.06,E,1.2,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,05:15,33.9,33.5,98.5,0.0,0,30.06,W,0.9,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,05:30,34.2,33.9,98.8,0.0,0,30.07,E,1.4,2.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,05:45,34.4,34.0,98.5,0.0,0,30.08,N ,3.6,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,06:00,34.1,34.0,99.7,0.0,0,30.09,NE,2.2,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,06:15,33.8,33.8,100.0,0.05,0,30.09,E,2.4,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,06:30,33.9,33.7,99.2,0.09,0,30.09,SE,1.9,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,06:45,34.0,33.9,99.7,0.08,0,30.07,N ,2.1,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,07:00,34.3,33.9,98.6,0.06,0,30.08,NE,2.5,8.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,07:15,34.3,34.0,98.7,0.03,0,30.08,S,1.8,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,07:30,34.5,34.3,99.1,0.02,1,30.08,NE,2.1,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,07:45,34.5,34.3,99.3,0.0,3,30.09,N ,1.7,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,08:00,34.4,34.3,99.5,0.0,10,30.09,N,1.4,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,08:15,33.8,33.8,99.9,0.0,25,30.1,NE,1.0,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,08:30,34.1,33.9,99.4,0.0,58,30.11,SE,1.3,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,08:45,35.4,34.7,97.3,0.01,36,30.12,NE,1.9,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,09:00,36.3,35.7,97.8,0.01,54,30.13,NE,2.5,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,09:15,35.5,35.5,100.0,0.0,58,30.15,E,3.2,7.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,09:30,36.1,36.1,100.0,0.0,118,30.15,N,2.8,5.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,09:45,37.2,37.1,99.8,0.0,86,30.16,NW,1.8,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,10:00,38.1,37.9,99.0,0.01,53,30.16,E,1.3,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,10:15,38.5,38.5,99.8,0.01,50,30.17,S,2.1,7.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,10:30,39.1,38.8,98.8,0.0,68,30.18,S,2.7,8.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,10:45,40.1,39.8,98.8,0.0,110,30.18,NE,2.8,6.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,11:00,41.9,41.0,96.5,0.0,88,30.18,SW,2.9,10.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,11:15,43.3,41.9,94.7,0.0,101,30.19,S,5.9,11.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,11:30,43.0,42.4,97.5,0.0,74,30.2,SW,3.2,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,11:45,43.1,42.4,97.2,0.0,95,30.21,SW,4.3,9.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,12:00,43.5,42.7,97.0,0.0,140,30.22,S,3.2,8.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,12:15,44.0,42.9,95.8,0.0,158,30.22,SW,2.3,6.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,12:30,44.8,43.0,93.2,0.0,166,30.22,SW,3.9,12.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,12:45,45.6,42.0,87.1,0.0,165,30.22,SW,3.6,13.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,13:00,46.1,41.0,82.3,0.0,112,30.23,SW,3.6,9.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,13:15,45.1,40.4,83.4,0.0,94,30.24,SW,3.6,8.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,13:30,45.3,40.0,81.6,0.0,101,30.24,S,3.9,12.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,13:45,44.7,39.5,81.8,0.0,119,30.25,SW,5.7,17.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,14:00,44.7,40.0,83.4,0.0,216,30.25,S,6.6,15.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,14:15,45.5,40.5,82.6,0.0,172,30.25,SW,3.1,13.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,14:30,45.4,38.9,78.0,0.0,78,30.25,SW,6.6,15.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,14:45,45.2,38.0,75.7,0.0,67,30.27,SW,4.4,16.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,15:00,44.8,37.8,76.2,0.0,40,30.28,S,5.8,28.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,15:15,45.1,37.3,73.9,0.0,62,30.28,SW,4.5,19.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,15:30,44.7,37.5,75.7,0.0,42,30.29,SW,4.6,10.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,15:45,45.5,36.3,69.9,0.0,30,30.3,NW,4.6,16.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,16:00,45.4,36.1,69.6,0.0,14,30.31,SW,4.3,11.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,16:15,44.9,36.1,70.8,0.0,7,30.31,E,2.3,8.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,16:30,44.4,35.5,70.8,0.0,3,30.33,SE,3.4,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,16:45,44.3,35.3,70.4,0.0,0,30.34,N,4.9,11.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,17:00,41.9,36.4,80.7,0.0,0,30.34,N,4.1,10.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,17:15,42.1,36.3,79.9,0.0,0,30.34,SW,4.1,16.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,17:30,41.3,35.8,80.5,0.0,0,30.35,W,2.7,8.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,17:45,39.4,35.1,84.3,0.0,0,30.36,NW,2.3,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,18:00,38.8,34.3,83.5,0.0,0,30.37,NW,2.3,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,18:15,38.2,33.6,83.2,0.0,0,30.36,NW,2.9,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,18:30,41.9,33.4,71.7,0.0,0,30.37,SW,4.9,15.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,18:45,41.0,33.6,74.9,0.0,0,30.38,SW,2.8,7.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,19:00,39.0,33.5,80.5,0.0,0,30.39,W,2.9,17.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,19:15,38.3,33.2,81.5,0.0,0,30.39,NW,2.4,7.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,19:30,38.1,32.8,81.1,0.0,0,30.39,NW,2.6,5.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,19:45,39.6,33.0,77.2,0.0,0,30.39,W,3.0,9.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,20:00,40.1,33.3,76.7,0.0,0,30.39,SW,3.2,7.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,20:15,40.0,33.5,77.4,0.0,0,30.39,SW,2.4,10.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,20:30,39.0,33.3,79.6,0.0,0,30.4,N,2.2,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,20:45,38.9,33.4,80.3,0.0,0,30.4,W,2.1,5.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,21:00,39.2,34.1,81.9,0.0,0,30.42,NW,1.8,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,21:15,38.1,34.3,86.1,0.0,0,30.43,N,1.7,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,21:30,37.7,34.4,87.6,0.0,0,30.43,NW,1.9,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,21:45,36.8,34.1,89.8,0.0,0,30.44,NW,1.7,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,22:00,36.8,33.4,87.3,0.0,0,30.45,NW,2.2,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,22:15,37.4,33.2,84.6,0.0,0,30.46,NW,2.1,4.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,22:30,35.5,32.7,89.5,0.0,0,30.47,NE,1.6,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,22:45,34.4,31.9,90.4,0.0,0,30.48,NW,1.1,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,23:00,34.3,31.6,89.7,0.0,0,30.49,NW,1.4,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,23:15,34.3,31.6,89.6,0.0,0,30.49,N,1.5,2.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,23:30,33.6,31.4,91.5,0.0,0,30.49,NW,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,23:45,32.8,30.9,92.5,0.0,0,30.49,NE,1.3,2.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-11-30,24:00,32.5,30.4,91.9,0.0,0,30.51,N,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,00:15,32.7,30.3,90.6,0.0,0,30.51,N,1.2,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,00:30,32.9,30.3,90.1,0.0,0,30.52,N,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,00:45,32.2,30.3,92.6,0.0,0,30.52,NE,1.4,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,01:00,31.8,29.8,93.0,0.0,0,30.52,N ,1.2,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,01:15,32.0,29.7,91.1,0.0,0,30.52,N,1.0,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,01:30,32.9,29.9,88.9,0.0,0,30.52,NW,1.2,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,01:45,35.5,30.8,82.6,0.0,0,30.51,W,2.3,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,02:00,34.6,31.9,89.8,0.0,0,30.51,SW,1.7,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,02:15,33.8,32.0,93.0,0.0,0,30.51,W,1.2,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,02:30,34.5,31.5,88.9,0.0,0,30.52,W,1.6,3.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,02:45,34.8,31.7,88.1,0.0,0,30.51,SW,3.0,7.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,03:00,34.1,32.2,92.7,0.0,0,30.52,N ,2.2,5.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,03:15,33.2,31.3,92.8,0.0,0,30.52,NW,1.8,4.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,03:30,31.8,30.2,94.4,0.0,0,30.52,NW,1.6,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,03:45,30.7,29.1,94.7,0.0,0,30.53,N ,1.7,3.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,04:00,30.0,28.2,94.7,0.0,0,30.53,N ,1.4,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,04:15,29.7,27.6,93.6,0.0,0,30.54,N,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,04:30,29.5,27.3,93.2,0.0,0,30.54,N ,1.6,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,04:45,29.3,27.1,93.2,0.0,0,30.55,NW,1.3,3.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,05:00,29.1,27.0,94.1,0.0,0,30.55,NE,1.1,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,05:15,28.4,26.5,95.0,0.0,0,30.55,N ,1.2,3.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,05:30,28.2,26.4,95.6,0.0,0,30.56,N ,1.3,3.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,05:45,27.8,25.9,95.1,0.0,0,30.56,NE,1.1,2.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,06:00,27.6,25.4,94.2,0.0,0,30.57,NE,1.1,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,06:15,27.5,25.4,94.5,0.0,0,30.58,NE,1.2,2.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,06:30,27.7,25.3,93.5,0.0,0,30.58,N,1.0,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,06:45,27.3,25.3,95.1,0.0,0,30.58,NE,1.2,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,07:00,26.9,24.8,94.8,0.0,0,30.59,NE,0.9,1.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,07:15,27.2,24.8,93.7,0.0,0,30.59,NE,1.0,1.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,07:30,26.9,24.8,94.6,0.0,3,30.59,NE,1.0,1.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,07:45,26.9,24.8,94.8,0.0,8,30.6,N ,1.2,2.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,08:00,26.7,24.7,95.7,0.0,14,30.6,NE,1.1,2.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,08:15,26.8,24.9,95.8,0.0,21,30.61,NE,0.6,1.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,08:30,27.5,25.9,96.8,0.0,76,30.6,NE,1.0,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,08:45,28.7,28.7,100.0,0.0,122,30.59,NE,0.9,1.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,09:00,30.2,29.7,99.5,0.0,155,30.59,E,1.2,2.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,09:15,31.5,31.2,99.9,0.0,198,30.59,E,1.0,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,09:30,32.1,31.8,99.0,0.0,213,30.59,SE,1.4,2.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,09:45,33.7,33.6,99.7,0.0,219,30.58,SE,1.5,3.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,10:00,34.8,34.8,100.0,0.0,238,30.58,SE,1.7,3.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,10:15,35.8,35.8,100.0,0.0,257,30.58,E,2.2,4.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,10:30,37.0,36.8,99.3,0.0,273,30.58,E,2.8,7.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,10:45,37.5,36.8,97.4,0.0,287,30.58,NE,4.4,9.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,11:00,37.5,36.2,94.7,0.0,299,30.57,NE,4.4,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,11:15,37.9,36.4,94.4,0.0,308,30.57,N ,4.7,9.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,11:30,38.7,36.6,91.8,0.0,315,30.57,NE,3.6,8.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,11:45,39.7,37.3,91.0,0.0,319,30.56,N ,3.4,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,12:00,40.8,37.8,88.7,0.0,320,30.55,N ,4.0,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,12:15,42.2,38.3,85.7,0.0,320,30.55,N ,4.5,8.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,12:30,43.0,38.2,82.9,0.0,316,30.54,N ,4.5,10.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,12:45,43.8,38.1,80.3,0.0,308,30.54,N ,4.9,10.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,13:00,44.4,37.8,77.2,0.0,298,30.54,N ,4.5,10.2,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,13:15,45.0,37.9,76.1,0.0,286,30.53,NE,3.4,7.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,13:30,45.1,37.5,74.7,0.0,271,30.53,NE,4.6,12.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,13:45,45.6,36.9,71.3,0.0,253,30.53,E,4.8,13.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,14:00,45.7,36.3,69.5,0.0,234,30.53,E,4.4,10.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,14:15,45.7,35.7,68.1,0.0,211,30.53,E,5.4,9.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,14:30,45.6,35.6,67.9,0.0,188,30.53,NE,4.5,8.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,14:45,45.5,35.9,68.8,0.0,164,30.52,NE,3.9,9.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,15:00,45.0,35.8,70.0,0.0,108,30.53,E,5.0,11.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,15:15,44.1,35.4,71.0,0.0,25,30.52,E,4.6,11.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,15:30,43.6,34.6,70.3,0.0,21,30.52,E,4.8,13.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,15:45,43.0,34.3,71.1,0.0,18,30.52,SE,3.1,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,16:00,42.6,34.0,71.3,0.0,13,30.52,SE,2.3,8.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,16:15,41.9,33.5,71.8,0.0,9,30.52,E,2.0,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,16:30,41.8,33.2,71.3,0.0,4,30.53,SE,2.4,5.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,16:45,40.6,32.7,73.3,0.0,1,30.53,N ,2.1,5.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,17:00,39.0,32.3,76.8,0.0,0,30.53,NW,2.4,4.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,17:15,38.5,31.8,76.6,0.0,0,30.53,NW,2.4,4.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,17:30,37.3,31.6,79.7,0.0,0,30.53,NW,1.9,3.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,17:45,36.7,31.0,79.4,0.0,0,30.54,NW,2.0,5.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,18:00,38.6,30.6,72.5,0.0,0,30.54,NW,2.8,7.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,18:15,38.1,30.8,74.6,0.0,0,30.54,NW,2.9,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,18:30,35.5,30.6,82.2,0.0,0,30.53,N,2.2,5.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,18:45,35.4,30.1,80.8,0.0,0,30.54,NW,2.2,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,19:00,35.9,29.7,78.0,0.0,0,30.54,N,2.3,5.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,19:15,37.4,29.5,72.9,0.0,0,30.54,N,3.1,6.6,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,19:30,36.9,29.8,75.5,0.0,0,30.54,N,2.2,6.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,19:45,36.2,29.6,76.9,0.0,0,30.54,NW,2.2,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,20:00,36.3,29.4,75.9,0.0,0,30.55,NW,2.5,6.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,20:15,36.5,29.4,75.2,0.0,0,30.55,N,3.0,7.3,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,20:30,35.4,29.4,78.7,0.0,0,30.55,NW,2.8,6.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,20:45,36.3,29.4,75.8,0.0,0,30.55,N,3.1,6.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,21:00,36.1,29.6,77.2,0.0,0,30.55,N,2.6,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,21:15,35.6,29.8,79.4,0.0,0,30.55,NW,2.4,6.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,21:30,35.0,29.7,80.8,0.0,0,30.54,NW,3.0,6.1,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,21:45,34.2,29.7,83.4,0.0,0,30.54,NW,2.5,5.4,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,22:00,34.0,29.1,82.3,0.0,0,30.55,N ,2.2,5.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,22:15,32.2,28.8,87.1,0.0,0,30.55,N ,2.2,5.0,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,22:30,31.9,28.2,86.4,0.0,0,30.56,N,1.9,4.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,22:45,30.7,27.5,88.8,0.0,0,30.56,N ,2.0,4.5,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,23:00,30.1,27.0,89.3,0.0,0,30.56,N,1.6,3.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,23:15,30.5,26.8,87.2,0.0,0,30.56,N,2.8,7.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,23:30,30.4,26.7,87.5,0.0,0,30.55,N ,1.9,4.9,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,23:45,30.8,27.0,86.8,0.0,0,30.55,N ,2.1,5.7,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
+2020-12-01,24:00,30.5,27.2,88.8,0.0,0,30.55,N ,1.6,2.8,"BearWallow*, Hood River, Hood River County",100005,BearWallow*,2020-12-17 11:09:18.522862
