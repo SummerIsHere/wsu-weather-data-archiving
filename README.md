@@ -1,4 +1,4 @@
-# WSU AgWeather Archiving
+# WSU Weather Data Archiving
 
 ## Purpose
 This is a deprecated project that remains here solely for archival purposes. Fair warning, it is difficult to maintain and requires repeated runs for completeness.
