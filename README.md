@@ -1,19 +1,22 @@
-# Apocalypse Status Dashboard
+# WSU AgWeather Archiving
 
 ## Purpose
-Climate change and resource depletion are grave long-term dangers.
-The code in this repository will pull data from various public sources and display metrics showing how far those dangers are progressing. It also serves as an archive of minimally processed versions of that data. The metrics are displayed in the Power BI report in the report subfolder.
+This is a deprecated project that remains here solely for archival purposes. Fair warning, it is difficult to maintain and requires repeated runs for completeness.
+
+Previously data had been pulled from the Washington State University (WSU) AgWeatherNet program to populate a report of climate change metrics. It remains an excellent source of weather data for Washington state for a variety of measures from across the state at 15 minute time intervals. However, the report does not need this level of detailed data, and due to the complexities of pulling data from (WSU AgWeatherNet)[https://weather.wsu.edu/] as well as the availability of easier to pull, summarized data from US federal agencies, this data source was removed from the report.
+
+This code remains for anyone still interested in this particular data source
 
 ## Documentation
-See the [wiki](https://github.com/SummerIsHere/apocalypse-status/wiki) for more detailed documentation.
+See the [wiki](https://github.com/SummerIsHere/apocalypse-status/wiki) for additional notes.
 
 ## Installation Instructions
 
 1. Download and install the [Firefox web browser](https://www.mozilla.org/firefox/). Go to about About Firefox to check whether it is 32-bit or 64-bit. 64-bit recommended throughout this guide.
-2. Install the [Anaconda distribution](https://www.anaconda.com/download/) of Python3. When you install, be sure to include the installation of Anaconda Navigator.
+2. Install the individual [Anaconda distribution](https://www.anaconda.com/download/) of Python3. When you install, be sure to include the installation of Anaconda Navigator.
 3. Open Anaconda Navigator with administrator privileges. Install selenium and pandas-datareader using Navigator.
 4. Download the [latest release](https://github.com/mozilla/geckodriver/releases) of geckodriver matching your operating system and and the 32 or 64 bit version of your Firefox and unzip the binary into the relevant subfolder under the geckodriver_bins folder.
-5. Install [PowerBI](https://www.powerbi.com), a program to create reports and data visualizations.  It is required to open "Apocalypse Status Board.pbix". This program is Windows only, so if you are on another system, use VirtualBox, Parallels, etc to launch a Windows environment)
+5. Install Microsoft [PowerBI](https://www.powerbi.com), a program to create reports and data visualizations.  It is required to open "Apocalypse Status Board.pbix". This program is Windows only, so if you are on another system, use VirtualBox, Parallels, etc to launch a Windows environment)
 
 ## How to run
 1. Check that your default Python is Python 3 by typing "python --version" in the terminal
@@ -25,4 +28,5 @@ See the [wiki](https://github.com/SummerIsHere/apocalypse-status/wiki) for more 
 
 ## Troubleshooting
 
-1. You should always update to the latest Firefox, geckodriver, and selenium (https://anaconda.org/conda-forge/selenium)
+1. You should always update to the latest Firefox, geckodriver, and selenium (https://anaconda.org/conda-forge/selenium). You may need to uninstall and reinstall the latest Anaconda completely due to package dependencies.
+2. 
