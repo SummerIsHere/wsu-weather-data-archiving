@@ -3,9 +3,11 @@
 ## Purpose
 This is a deprecated project that remains here solely for archival purposes. Fair warning, it is difficult to maintain and requires repeated runs for completeness.
 
-Previously data had been pulled from the Washington State University (WSU) AgWeatherNet program to populate a report of climate change metrics. It remains an excellent source of weather data for Washington state for a variety of measures from across the state at 15 minute time intervals. However, the report does not need this level of detailed data, and due to the complexities of pulling data from (WSU AgWeatherNet)[https://weather.wsu.edu/] as well as the availability of easier to pull, summarized data from US federal agencies, this data source was removed from the report.
+Previously data had been pulled from the Washington State University (WSU) AgWeatherNet program to populate a report of climate change metrics. It remains an excellent source of weather data for Washington state for a variety of measures from across the state at 15 minute time intervals. However, the report does not need this level of detailed data, and due to the complexities of pulling data from [WSU AgWeatherNet](https://weather.wsu.edu/) as well as the availability of easier to pull, summarized data from US federal agencies, this data source was removed from the report.
 
-This code and legacy data remains for anyone still interested in this particular data source
+This code and legacy data remains for anyone still interested in this particular data source.
+
+The report related code has been moved to a new repository [https://github.com/summerishere/apocalypse-status-slim](https://github.com/summerishere/apocalypse-status-slim)
 
 ## Documentation
 See the [wiki](https://github.com/SummerIsHere/apocalypse-status/wiki) for additional notes.
