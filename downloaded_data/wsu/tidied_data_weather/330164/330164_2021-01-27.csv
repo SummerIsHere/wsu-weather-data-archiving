@@ -1,0 +1,673 @@
+Date,Time PDT,1.5m Air Temp °F, 1.5m Dew Point °F, 1.5m Rel Hum %, Tot Prec in, Solar Rad W/m², Wind Direction, Wind Speed mph, 2m Wind Gust mph, 1.5m Leaf Wet u., 8 in. Soil Tmp °F,Location,Station ID,Station Name,Download Timestamp
+2021-01-27,23:15,40.4,35.5,82.3,0.0,0,SE,0.6,4.6,0.15,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-27,23:30,40.5,35.7,82.9,0.01,0,SE,1.9,7.1,0.16,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-27,23:45,40.4,36.1,84.3,0.01,0,E,5.5,9.9,0.16,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-27,24:00,39.9,36.2,86.5,0.02,0,E,5.4,9.9,0.16,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,00:15,39.6,36.3,87.9,0.01,0,SE,5.4,9.6,0.15,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,00:30,39.4,36.4,88.9,0.01,0,E,4.3,8.5,0.16,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,00:45,39.1,36.4,90.0,0.0,0,E,0.9,4.6,0.16,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,01:00,38.9,36.3,90.3,0.0,0,N ,0.0,0.0,0.16,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,01:15,38.7,36.4,91.2,0.0,0,N ,0.0,0.0,0.16,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,01:30,38.4,36.5,92.8,0.0,0,E,2.3,4.6,0.17,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,01:45,38.4,36.8,93.6,0.0,0,E,0.7,3.9,0.17,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,02:00,38.4,36.8,93.7,0.01,0,SE,1.4,4.6,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,02:15,38.6,36.9,93.4,0.0,0,SE,3.6,6.4,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,02:30,38.9,36.6,91.2,0.0,0,E,3.8,7.1,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,02:45,38.8,36.5,91.3,0.0,0,E,1.9,6.0,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,03:00,38.8,36.3,90.7,0.0,0,SE,0.5,4.6,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,03:15,38.2,36.3,92.7,0.0,0,SE,0.6,4.6,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,03:30,38.5,36.4,92.1,0.01,0,E,1.4,7.1,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,03:45,38.9,36.8,92.0,0.0,0,SE,4.3,7.4,0.18,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,04:00,39.4,36.9,90.8,0.0,0,SE,5.3,9.2,0.19,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,04:15,39.8,37.2,90.5,0.0,0,SE,5.4,8.2,0.19,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,04:30,39.8,37.1,90.0,0.0,0,SE,4.1,6.4,0.19,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,04:45,39.8,37.1,90.2,0.0,0,SE,2.0,6.0,0.19,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,05:00,40.0,37.4,90.3,0.0,0,SE,1.5,6.0,0.19,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,05:15,39.5,36.6,89.2,0.0,0,SE,0.8,4.2,0.19,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,05:30,38.2,35.6,90.1,0.0,0,SE,0.0,2.4,0.17,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,05:45,39.1,36.3,89.7,0.0,0,S,1.4,4.2,0.14,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,06:00,38.9,36.5,90.8,0.0,0,S,0.2,3.1,0.18,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,06:15,38.0,35.8,91.8,0.0,0,E,0.3,3.9,0.18,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,06:30,36.9,35.5,94.4,0.0,0,N ,0.0,0.0,0.19,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,06:45,37.3,36.0,95.0,0.0,0,N ,0.0,0.0,0.19,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,07:00,37.2,36.0,95.5,0.0,0,N ,0.0,0.0,0.19,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,07:15,37.4,36.3,95.7,0.0,0,N ,0.0,0.0,0.19,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,07:30,38.1,36.7,94.8,0.0,0,N ,0.0,0.0,0.2,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,07:45,38.4,37.1,94.8,0.0,1,N ,0.0,0.0,0.2,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,08:00,38.4,37.0,94.5,0.0,5,N ,0.0,0.0,0.2,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,08:15,37.4,36.0,94.7,0.0,13,N ,0.0,0.0,0.2,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,08:30,37.2,36.0,95.3,0.0,15,N ,0.0,0.0,0.2,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,08:45,37.3,36.1,95.4,0.0,21,N ,0.0,0.0,0.2,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,09:00,37.7,36.4,95.0,0.0,46,N ,0.0,0.0,0.21,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,09:15,37.9,36.7,95.1,0.0,51,N ,0.0,0.0,0.21,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,09:30,38.2,36.9,95.1,0.0,77,E,0.0,1.4,0.21,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,09:45,40.0,38.0,92.4,0.0,177,E,0.4,4.9,0.2,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,10:00,41.5,38.4,88.8,0.0,170,E,1.1,6.0,0.08,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,10:15,41.7,38.1,87.1,0.0,169,E,0.4,5.3,0.04,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,10:30,42.4,38.3,85.4,0.0,185,N ,0.0,0.0,0.04,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,10:45,42.4,38.4,85.5,0.0,143,E,0.5,4.2,0.03,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,11:00,42.9,39.1,86.4,0.0,164,E,0.5,4.9,0.03,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,11:15,43.3,39.2,85.6,0.0,228,E,2.7,6.4,0.03,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,11:30,43.0,39.1,85.7,0.0,103,E,3.9,6.0,0.02,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,11:45,42.8,39.1,86.4,0.0,111,E,4.8,7.8,0.02,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,12:00,42.5,39.2,87.8,0.0,103,E,5.3,7.8,0.02,40.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,12:15,42.0,38.7,87.8,0.0,78,NE,5.5,7.8,0.02,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,12:30,42.2,38.9,88.0,0.0,102,NE,6.0,8.2,0.01,41.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,12:45,42.8,39.2,87.1,0.0,173,NE,5.6,7.4,0.01,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,13:00,43.3,39.4,85.9,0.0,230,NE,6.0,8.5,0.01,41.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,13:15,43.6,39.5,85.3,0.0,114,NE,5.2,7.4,0.01,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,13:30,43.3,39.3,85.6,0.0,119,NE,5.5,7.8,0.01,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,13:45,43.6,39.4,85.1,0.0,142,NE,6.2,8.9,0.01,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,14:00,43.7,39.4,84.7,0.0,105,NE,5.8,8.2,0.01,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,14:15,43.7,39.4,84.7,0.0,68,NE,5.1,6.7,0.01,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,14:30,43.6,39.4,85.0,0.0,41,NE,3.1,6.0,0.01,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,14:45,43.4,39.3,85.5,0.0,28,NE,3.4,5.3,0.01,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,15:00,43.2,39.2,85.7,0.0,27,NE,2.6,5.7,0.01,41.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,15:15,43.2,39.4,86.4,0.0,29,NE,3.5,5.7,0.01,41.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,15:30,43.1,39.4,86.5,0.0,20,NE,4.2,6.0,0.01,41.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,15:45,43.2,38.9,84.8,0.0,14,NE,5.0,7.4,0.01,41.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,16:00,43.0,38.9,85.2,0.0,9,NE,4.5,6.7,0.03,41.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,16:15,42.7,38.9,86.1,0.0,14,NE,3.9,5.7,0.07,41.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,16:30,42.7,39.0,86.6,0.0,12,N ,3.1,5.3,0.07,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,16:45,42.6,39.3,88.1,0.0,6,N ,0.0,0.0,0.09,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,17:00,42.3,39.7,90.4,0.0,3,N ,0.0,0.0,0.11,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,17:15,41.9,39.8,92.4,0.0,1,NW,0.7,4.6,0.12,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,17:30,41.5,39.7,93.2,0.0,0,NW,4.5,6.4,0.13,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,17:45,41.3,39.7,93.7,0.0,0,N,4.3,6.4,0.14,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,18:00,41.3,39.7,94.2,0.0,0,N,3.2,4.6,0.14,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,18:15,41.2,39.8,94.6,0.01,0,N,0.1,2.4,0.15,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,18:30,41.0,39.6,94.7,0.0,0,N ,0.0,0.0,0.15,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,18:45,40.9,39.5,94.9,0.0,0,N,0.7,3.9,0.16,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,19:00,40.7,39.4,95.0,0.0,0,N,0.0,1.7,0.16,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,19:15,40.8,39.5,95.2,0.0,0,N,2.0,4.2,0.17,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,19:30,40.7,39.5,95.2,0.0,0,N ,0.0,0.0,0.17,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,19:45,40.8,39.5,95.2,0.01,0,N ,0.0,0.0,0.17,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,20:00,40.8,39.6,95.2,0.0,0,N ,0.0,0.0,0.17,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,20:15,40.7,39.5,95.3,0.01,0,N ,0.0,0.0,0.17,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,20:30,40.6,39.4,95.6,0.01,0,N ,0.0,0.0,0.18,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,20:45,40.4,39.3,95.8,0.0,0,N ,0.0,0.0,0.18,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,21:00,40.4,39.4,95.9,0.0,0,N ,0.0,0.0,0.18,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,21:15,40.2,39.2,96.1,0.01,0,N ,0.0,0.0,0.18,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,21:30,40.0,39.0,96.4,0.0,0,N ,0.0,0.0,0.18,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,21:45,39.8,38.9,96.6,0.0,0,N ,0.0,0.0,0.19,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,22:00,39.4,38.5,96.6,0.0,0,N ,0.0,0.0,0.19,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,22:15,39.8,39.0,97.0,0.0,0,N ,0.0,0.0,0.19,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,22:30,39.5,38.7,96.8,0.0,0,N ,0.0,0.0,0.19,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,22:45,39.4,38.6,97.0,0.0,0,N ,0.0,0.0,0.19,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,23:00,39.4,38.7,97.0,0.0,0,N ,0.0,0.0,0.2,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,23:15,39.2,38.5,97.1,0.0,0,N ,0.0,0.0,0.2,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,23:30,39.1,38.4,97.2,0.0,0,E,0.0,1.4,0.2,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,23:45,39.4,38.7,97.3,0.0,0,N ,0.0,0.0,0.2,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-28,24:00,39.0,38.3,97.2,0.0,0,E,0.0,1.4,0.2,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,00:15,38.6,37.9,97.3,0.0,0,E,0.0,1.4,0.21,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,00:30,38.6,38.0,97.5,0.0,0,E,0.0,1.4,0.21,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,00:45,38.6,37.9,97.3,0.0,0,N ,0.0,0.0,0.21,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,01:00,38.4,37.7,97.2,0.0,0,N ,0.0,0.0,0.21,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,01:15,38.3,37.6,97.1,0.0,0,N ,0.0,0.0,0.21,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,01:30,37.9,37.1,97.0,0.0,0,N ,0.0,0.0,0.21,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,01:45,37.8,37.0,97.2,0.0,0,N ,0.0,0.0,0.21,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,02:00,37.7,37.0,97.3,0.0,0,N ,0.0,0.0,0.22,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,02:15,37.7,37.0,97.4,0.0,0,N ,0.0,0.0,0.21,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,02:30,38.1,37.5,97.4,0.0,0,N ,0.0,0.0,0.21,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,02:45,37.9,37.2,97.3,0.0,0,N ,0.0,0.0,0.22,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,03:00,37.3,36.6,97.3,0.0,0,N ,0.0,0.0,0.21,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,03:15,36.9,36.2,97.3,0.0,0,N ,0.0,0.0,0.22,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,03:30,36.9,36.2,97.5,0.0,0,N ,0.0,0.0,0.22,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,03:45,37.2,36.6,97.6,0.0,0,N ,0.0,0.0,0.22,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,04:00,36.8,36.2,97.5,0.0,0,N ,0.0,0.0,0.22,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,04:15,36.9,36.3,97.6,0.0,0,N ,0.0,0.0,0.22,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,04:30,36.4,35.8,97.5,0.0,0,N ,0.0,0.0,0.22,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,04:45,35.4,34.8,97.5,0.0,0,N ,0.0,0.0,0.22,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,05:00,34.7,34.1,97.5,0.0,0,E,0.0,1.4,0.21,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,05:15,33.3,32.6,97.4,0.0,0,N ,0.0,0.0,0.21,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,05:30,33.0,32.4,97.7,0.0,0,N ,0.0,0.0,0.21,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,05:45,33.4,32.9,97.9,0.0,0,N ,0.0,0.0,0.22,41.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,06:00,33.1,32.5,97.9,0.0,0,N ,0.0,0.0,0.22,41.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,06:15,33.2,32.7,97.9,0.0,0,N ,0.0,0.0,0.22,41.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,06:30,33.5,33.0,97.9,0.0,0,NE,0.1,3.1,0.23,41.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,06:45,33.7,33.2,98.0,0.0,0,NE,3.1,4.9,0.23,41.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,07:00,33.3,32.8,97.9,0.0,0,SW,1.3,4.6,0.22,41.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,07:15,33.7,33.2,98.1,0.0,0,SE,0.3,3.1,0.23,41.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,07:30,33.9,33.4,98.1,0.0,0,E,0.5,3.5,0.23,41.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,07:45,33.8,33.3,98.1,0.0,2,E,0.6,3.5,0.23,41.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,08:00,33.3,32.8,98.0,0.0,8,N ,0.0,0.0,0.23,41.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,08:15,33.1,32.6,98.0,0.0,22,N ,0.0,0.0,0.23,41.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,08:30,34.0,33.6,98.2,0.0,43,N ,0.0,0.0,0.23,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,08:45,34.4,33.9,98.1,0.0,51,N ,0.0,0.0,0.23,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,09:00,34.8,34.3,98.1,0.0,66,N ,0.0,0.0,0.24,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,09:15,36.0,35.6,98.2,0.0,81,N ,0.0,0.0,0.24,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,09:30,36.9,36.5,98.2,0.0,85,N ,0.0,0.0,0.25,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,09:45,38.0,37.5,98.3,0.0,68,N ,0.0,0.0,0.26,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,10:00,39.8,39.3,98.3,0.0,116,N ,0.0,0.0,0.26,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,10:15,40.5,40.0,98.0,0.0,99,SE,0.6,3.5,0.24,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,10:30,41.0,40.5,97.8,0.0,119,E,0.5,3.9,0.18,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,10:45,41.5,40.8,97.3,0.0,152,SE,2.6,6.4,0.1,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,11:00,42.0,40.8,95.4,0.0,251,SE,4.5,9.2,0.05,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,11:15,42.2,40.4,93.3,0.0,196,SE,4.1,7.1,0.04,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,11:30,42.4,40.1,91.3,0.0,184,SE,1.2,5.7,0.04,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,11:45,43.5,40.4,88.7,0.0,333,SE,3.0,7.1,0.04,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,12:00,44.3,40.2,85.3,0.0,295,SE,2.9,8.9,0.04,41.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,12:15,44.9,39.5,81.2,0.0,387,SE,3.2,8.5,0.03,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,12:30,45.5,39.5,79.3,0.0,337,SE,3.2,11.0,0.03,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,12:45,45.9,39.5,77.9,0.0,356,SE,5.2,10.7,0.02,41.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,13:00,45.6,38.9,77.0,0.0,318,SE,4.4,9.9,0.02,41.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,13:15,45.7,38.7,76.5,0.0,284,SE,5.9,12.1,0.02,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,13:30,45.9,38.7,75.7,0.0,290,SE,6.3,9.6,0.02,41.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,13:45,45.8,39.1,77.2,0.0,276,SE,6.3,10.7,0.01,41.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,14:00,45.9,39.3,77.5,0.0,260,SE,6.4,11.0,0.01,41.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,14:15,45.9,38.3,74.6,0.0,254,SE,7.0,10.3,0.01,41.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,14:30,45.7,37.9,74.0,0.0,172,SE,7.6,12.8,0.01,41.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,14:45,45.1,37.6,74.8,0.0,130,SE,6.6,11.4,0.01,42.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,15:00,45.0,37.8,75.6,0.0,110,SE,6.1,11.0,0.01,42.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,15:15,44.9,38.0,76.4,0.0,101,S,7.7,12.1,0.0,42.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,15:30,44.6,37.5,76.0,0.0,82,S,8.0,12.1,0.0,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,15:45,44.5,37.9,77.5,0.0,70,SE,5.5,9.2,0.0,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,16:00,44.3,37.9,78.2,0.0,59,SE,5.7,9.6,0.0,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,16:15,44.1,37.7,78.2,0.0,46,SE,4.8,8.9,0.0,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,16:30,43.9,37.7,78.9,0.0,35,SE,4.8,8.5,0.0,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,16:45,43.4,37.8,80.3,0.0,19,SE,3.8,8.9,0.0,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,17:00,43.3,37.8,80.8,0.0,7,SE,5.2,8.9,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,17:15,43.4,37.8,80.2,0.0,2,SE,6.1,10.3,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,17:30,43.1,37.3,79.9,0.0,0,SE,5.1,8.9,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,17:45,42.7,37.0,80.0,0.0,0,SE,5.8,9.9,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,18:00,42.6,37.0,80.2,0.0,0,SE,5.1,8.9,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,18:15,42.3,37.0,81.3,0.0,0,SE,6.6,10.3,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,18:30,42.5,36.7,79.8,0.0,0,SE,7.2,12.4,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,18:45,42.9,36.1,76.7,0.0,0,SE,6.7,10.7,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,19:00,43.3,36.2,75.6,0.0,0,SE,8.2,13.9,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,19:15,43.6,36.8,76.9,0.0,0,S,8.3,12.4,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,19:30,43.5,36.9,77.6,0.0,0,SE,9.7,13.5,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,19:45,43.3,36.9,78.1,0.0,0,SE,8.4,12.1,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,20:00,43.3,37.0,78.3,0.0,0,S,8.6,13.9,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,20:15,43.6,37.3,78.5,0.0,0,S,11.9,17.8,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,20:30,43.3,37.1,78.7,0.0,0,S,13.2,21.4,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,20:45,43.1,37.2,79.3,0.0,0,S,12.2,16.4,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,21:00,43.1,36.9,78.6,0.0,0,S,10.8,18.9,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,21:15,43.0,36.8,78.7,0.0,0,SE,9.6,14.2,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,21:30,42.8,36.5,78.1,0.0,0,SE,9.2,14.6,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,21:45,42.7,37.0,80.1,0.0,0,S,11.1,15.7,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,22:00,42.5,36.8,80.1,0.0,0,S,12.3,21.0,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,22:15,42.3,36.8,80.6,0.0,0,S,14.8,23.2,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,22:30,42.0,36.8,81.6,0.0,0,SE,13.7,22.8,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,22:45,41.9,36.5,81.0,0.0,0,SE,12.9,20.0,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,23:00,41.7,36.3,81.0,0.0,0,SE,14.5,22.1,0.0,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,23:15,41.5,36.3,81.7,0.0,0,SE,14.0,22.1,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,23:30,41.5,36.1,80.9,0.0,0,SE,14.3,22.1,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,23:45,41.4,36.2,81.5,0.0,0,SE,14.1,22.5,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-29,24:00,41.5,36.4,82.0,0.0,0,SE,13.8,21.4,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,00:15,41.3,36.4,82.5,0.0,0,SE,13.3,20.3,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,00:30,41.4,36.7,83.0,0.0,0,SE,13.7,19.2,0.0,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,00:45,41.5,37.0,84.0,0.0,0,SE,14.0,20.3,0.01,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,01:00,41.6,37.1,84.0,0.0,0,SE,13.2,18.5,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,01:15,41.8,37.2,83.4,0.0,0,SE,14.2,22.5,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,01:30,42.0,37.9,85.3,0.0,0,SE,12.5,18.5,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,01:45,42.0,38.0,85.8,0.0,0,SE,11.1,17.8,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,02:00,41.9,37.7,84.9,0.0,0,SE,10.5,17.5,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,02:15,41.8,37.2,83.5,0.0,0,SE,13.5,20.7,0.01,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,02:30,41.9,36.9,82.2,0.0,0,SE,14.2,20.7,0.01,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,02:45,42.0,37.0,82.5,0.0,0,S,15.2,20.0,0.01,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,03:00,42.1,37.0,81.8,0.0,0,S,14.8,21.8,0.01,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,03:15,42.0,37.4,83.7,0.0,0,S,15.4,22.1,0.02,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,03:30,41.4,37.8,86.7,0.0,0,SE,13.5,18.9,0.04,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,03:45,41.4,38.0,87.8,0.0,0,SE,12.2,18.5,0.03,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,04:00,41.5,38.3,88.2,0.0,0,SE,11.6,18.9,0.02,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,04:15,41.8,38.3,87.2,0.0,0,SE,12.4,21.4,0.01,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,04:30,41.7,37.8,85.9,0.0,0,SE,11.0,17.1,0.01,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,04:45,41.7,37.9,86.1,0.0,0,SE,10.6,17.1,0.01,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,05:00,42.0,37.5,84.1,0.0,0,SE,13.7,22.5,0.03,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,05:15,41.8,37.6,84.9,0.0,0,SE,13.5,21.4,0.05,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,05:30,41.7,38.0,86.7,0.0,0,SE,12.8,20.7,0.06,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,05:45,41.9,38.3,87.0,0.0,0,SE,12.5,19.2,0.07,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,06:00,41.7,38.4,87.8,0.0,0,SE,9.7,17.1,0.08,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,06:15,41.6,38.4,88.0,0.0,0,SE,9.6,18.5,0.05,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,06:30,41.5,38.4,88.6,0.0,0,SE,8.1,12.8,0.05,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,06:45,41.4,38.4,88.9,0.0,0,SE,10.3,17.8,0.05,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,07:00,41.8,38.7,88.7,0.0,0,SE,12.4,17.5,0.07,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,07:15,41.9,39.2,90.1,0.0,0,S,11.3,17.1,0.06,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,07:30,41.9,39.4,90.6,0.0,0,SE,12.5,17.5,0.07,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,07:45,41.9,39.2,90.0,0.0,1,SE,12.9,18.9,0.05,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,08:00,42.0,39.4,90.3,0.0,3,SE,13.8,21.0,0.03,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,08:15,42.0,39.3,90.2,0.0,9,SE,14.0,19.6,0.03,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,08:30,42.1,39.3,89.5,0.0,19,SE,13.9,21.4,0.02,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,08:45,42.2,39.3,89.2,0.0,23,SE,12.9,18.5,0.02,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,09:00,42.3,39.3,88.9,0.0,52,SE,12.0,17.5,0.02,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,09:15,42.6,39.5,88.7,0.0,78,S,12.6,17.8,0.02,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,09:30,42.9,39.4,87.5,0.0,43,S,12.7,17.1,0.02,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,09:45,43.0,39.7,87.9,0.0,40,S,10.5,15.3,0.02,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,10:00,43.4,39.4,85.6,0.0,61,SE,12.0,20.0,0.01,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,10:15,43.7,39.4,84.4,0.0,63,S,13.2,20.3,0.01,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,10:30,43.7,39.7,85.7,0.0,52,S,12.9,21.4,0.01,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,10:45,43.7,39.9,86.5,0.0,59,SE,13.1,18.2,0.01,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,11:00,43.8,40.1,86.5,0.0,62,SE,12.7,21.0,0.01,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,11:15,44.3,40.4,86.2,0.0,99,S,13.4,21.8,0.01,42.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,11:30,44.7,40.5,85.1,0.0,105,SE,13.5,20.3,0.01,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,11:45,44.7,40.5,85.1,0.0,65,SE,13.0,18.9,0.01,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,12:00,44.8,40.6,85.2,0.0,63,SE,11.9,19.2,0.01,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,12:15,44.9,40.8,85.4,0.0,46,SE,10.1,17.1,0.01,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,12:30,44.8,41.4,87.5,0.0,95,SE,11.9,19.2,0.06,42.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,12:45,45.1,41.3,86.6,0.0,93,SE,12.6,20.3,0.03,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,13:00,44.5,41.1,87.7,0.0,71,SE,10.3,17.8,0.02,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,13:15,44.2,40.9,88.0,0.0,59,SE,9.8,16.7,0.01,42.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,13:30,44.5,41.1,88.0,0.0,84,SE,8.9,13.9,0.02,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,13:45,44.8,41.3,87.4,0.0,138,SE,9.6,15.0,0.01,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,14:00,46.0,41.5,84.3,0.0,217,SE,10.0,16.0,0.01,42.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,14:15,46.5,41.5,82.6,0.0,259,SE,11.1,18.2,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,14:30,47.6,42.0,80.9,0.0,345,SE,10.6,17.1,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,14:45,47.3,41.9,81.4,0.0,232,SE,11.0,17.1,0.01,42.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,15:00,46.6,41.8,83.3,0.0,177,SE,11.2,17.5,0.01,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,15:15,46.3,41.8,84.4,0.0,125,SE,12.3,19.2,0.01,42.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,15:30,46.2,42.0,85.4,0.0,152,SE,12.1,18.5,0.01,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,15:45,46.0,42.6,87.7,0.0,193,SE,10.1,17.8,0.03,42.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,16:00,46.4,42.8,87.0,0.0,219,SE,10.9,15.7,0.02,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,16:15,45.4,42.4,89.2,0.0,79,SE,10.6,16.4,0.03,43.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,16:30,45.4,42.6,89.9,0.0,73,SE,10.4,17.5,0.03,43.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,16:45,45.1,42.5,90.3,0.0,21,SE,8.8,13.9,0.02,43.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,17:00,45.3,42.2,88.9,0.0,6,SE,8.4,13.5,0.02,43.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,17:15,45.4,42.1,88.0,0.0,1,SE,7.7,12.8,0.02,43.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,17:30,45.2,42.1,88.9,0.0,0,SE,7.4,12.1,0.02,43.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,17:45,45.0,41.4,87.1,0.0,0,SE,10.4,16.0,0.02,43.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,18:00,45.2,41.4,86.7,0.0,0,SE,11.6,18.5,0.02,43.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,18:15,45.3,41.9,87.8,0.0,0,SE,10.9,17.5,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,18:30,45.3,42.2,88.6,0.0,0,SE,11.0,18.2,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,18:45,45.4,42.3,89.1,0.0,0,SE,10.7,18.2,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,19:00,45.5,42.2,88.2,0.0,0,SE,11.2,16.7,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,19:15,45.6,42.1,87.5,0.0,0,SE,12.7,20.0,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,19:30,45.7,41.6,85.4,0.0,0,SE,13.9,21.0,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,19:45,45.7,40.8,82.8,0.0,0,SE,13.4,21.8,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,20:00,45.4,41.1,84.9,0.0,0,SE,12.8,19.6,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,20:15,45.4,41.0,84.6,0.0,0,SE,12.9,19.6,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,20:30,45.3,40.9,84.5,0.0,0,SE,12.3,19.6,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,20:45,45.4,41.0,84.6,0.0,0,SE,13.1,21.0,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,21:00,45.4,41.1,85.0,0.0,0,SE,11.6,18.2,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,21:15,45.2,41.9,88.2,0.0,0,SE,11.8,16.7,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,21:30,45.1,42.3,89.6,0.0,0,SE,9.6,15.7,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,21:45,45.2,42.4,90.0,0.0,0,SE,9.4,16.0,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,22:00,45.4,42.5,89.3,0.0,0,SE,9.4,16.7,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,22:15,45.8,42.6,88.6,0.0,0,SE,9.2,14.6,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,22:30,46.0,42.7,88.1,0.0,0,SE,9.3,15.0,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,22:45,46.1,42.7,87.8,0.0,0,SE,9.0,15.0,0.06,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,23:00,46.2,42.7,87.6,0.0,0,SE,8.1,12.8,0.08,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,23:15,46.1,42.7,87.7,0.0,0,SE,8.7,15.3,0.09,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,23:30,46.2,42.5,86.9,0.0,0,SE,9.0,13.5,0.06,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,23:45,46.2,42.4,86.6,0.0,0,SE,10.0,14.6,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-30,24:00,46.3,42.6,86.7,0.0,0,SE,10.5,17.8,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,00:15,46.2,42.4,86.5,0.0,0,SE,8.8,17.1,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,00:30,46.8,41.8,82.6,0.0,0,SE,9.5,14.6,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,00:45,46.4,41.5,83.0,0.0,0,SE,8.1,15.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,01:00,46.0,41.0,82.6,0.0,0,SE,7.7,13.9,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,01:15,45.9,41.2,83.2,0.0,0,SE,8.7,16.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,01:30,46.7,42.3,84.6,0.0,0,SE,9.6,17.5,0.04,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,01:45,46.1,42.1,85.7,0.0,0,SE,7.6,12.1,0.08,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,02:00,45.6,41.3,84.6,0.0,0,SE,6.6,10.3,0.05,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,02:15,45.4,40.8,83.8,0.0,0,SE,6.4,12.4,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,02:30,45.0,40.7,84.8,0.0,0,SE,7.6,12.8,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,02:45,46.0,41.4,83.7,0.0,0,SE,8.7,13.5,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,03:00,46.1,41.9,85.2,0.0,0,SE,7.9,12.8,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,03:15,46.6,42.3,84.9,0.0,0,SE,9.1,15.0,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,03:30,47.1,42.7,84.5,0.0,0,SE,10.7,16.7,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,03:45,47.4,43.1,84.9,0.0,0,S,11.1,16.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,04:00,47.6,43.4,85.2,0.0,0,S,11.8,18.9,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,04:15,47.8,43.6,85.0,0.0,0,SE,13.0,21.8,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,04:30,47.8,43.8,85.7,0.0,0,S,13.2,18.5,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,04:45,47.7,43.9,86.5,0.0,0,S,12.3,20.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,05:00,47.6,43.9,86.8,0.0,0,S,11.7,16.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,05:15,47.9,43.8,85.7,0.0,0,S,12.8,20.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,05:30,48.0,43.6,84.8,0.0,0,S,11.4,18.9,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,05:45,47.8,43.6,85.0,0.0,0,S,9.6,15.0,0.01,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,06:00,47.9,43.7,85.4,0.0,0,S,7.9,13.5,0.04,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,06:15,47.0,43.5,87.8,0.01,0,SE,6.3,9.2,0.09,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,06:30,46.3,43.7,90.6,0.02,0,S,5.2,8.9,0.11,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,06:45,45.3,43.3,92.6,0.02,0,SW,7.0,12.4,0.12,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,07:00,44.3,42.9,94.8,0.03,0,W,5.4,8.5,0.13,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,07:15,44.4,43.1,95.3,0.02,0,W,3.6,5.7,0.13,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,07:30,44.4,43.1,95.1,0.02,0,N ,1.1,3.5,0.14,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,07:45,44.3,43.1,95.6,0.01,0,N ,3.4,6.7,0.14,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,08:00,44.1,43.0,95.8,0.03,1,N,4.9,8.2,0.15,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,08:15,43.7,42.7,96.0,0.03,3,N,6.3,9.2,0.15,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,08:30,43.5,42.5,96.2,0.02,7,NE,4.4,6.7,0.15,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,08:45,43.5,42.5,96.2,0.01,11,N ,5.4,7.8,0.16,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,09:00,43.6,42.6,96.2,0.01,17,N ,3.9,6.0,0.16,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,09:15,43.6,42.6,96.3,0.01,21,N ,3.6,5.7,0.16,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,09:30,43.6,42.6,96.3,0.01,30,N ,3.1,4.9,0.17,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,09:45,43.7,42.7,96.4,0.0,36,N,3.5,5.7,0.17,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,10:00,43.6,42.6,96.2,0.01,41,NW,3.5,7.1,0.18,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,10:15,43.7,42.7,96.0,0.0,48,N,5.0,9.6,0.18,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,10:30,43.7,42.4,95.4,0.0,66,N ,6.2,9.6,0.18,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,10:45,43.8,42.4,94.6,0.01,86,NE,4.8,7.8,0.19,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,11:00,44.2,42.6,94.0,0.0,134,NE,4.9,7.1,0.19,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,11:15,44.5,42.7,93.6,0.0,143,NE,4.8,6.7,0.19,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,11:30,45.0,43.2,93.4,0.01,184,NE,5.0,7.1,0.2,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,11:45,45.1,43.4,93.6,0.0,123,NE,4.9,7.1,0.2,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,12:00,44.7,43.0,93.7,0.01,115,NE,5.0,6.7,0.2,43.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,12:15,44.9,43.2,93.8,0.0,103,NE,4.4,6.4,0.2,43.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,12:30,45.0,43.3,93.7,0.01,110,N ,3.5,5.3,0.2,43.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,12:45,45.2,43.7,94.4,0.0,82,N ,3.8,4.9,0.21,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,13:00,45.5,44.1,94.7,0.01,62,NW,3.8,5.7,0.21,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,13:15,45.7,44.4,95.3,0.01,76,S,2.7,8.5,0.21,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,13:30,46.4,45.0,94.8,0.01,71,S,4.5,7.4,0.22,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,13:45,46.3,44.9,94.7,0.01,60,S,4.7,7.8,0.22,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,14:00,45.9,44.6,94.9,0.01,45,SW,3.1,4.9,0.22,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,14:15,45.8,44.6,95.2,0.02,46,S,1.8,5.3,0.22,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,14:30,45.6,44.3,95.1,0.01,28,SW,0.4,3.5,0.22,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,14:45,45.5,44.2,94.9,0.02,29,S,3.7,7.8,0.22,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,15:00,45.4,44.0,94.9,0.02,34,S,5.6,8.2,0.22,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,15:15,45.3,44.0,95.2,0.03,33,S,4.3,6.7,0.22,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,15:30,45.3,44.0,95.4,0.01,32,SE,4.2,6.4,0.22,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,15:45,45.4,44.3,95.7,0.01,29,SE,3.6,6.0,0.22,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,16:00,45.2,44.1,95.7,0.01,20,SE,4.2,7.1,0.22,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,16:15,44.9,43.8,95.6,0.02,9,SE,5.5,8.5,0.22,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,16:30,44.7,43.5,95.5,0.02,6,SE,6.7,9.9,0.22,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,16:45,44.5,43.4,95.7,0.02,4,S,6.6,9.9,0.22,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,17:00,44.5,43.4,96.1,0.03,2,S,5.1,7.4,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,17:15,44.5,43.5,96.5,0.03,0,S,4.8,6.7,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,17:30,44.3,43.4,96.6,0.02,0,S,5.9,8.2,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,17:45,44.3,43.4,96.6,0.04,0,S,6.0,8.9,0.22,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,18:00,44.3,43.4,96.7,0.03,0,S,5.4,9.9,0.22,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,18:15,44.2,43.3,96.8,0.05,0,S,5.3,7.8,0.22,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,18:30,44.1,43.3,96.9,0.03,0,SE,4.1,6.7,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,18:45,44.0,43.2,97.0,0.01,0,SE,2.9,4.9,0.22,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,19:00,43.9,43.1,97.0,0.02,0,SE,1.7,3.5,0.22,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,19:15,43.7,43.0,97.0,0.01,0,SE,3.2,6.0,0.22,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,19:30,43.7,42.9,97.0,0.02,0,SE,4.6,8.2,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,19:45,43.7,42.9,96.9,0.01,0,SE,5.9,8.9,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,20:00,43.8,42.9,96.8,0.02,0,SE,5.5,8.5,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,20:15,43.8,42.9,96.9,0.02,0,S,4.1,7.4,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,20:30,43.8,43.0,96.9,0.02,0,S,2.3,5.7,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,20:45,43.8,43.0,97.0,0.04,0,S,4.9,6.7,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,21:00,43.7,42.9,96.9,0.03,0,S,4.6,7.1,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,21:15,43.6,42.8,96.9,0.02,0,S,5.3,8.9,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,21:30,43.5,42.7,96.9,0.02,0,S,5.2,7.4,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,21:45,43.5,42.6,96.8,0.01,0,SE,3.9,6.0,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,22:00,43.4,42.5,96.8,0.01,0,SE,3.1,5.7,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,22:15,43.3,42.5,96.8,0.01,0,SE,2.5,4.9,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,22:30,43.4,42.6,96.9,0.0,0,SE,1.2,5.7,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,22:45,43.5,42.8,97.0,0.01,0,E,2.1,4.6,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,23:00,43.6,42.8,97.0,0.0,0,SE,3.0,5.3,0.24,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,23:15,43.6,42.8,96.8,0.02,0,SE,2.3,4.2,0.23,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,23:30,43.6,42.8,96.9,0.01,0,E,2.3,4.9,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,23:45,43.6,42.8,96.9,0.0,0,SE,2.5,6.0,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-01-31,24:00,43.7,42.9,96.9,0.01,0,SE,2.7,4.6,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,00:15,43.7,42.9,96.9,0.0,0,SE,1.9,4.2,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,00:30,43.7,42.9,96.9,0.0,0,SE,2.1,4.2,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,00:45,43.7,42.9,96.9,0.0,0,SE,2.0,4.2,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,01:00,43.7,42.9,96.9,0.01,0,SE,3.1,5.7,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,01:15,43.8,42.9,96.8,0.01,0,SE,2.7,4.2,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,01:30,43.8,42.9,96.9,0.01,0,SE,1.1,2.8,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,01:45,43.7,42.9,96.9,0.01,0,SE,0.1,1.7,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,02:00,43.6,42.8,96.9,0.01,0,N ,0.0,0.0,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,02:15,43.5,42.7,97.1,0.02,0,E,0.9,3.5,0.24,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,02:30,43.4,42.7,97.2,0.0,0,SE,0.5,2.4,0.24,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,02:45,43.4,42.7,97.3,0.01,0,E,1.3,3.1,0.24,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,03:00,43.5,42.8,97.4,0.0,0,E,1.5,4.9,0.24,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,03:15,43.5,42.8,97.2,0.0,0,E,4.3,6.7,0.24,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,03:30,43.4,42.6,97.1,0.0,0,E,4.3,6.4,0.24,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,03:45,43.5,42.7,97.1,0.0,0,E,3.4,6.0,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,04:00,43.7,42.9,96.9,0.01,0,SE,2.5,4.2,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,04:15,43.9,43.1,96.9,0.0,0,S,2.2,4.2,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,04:30,43.9,43.1,96.8,0.0,0,S,1.3,3.5,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,04:45,43.9,43.1,96.8,0.0,0,SE,2.0,3.5,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,05:00,44.0,43.2,96.9,0.01,0,SE,2.7,5.7,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,05:15,44.3,43.5,96.9,0.0,0,SE,4.7,9.2,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,05:30,44.6,43.7,96.6,0.0,0,SE,4.5,7.4,0.25,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,05:45,44.9,43.9,96.3,0.0,0,SE,5.0,7.8,0.26,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,06:00,45.1,44.1,96.2,0.0,0,SE,4.8,7.4,0.26,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,06:15,45.3,44.3,96.2,0.0,0,SE,5.0,8.5,0.26,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,06:30,45.3,44.3,96.3,0.01,0,SE,6.2,11.7,0.26,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,06:45,45.6,44.5,95.9,0.0,0,S,6.2,10.3,0.26,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,07:00,45.2,44.2,96.1,0.0,0,SE,3.9,6.4,0.26,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,07:15,45.1,44.2,96.5,0.0,0,SE,4.8,7.8,0.27,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,07:30,45.2,44.3,96.8,0.0,0,S,8.8,18.2,0.27,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,07:45,46.3,45.0,95.0,0.0,0,SE,8.2,16.7,0.26,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,08:00,46.5,44.9,94.0,0.0,3,S,6.6,11.0,0.22,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,08:15,46.0,44.6,94.8,0.0,5,SE,6.1,9.6,0.25,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,08:30,45.6,44.5,95.9,0.0,10,S,6.9,11.4,0.27,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,08:45,45.7,44.8,96.5,0.0,27,SE,8.1,11.7,0.27,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,09:00,45.9,45.0,96.7,0.0,38,SE,9.7,14.2,0.27,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,09:15,46.4,45.5,96.8,0.0,43,SE,11.0,18.2,0.27,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,09:30,47.1,45.9,95.8,0.0,41,SE,10.2,15.0,0.27,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,09:45,47.4,46.1,95.0,0.0,56,SE,10.0,15.0,0.27,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,10:00,47.4,46.0,95.0,0.0,59,S,10.5,16.0,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,10:15,47.4,45.9,94.4,0.0,64,SE,10.6,18.2,0.18,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,10:30,47.7,46.0,93.7,0.0,72,SE,12.4,18.2,0.11,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,10:45,48.2,46.1,92.4,0.0,53,SE,13.4,19.2,0.08,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,11:00,48.4,46.3,92.3,0.0,57,SE,12.7,17.5,0.09,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,11:15,48.6,46.4,92.3,0.0,63,S,12.3,18.2,0.07,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,11:30,48.8,46.6,92.0,0.0,101,SE,11.7,18.9,0.07,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,11:45,49.2,46.5,90.2,0.0,110,SE,12.8,17.5,0.07,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,12:00,49.2,46.2,89.3,0.0,125,SE,12.4,17.1,0.18,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,12:15,49.4,46.0,87.8,0.0,131,SE,12.6,19.2,0.09,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,12:30,49.3,45.7,87.3,0.0,81,SE,13.0,18.5,0.08,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,12:45,49.3,45.4,86.2,0.0,173,SE,12.8,18.5,0.12,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,13:00,49.5,45.4,85.5,0.0,163,S,12.8,18.5,0.06,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,13:15,49.5,45.5,86.1,0.0,154,S,13.6,19.6,0.05,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,13:30,49.0,45.5,87.5,0.0,98,S,12.6,19.2,0.04,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,13:45,48.9,45.5,87.9,0.0,113,S,12.2,17.8,0.04,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,14:00,49.0,45.6,88.1,0.0,110,S,13.4,20.3,0.04,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,14:15,48.8,45.4,87.8,0.0,88,S,11.0,15.0,0.03,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,14:30,49.0,45.5,87.4,0.0,81,S,8.9,12.4,0.03,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,14:45,49.2,46.1,89.0,0.0,56,SE,7.7,11.7,0.03,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,15:00,49.0,46.3,90.1,0.0,68,SE,8.1,13.5,0.03,45.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,15:15,48.9,46.2,90.4,0.0,59,SE,10.4,16.0,0.03,45.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,15:30,48.8,46.2,90.5,0.0,60,SE,12.3,18.2,0.03,45.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,15:45,48.8,45.8,89.4,0.0,68,SE,11.3,18.9,0.03,45.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,16:00,48.7,45.3,87.9,0.0,47,S,13.3,18.9,0.02,45.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,16:15,48.6,45.5,88.7,0.0,24,S,13.2,18.2,0.02,45.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,16:30,48.5,45.7,89.7,0.0,15,S,11.8,17.8,0.02,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,16:45,48.6,45.6,89.2,0.0,8,S,11.1,17.1,0.02,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,17:00,48.6,45.5,88.9,0.0,5,S,9.7,14.6,0.06,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,17:15,48.4,45.2,88.8,0.0,1,S,8.3,12.4,0.07,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,17:30,47.9,45.0,89.6,0.0,0,S,7.4,12.1,0.12,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,17:45,47.7,45.1,90.5,0.0,0,SE,6.8,9.6,0.15,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,18:00,47.4,44.9,91.0,0.0,0,S,5.9,8.5,0.16,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,18:15,47.1,44.7,91.3,0.01,0,S,6.4,9.6,0.17,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,18:30,46.9,44.8,92.2,0.01,0,S,5.0,8.5,0.17,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,18:45,46.6,44.8,93.3,0.01,0,SE,4.8,7.4,0.18,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,19:00,46.5,44.9,94.0,0.01,0,S,4.6,7.4,0.18,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,19:15,46.4,44.9,94.6,0.0,0,S,4.8,8.2,0.19,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,19:30,46.4,44.9,94.7,0.01,0,SE,3.9,6.0,0.19,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,19:45,46.2,44.8,94.7,0.0,0,SE,4.5,7.4,0.2,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,20:00,46.1,44.6,94.5,0.0,0,S,4.4,8.2,0.2,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,20:15,46.2,44.4,93.4,0.0,0,S,5.8,8.2,0.2,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,20:30,46.5,44.2,91.5,0.0,0,S,6.5,9.9,0.19,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,20:45,46.5,44.2,91.4,0.0,0,S,6.9,10.7,0.15,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,21:00,46.5,44.3,92.0,0.01,0,S,7.9,12.8,0.21,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,21:15,46.3,44.3,92.8,0.0,0,S,8.3,13.5,0.21,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,21:30,46.4,44.3,92.4,0.01,0,S,9.9,13.9,0.21,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,21:45,46.3,44.6,94.0,0.0,0,SW,8.2,11.4,0.21,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,22:00,45.6,44.2,94.7,0.01,0,SW,7.1,10.3,0.22,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,22:15,45.2,44.0,95.5,0.02,0,W,6.8,10.3,0.22,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,22:30,44.9,43.8,95.6,0.01,0,W,7.2,12.4,0.23,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,22:45,44.4,42.9,94.6,0.01,0,W,8.5,13.5,0.23,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,23:00,44.0,41.8,91.9,0.0,0,W,9.3,15.0,0.23,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,23:15,43.5,41.0,90.6,0.0,0,W,8.8,13.9,0.23,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,23:30,43.5,41.0,90.9,0.0,0,W,8.2,12.8,0.21,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,23:45,43.4,40.6,89.7,0.01,0,NW,9.9,13.5,0.19,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-01,24:00,43.2,40.7,90.8,0.01,0,NW,4.9,11.0,0.23,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,00:15,42.9,40.7,91.8,0.02,0,N,4.0,6.4,0.22,45.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,00:30,42.6,40.4,91.6,0.01,0,N ,3.4,5.3,0.21,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,00:45,42.6,40.0,90.4,0.01,0,NE,2.2,4.6,0.21,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,01:00,42.4,40.2,91.9,0.01,0,E,3.4,5.7,0.21,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,01:15,42.1,40.3,93.1,0.01,0,SE,3.2,6.4,0.21,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,01:30,42.1,40.3,93.2,0.0,0,SE,3.9,6.4,0.21,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,01:45,42.0,40.0,92.6,0.0,0,SE,2.0,6.0,0.21,45.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,02:00,41.8,40.0,93.3,0.0,0,NE,2.7,6.4,0.22,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,02:15,41.6,40.2,94.4,0.0,0,S,1.9,3.9,0.22,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,02:30,41.3,39.8,94.3,0.01,0,SE,1.7,3.5,0.22,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,02:45,41.2,39.8,94.7,0.0,0,N ,0.0,0.0,0.22,45.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,03:00,40.9,39.7,95.4,0.0,0,SE,1.0,2.8,0.22,45.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,03:15,40.8,39.7,95.6,0.0,0,SE,0.3,2.4,0.22,45.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,03:30,40.6,39.4,95.5,0.0,0,E,0.5,2.4,0.22,45.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,03:45,40.3,39.1,95.5,0.0,0,SE,0.3,2.4,0.22,45.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,04:00,40.2,39.1,95.7,0.0,0,SE,3.5,5.7,0.23,45.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,04:15,40.5,39.3,95.4,0.0,0,SE,4.3,7.1,0.23,45.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,04:30,40.8,39.6,95.4,0.0,0,SE,3.5,6.0,0.23,45.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,04:45,41.2,39.7,94.5,0.0,0,SE,4.8,8.2,0.23,45.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,05:00,41.4,39.7,93.4,0.0,0,SE,5.1,8.2,0.23,45.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,05:15,41.7,39.9,93.4,0.0,0,SE,5.9,10.3,0.21,45.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,05:30,41.7,40.2,94.2,0.0,0,SE,6.2,9.9,0.2,45.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,05:45,41.8,40.2,94.3,0.0,0,SE,3.9,7.1,0.2,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,06:00,41.8,40.4,94.4,0.0,0,SE,3.8,7.1,0.23,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,06:15,41.8,40.4,94.6,0.0,0,SE,3.4,7.1,0.24,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,06:30,41.7,40.3,94.6,0.0,0,SE,3.5,6.4,0.24,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,06:45,41.6,40.2,94.5,0.0,0,SE,3.3,5.7,0.23,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,07:00,41.6,40.0,94.1,0.0,0,SE,5.3,9.2,0.22,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,07:15,41.5,39.5,92.7,0.0,0,SE,5.5,8.2,0.18,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,07:30,41.4,39.1,91.4,0.0,0,SE,4.8,9.6,0.14,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,07:45,41.4,39.3,92.1,0.0,2,SE,4.4,8.2,0.14,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,08:00,41.4,39.4,92.6,0.0,5,SE,4.6,8.2,0.09,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,08:15,41.6,39.5,92.4,0.0,7,SE,5.6,9.2,0.1,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,08:30,41.5,39.4,92.1,0.0,11,SE,6.9,10.7,0.13,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,08:45,41.5,39.5,92.6,0.0,19,SE,5.0,9.6,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,09:00,41.5,39.5,92.4,0.0,18,SE,9.6,14.6,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,09:15,41.7,39.7,92.7,0.01,25,SE,10.1,15.3,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,09:30,41.6,39.6,92.5,0.0,31,SE,9.6,14.6,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,09:45,41.7,39.9,93.0,0.01,50,S,7.9,12.4,0.22,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,10:00,41.7,39.8,92.9,0.0,45,S,6.8,10.3,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,10:15,41.6,39.6,92.8,0.0,44,SE,6.1,9.2,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,10:30,41.5,39.4,92.2,0.01,43,S,6.6,9.6,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,10:45,41.7,40.0,93.4,0.01,44,S,6.3,9.9,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,11:00,41.5,39.1,90.9,0.01,80,S,7.0,9.6,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,11:15,42.3,40.0,91.5,0.0,169,S,7.6,11.0,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,11:30,42.5,40.4,92.1,0.01,217,S,8.0,12.8,0.23,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,11:45,42.5,40.0,90.6,0.0,218,S,9.4,13.9,0.14,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,12:00,42.6,39.8,90.0,0.0,259,S,9.6,14.6,0.11,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,12:15,42.0,38.7,88.1,0.0,219,S,11.0,17.1,0.06,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,12:30,41.6,38.7,89.0,0.0,155,S,10.1,15.7,0.05,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,12:45,41.6,38.9,90.1,0.0,178,S,9.9,14.2,0.04,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,13:00,41.8,39.2,90.2,0.0,175,S,8.7,12.1,0.04,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,13:15,41.8,39.2,90.1,0.0,159,S,6.9,9.9,0.04,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,13:30,42.3,39.5,89.5,0.0,245,S,7.4,11.0,0.04,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,13:45,43.2,39.9,88.0,0.0,287,S,9.2,13.2,0.04,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,14:00,43.2,39.8,87.7,0.0,233,S,8.7,12.8,0.03,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,14:15,43.6,39.4,85.1,0.0,224,S,8.8,11.7,0.03,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,14:30,43.2,39.1,85.2,0.0,116,S,7.8,12.4,0.03,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,14:45,43.0,39.3,86.5,0.0,87,S,7.5,11.4,0.02,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,15:00,42.6,38.6,85.7,0.0,75,S,8.8,12.8,0.02,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,15:15,42.3,38.4,85.9,0.0,62,S,7.6,12.8,0.02,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,15:30,42.3,38.6,86.4,0.0,67,S,5.9,8.9,0.02,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,15:45,42.5,38.7,86.2,0.0,58,S,7.0,11.0,0.02,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,16:00,42.9,39.0,85.9,0.0,100,S,8.6,12.4,0.02,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,16:15,43.4,38.9,84.0,0.0,114,S,8.6,12.4,0.01,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,16:30,43.1,38.6,83.8,0.0,66,S,8.0,11.0,0.01,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,16:45,42.6,38.3,84.8,0.0,28,S,8.5,13.5,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,17:00,42.2,37.9,84.5,0.0,11,SE,8.8,13.9,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,17:15,42.4,38.2,84.8,0.0,4,SE,8.9,16.7,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,17:30,42.4,38.1,84.6,0.0,0,SE,9.0,15.3,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,17:45,42.2,37.9,84.7,0.0,0,SE,9.5,15.7,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,18:00,42.2,38.0,85.1,0.0,0,SE,9.7,16.4,0.01,45.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,18:15,42.1,38.1,85.4,0.0,0,SE,10.7,16.4,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,18:30,42.0,37.8,85.2,0.0,0,SE,7.5,16.4,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,18:45,42.5,38.5,85.4,0.0,0,SE,15.5,25.7,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,19:00,42.4,38.2,84.8,0.0,0,S,17.3,26.8,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,19:15,41.7,37.8,86.0,0.0,0,S,16.6,25.7,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,19:30,41.2,38.0,88.3,0.0,0,S,14.2,23.2,0.01,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,19:45,41.0,38.4,90.5,0.0,0,S,12.0,18.2,0.03,45.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,20:00,40.8,38.0,89.5,0.0,0,SE,11.6,18.9,0.05,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,20:15,40.6,37.4,88.5,0.0,0,SE,11.6,16.7,0.04,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,20:30,40.8,37.9,89.3,0.0,0,SE,11.4,17.1,0.02,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,20:45,40.8,38.2,90.2,0.0,0,SE,10.4,16.7,0.06,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,21:00,40.3,38.1,91.6,0.0,0,SE,10.6,16.0,0.1,45.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,21:15,40.1,37.8,91.5,0.0,0,SE,9.6,16.0,0.11,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,21:30,40.2,37.5,90.0,0.0,0,SE,9.2,14.2,0.1,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,21:45,40.4,37.5,89.2,0.0,0,SE,9.3,15.3,0.07,44.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,22:00,40.5,37.6,89.2,0.0,0,SE,9.2,15.3,0.04,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,22:15,40.5,37.8,90.0,0.0,0,SE,8.3,14.2,0.04,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,22:30,40.6,37.8,89.5,0.0,0,SE,8.8,14.2,0.02,44.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,22:45,41.0,37.3,86.7,0.0,0,SE,12.6,18.5,0.01,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,23:00,41.3,36.9,84.4,0.0,0,SE,13.6,19.2,0.01,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,23:15,41.0,37.2,86.4,0.0,0,SE,8.5,16.7,0.01,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,23:30,40.8,37.7,88.6,0.0,0,SE,8.0,14.2,0.01,44.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,23:45,40.7,37.7,89.0,0.0,0,SE,7.0,12.1,0.01,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-02,24:00,40.9,37.6,88.0,0.0,0,SE,7.3,12.1,0.01,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,00:15,41.2,37.8,87.5,0.0,0,SE,6.2,12.4,0.01,44.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,00:30,41.1,37.8,88.1,0.0,0,SE,5.9,9.2,0.01,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,00:45,40.9,37.3,86.9,0.0,0,SE,6.1,9.6,0.01,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,01:00,40.8,36.9,86.0,0.0,0,SE,6.3,11.0,0.01,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,01:15,40.5,36.6,85.8,0.0,0,SE,6.3,11.0,0.01,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,01:30,40.2,36.7,87.0,0.0,0,SE,5.0,8.9,0.01,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,01:45,40.0,36.5,87.0,0.0,0,SE,4.2,7.8,0.02,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,02:00,39.4,36.2,88.1,0.0,0,SE,2.3,4.6,0.02,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,02:15,39.2,36.3,89.1,0.0,0,E,2.6,4.6,0.03,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,02:30,39.1,36.4,89.9,0.0,0,NE,3.7,5.7,0.04,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,02:45,38.9,36.4,90.7,0.0,0,E,3.5,6.0,0.05,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,03:00,38.6,36.0,90.3,0.0,0,E,3.0,5.7,0.06,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,03:15,39.0,36.3,90.0,0.0,0,E,2.1,4.9,0.05,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,03:30,38.8,36.3,90.7,0.0,0,E,4.0,6.4,0.04,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,03:45,39.2,36.7,90.7,0.0,0,NE,3.9,7.1,0.03,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,04:00,39.1,36.8,91.2,0.0,0,NE,3.1,4.6,0.03,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,04:15,39.7,37.1,90.3,0.0,0,N ,3.6,6.4,0.02,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,04:30,39.8,36.9,89.2,0.0,0,NW,0.9,3.5,0.02,43.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,04:45,39.7,36.7,88.8,0.0,0,N,2.2,4.9,0.02,43.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,05:00,39.9,36.4,87.0,0.0,0,N ,3.6,6.4,0.01,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,05:15,40.0,36.1,85.7,0.0,0,N,2.4,4.2,0.01,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,05:30,40.1,35.9,84.7,0.0,0,N,0.9,3.5,0.01,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,05:45,39.5,35.4,85.0,0.0,0,NW,2.3,3.5,0.01,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,06:00,37.6,34.9,90.1,0.0,0,W,2.1,4.2,0.02,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,06:15,38.4,36.0,91.1,0.0,0,NW,0.8,2.4,0.02,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,06:30,38.2,35.8,91.0,0.0,0,NW,0.4,3.9,0.04,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,06:45,38.6,36.3,91.5,0.0,0,N ,0.4,2.8,0.07,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,07:00,38.7,36.8,92.9,0.0,0,NW,1.0,4.2,0.08,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,07:15,38.7,37.1,93.7,0.0,0,NW,1.8,3.9,0.09,43.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,07:30,39.8,38.1,93.6,0.0,0,NW,3.1,7.1,0.09,43.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,07:45,40.0,37.5,90.8,0.0,5,NW,5.8,9.2,0.07,43.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,08:00,39.2,35.1,85.0,0.0,12,N,4.5,7.1,0.02,43.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,08:15,38.1,34.5,86.8,0.0,18,NW,3.2,6.0,0.03,43.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,08:30,39.5,35.8,86.3,0.0,76,NW,5.7,8.9,0.02,43.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,08:45,41.4,36.2,81.5,0.0,105,N,6.2,8.9,0.01,43.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,09:00,42.3,36.8,80.6,0.0,158,NW,6.3,9.6,0.01,43.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,09:15,43.0,36.7,78.0,0.0,201,NW,7.2,12.1,0.01,43.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,09:30,43.6,37.1,77.6,0.0,226,NW,8.0,11.4,0.0,43.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,09:45,43.8,37.2,77.2,0.0,245,NW,9.9,13.5,0.0,43.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,10:00,44.2,37.6,77.6,0.0,274,NW,9.3,13.5,0.0,43.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,10:15,44.5,38.1,77.9,0.0,301,NW,8.4,13.2,0.0,43.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,10:30,44.8,38.2,77.3,0.0,327,NW,8.8,13.2,0.0,43.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,10:45,45.4,38.4,76.4,0.0,349,NW,8.4,13.5,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,11:00,45.9,38.0,73.6,0.0,369,NW,7.7,11.7,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,11:15,46.0,37.2,71.3,0.0,381,NW,8.1,11.4,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,11:30,46.1,36.9,69.9,0.0,397,NW,9.0,12.8,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,11:45,46.4,36.0,67.0,0.0,405,NW,8.5,12.8,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,12:00,46.8,36.2,66.5,0.0,413,NW,8.7,11.4,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,12:15,46.7,37.6,70.4,0.0,422,NW,9.2,13.5,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,12:30,46.8,37.9,70.9,0.0,417,NW,8.4,11.7,0.0,43.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,12:45,47.0,37.8,70.3,0.0,417,NW,7.9,11.4,0.0,43.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,13:00,46.7,38.2,72.0,0.0,361,NW,8.5,12.4,0.0,43.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,13:15,46.3,37.8,72.1,0.0,257,NW,7.9,11.0,0.0,43.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,13:30,46.8,37.7,70.3,0.0,326,NW,6.8,10.7,0.0,43.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,13:45,46.3,36.9,69.4,0.0,220,NW,6.6,9.9,0.0,43.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,14:00,46.8,37.3,69.4,0.0,351,NW,7.6,11.7,0.0,43.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,14:15,47.0,38.9,73.3,0.0,383,W,8.3,11.7,0.0,43.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,14:30,46.5,37.8,71.7,0.0,251,NW,7.3,12.4,0.0,43.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,14:45,46.0,37.6,72.2,0.0,186,NW,7.3,10.3,0.0,43.6,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,15:00,45.6,37.4,72.7,0.0,142,NW,6.9,9.9,0.0,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,15:15,46.4,37.8,71.8,0.0,272,NW,6.8,9.6,0.0,43.7,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,15:30,47.0,38.6,72.3,0.0,284,NW,7.8,11.4,0.0,43.8,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,15:45,46.5,38.3,73.0,0.0,154,NW,7.1,9.6,0.0,43.9,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,16:00,45.6,38.3,75.5,0.0,72,NW,5.2,8.5,0.0,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,16:15,44.6,38.4,78.9,0.0,49,W,2.0,4.6,0.0,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,16:30,42.6,37.7,82.6,0.0,31,W,1.6,3.5,0.01,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,16:45,41.9,37.9,85.6,0.0,19,SW,1.4,4.2,0.02,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,17:00,42.0,38.2,86.1,0.0,13,N ,0.0,0.0,0.03,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,17:15,41.0,37.5,87.4,0.0,6,N ,0.0,0.0,0.04,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,17:30,40.2,37.4,89.7,0.0,1,N ,0.0,0.0,0.04,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,17:45,39.5,36.6,89.4,0.0,0,N ,0.0,0.0,0.05,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,18:00,39.4,36.8,90.1,0.0,0,E,1.9,3.9,0.06,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,18:15,38.2,35.8,90.9,0.0,0,SE,0.6,3.5,0.06,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,18:30,38.0,36.1,92.6,0.0,0,NE,2.2,3.1,0.07,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,18:45,38.7,36.9,93.3,0.0,0,E,0.8,2.4,0.07,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,19:00,38.7,37.0,93.5,0.0,0,N ,1.1,2.4,0.08,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,19:15,38.7,37.1,93.7,0.0,0,NE,0.5,2.4,0.08,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,19:30,38.5,36.9,93.7,0.0,0,S,0.2,3.5,0.09,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,19:45,38.7,37.2,94.0,0.0,0,N ,0.0,0.0,0.1,44.5,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,20:00,38.8,37.1,93.8,0.0,0,SE,0.3,2.1,0.1,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,20:15,39.2,37.6,93.7,0.0,0,SE,2.2,3.9,0.11,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,20:30,39.8,38.0,93.0,0.0,0,SE,2.0,3.5,0.1,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,20:45,39.6,37.7,92.5,0.0,0,SE,0.1,1.7,0.1,44.4,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,21:00,39.2,37.1,91.9,0.0,0,N ,0.0,0.0,0.1,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,21:15,39.4,37.3,92.2,0.0,0,N ,0.0,0.0,0.1,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,21:30,40.2,37.6,90.5,0.0,0,W,3.0,4.2,0.05,44.3,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,21:45,40.2,37.8,90.8,0.0,0,SW,1.8,3.9,0.05,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,22:00,40.8,38.2,90.3,0.0,0,SE,2.5,3.9,0.03,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,22:15,41.1,38.3,89.4,0.0,0,SE,3.5,4.6,0.03,44.2,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,22:30,40.0,37.5,90.7,0.0,0,E,2.0,3.1,0.07,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,22:45,38.1,36.0,92.0,0.0,0,E,1.5,3.1,0.1,44.1,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856
+2021-02-03,23:00,39.2,37.1,92.1,0.0,0,E,0.3,2.4,0.11,44.0,"Coupeville, Coupeville, Island County",330164,Coupeville,2021-04-15 13:49:56.998856

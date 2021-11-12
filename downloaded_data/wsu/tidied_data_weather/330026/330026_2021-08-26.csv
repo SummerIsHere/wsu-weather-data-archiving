@@ -1,0 +1,673 @@
+Date,Time PST,1.5m Air Temp °F, 1.5m Dew Point °F, 1.5m Rel Hum %, Tot Prec in, Solar Rad W/m², Atm. 2m Press. inHg, Wind Direction, Wind Speed mph, 2m Wind Gust mph, 2 in. Soil Tmp °F, 8 in. Soil Tmp °F, 2 in. SWP kPa, 8 in. SWP kPa,Location,Station ID,Station Name,Download Timestamp
+2021-08-26,00:15,56.5,51.8,83.9,0.0,0,30.1,NW,,,64.8,65.1,-401.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,00:30,56.6,51.8,83.9,0.0,0,30.1,NW,,,64.6,65.1,-402.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,00:45,56.7,52.0,84.2,0.0,0,30.1,NW,,,64.6,65.1,-404.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,01:00,56.6,52.0,84.5,0.0,0,30.1,NW,,,64.4,65.0,-406.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,01:15,56.3,52.0,85.3,0.0,0,30.11,NW,,,64.4,64.9,-408.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,01:30,56.5,52.0,85.0,0.0,0,30.11,NW,,,64.2,64.9,-408.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,01:45,58.2,52.6,81.7,0.0,0,30.12,NW,,,64.1,64.9,-409.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,02:00,59.0,53.1,80.8,0.0,0,30.12,NW,,,64.0,64.9,-410.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,02:15,59.3,53.4,80.7,0.0,0,30.11,NW,,,63.9,64.9,-411.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,02:30,59.1,53.4,81.2,0.0,0,30.11,NW,,,63.9,64.9,-411.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,02:45,58.9,53.4,81.8,0.0,0,30.12,NW,,,63.8,64.9,-412.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,03:00,59.2,53.5,81.2,0.0,0,30.12,NW,,,63.7,64.8,-413.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,03:15,59.5,53.7,80.9,0.0,0,30.12,NW,,,63.6,64.8,-413.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,03:30,59.7,53.9,81.0,0.0,0,30.12,NW,,,63.5,64.8,-414.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,03:45,59.8,54.1,81.4,0.0,0,30.12,NW,,,63.5,64.8,-415.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,04:00,60.2,54.6,81.8,0.0,0,30.12,NW,,,63.3,64.8,-415.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,04:15,60.3,55.4,83.7,0.0,0,30.12,NW,,,63.3,64.8,-416.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,04:30,60.4,55.8,84.7,0.0,0,30.12,NW,,,63.3,64.7,-416.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,04:45,60.5,56.0,84.9,0.0,0,30.12,NW,,,63.2,64.6,-417.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,05:00,60.5,55.9,84.8,0.0,0,30.12,NW,,,63.1,64.6,-417.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,05:15,60.6,55.7,83.7,0.0,0,30.12,NW,,,63.1,64.6,-417.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,05:30,60.8,55.6,83.0,0.0,1,30.12,NW,,,63.1,64.6,-418.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,05:45,61.0,55.7,82.8,0.0,6,30.12,W,,,63.0,64.6,-418.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,06:00,60.9,56.0,83.8,0.0,13,30.12,NW,,,63.0,64.5,-419.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,06:15,60.8,56.3,85.1,0.0,25,30.12,NW,,,63.0,64.4,-419.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,06:30,60.9,56.5,85.4,0.0,22,30.12,NW,,,63.0,64.4,-420.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,06:45,61.0,56.7,85.7,0.0,25,30.12,NW,,,63.0,64.4,-420.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,07:00,61.1,56.9,86.0,0.0,39,30.12,NW,,,62.9,64.4,-420.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,07:15,61.3,57.1,86.2,0.0,53,30.12,NW,,,62.8,64.4,-421.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,07:30,61.7,57.4,85.8,0.0,60,30.12,NW,,,62.8,64.4,-422.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,07:45,62.1,57.8,85.7,0.0,82,30.12,NW,,,62.8,64.3,-423.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,08:00,62.4,57.9,85.2,0.0,89,30.12,NW,,,62.8,64.2,-422.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,08:15,62.7,57.8,84.0,0.0,93,30.13,NW,,,62.8,64.2,-421.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,08:30,63.1,58.0,83.4,0.0,122,30.12,NW,,,62.8,64.2,-424.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,08:45,63.2,58.1,83.3,0.0,112,30.12,NW,,,62.8,64.2,-423.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,09:00,63.7,58.4,82.8,0.0,194,30.12,NW,,,62.8,64.2,-423.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,09:15,63.8,58.4,82.7,0.0,178,30.12,NW,,,62.8,64.2,-423.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,09:30,64.1,58.4,81.6,0.0,150,30.13,NW,,,62.8,64.2,-422.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,09:45,64.6,58.6,80.6,0.0,173,30.13,NW,,,63.0,64.2,-423.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,10:00,65.1,58.7,79.6,0.0,180,30.12,NW,,,63.0,64.0,-423.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,10:15,65.4,58.8,79.1,0.0,194,30.13,NW,,,63.0,64.0,-421.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,10:30,65.9,58.9,78.1,0.0,256,30.12,NW,,,63.0,64.0,-421.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,10:45,65.9,58.7,77.6,0.0,161,30.12,NW,,,63.1,64.0,-421.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,11:00,66.2,58.8,77.2,0.0,185,30.12,NW,,,63.1,64.0,-420.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,11:15,66.4,58.7,76.2,0.0,197,30.12,NW,,,63.2,64.0,-420.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,11:30,67.2,59.0,74.8,0.0,244,30.12,NW,,,63.3,64.0,-419.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,11:45,68.3,58.8,71.6,0.0,484,30.12,W,,,63.3,64.0,-419.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,12:00,69.5,59.1,69.5,0.0,593,30.11,W,,,63.5,64.0,-419.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,12:15,69.2,58.7,69.1,0.0,340,30.11,W,,,63.5,64.0,-418.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,12:30,69.7,58.2,66.8,0.0,495,30.1,W,,,63.7,64.0,-418.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,12:45,69.9,58.6,67.3,0.0,394,30.1,NW,,,63.8,64.0,-417.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,13:00,70.2,58.4,66.2,0.0,383,30.1,NW,,,63.9,64.0,-416.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,13:15,70.8,58.9,65.9,0.0,430,30.1,NW,,,64.0,64.0,-416.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,13:30,70.3,58.4,66.1,0.0,264,30.1,NW,,,64.2,64.0,-415.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,13:45,70.6,58.2,64.7,0.0,265,30.1,NW,,,64.4,64.0,-414.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,14:00,70.5,57.8,64.2,0.0,245,30.1,W,,,64.5,64.0,-413.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,14:15,70.0,58.0,65.7,0.0,278,30.09,W,,,64.7,64.0,-412.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,14:30,70.7,58.3,64.7,0.0,346,30.08,W,,,64.8,64.1,-411.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,14:45,70.1,57.8,64.8,0.0,254,30.08,W,,,65.0,64.2,-411.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,15:00,69.3,57.3,65.5,0.0,209,30.09,W,,,65.1,64.2,-409.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,15:15,69.2,57.6,66.6,0.0,319,30.08,W,,,65.3,64.2,-407.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,15:30,68.6,57.9,68.5,0.0,165,30.09,W,,,65.4,64.2,-406.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,15:45,67.1,58.0,72.5,0.0,170,30.09,W,,,65.5,64.2,-405.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,16:00,65.6,59.1,79.3,0.0,293,30.09,W,,,65.6,64.2,-404.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,16:15,66.6,60.2,79.7,0.0,220,30.08,NW,,,65.7,64.4,-403.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,16:30,67.0,60.0,78.2,0.0,285,30.08,NW,,,65.8,64.4,-399.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,16:45,67.2,60.5,78.8,0.0,187,30.07,NW,,,65.8,64.4,-399.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,17:00,66.9,59.9,78.0,0.0,83,30.07,NW,,,65.9,64.4,-397.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,17:15,67.0,59.5,76.9,0.0,86,30.07,NW,,,66.0,64.4,-396.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,17:30,67.0,59.4,76.5,0.0,55,30.07,NW,,,66.0,64.5,-394.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,17:45,67.1,59.1,75.4,0.0,15,30.07,W,,,66.2,64.6,-393.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,18:00,66.9,58.9,75.4,0.0,13,30.07,W,,,66.2,64.6,-393.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,18:15,66.4,58.8,76.6,0.0,15,30.07,W,,,66.2,64.6,-391.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,18:30,66.1,58.8,77.1,0.0,5,30.07,W,,,66.2,64.6,-390.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,18:45,65.8,58.8,78.0,0.0,6,30.07,W,,,66.2,64.7,-390.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,19:00,65.3,58.8,79.3,0.0,4,30.07,W,,,66.2,64.8,-390.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,19:15,65.3,58.8,79.3,0.0,1,30.07,W,,,66.2,64.8,-390.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,19:30,63.9,58.3,82.1,0.0,0,30.08,NW,,,66.2,64.8,-389.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,19:45,61.7,57.8,86.7,0.03,0,30.09,NW,,,66.2,64.8,-403.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,20:00,60.7,57.7,89.8,0.0,0,30.1,NW,,,66.1,64.8,-404.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,20:15,60.3,57.4,90.1,0.0,0,30.1,NW,,,66.0,64.8,-405.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,20:30,60.0,57.1,90.1,0.0,0,30.11,NW,,,66.0,64.9,-406.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,20:45,59.7,57.2,91.3,0.0,0,30.1,NW,,,65.9,64.9,-407.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,21:00,59.7,57.3,91.7,0.0,0,30.1,NW,,,65.8,64.9,-407.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,21:15,59.4,57.4,93.2,0.0,0,30.11,NW,,,65.8,64.9,-408.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,21:30,59.4,57.5,93.4,0.0,0,30.11,NW,,,65.7,64.9,-408.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,21:45,59.2,57.6,94.2,0.0,0,30.11,NW,,,65.7,64.9,-409.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,22:00,59.1,57.4,94.1,0.0,0,30.11,NW,,,65.6,64.9,-408.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,22:15,59.1,57.2,93.1,0.0,0,30.12,NW,,,65.5,64.9,-410.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,22:30,58.9,57.1,93.5,0.0,0,30.12,NW,,,65.5,64.9,-410.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,22:45,58.9,57.0,93.5,0.0,0,30.12,NW,,,65.3,64.9,-411.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-26,23:00,59.0,56.8,92.5,0.0,0,30.12,NW,,,65.3,64.9,-412.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,23:15,58.9,56.7,92.4,0.0,0,30.12,NW,,,65.3,64.9,-411.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,23:30,58.6,56.7,93.6,0.0,0,30.13,NW,,,65.1,64.9,-411.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,23:45,58.6,56.7,93.3,0.0,0,30.13,NW,,,65.1,64.9,-412.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,24:00,58.6,56.7,93.3,0.0,0,30.14,NW,,,65.0,64.9,-412.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,00:15,58.6,56.6,92.8,0.0,0,30.14,NW,,,64.9,64.9,-411.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,00:30,58.5,56.5,93.1,0.0,0,30.14,NW,,,64.9,64.9,-409.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,00:45,58.5,56.5,93.2,0.0,0,30.13,NW,,,64.8,64.9,-409.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,01:00,58.4,56.5,93.3,0.0,0,30.13,NW,,,64.8,64.9,-410.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,01:15,58.4,56.5,93.2,0.0,0,30.13,NW,,,64.7,64.9,-409.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,01:30,58.2,56.4,93.6,0.0,0,30.14,W,,,64.6,64.9,-409.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,01:45,58.1,56.5,94.2,0.0,0,30.14,NW,,,64.6,64.9,-410.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,02:00,57.8,56.4,95.0,0.0,0,30.14,NW,,,64.4,64.9,-410.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,02:15,57.8,56.4,94.8,0.0,0,30.14,W,,,64.4,64.9,-411.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,02:30,57.7,56.3,95.0,0.0,0,30.14,W,,,64.4,64.8,-411.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,02:45,57.7,56.1,94.4,0.0,0,30.14,W,,,64.2,64.8,-412.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,03:00,57.3,56.0,95.2,0.0,0,30.14,NW,,,64.2,64.8,-413.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,03:15,57.0,55.9,96.1,0.0,0,30.14,NW,,,64.2,64.8,-413.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,03:30,56.7,55.7,96.4,0.0,0,30.14,NW,,,64.0,64.8,-413.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,03:45,57.0,55.7,95.6,0.0,0,30.14,NW,,,64.0,64.8,-413.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,04:00,57.0,55.9,96.0,0.0,0,30.14,NW,,,64.0,64.8,-414.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,04:15,57.7,56.2,94.7,0.0,0,30.14,NW,,,63.9,64.8,-414.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,04:30,57.4,56.4,96.2,0.0,0,30.14,W,,,63.9,64.8,-415.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,04:45,57.3,56.4,96.6,0.0,0,30.14,W,,,63.8,64.7,-415.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,05:00,57.4,56.4,96.3,0.0,0,30.14,W,,,63.7,64.6,-416.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,05:15,57.4,56.5,96.6,0.0,0,30.14,W,,,63.7,64.6,-416.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,05:30,57.4,56.4,96.5,0.0,0,30.14,W,,,63.7,64.6,-417.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,05:45,57.4,56.4,96.2,0.0,2,30.14,W,,,63.5,64.6,-416.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,06:00,57.4,56.4,96.3,0.0,4,30.14,W,,,63.5,64.6,-417.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,06:15,57.7,56.4,95.4,0.0,7,30.15,W,,,63.5,64.6,-417.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,06:30,57.9,56.5,94.8,0.0,9,30.16,W,,,63.4,64.6,-418.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,06:45,58.0,56.3,94.1,0.0,16,30.16,NW,,,63.3,64.5,-419.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,07:00,58.1,56.5,94.5,0.0,20,30.17,W,,,63.3,64.4,-418.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,07:15,58.3,56.4,93.3,0.0,18,30.17,NW,,,63.3,64.4,-419.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,07:30,58.2,56.2,93.0,0.0,22,30.17,NW,,,63.3,64.4,-419.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,07:45,58.1,56.0,92.6,0.0,27,30.17,NW,,,63.1,64.4,-419.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,08:00,58.1,56.1,92.7,0.0,36,30.18,NW,,,63.1,64.4,-420.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,08:15,58.3,56.3,92.9,0.0,43,30.18,NW,,,63.1,64.4,-421.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,08:30,58.5,56.4,92.6,0.0,44,30.19,NW,,,63.1,64.4,-421.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,08:45,58.5,56.5,92.8,0.0,85,30.19,NW,,,63.1,64.3,-421.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,09:00,58.8,56.7,92.8,0.0,88,30.2,NW,,,63.1,64.2,-421.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,09:15,59.0,56.7,92.3,0.0,71,30.2,NW,,,63.1,64.2,-423.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,09:30,59.0,56.8,92.2,0.0,79,30.2,NW,,,63.0,64.2,-421.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,09:45,59.2,56.9,92.2,0.0,75,30.2,NW,,,63.0,64.2,-423.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,10:00,58.8,57.1,94.0,0.0,99,30.21,NW,,,63.0,64.2,-423.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,10:15,58.4,57.3,96.0,0.01,96,30.2,W,,,63.0,64.2,-428.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,10:30,58.2,57.2,96.4,0.0,84,30.2,W,,,63.0,64.2,-428.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,10:45,58.1,57.1,96.2,0.01,72,30.21,W,,,63.0,64.2,-438.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,11:00,58.4,57.3,96.1,0.0,120,30.21,W,,,63.0,64.0,-437.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,11:15,58.6,57.8,97.2,0.0,140,30.21,NW,,,63.1,64.0,-438.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,11:30,58.7,58.0,97.5,0.0,155,30.22,NW,,,63.1,64.0,-437.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,11:45,58.6,58.0,98.0,0.0,145,30.22,W,,,63.1,64.0,-437.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,12:00,58.8,57.7,96.1,0.01,123,30.22,NW,,,63.1,64.0,-439.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,12:15,58.8,57.8,96.6,0.02,105,30.22,NW,,,63.1,64.0,-435.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,12:30,58.8,58.2,97.5,0.02,158,30.22,NW,,,63.1,64.0,-433.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,12:45,58.7,57.9,96.9,0.01,202,30.22,NW,,,63.1,64.0,-432.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,13:00,59.2,58.3,96.5,0.0,385,30.22,W,,,63.3,64.0,-428.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,13:15,60.0,59.2,96.8,0.0,406,30.22,NW,,,63.3,64.0,-435.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,13:30,61.4,60.4,96.6,0.0,533,30.22,NW,,,63.3,64.0,-428.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,13:45,62.2,60.8,95.0,0.0,410,30.22,NW,,,63.3,64.0,-419.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,14:00,62.2,59.5,91.0,0.0,335,30.22,NW,,,63.5,64.0,-418.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,14:15,62.7,59.3,88.7,0.0,332,30.22,NW,,,63.5,64.0,-418.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,14:30,63.1,59.5,88.0,0.0,392,30.21,NW,,,63.7,64.0,-417.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,14:45,64.9,59.9,83.7,0.0,653,30.2,NW,,,63.8,64.0,-416.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,15:00,65.6,60.3,83.1,0.0,498,30.2,NW,,,63.9,64.0,-416.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,15:15,66.1,59.8,80.2,0.0,584,30.2,NW,,,64.0,64.0,-415.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,15:30,65.9,59.2,79.1,0.0,369,30.2,NW,,,64.2,64.0,-414.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,15:45,65.9,58.2,75.9,0.0,320,30.2,NW,,,64.4,64.0,-413.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,16:00,67.0,57.1,70.4,0.0,438,30.19,NW,,,64.6,64.0,-412.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,16:15,67.8,57.1,68.7,0.0,460,30.18,NW,,,64.7,64.0,-411.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,16:30,68.4,57.2,67.3,0.0,483,30.18,NW,,,64.9,64.0,-410.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,16:45,68.1,56.4,66.2,0.0,371,30.18,NW,,,65.1,64.0,-409.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,17:00,67.9,55.4,64.4,0.0,273,30.18,NW,,,65.3,64.0,-408.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,17:15,67.3,54.6,63.7,0.0,165,30.18,NW,,,65.4,64.1,-406.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,17:30,67.0,53.8,62.5,0.0,159,30.18,NW,,,65.5,64.2,-405.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,17:45,67.0,53.8,62.6,0.0,150,30.18,NW,,,65.7,64.2,-402.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,18:00,66.5,53.7,63.3,0.0,69,30.17,NW,,,65.8,64.2,-401.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,18:15,65.8,53.4,64.2,0.0,80,30.17,NW,,,65.8,64.2,-399.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,18:30,65.5,53.4,64.9,0.0,61,30.17,NW,,,65.8,64.2,-397.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,18:45,64.2,53.0,66.8,0.0,19,30.18,NW,,,65.8,64.3,-397.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,19:00,61.8,52.9,72.4,0.0,9,30.18,NW,,,65.8,64.4,-397.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,19:15,59.3,52.7,78.6,0.0,2,30.18,NW,,,65.8,64.4,-397.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,19:30,57.5,52.1,82.2,0.0,0,30.18,NW,,,65.8,64.4,-397.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,19:45,56.0,51.8,85.5,0.0,0,30.19,NW,,,65.7,64.4,-397.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,20:00,54.6,51.3,88.8,0.0,0,30.2,NW,,,65.6,64.4,-399.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,20:15,53.8,50.9,90.0,0.0,0,30.2,NW,,,65.5,64.4,-400.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,20:30,53.0,50.6,91.4,0.0,0,30.2,NW,,,65.4,64.4,-401.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,20:45,52.2,50.1,92.6,0.0,0,30.2,NW,,,65.3,64.4,-401.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,21:00,52.0,49.8,92.2,0.0,0,30.2,NW,,,65.1,64.5,-403.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,21:15,51.8,49.6,92.1,0.0,0,30.2,NW,,,65.0,64.6,-403.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,21:30,52.1,49.6,91.1,0.0,0,30.2,NW,,,64.8,64.6,-405.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,21:45,51.5,49.6,93.2,0.0,0,30.2,NW,,,64.6,64.6,-407.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,22:00,51.4,49.4,92.8,0.0,0,30.2,NW,,,64.5,64.6,-408.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,22:15,50.3,49.0,95.3,0.0,0,30.2,NW,,,64.3,64.6,-410.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,22:30,50.0,48.6,94.9,0.0,0,30.2,NW,,,64.1,64.5,-411.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,22:45,50.6,48.5,92.5,0.0,0,30.2,NW,,,63.9,64.4,-412.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-27,23:00,51.8,49.3,91.2,0.0,0,30.2,NW,,,63.8,64.4,-413.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,23:15,50.9,49.6,95.1,0.0,0,30.2,NW,,,63.6,64.4,-414.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,23:30,50.5,49.1,94.8,0.0,0,30.2,NW,,,63.4,64.4,-414.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,23:45,50.1,48.8,95.2,0.0,0,30.2,NW,,,63.2,64.4,-416.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,24:00,49.4,48.6,97.1,0.0,0,30.2,W,,,63.1,64.4,-417.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,00:15,49.2,48.0,95.7,0.0,0,30.21,NW,,,62.9,64.4,-418.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,00:30,47.8,47.5,98.8,0.0,0,30.21,W,,,62.7,64.4,-419.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,00:45,47.7,47.0,97.3,0.0,0,30.21,W,,,62.6,64.3,-420.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,01:00,47.0,46.4,97.5,0.0,0,30.21,W,,,62.4,64.2,-423.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,01:15,47.0,45.9,95.9,0.0,0,30.21,W,,,62.2,64.2,-425.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,01:30,46.2,45.5,97.4,0.0,0,30.21,W,,,62.1,64.2,-430.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,01:45,46.4,45.1,95.1,0.0,0,30.21,NW,,,61.9,64.2,-433.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,02:00,46.1,45.0,95.8,0.0,0,30.21,W,,,61.8,64.1,-438.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,02:15,45.5,44.7,97.0,0.0,0,30.21,W,,,61.6,64.0,-443.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,02:30,45.8,44.4,94.8,0.0,0,30.2,W,,,61.5,64.0,-445.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,02:45,45.3,44.4,96.5,0.0,0,30.2,W,,,61.3,64.0,-448.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,03:00,45.0,44.2,96.9,0.0,0,30.2,W,,,61.2,63.9,-450.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,03:15,44.3,43.8,98.1,0.0,0,30.2,W,,,61.1,63.9,-452.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,03:30,45.1,43.5,94.0,0.0,0,30.2,W,,,60.9,63.9,-455.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,03:45,44.5,43.7,97.0,0.0,0,30.2,W,,,60.8,63.8,-457.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,04:00,44.1,43.4,97.4,0.0,0,30.2,W,,,60.6,63.7,-460.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,04:15,44.2,43.2,96.2,0.0,0,30.2,W,,,60.5,63.7,-461.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,04:30,44.1,43.2,96.7,0.0,0,30.2,W,,,60.3,63.7,-462.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,04:45,44.2,43.2,96.1,0.0,0,30.21,W,,,60.2,63.6,-462.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,05:00,43.5,43.0,98.0,0.0,0,30.2,W,,,60.1,63.5,-464.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,05:15,43.9,42.9,96.2,0.0,0,30.2,W,,,59.9,63.5,-464.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,05:30,43.4,42.7,97.5,0.0,4,30.21,W,,,59.8,63.4,-467.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,05:45,43.4,42.6,97.1,0.0,11,30.21,W,,,59.7,63.3,-467.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,06:00,43.1,42.6,98.2,0.0,17,30.21,W,,,59.5,63.3,-469.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,06:15,44.1,42.9,95.5,0.0,24,30.21,W,,,59.4,63.3,-472.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,06:30,44.6,44.0,97.7,0.0,101,30.21,W,,,59.3,63.1,-475.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,06:45,47.2,47.0,99.1,0.0,153,30.21,W,,,59.2,63.1,-478.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,07:00,48.6,48.5,99.7,0.0,189,30.2,W,,,59.1,63.1,-481.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,07:15,50.2,50.2,99.9,0.0,225,30.2,W,,,59.0,63.0,-487.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,07:30,51.2,51.2,100.0,0.0,260,30.2,W,,,58.8,63.0,-487.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,07:45,53.8,53.6,99.4,0.0,296,30.19,W,,,58.8,63.0,-491.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,08:00,56.2,56.2,99.8,0.0,331,30.2,W,,,58.6,62.8,-487.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,08:15,58.1,58.1,99.8,0.0,365,30.2,W,,,58.6,62.8,-482.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,08:30,59.5,59.0,98.1,0.0,402,30.2,W,,,58.5,62.8,-479.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,08:45,61.2,59.2,93.0,0.0,440,30.19,W,,,58.5,62.6,-475.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,09:00,62.2,58.8,88.6,0.0,477,30.19,W,,,58.5,62.6,-475.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,09:15,63.2,58.6,85.0,0.0,513,30.19,NW,,,58.5,62.6,-475.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,09:30,64.5,58.5,80.6,0.0,548,30.18,NW,,,58.5,62.6,-474.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,09:45,65.4,58.5,78.4,0.0,581,30.18,W,,,58.5,62.4,-474.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,10:00,66.6,58.5,75.2,0.0,611,30.19,W,,,58.6,62.4,-472.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,10:15,67.5,58.3,72.2,0.0,638,30.18,NW,,,58.8,62.4,-470.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,10:30,68.4,57.9,69.0,0.0,663,30.18,W,,,58.9,62.4,-467.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,10:45,69.4,58.0,67.2,0.0,685,30.17,W,,,59.1,62.4,-466.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,11:00,69.8,58.4,67.0,0.0,703,30.17,W,,,59.3,62.3,-463.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,11:15,70.3,58.2,65.6,0.0,718,30.17,W,,,59.6,62.2,-462.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,11:30,71.9,58.6,62.8,0.0,731,30.16,NW,,,59.9,62.2,-460.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,11:45,73.2,58.3,59.4,0.0,740,30.16,NW,,,60.2,62.2,-459.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,12:00,73.7,57.5,56.9,0.0,745,30.16,NW,,,60.5,62.2,-456.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,12:15,73.7,56.6,55.0,0.0,749,30.16,NW,,,60.8,62.2,-454.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,12:30,74.6,56.7,53.6,0.0,747,30.15,NW,,,61.2,62.2,-452.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,12:45,74.6,56.4,53.0,0.0,742,30.15,NW,,,61.5,62.2,-449.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,13:00,75.3,56.6,52.2,0.0,738,30.14,NW,,,61.9,62.4,-445.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,13:15,75.5,56.5,51.7,0.0,729,30.14,NW,,,62.3,62.4,-437.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,13:30,75.8,56.3,50.7,0.0,716,30.14,NW,,,62.6,62.4,-430.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,13:45,76.3,56.5,50.2,0.0,701,30.14,NW,,,63.0,62.4,-423.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,14:00,76.4,56.2,49.7,0.0,685,30.13,NW,,,63.3,62.4,-421.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,14:15,77.0,56.7,49.6,0.0,663,30.12,NW,,,63.7,62.6,-418.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,14:30,77.0,57.0,50.0,0.0,635,30.12,NW,,,64.1,62.6,-415.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,14:45,77.5,56.7,48.8,0.0,610,30.11,NW,,,64.4,62.6,-414.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,15:00,77.9,56.8,48.2,0.0,580,30.11,NW,,,64.8,62.8,-411.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,15:15,78.0,55.5,45.8,0.0,551,30.11,NW,,,65.1,62.8,-411.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,15:30,78.4,55.1,44.7,0.0,518,30.11,NW,,,65.4,62.9,-407.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,15:45,78.0,54.4,44.1,0.0,482,30.1,NW,,,65.6,63.0,-405.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,16:00,77.6,53.6,43.4,0.0,444,30.1,NW,,,65.9,63.0,-400.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,16:15,77.7,53.3,42.8,0.0,406,30.09,NW,,,66.2,63.1,-395.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,16:30,77.5,53.3,43.0,0.0,368,30.09,NW,,,66.4,63.1,-392.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,16:45,77.2,52.4,42.0,0.0,331,30.09,NW,,,66.5,63.3,-388.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,17:00,77.2,52.3,41.9,0.0,292,30.09,NW,,,66.7,63.3,-385.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,17:15,76.8,52.6,42.8,0.0,222,30.08,NW,,,66.8,63.4,-384.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,17:30,76.5,52.3,42.9,0.0,189,30.08,NW,,,66.9,63.5,-383.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,17:45,76.0,52.5,43.9,0.0,180,30.08,NW,,,66.9,63.6,-382.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,18:00,74.4,52.8,46.9,0.0,59,30.08,NW,,,67.1,63.7,-382.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,18:15,73.8,52.9,48.1,0.0,93,30.07,NW,,,67.1,63.7,-381.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,18:30,73.1,53.0,49.2,0.0,62,30.08,NW,,,67.1,63.8,-381.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,18:45,71.1,53.3,53.4,0.0,24,30.08,NW,,,67.0,63.9,-380.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,19:00,69.6,53.3,56.1,0.0,8,30.08,NW,,,66.9,63.9,-380.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,19:15,68.2,53.0,58.3,0.0,1,30.08,NW,,,66.9,64.0,-380.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,19:30,65.9,52.7,62.4,0.0,0,30.08,NW,,,66.8,64.0,-381.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,19:45,63.7,52.7,67.5,0.0,0,30.08,NW,,,66.7,64.0,-380.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,20:00,63.0,52.3,68.1,0.0,0,30.08,NW,,,66.6,64.2,-381.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,20:15,60.6,52.3,74.1,0.0,0,30.08,NW,,,66.4,64.2,-381.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,20:30,59.5,51.8,75.7,0.0,0,30.08,NW,,,66.3,64.2,-381.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,20:45,58.9,51.7,76.8,0.0,0,30.08,NW,,,66.1,64.2,-381.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,21:00,58.3,51.8,79.0,0.0,0,30.08,NW,,,65.9,64.3,-382.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,21:15,57.3,51.8,81.6,0.0,0,30.09,NW,,,65.8,64.4,-383.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,21:30,56.9,51.4,81.5,0.0,0,30.09,NW,,,65.6,64.4,-383.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,21:45,56.3,51.2,82.9,0.0,0,30.09,NW,,,65.4,64.4,-384.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,22:00,55.3,50.8,84.8,0.0,0,30.08,NW,,,65.2,64.4,-385.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,22:15,55.2,50.5,84.2,0.0,0,30.09,NW,,,65.1,64.4,-386.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,22:30,54.0,50.3,87.3,0.0,0,30.08,NW,,,64.9,64.4,-388.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,22:45,54.2,50.0,85.8,0.0,0,30.08,NW,,,64.7,64.4,-391.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-28,23:00,53.8,49.8,86.4,0.0,0,30.08,NW,,,64.5,64.4,-393.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,23:15,52.3,49.5,90.3,0.0,0,30.08,NW,,,64.3,64.4,-396.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,23:30,51.8,49.0,90.3,0.0,0,30.09,NW,,,64.1,64.4,-398.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,23:45,51.4,48.6,89.8,0.0,0,30.08,NW,,,63.9,64.4,-401.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,24:00,50.4,48.5,93.1,0.0,0,30.08,NW,,,63.7,64.4,-403.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,00:15,50.2,48.0,92.4,0.0,0,30.08,NW,,,63.6,64.4,-405.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,00:30,49.8,47.8,92.8,0.0,0,30.08,NW,,,63.4,64.4,-408.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,00:45,49.4,47.6,93.3,0.0,0,30.08,NW,,,63.2,64.4,-409.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,01:00,49.3,47.3,92.7,0.0,0,30.08,NW,,,63.0,64.2,-410.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,01:15,48.5,47.2,95.2,0.0,0,30.07,NW,,,62.9,64.2,-412.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,01:30,48.5,47.0,94.2,0.0,0,30.08,NW,,,62.7,64.2,-413.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,01:45,48.4,46.6,93.5,0.0,0,30.07,NW,,,62.5,64.2,-414.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,02:00,48.1,46.5,94.2,0.0,0,30.07,NW,,,62.3,64.2,-415.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,02:15,48.0,46.3,93.8,0.0,0,30.07,NW,,,62.2,64.2,-417.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,02:30,47.7,46.2,94.6,0.0,0,30.07,NW,,,62.0,64.0,-417.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,02:45,47.1,46.0,95.7,0.0,0,30.07,NW,,,61.9,64.0,-418.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,03:00,46.9,45.7,95.4,0.0,0,30.07,NW,,,61.7,64.0,-420.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,03:15,47.2,45.5,93.8,0.0,0,30.07,NW,,,61.5,64.0,-421.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,03:30,47.1,45.7,94.7,0.0,0,30.07,NW,,,61.4,63.9,-423.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,03:45,47.1,45.8,95.2,0.0,0,30.07,NW,,,61.2,63.9,-427.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,04:00,46.6,45.6,96.4,0.0,0,30.07,NW,,,61.1,63.9,-429.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,04:15,46.5,45.2,95.2,0.0,0,30.07,NW,,,60.9,63.9,-434.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,04:30,46.5,45.1,94.9,0.0,0,30.07,NW,,,60.8,63.7,-437.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,04:45,46.2,45.1,95.6,0.0,0,30.07,NW,,,60.6,63.7,-441.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,05:00,45.8,44.7,96.0,0.0,0,30.06,NW,,,60.5,63.7,-447.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,05:15,45.9,44.6,94.9,0.0,0,30.06,NW,,,60.4,63.6,-449.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,05:30,45.7,44.4,95.3,0.0,4,30.06,NW,,,60.2,63.5,-450.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,05:45,45.1,44.5,97.9,0.0,10,30.06,NW,,,60.1,63.5,-452.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,06:00,45.0,44.2,96.8,0.0,18,30.06,NW,,,60.0,63.5,-453.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,06:15,46.0,44.5,94.2,0.0,24,30.06,NW,,,59.9,63.3,-456.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,06:30,47.2,45.8,95.0,0.0,91,30.06,NW,,,59.7,63.3,-458.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,06:45,49.4,48.9,98.2,0.0,144,30.06,NW,,,59.6,63.3,-460.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,07:00,51.3,51.2,99.9,0.0,179,30.05,NW,,,59.5,63.2,-461.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,07:15,52.8,52.7,99.5,0.0,215,30.06,NW,,,59.4,63.1,-462.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,07:30,55.3,55.3,99.7,0.0,250,30.05,NW,,,59.2,63.1,-461.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,07:45,57.3,57.2,99.7,0.0,286,30.05,NW,,,59.2,63.1,-461.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,08:00,59.0,59.0,99.8,0.0,322,30.04,NW,,,59.0,63.0,-461.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,08:15,61.0,59.3,93.9,0.0,359,30.04,NW,,,59.0,63.0,-463.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,08:30,62.3,58.7,87.9,0.0,386,30.04,NW,,,59.0,63.0,-463.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,08:45,63.9,58.3,81.8,0.0,437,30.04,NW,,,58.8,62.8,-464.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,09:00,65.4,58.1,77.2,0.0,475,30.03,NW,,,58.8,62.8,-463.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,09:15,66.2,57.9,74.5,0.0,510,30.02,NW,,,58.8,62.8,-464.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,09:30,68.2,58.2,70.2,0.0,543,30.02,NW,,,58.9,62.8,-464.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,09:45,68.4,58.5,70.6,0.0,574,30.02,NW,,,59.0,62.6,-464.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,10:00,69.2,58.5,68.6,0.0,603,30.02,NW,,,59.0,62.6,-464.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,10:15,70.4,58.8,66.6,0.0,630,30.01,NW,,,59.2,62.6,-464.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,10:30,71.6,59.1,64.6,0.0,654,30.01,NW,,,59.3,62.6,-462.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,10:45,72.5,58.8,62.1,0.0,676,30.01,NW,,,59.5,62.6,-461.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,11:00,72.9,58.4,60.3,0.0,695,30.01,NW,,,59.7,62.6,-460.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,11:15,73.5,58.4,59.1,0.0,713,30.0,NW,,,60.0,62.4,-458.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,11:30,73.7,58.2,58.2,0.0,727,30.0,NW,,,60.2,62.4,-457.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,11:45,74.1,58.2,57.4,0.0,736,29.99,NW,,,60.5,62.4,-454.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,12:00,74.1,58.0,57.2,0.0,742,29.99,NW,,,60.9,62.4,-452.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,12:15,75.8,58.4,54.6,0.0,745,29.98,NW,,,61.2,62.4,-450.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,12:30,76.1,58.4,54.3,0.0,745,29.97,NW,,,61.5,62.4,-446.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,12:45,76.2,58.4,54.1,0.0,742,29.97,NW,,,61.9,62.5,-438.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,13:00,76.7,58.3,53.0,0.0,736,29.97,NW,,,62.2,62.6,-433.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,13:15,76.6,58.1,52.6,0.0,727,29.97,NW,,,62.6,62.6,-427.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,13:30,77.1,58.1,51.9,0.0,713,29.96,NW,,,63.0,62.6,-421.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,13:45,77.7,58.3,51.3,0.0,697,29.96,NW,,,63.3,62.6,-420.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,14:00,78.0,58.6,51.1,0.0,677,29.96,NW,,,63.7,62.6,-417.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,14:15,78.0,58.5,51.0,0.0,655,29.96,NW,,,64.1,62.8,-414.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,14:30,78.1,58.2,50.5,0.0,631,29.95,NW,,,64.4,62.8,-413.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,14:45,78.4,58.5,50.5,0.0,606,29.95,NW,,,64.8,62.8,-411.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,15:00,78.3,58.4,50.5,0.0,575,29.94,NW,,,65.1,62.9,-408.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,15:15,78.6,58.6,50.3,0.0,543,29.94,NW,,,65.4,63.0,-406.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,15:30,78.6,58.7,50.4,0.0,510,29.94,NW,,,65.7,63.0,-401.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,15:45,78.9,59.1,50.7,0.0,474,29.94,NW,,,66.0,63.1,-396.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,16:00,78.6,59.2,51.4,0.0,437,29.93,NW,,,66.2,63.1,-392.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,16:15,78.5,59.0,51.2,0.0,398,29.93,NW,,,66.5,63.3,-388.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,16:30,78.2,58.3,50.4,0.0,358,29.93,NW,,,66.7,63.3,-385.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,16:45,77.9,58.1,50.5,0.0,318,29.93,NW,,,66.8,63.4,-384.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,17:00,77.7,57.8,50.3,0.0,277,29.93,NW,,,67.0,63.5,-383.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,17:15,78.0,57.5,49.3,0.0,235,29.92,NW,,,67.3,63.5,-381.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,17:30,77.2,57.2,50.1,0.0,195,29.92,NW,,,67.3,63.7,-381.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,17:45,76.7,57.1,50.7,0.0,156,29.92,NW,,,67.5,63.7,-380.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,18:00,76.2,56.9,51.1,0.0,120,29.92,NW,,,67.5,63.8,-379.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,18:15,75.5,56.7,52.1,0.0,85,29.92,NW,,,67.5,63.9,-378.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,18:30,74.4,56.4,53.5,0.0,48,29.92,NW,,,67.5,63.9,-378.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,18:45,72.9,55.8,55.0,0.0,11,29.91,NW,,,67.5,64.0,-378.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,19:00,71.3,55.4,57.2,0.0,5,29.92,NW,,,67.5,64.0,-377.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,19:15,70.1,55.1,58.9,0.0,0,29.92,NW,,,67.3,64.1,-377.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,19:30,68.9,55.1,61.4,0.0,0,29.94,NW,,,67.3,64.2,-377.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,19:45,67.1,55.1,65.3,0.0,0,29.94,NW,,,67.1,64.2,-377.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,20:00,66.0,55.3,68.3,0.0,0,29.95,NW,,,66.9,64.2,-377.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,20:15,65.0,55.4,71.1,0.0,0,29.95,NW,,,66.8,64.3,-377.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,20:30,64.0,55.3,73.2,0.0,0,29.95,NW,,,66.7,64.4,-377.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,20:45,63.0,55.0,74.9,0.0,0,29.95,NW,,,66.5,64.4,-377.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,21:00,62.4,54.6,75.5,0.0,0,29.96,NW,,,66.4,64.4,-377.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,21:15,61.7,54.1,76.1,0.0,0,29.96,NW,,,66.2,64.4,-378.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,21:30,61.2,53.8,76.6,0.0,0,29.96,NW,,,66.1,64.4,-379.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,21:45,60.6,53.6,77.5,0.0,0,29.95,NW,,,65.9,64.5,-379.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,22:00,60.0,53.5,78.9,0.0,0,29.95,NW,,,65.8,64.6,-380.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,22:15,59.8,53.4,79.3,0.0,0,29.95,NW,,,65.6,64.6,-380.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,22:30,58.4,53.1,82.5,0.0,0,29.95,NW,,,65.5,64.6,-381.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,22:45,57.2,52.5,84.1,0.0,0,29.95,NW,,,65.3,64.6,-381.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-29,23:00,56.8,52.0,84.1,0.0,0,29.95,NW,,,65.2,64.6,-381.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,23:15,56.4,51.9,85.0,0.0,0,29.96,NW,,,65.0,64.6,-382.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,23:30,55.6,51.7,86.9,0.0,0,29.96,NW,,,64.9,64.6,-383.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,23:45,54.3,51.2,89.4,0.0,0,29.96,NW,,,64.7,64.6,-384.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,24:00,54.0,51.1,89.9,0.0,0,29.96,NW,,,64.6,64.6,-385.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,00:15,52.9,50.4,90.9,0.0,0,29.96,NW,,,64.4,64.6,-386.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,00:30,53.2,50.3,89.8,0.0,0,29.97,NW,,,64.2,64.6,-388.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,00:45,51.9,50.2,93.6,0.0,0,29.97,NW,,,64.1,64.6,-390.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,01:00,51.4,49.5,93.3,0.0,0,29.96,NW,,,63.9,64.6,-393.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,01:15,50.6,48.9,94.0,0.0,0,29.97,NW,,,63.8,64.4,-397.3,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,01:30,51.0,48.7,91.5,0.0,0,29.97,NW,,,63.6,64.4,-399.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,01:45,49.8,48.6,95.7,0.0,0,29.97,NW,,,63.5,64.4,-402.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,02:00,49.7,48.1,94.1,0.0,0,29.96,NW,,,63.3,64.4,-405.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,02:15,49.3,47.8,94.4,0.0,0,29.97,NW,,,63.1,64.4,-406.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,02:30,48.7,47.3,94.9,0.0,0,29.98,NW,,,63.0,64.4,-409.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,02:45,49.2,47.2,92.8,0.0,0,29.99,NW,,,62.8,64.4,-409.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,03:00,49.0,47.5,94.7,0.0,0,29.99,NW,,,62.6,64.2,-411.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,03:15,49.2,48.0,95.9,0.0,0,29.99,NW,,,62.5,64.2,-413.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,03:30,50.4,48.8,94.2,0.0,0,29.98,NW,,,62.3,64.2,-414.4,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,03:45,51.0,49.9,95.7,0.0,0,29.98,NW,,,62.2,64.2,-415.2,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,04:00,51.8,50.7,96.0,0.0,0,29.98,NW,,,62.0,64.2,-415.9,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,04:15,52.4,51.4,96.3,0.0,0,29.99,NW,,,61.9,64.0,-417.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,04:30,52.7,51.9,96.9,0.0,0,29.99,NW,,,61.7,64.0,-418.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,04:45,53.0,52.3,97.2,0.0,0,29.99,NW,,,61.7,64.0,-419.1,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,05:00,53.4,52.5,96.7,0.0,0,29.99,NW,,,61.5,64.0,-421.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,05:15,53.6,52.7,96.8,0.0,0,29.99,NW,,,61.5,63.9,-422.6,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,05:30,53.7,52.9,97.3,0.0,0,30.0,NW,,,61.3,63.9,-424.0,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,05:45,53.9,53.1,97.1,0.0,3,30.0,NW,,,61.3,63.9,-424.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,06:00,53.9,52.9,96.3,0.0,14,30.0,W,,,61.2,63.9,-427.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,06:15,53.2,52.3,96.7,0.0,31,30.01,W,,,61.2,63.7,-429.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,06:30,53.4,51.5,93.2,0.0,48,30.01,W,,,61.2,63.7,-430.7,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,06:45,54.4,51.3,89.3,0.0,66,30.01,W,,,61.0,63.7,-434.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,07:00,54.7,51.2,88.0,0.0,50,30.0,W,,,61.0,63.7,-435.8,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,07:15,55.1,51.3,87.1,0.0,62,30.0,NW,,,61.0,63.6,-436.5,Too Dry/NA,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,07:30,55.5,51.6,86.6,0.0,72,30.0,NW,,,61.0,63.5,-439.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,07:45,55.9,51.7,85.8,0.0,87,30.01,W,,,60.8,63.5,-440.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,08:00,56.6,51.7,83.6,0.0,128,30.01,W,,,60.8,63.5,-441.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,08:15,57.1,52.0,83.0,0.0,146,30.0,W,,,60.8,63.5,-445.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,08:30,57.4,51.8,81.5,0.0,145,30.0,W,,,60.8,63.3,-443.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,08:45,57.9,51.9,80.3,0.0,186,30.0,W,,,60.8,63.3,-444.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,09:00,58.2,51.7,79.1,0.0,223,29.99,W,,,60.8,63.3,-446.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,09:15,58.5,51.2,76.7,0.0,195,30.0,W,,,60.8,63.3,-446.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,09:30,58.3,50.8,75.8,0.0,134,30.0,W,,,60.8,63.3,-446.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,09:45,58.8,50.8,74.6,0.0,173,30.0,NW,,,60.8,63.2,-446.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,10:00,59.3,51.0,73.8,0.0,216,30.0,NW,,,60.9,63.1,-446.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,10:15,59.5,50.7,72.7,0.0,132,30.0,NW,,,61.0,63.1,-444.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,10:30,59.7,50.5,71.6,0.0,140,30.0,NW,,,61.0,63.1,-446.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,10:45,60.6,51.0,70.5,0.0,301,30.0,NW,,,61.0,63.1,-445.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,11:00,61.6,51.5,69.5,0.0,393,30.0,NW,,,61.2,63.1,-442.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,11:15,61.9,51.4,68.6,0.0,237,30.0,NW,,,61.2,63.1,-442.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,11:30,61.0,50.5,68.2,0.0,130,30.01,W,,,61.3,63.1,-444.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,11:45,60.5,50.4,69.1,0.0,112,30.01,W,,,61.3,63.0,-443.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,12:00,60.9,50.5,68.6,0.0,196,30.01,NW,,,61.4,63.0,-440.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,12:15,61.0,50.7,68.7,0.0,170,30.01,NW,,,61.5,63.0,-438.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,12:30,60.9,50.6,68.8,0.0,129,30.01,NW,,,61.6,63.0,-437.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,12:45,61.0,50.3,67.9,0.0,121,30.0,NW,,,61.7,63.0,-435.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,13:00,61.3,50.3,67.2,0.0,107,30.01,NW,,,61.8,63.0,-434.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,13:15,61.2,50.6,68.0,0.0,101,30.01,NW,,,61.9,63.0,-433.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,13:30,61.1,50.5,68.2,0.0,104,30.01,NW,,,61.9,63.0,-431.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,13:45,61.2,50.9,69.0,0.0,163,30.01,NW,,,62.1,63.0,-430.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,14:00,61.8,51.5,68.7,0.0,228,30.01,NW,,,62.1,63.0,-430.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,14:15,61.9,51.8,69.3,0.0,222,30.0,NW,,,62.2,63.0,-427.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,14:30,63.2,52.5,68.0,0.0,468,30.0,NW,,,62.2,63.0,-427.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,14:45,63.2,53.0,69.3,0.0,371,29.99,NW,,,62.2,63.0,-426.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,15:00,63.5,52.2,66.5,0.0,340,29.99,NW,,,62.3,63.0,-425.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,15:15,63.5,51.9,65.8,0.0,271,29.99,NW,,,62.4,63.0,-426.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,15:30,63.5,51.7,65.2,0.0,188,29.99,NW,,,62.4,63.1,-424.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,15:45,63.5,51.3,64.3,0.0,128,29.99,NW,,,62.6,63.1,-422.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,16:00,63.5,50.9,63.5,0.0,101,29.98,NW,,,62.6,63.1,-422.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,16:15,62.9,51.4,66.0,0.0,79,29.98,NW,,,62.8,63.1,-421.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,16:30,62.6,51.6,67.3,0.0,80,29.98,NW,,,62.9,63.1,-420.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,16:45,62.7,51.9,67.7,0.0,94,29.98,NW,,,63.0,63.1,-419.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,17:00,62.7,51.8,67.3,0.0,100,29.98,NW,,,63.0,63.1,-418.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,17:15,62.9,51.8,66.9,0.0,98,29.97,NW,,,63.1,63.1,-418.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,17:30,62.8,51.9,67.6,0.0,46,29.97,NW,,,63.1,63.1,-418.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,17:45,61.9,51.1,67.7,0.0,28,29.97,NW,,,63.1,63.1,-418.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,18:00,61.5,50.9,68.1,0.0,30,29.97,NW,,,63.3,63.1,-417.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,18:15,61.4,50.5,67.4,0.0,25,29.97,NW,,,63.3,63.1,-417.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,18:30,61.0,49.7,66.3,0.0,13,29.97,NW,,,63.3,63.1,-417.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,18:45,60.4,49.5,67.3,0.0,7,29.97,NW,,,63.3,63.3,-416.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,19:00,60.1,49.7,68.4,0.0,1,29.97,NW,,,63.3,63.3,-416.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,19:15,59.8,49.9,69.6,0.0,0,29.97,NW,,,63.3,63.3,-416.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,19:30,59.1,49.8,71.0,0.0,0,29.98,NW,,,63.3,63.3,-416.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,19:45,58.7,49.3,71.0,0.0,0,29.98,NW,,,63.2,63.3,-416.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,20:00,58.6,49.0,70.6,0.0,0,29.99,NW,,,63.1,63.3,-417.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,20:15,58.4,48.9,70.8,0.0,0,29.99,NW,,,63.1,63.3,-417.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,20:30,58.2,48.9,71.3,0.0,0,29.99,NW,,,63.1,63.3,-417.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,20:45,58.0,48.7,71.1,0.0,0,29.99,NW,,,63.0,63.3,-417.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,21:00,57.7,48.7,71.8,0.0,0,29.99,NW,,,63.0,63.3,-418.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,21:15,57.6,48.5,71.6,0.0,0,29.99,NW,,,62.9,63.3,-419.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,21:30,57.5,48.5,71.8,0.0,0,29.99,NW,,,62.8,63.3,-419.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,21:45,57.4,48.4,71.9,0.0,0,29.98,NW,,,62.8,63.3,-420.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,22:00,57.3,48.3,71.6,0.0,0,29.98,NW,,,62.6,63.3,-419.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,22:15,57.1,48.3,72.2,0.0,0,29.98,NW,,,62.6,63.3,-420.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,22:30,56.8,48.1,72.7,0.0,0,29.98,NW,,,62.5,63.3,-422.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,22:45,56.2,48.2,74.4,0.0,0,29.98,NW,,,62.4,63.3,-422.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-30,23:00,55.8,48.4,76.1,0.0,0,29.98,NW,,,62.4,63.3,-423.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,23:15,55.5,48.7,77.8,0.0,0,29.98,NW,,,62.2,63.3,-423.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,23:30,55.8,48.5,76.3,0.0,0,29.98,NW,,,62.2,63.3,-427.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,23:45,56.8,48.2,73.0,0.0,0,29.99,NW,,,62.2,63.3,-427.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,24:00,56.7,48.4,73.5,0.0,0,29.99,NW,,,62.1,63.3,-428.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,00:15,56.8,48.4,73.4,0.0,0,29.99,NW,,,62.1,63.3,-427.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,00:30,56.5,48.8,75.4,0.0,0,29.99,NW,,,61.9,63.3,-432.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,00:45,56.0,49.2,77.8,0.0,0,29.99,NW,,,61.9,63.3,-432.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,01:00,55.7,49.4,79.3,0.0,0,29.99,NW,,,61.9,63.2,-434.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,01:15,55.3,49.4,80.5,0.0,0,29.99,NW,,,61.7,63.1,-436.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,01:30,54.8,49.7,82.8,0.0,0,29.99,NW,,,61.7,63.1,-437.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,01:45,54.2,49.9,85.4,0.0,0,29.99,NW,,,61.7,63.1,-439.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,02:00,53.7,50.1,87.4,0.0,0,29.99,NW,,,61.5,63.1,-438.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,02:15,53.3,50.1,88.7,0.0,0,30.0,NW,,,61.5,63.1,-440.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,02:30,53.2,50.1,88.9,0.0,0,30.0,NW,,,61.5,63.1,-441.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,02:45,53.1,50.1,89.3,0.0,0,30.01,NW,,,61.4,63.1,-443.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,03:00,52.9,50.3,90.6,0.0,0,30.01,W,,,61.3,63.1,-445.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,03:15,52.7,50.1,91.0,0.0,0,30.0,NW,,,61.3,63.0,-444.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,03:30,52.7,50.1,90.8,0.0,0,30.01,NW,,,61.3,63.0,-446.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,03:45,52.7,50.3,91.2,0.0,0,30.01,NW,,,61.2,63.0,-447.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,04:00,52.7,50.3,91.4,0.0,0,30.01,NW,,,61.2,63.0,-448.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,04:15,52.7,50.3,91.4,0.0,0,30.01,NW,,,61.2,63.0,-446.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,04:30,52.7,50.3,91.4,0.0,0,30.01,NW,,,61.0,63.0,-448.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,04:45,52.7,50.3,91.3,0.0,0,30.01,NW,,,61.0,63.0,-450.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,05:00,52.9,50.3,90.8,0.0,0,30.01,NW,,,61.0,63.0,-449.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,05:15,53.0,50.3,90.5,0.0,0,30.01,NW,,,60.9,62.9,-449.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,05:30,52.9,50.3,90.7,0.0,0,30.01,NW,,,60.8,62.8,-451.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,05:45,53.0,50.3,90.3,0.0,2,30.01,NW,,,60.8,62.8,-452.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,06:00,53.0,50.4,90.5,0.0,7,30.02,NW,,,60.8,62.8,-452.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,06:15,53.4,50.5,89.9,0.0,22,30.02,NW,,,60.8,62.8,-453.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,06:30,53.5,50.6,89.9,0.0,39,30.02,NW,,,60.6,62.8,-453.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,06:45,53.8,51.0,90.1,0.0,54,30.02,NW,,,60.6,62.8,-453.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,07:00,54.1,51.4,90.4,0.0,65,30.02,NW,,,60.6,62.7,-454.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,07:15,54.3,51.6,90.6,0.0,72,30.02,NW,,,60.6,62.6,-454.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,07:30,54.4,51.6,89.9,0.0,73,30.02,NW,,,60.5,62.6,-454.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,07:45,55.0,51.8,88.8,0.0,118,30.02,NW,,,60.4,62.6,-455.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,08:00,55.5,51.9,87.8,0.0,156,30.02,NW,,,60.4,62.6,-454.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,08:15,56.2,52.3,86.5,0.0,205,30.02,NW,,,60.4,62.6,-455.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,08:30,57.5,52.9,84.6,0.0,372,30.01,NW,,,60.4,62.6,-455.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,08:45,58.4,54.1,85.6,0.0,397,30.02,NW,,,60.4,62.6,-454.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,09:00,58.4,53.0,82.3,0.0,294,30.02,NW,,,60.4,62.6,-455.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,09:15,58.5,53.0,81.8,0.0,263,30.02,W,,,60.4,62.5,-455.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,09:30,58.3,52.0,79.6,0.0,116,30.02,NW,,,60.6,62.4,-455.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,09:45,58.9,52.0,77.8,0.0,324,30.02,NW,,,60.6,62.4,-455.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,10:00,61.4,53.4,75.1,0.0,631,30.02,NW,,,60.6,62.4,-454.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,10:15,59.8,51.9,75.0,0.0,300,30.03,W,,,60.8,62.4,-452.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,10:30,60.4,51.8,73.0,0.0,469,30.02,W,,,60.8,62.4,-453.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,10:45,61.4,52.1,71.4,0.0,551,30.02,W,,,61.0,62.4,-451.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,11:00,61.1,51.5,70.6,0.0,398,30.02,W,,,61.0,62.4,-450.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,11:15,62.0,51.6,68.8,0.0,537,30.02,W,,,61.2,62.4,-449.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,11:30,62.3,51.4,67.3,0.0,442,30.03,NW,,,61.3,62.4,-449.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,11:45,62.7,51.7,67.3,0.0,408,30.02,W,,,61.5,62.4,-446.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,12:00,62.8,51.2,65.7,0.0,461,30.02,W,,,61.6,62.4,-445.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,12:15,62.9,51.0,65.1,0.0,317,30.02,NW,,,61.8,62.4,-439.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,12:30,61.4,51.4,69.7,0.0,272,30.02,NW,,,62.0,62.4,-435.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,12:45,61.2,51.5,70.3,0.0,210,30.03,NW,,,62.1,62.4,-434.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,13:00,60.4,50.9,70.9,0.0,246,30.03,N,,,62.3,62.4,-430.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,13:15,60.6,51.1,71.0,0.0,195,30.03,N,,,62.5,62.4,-427.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,13:30,60.4,50.4,69.3,0.0,128,30.03,NW,,,62.6,62.6,-425.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,13:45,60.3,50.3,69.4,0.0,109,30.04,NW,,,62.8,62.6,-423.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,14:00,60.2,50.1,69.2,0.0,116,30.04,NW,,,62.9,62.6,-421.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,14:15,60.6,50.3,68.7,0.0,144,30.04,NW,,,63.0,62.6,-420.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,14:30,60.9,51.5,71.1,0.0,119,30.04,NW,,,63.1,62.6,-418.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,14:45,61.1,52.1,72.2,0.0,269,30.04,NW,,,63.1,62.6,-418.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,15:00,61.5,52.1,71.2,0.0,251,30.04,NW,,,63.3,62.7,-418.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,15:15,60.2,52.1,74.5,0.0,113,30.04,NW,,,63.3,62.8,-418.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,15:30,60.1,52.0,74.4,0.0,133,30.04,NW,,,63.3,62.8,-417.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,15:45,60.3,50.8,70.8,0.0,194,30.04,NW,,,63.3,62.8,-417.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,16:00,60.7,50.6,69.2,0.0,212,30.04,NW,,,63.3,62.8,-417.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,16:15,62.0,50.7,66.6,0.0,357,30.04,NW,,,63.3,62.9,-416.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,16:30,62.3,51.1,66.7,0.0,362,30.04,NW,,,63.4,63.0,-416.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,16:45,62.9,51.0,64.9,0.0,315,30.04,NW,,,63.5,63.0,-416.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,17:00,62.6,50.3,64.0,0.0,156,30.05,NW,,,63.5,63.0,-415.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,17:15,62.1,49.6,63.4,0.0,137,30.05,NW,,,63.5,63.0,-415.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,17:30,61.8,49.0,62.7,0.0,102,30.05,NW,,,63.5,63.0,-415.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,17:45,61.7,48.6,62.2,0.0,111,30.05,NW,,,63.5,63.0,-414.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,18:00,62.3,48.7,61.1,0.0,120,30.05,NW,,,63.5,63.0,-414.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,18:15,62.0,48.3,60.8,0.0,78,30.04,NW,,,63.5,63.1,-414.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,18:30,60.9,48.0,62.3,0.0,37,30.04,NW,,,63.5,63.1,-413.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,18:45,59.0,47.8,66.2,0.0,10,30.05,NW,,,63.5,63.1,-414.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,19:00,56.2,47.4,72.4,0.0,4,30.04,NW,,,63.5,63.1,-414.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,19:15,54.3,46.8,75.6,0.0,0,30.05,NW,,,63.5,63.1,-413.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,19:30,52.1,46.3,80.4,0.0,0,30.05,NW,,,63.5,63.1,-414.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,19:45,50.5,45.7,83.7,0.0,0,30.06,NW,,,63.4,63.1,-414.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,20:00,49.6,45.4,85.2,0.0,0,30.06,NW,,,63.3,63.1,-415.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,20:15,48.4,45.0,87.8,0.0,0,30.06,NW,,,63.2,63.1,-415.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,20:30,48.1,44.7,87.8,0.0,0,30.07,NW,,,63.1,63.1,-415.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,20:45,47.0,44.2,90.0,0.0,0,30.06,NW,,,63.0,63.1,-416.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,21:00,46.9,43.8,88.9,0.0,0,30.07,NW,,,62.8,63.1,-417.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,21:15,46.0,43.9,92.3,0.0,0,30.07,NW,,,62.7,63.1,-418.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,21:30,45.7,43.4,91.3,0.0,0,30.06,NW,,,62.5,63.1,-419.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,21:45,46.4,43.5,89.8,0.0,0,30.07,NW,,,62.3,63.1,-420.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,22:00,46.4,43.9,91.1,0.0,0,30.07,NW,,,62.2,63.1,-422.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,22:15,46.0,44.0,92.6,0.0,0,30.07,NW,,,62.0,63.1,-424.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,22:30,44.9,43.7,95.5,0.0,0,30.07,NW,,,61.8,63.1,-427.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,22:45,44.7,42.9,93.4,0.0,0,30.08,NW,,,61.6,63.1,-430.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-08-31,23:00,43.5,42.7,97.1,0.0,0,30.08,W,,,61.5,63.1,-435.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,23:15,42.9,41.9,95.9,0.0,0,30.08,W,,,61.3,63.1,-437.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,23:30,43.4,41.5,92.9,0.0,0,30.08,NW,,,61.1,63.0,-441.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,23:45,42.8,41.3,94.5,0.0,0,30.08,W,,,60.9,63.0,-444.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,24:00,42.8,41.2,94.3,0.0,0,30.09,W,,,60.8,63.0,-446.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,00:15,42.2,40.9,95.2,0.0,0,30.09,W,,,60.6,63.0,-448.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,00:30,42.2,40.6,94.1,0.0,0,30.09,W,,,60.4,63.0,-451.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,00:45,42.2,40.6,94.1,0.0,0,30.09,W,,,60.3,62.9,-453.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,01:00,41.4,40.5,96.5,0.0,0,30.09,W,,,60.1,62.8,-454.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,01:15,41.7,40.3,95.0,0.0,0,30.09,W,,,60.0,62.8,-456.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,01:30,40.8,39.8,96.4,0.0,0,30.09,W,,,59.8,62.8,-457.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,01:45,41.0,39.4,94.1,0.0,0,30.09,W,,,59.7,62.7,-457.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,02:00,41.1,39.7,94.7,0.0,0,30.09,W,,,59.5,62.6,-458.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,02:15,41.3,39.9,94.8,0.0,0,30.09,W,,,59.3,62.6,-460.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,02:30,40.5,39.6,96.6,0.0,0,30.09,W,,,59.2,62.6,-462.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,02:45,40.7,39.3,94.9,0.0,0,30.1,W,,,59.0,62.5,-463.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,03:00,40.1,39.2,96.6,0.0,0,30.1,W,,,58.9,62.4,-464.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,03:15,39.2,38.6,97.7,0.0,0,30.1,W,,,58.8,62.4,-466.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,03:30,39.7,38.1,94.0,0.0,0,30.11,W,,,58.6,62.4,-468.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,03:45,39.4,38.1,95.2,0.0,0,30.11,W,,,58.5,62.2,-476.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,04:00,39.8,38.2,94.0,0.0,0,30.11,W,,,58.3,62.2,-482.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,04:15,39.2,38.1,95.8,0.0,0,30.12,W,,,58.2,62.2,-486.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,04:30,39.6,38.1,94.6,0.0,0,30.12,W,,,58.1,62.1,-493.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,04:45,39.2,37.9,95.1,0.0,0,30.12,W,,,57.9,62.1,-497.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,05:00,38.9,38.0,96.8,0.0,0,30.11,W,,,57.8,62.1,-502.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,05:15,39.0,37.6,95.0,0.0,0,30.11,W,,,57.7,61.9,-505.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,05:30,38.5,37.6,96.7,0.0,2,30.12,W,,,57.6,61.9,-508.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,05:45,38.6,37.5,95.5,0.0,8,30.12,W,,,57.4,61.9,-511.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,06:00,39.0,37.6,94.5,0.0,14,30.12,W,,,57.3,61.8,-512.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,06:15,39.3,38.1,95.2,0.0,21,30.12,W,,,57.2,61.7,-513.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,06:30,39.4,38.6,97.0,0.0,58,30.12,W,,,57.0,61.7,-512.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,06:45,42.6,41.3,95.1,0.0,142,30.11,W,,,56.9,61.6,-512.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,07:00,44.8,44.7,99.6,0.0,176,30.1,NW,,,56.7,61.5,-517.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,07:15,46.3,46.3,100.0,0.0,212,30.09,W,,,56.6,61.5,-517.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,07:30,47.7,47.6,99.4,0.0,246,30.1,W,,,56.5,61.4,-518.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,07:45,50.7,50.7,100.0,0.0,283,30.09,W,,,56.3,61.3,-518.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,08:00,51.9,51.9,100.0,0.0,318,30.09,W,,,56.3,61.3,-516.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,08:15,53.3,53.3,99.9,0.0,354,30.09,W,,,56.2,61.2,-512.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,08:30,55.8,54.4,95.0,0.0,392,30.09,W,,,56.1,61.2,-514.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,08:45,56.8,53.3,88.1,0.0,429,30.1,W,,,56.1,61.2,-514.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,09:00,58.2,52.4,80.7,0.0,464,30.09,W,,,56.1,61.1,-513.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,09:15,59.1,52.2,77.8,0.0,499,30.1,W,,,56.1,61.0,-514.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,09:30,60.7,52.4,74.0,0.0,534,30.1,NW,,,56.1,61.0,-513.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,09:45,61.1,51.6,70.7,0.0,566,30.1,NW,,,56.1,61.0,-513.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,10:00,62.0,49.8,64.3,0.0,597,30.1,NW,,,56.2,60.9,-512.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,10:15,62.5,49.9,63.2,0.0,625,30.09,NW,,,56.3,60.8,-512.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,10:30,63.3,49.9,61.6,0.0,649,30.09,NW,,,56.5,60.8,-510.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,10:45,64.3,49.8,59.2,0.0,670,30.09,NW,,,56.6,60.8,-508.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,11:00,66.0,50.3,56.9,0.0,689,30.08,NW,,,56.9,60.8,-505.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,11:15,66.1,50.3,56.7,0.0,705,30.08,NW,,,57.2,60.8,-502.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,11:30,66.6,50.4,55.9,0.0,718,30.07,NW,,,57.5,60.8,-497.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,11:45,66.8,50.7,56.1,0.0,726,30.07,NW,,,57.7,60.8,-488.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,12:00,67.2,50.9,55.8,0.0,733,30.06,NW,,,58.0,60.8,-482.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,12:15,67.5,50.9,55.3,0.0,736,30.06,NW,,,58.3,60.8,-475.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,12:30,68.1,51.2,54.6,0.0,737,30.05,NW,,,58.7,60.8,-468.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,12:45,68.1,50.9,54.2,0.0,734,30.05,NW,,,59.0,60.8,-466.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,13:00,68.7,50.8,53.0,0.0,727,30.05,NW,,,59.3,60.8,-464.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,13:15,69.3,51.1,52.3,0.0,718,30.04,NW,,,59.6,60.8,-461.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,13:30,69.2,50.8,51.9,0.0,704,30.04,NW,,,60.0,60.8,-459.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,13:45,69.6,51.2,51.8,0.0,688,30.04,NW,,,60.3,60.8,-456.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,14:00,70.1,51.4,51.3,0.0,665,30.04,NW,,,60.7,60.8,-454.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,14:15,70.7,51.5,50.5,0.0,642,30.04,NW,,,61.0,60.9,-451.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,14:30,70.9,51.6,50.4,0.0,618,30.03,NW,,,61.4,61.0,-446.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,14:45,70.6,51.2,50.2,0.0,590,30.03,NW,,,61.7,61.0,-443.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,15:00,71.1,51.1,49.2,0.0,561,30.03,NW,,,62.0,61.0,-435.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,15:15,71.6,51.2,48.6,0.0,528,30.03,NW,,,62.3,61.1,-428.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,15:30,71.5,50.9,48.1,0.0,495,30.03,NW,,,62.6,61.2,-424.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,15:45,71.5,50.8,48.0,0.0,459,30.02,NW,,,62.9,61.2,-421.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,16:00,71.8,50.7,47.3,0.0,421,30.02,NW,,,63.1,61.3,-419.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,16:15,71.1,50.4,47.9,0.0,382,30.02,NW,,,63.3,61.3,-417.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,16:30,71.2,50.3,47.5,0.0,342,30.02,NW,,,63.5,61.4,-416.5,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,16:45,71.8,50.7,47.4,0.0,301,30.02,NW,,,63.7,61.5,-414.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,17:00,71.1,50.5,48.2,0.0,261,30.02,NW,,,63.9,61.5,-413.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,17:15,70.7,50.0,47.8,0.0,220,30.01,NW,,,64.0,61.6,-413.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,17:30,70.2,49.6,48.0,0.0,180,30.01,NW,,,64.0,61.7,-412.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,17:45,69.3,49.3,48.9,0.0,141,30.02,NW,,,64.2,61.7,-411.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,18:00,68.8,49.3,49.8,0.0,105,30.02,NW,,,64.2,61.8,-411.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,18:15,68.1,49.4,51.2,0.0,72,30.02,NW,,,64.2,61.9,-410.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,18:30,66.9,49.3,53.1,0.0,32,30.02,NW,,,64.2,61.9,-409.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,18:45,65.5,49.1,55.2,0.0,9,30.02,NW,,,64.2,62.0,-409.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,19:00,64.8,48.8,56.1,0.0,3,30.03,NW,,,64.2,62.1,-409.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,19:15,63.0,48.7,59.5,0.0,0,30.03,NW,,,64.0,62.1,-407.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,19:30,60.3,48.6,65.1,0.0,0,30.03,NW,,,64.0,62.1,-409.4,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,19:45,58.0,48.5,70.5,0.0,0,30.04,NW,,,63.9,62.2,-408.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,20:00,56.0,48.3,75.1,0.0,0,30.04,NW,,,63.8,62.2,-409.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,20:15,54.8,47.9,77.3,0.0,0,30.04,NW,,,63.7,62.2,-410.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,20:30,53.9,47.5,78.9,0.0,0,30.04,NW,,,63.5,62.2,-409.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,20:45,52.7,47.3,81.7,0.0,0,30.04,NW,,,63.4,62.3,-410.9,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,21:00,51.9,47.1,83.5,0.0,0,30.05,NW,,,63.2,62.4,-411.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,21:15,50.9,46.8,85.8,0.0,0,30.05,NW,,,63.0,62.4,-412.3,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,21:30,50.5,46.8,86.8,0.0,0,30.05,NW,,,62.9,62.4,-413.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,21:45,49.8,46.6,88.6,0.0,0,30.05,NW,,,62.7,62.4,-413.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,22:00,49.0,46.3,90.4,0.0,0,30.06,NW,,,62.5,62.4,-414.7,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,22:15,48.3,46.0,91.6,0.0,0,30.06,NW,,,62.3,62.4,-415.1,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,22:30,47.7,45.6,92.4,0.0,0,30.06,NW,,,62.2,62.4,-415.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,22:45,47.6,45.2,91.4,0.0,0,30.07,NW,,,62.0,62.4,-417.8,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-01,23:00,47.5,45.1,91.2,0.0,0,30.07,NW,,,61.8,62.4,-418.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-02,23:15,46.8,45.0,93.2,0.0,0,30.07,NW,,,61.6,62.4,-419.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-02,23:30,46.9,44.8,92.4,0.0,0,30.08,NW,,,61.4,62.4,-420.6,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-02,23:45,46.4,44.7,94.0,0.0,0,30.08,NW,,,61.2,62.4,-423.0,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
+2021-09-02,24:00,46.1,44.4,93.8,0.0,0,30.08,NW,,,61.1,62.4,-425.2,,"Woodinville, Woodinville, King County",330026,Woodinvill,2021-11-10 15:44:14.645229
